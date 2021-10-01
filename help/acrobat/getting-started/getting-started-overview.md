@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="¿De dónde provienen los archivos PDF?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Trabajar en cualquier lugar con Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>¿De dónde provienen los archivos PDF?</strong></a>
+    <a href="acrobatweb.md"><strong>Trabajar en cualquier lugar con Acrobat web</strong></a>
     </div>
-    <em>Comprender de dónde provienen los archivos PDF y sus usos</em>
+    <em>Aprenda a gestionar las solicitudes de documentos empresariales desde cualquier lugar mediante las herramientas web de Acrobat en el navegador</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <a href="fill-and-sign.md"><strong>Rellenar y firmar un formulario PDF</strong></a>
     </div>
     <em>Rellenar y firmar rápidamente un formulario PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="¿De dónde provienen los archivos PDF?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>¿De dónde provienen los archivos PDF?</strong></a>
+    </div>
+    <em>Comprender de dónde provienen los archivos PDF y sus usos</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
