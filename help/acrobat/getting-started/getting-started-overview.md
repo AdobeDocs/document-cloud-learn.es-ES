@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 5%
+source-wordcount: '366'
+ht-degree: 6%
 
 ---
 
@@ -44,6 +44,18 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <br>
   </td>
   <td>
+    <a href="collaborate.md">
+      <img alt="Colaboración en tiempo real" src="../assets/Collaborate_1280.png" />
+    </a>
+    <div>
+     <a href="collaborate.md"><strong>Colaboración en tiempo real</strong></a>
+    </div>
+    <em>Avanza tus proyectos recopilando comentarios, colaborando en respuestas y realizando un seguimiento del progreso de tus documentos en tiempo real, desde cualquier lugar</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files a PDF" src="../assets/Combine.jpg" />
     </a>
@@ -53,8 +65,6 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Combinar muchos tipos diferentes de archivos en un solo PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
@@ -75,6 +85,8 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Añadir comentarios a un archivo PDF y, a continuación, compartirlo con otros usuarios</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Editar un PDF en Acrobat DC" src="../assets/Edit.jpg" />
@@ -85,9 +97,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Edición de texto e imágenes en archivos PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="export-pdf.md">
       <img alt="Exportación de un PDF a formatos editables" src="../assets/Export.jpg" />
     </a>
@@ -106,7 +116,9 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     </div>
     <em>Convertir un documento creado en otra aplicación en un formulario PDF que se puede rellenar</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Digitalización y OCR" src="../assets/Scan.jpg" />
@@ -117,8 +129,6 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Reduzca los archivos grandes y optimice sus archivos PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="organize.md">
       <img alt="Organizar páginas" src="../assets/Organize.jpg" />
@@ -139,6 +149,8 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Agregar una contraseña al PDF para evitar que otros usuarios abran o editen el archivo</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Rellenar y firmar un formulario PDF" src="../assets/FillSign.jpg" />
@@ -149,9 +161,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Rellenar y firmar rápidamente un formulario PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="¿De dónde provienen los archivos PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -159,11 +169,6 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <a href="where-do-pdfs-come-from.md"><strong>¿De dónde provienen los archivos PDF?</strong></a>
     </div>
     <em>Comprender de dónde provienen los archivos PDF y sus usos</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
