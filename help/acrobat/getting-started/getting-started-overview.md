@@ -8,8 +8,8 @@ thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
