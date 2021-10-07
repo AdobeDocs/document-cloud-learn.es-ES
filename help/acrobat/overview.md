@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a mantener el negocio en movimiento al convertir, editar, compartir y firmar archivos PDF. Aquí encontrará una amplia gama de experiencias de aprendizaje diseñadas para poner al día rápidamente a los principiantes y a los usuarios avanzados en Adobe Acrobat.
+Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a mantener el negocio en movimiento al convertir, editar, compartir y firmar PDF. Aquí encontrará una amplia gama de experiencias de aprendizaje diseñadas para poner al día rápidamente a los principiantes y a los usuarios avanzados en Adobe Acrobat.
 
 ## Rutas de aprendizaje
 
@@ -30,7 +30,7 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a mantener el negoci
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Introducción</strong></a>
     </div>
-    <em>Obtenga información actualizada sobre cómo crear, editar, convertir, proteger y mucho más con archivos PDF</em>
+    <em>Obtenga más información sobre cómo crear, editar, convertir, proteger y mucho más con archivos PDF</em>
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a mantener el negoci
     <div>
     <a href="integrate/integrate-overview.md"><strong>Integrar</strong></a>
     </div>
-    <em>Agregar Acrobat a sus sistemas, procesos y aplicaciones existentes</em>
+    <em>Añadir Acrobat a sus sistemas, procesos y aplicaciones empresariales existentes</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a mantener el negoci
     <div>
     <a href="mobile/mobile-overview.md"><strong>Dispositivos móviles</strong></a>
     </div>
-    <em>Crear, rellenar y firmar archivos PDF en el dispositivo móvil</em>
+    <em>Crear, rellenar y firmar PDF en el dispositivo móvil</em>
     <br>
   </td>  
   <td>
