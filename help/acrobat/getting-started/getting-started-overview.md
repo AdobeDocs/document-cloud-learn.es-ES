@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '375'
+ht-degree: 8%
 
 ---
 
@@ -80,7 +80,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
       <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>Creación de archivos PDF</strong></a>
+    <a href="create-pdf.md"><strong>Creación de un PDF</strong></a>
     </div>
     <em>Crear PDF de todos los tipos de documentos</em>
     <br>
@@ -92,7 +92,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
       <img alt="Comentar en archivos de PDF en Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Comentar en archivos de PDF en Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Comentario en un PDF</strong></a>
     </div>
     <em>Añadir comentarios a un archivo PDF y, a continuación, compartirlo con otros usuarios</em>
     <br>
@@ -102,7 +102,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
       <img alt="Editar un PDF en Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Editar un PDF en Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Editar un PDF</strong></a>
     </div>
     <em>Edición de texto e imágenes en archivos PDF</em>
     <br>
@@ -166,7 +166,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
       <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Rellenar y firmar un formulario de PDF</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>Rellenar y firmar rápidamente un formulario de PDF</em>
     <br>
