@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 15%
+ht-degree: 14%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 15%
    + [Trabajar en cualquier lugar con Acrobat web](getting-started/acrobatweb.md)
    + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Colaboración en tiempo real](getting-started/collaborate.md)
-   + [Combinar archivos en PDF](getting-started/combine-to-pdf.md)
+   + [De Combine Files a PDF](getting-started/combine-to-pdf.md)
    + [Creación de un PDF](getting-started/create-pdf.md)
    + [Comentario en un PDF](getting-started/comment-on-pdf-files.md)
    + [Editar un PDF](getting-started/edit-pdf.md)
@@ -44,7 +44,7 @@ ht-degree: 15%
    + [Reducción del tamaño de archivo y optimización](advanced-tasks/reduce.md)
    + [Trabajo con datos de formulario](advanced-tasks/formdata.md)
    + [Preparación de archivos de PDF accesibles](advanced-tasks/accessibility.md)
-   + Serie de accesibilidad de Acrobat {#accessibility-series}
+   + Serie Acrobat Accessibility {#accessibility-series}
       + [Información general](advanced-tasks/accessibility-series.md)
       + [Introducción a la accesibilidad del PDF](advanced-tasks/accessibilitysession1.md)
       + [Remediación de un PDF inaccesible](advanced-tasks/accessibilitysession2.md)
@@ -52,7 +52,7 @@ ht-degree: 15%
       + [Documentos digitalizados y listas complejas](advanced-tasks/accessibilitysession4.md)
       + [Adición de campos de formulario a un PDF etiquetado](advanced-tasks/accessibilitysession5.md)
       + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
-+ Acrobat {#60-second} de 60 segundos
++ Acrobat de 60 segundos {#60-second}
    + [Información general](60-second/60-second-overview.md)
    + [Combinación de archivos en un solo PDF](60-second/combine-to-one-pdf.md)
    + [Editar PDF con Acrobat Web](60-second/edit.md)
@@ -60,7 +60,7 @@ ht-degree: 15%
    + [Creación de un PDF de fotografías en un instante](60-second/photo.md)
    + [Convertir un archivo PPT en un PDF del teléfono](60-second/phone.md)
    + [Cargar comentarios de PDF en InDesign](60-second/indesign.md)
-+ Generadores de aptitudes {#skill-builders}
++ Creadores de aptitudes {#skill-builders}
    + [Información general](skill-builder/skill-builder-overview.md)
    + [Seminarios web](skill-builder/skill-builder-webinars.md)
 + Integrar {#integrations}
@@ -74,7 +74,7 @@ ht-degree: 15%
    + [Adobe Acrobat para Google Drive](integrate/acrobatandgoogle.md)
 + Industria {#by-industry}
    + [Información general](industry/industry-overview.md)
-   + Administración {#gov}
+   + Gobierno {#gov}
       + [Información general](industry/gov/gov-overview.md)
       + 5 consejos para trabajar en cualquier lugar con Acrobat DC {#tips}
          + [5 consejos para trabajar en cualquier lugar con Acrobat DC](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
