@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '363'
 ht-degree: 8%
 
 ---
@@ -25,10 +25,10 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Familiarícese con la interfaz de Acrobat DC" src="../assets/Interface.jpg" />
+      <img alt="Conceptos básicos del área de trabajo" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Familiarícese con la interfaz de Acrobat DC</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del área de trabajo</strong></a>
     </div>
     <em>Vea cómo la interfaz de Adobe Acrobat DC facilita el acceso a archivos y herramientas en el escritorio, la Web y dispositivos móviles</em>
     <br>
@@ -50,7 +50,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Uso de Microsoft 365</strong></a>
     </div>
-    <em>Aumente la productividad y los flujos de trabajo de documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
+    <em>Aumente la productividad y los flujos de trabajo de los documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>

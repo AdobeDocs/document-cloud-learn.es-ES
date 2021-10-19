@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 14%
+source-wordcount: '290'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 14%
 + [Información general](overview.md)
 + Introducción {#getting-started}
    + [Información general](getting-started/getting-started-overview.md)
-   + [Familiarícese con la interfaz de Acrobat DC](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Base de espacio de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Trabajar en cualquier lugar con Acrobat web](getting-started/acrobatweb.md)
    + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Colaboración en tiempo real](getting-started/collaborate.md)
