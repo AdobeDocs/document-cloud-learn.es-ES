@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Adobe Sign
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 6%
       + [Obtener un ID digital de Intesi Group (Advanced)](digitalid/intesi-advanced.md)
       + [Obtener un ID digital de Intesi Group (calificado)](digitalid/intesi-qualified.md)
       + [Firmar con Intesi Group](digitalid/intesi-sign.md)
-+ Integrar {#integrations}
++ Integraciones {#integrations}
    + [Información general](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Rellenado e inicio de sesión en Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
@@ -95,15 +95,15 @@ ht-degree: 6%
       + [Envío de notificaciones mediante Adobe Sign para Salesforce y Marketo](integrations/marketo-salesforce-sms.md)
       + [Tutorial de vídeo sobre envío de recordatorios con Adobe Sign para Salesforce y Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Envío de recordatorios mediante la guía de configuración de Adobe Sign para Salesforce y Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo](integrations/marketo-dynamics-sms.md)
+      + [Envío de notificaciones con Adobe Sign para Microsoft Dynamics y Marketo](integrations/marketo-dynamics-sms.md)
       + [Envío de recordatorios con Adobe Sign para Microsoft Dynamics 365 y Marketo](integrations/marketo-dynamics-reminder.md)
-+ Industria y departamento {#expand}
++ Industrias y departamentos {#expand}
    + [Información general](sign-usecase/expand-inspire-overview.md)
-   + Creador de aptitudes {#innovation}
+   + Generador de aptitudes {#innovation}
       + [Seminarios web](sign-usecase/innovation-series.md)
    + Recetas de caso de uso {#recipes}
       + [Información general](sign-usecase/recipes.md)
-      + Administración {#gov}
+      + Gobierno {#gov}
          + [Subvenciones comerciales y préstamos](sign-usecase/usecasegovgrants.md)
          + [Acuerdo Teletrabajo](sign-usecase/usecasegovtelework.md)
          + [Contratos y formularios de solicitud](sign-usecase/usecasegovcontracts.md)
@@ -124,5 +124,5 @@ ht-degree: 6%
    + [Información general](deploy-overview.md)
 + Dispositivos móviles {#mobile}
    + [Información general](mobile/mobile-overview.md)
-   + Tutoriales móviles {#mobile-tutorials}
+   + Tutoriales para dispositivos móviles {#mobile-tutorials}
       + [Modo flotante en Adobe Sign](mobile/liquidmode.md)
