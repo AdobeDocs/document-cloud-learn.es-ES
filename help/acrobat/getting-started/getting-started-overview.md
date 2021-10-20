@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 8%
+source-wordcount: '377'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ![Imagen de inicio de Acrobat](../assets/Hero-GettingStarted.png)
 
-Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales paso a paso (de 1 a 2 minutos). Desde la creación de un documento hasta la protección de los archivos PDF, este contenido está diseñado para facilitar los flujos de trabajo de los PDF.
+Descubra cómo empezar a utilizar Adobe Acrobat con estos breves tutoriales paso a paso. Desde la creación de un documento hasta la protección de los archivos PDF, este contenido está diseñado para facilitar los flujos de trabajo de los PDF.
 
 ## Tutoriales de Acrobat
 
@@ -56,6 +56,16 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
 </tr>
 <tr>
    <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Uso de Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Uso de Microsoft 365</strong></a>
+    </div>
+    <em>Aumente la productividad y los flujos de trabajo de los documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+  <td>
     <a href="collaborate.md">
       <img alt="Colaboración en tiempo real" src="../assets/Collaborate_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Combinación de muchos tipos diferentes de archivos en un solo PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
@@ -85,9 +97,7 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Crear PDF de todos los tipos de documentos</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="comment-on-pdf-files.md">
       <img alt="Comentar en archivos de PDF en Acrobat DC" src="../assets/Comment.jpg" />
     </a>
@@ -107,7 +117,9 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Edición de texto e imágenes en archivos PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="export-pdf.md">
       <img alt="Exportación de un PDF a formatos editables" src="../assets/Export.jpg" />
     </a>
@@ -117,11 +129,9 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Aprenda a exportar los archivos de PDF a formatos editables</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Crear formularios rellenables" src="../assets/Form.jpg" />
+      <img alt="Crear formularios rellenables" src="../assets/Form_1280.png" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>Crear formularios rellenables</strong></a>
@@ -139,7 +149,9 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Reduzca los archivos grandes y optimice a sus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="organize.md">
       <img alt="Organizar páginas" src="../assets/Organize.jpg" />
     </a>
@@ -149,8 +161,6 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <em>Añadir, reemplazar, extraer, rotar, eliminar y mover páginas en el PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Protect un archivo de PDF con una contraseña" src="../assets/Protect.jpg" />
@@ -163,14 +173,16 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign.jpg" />
+      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong>PDF forms de Fill &amp; Sign</strong></a>
     </div>
     <em>Rellenar y firmar rápidamente un formulario de PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="¿De dónde vienen los PDF?" src="../assets/WherePDFs.jpg" />
@@ -179,6 +191,16 @@ Aprenda a empezar a utilizar Adobe Acrobat a través de estos breves tutoriales 
     <a href="where-do-pdfs-come-from.md"><strong>¿De dónde vienen los PDF?</strong></a>
     </div>
     <em>Comprender de dónde vienen los PDF y sus usos</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
