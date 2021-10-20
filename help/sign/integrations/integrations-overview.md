@@ -1,5 +1,5 @@
 ---
-title: Información general de integración
+title: Información general sobre integraciones
 description: Aprenda a agregar Adobe Sign a sus sistemas, procesos y aplicaciones existentes
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# Información general sobre la integración
+# Introducción a las integraciones
 
 ![Firmar imagen integrada](../assets/Hero-Integrate.png)
 
@@ -23,7 +23,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
 >[!NOTE]
 > Si tiene problemas para acceder a cualquiera de estas funciones, póngase en contacto con el administrador de su organización para asegurarse de que la integración está habilitada.
 
-## Tutoriales de integración de Microsoft
+## Tutoriales sobre las integraciones de Microsoft
 
 <table style="table-layout:fixed">
 <tr>
@@ -44,7 +44,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Enviar para firmar en Outlook</strong></a>
     </div>
-    <em>Enviar un documento para su firma directamente desde Microsoft Outlook</em>
+    <em>Enviar un documento para firmar directamente desde Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -71,12 +71,12 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Envío de documentos para su firma en [!Microsofts Teams DNL]" src="../assets/teamsmortgage.png" />
+      <img alt="Envío de documentos para su firma en [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Envío de documentos para su firma en [!Microsofts Teams DNL]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Envío de documentos para su firma en [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Enviar documentos para firmar directamente en [!Microsofts Teams DNL]</em>
+    <em>Enviar documentos para su firma directamente en [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -216,20 +216,20 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Enviar recordatorios con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Envío de recordatorios con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Enviar recordatorios con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Envío de recordatorios con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
     </div>
     <em>Obtenga más información sobre cómo enviar un recordatorio por correo electrónico cuando un acuerdo permanece sin firmar tras un período de tiempo</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Envío de notificaciones con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Envío de notificaciones con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
     </div>
     <em>Obtenga más información sobre cómo enviar un mensaje de texto, un correo electrónico o una notificación de inserción para que el firmante sepa que un acuerdo está en camino</em>
     <br>
