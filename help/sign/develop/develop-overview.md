@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 15%
+source-wordcount: '170'
+ht-degree: 12%
 
 ---
 
@@ -24,17 +24,17 @@ El 40 % de los acuerdos de Adobe Sign se crean mediante API. Utilice las API par
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="Iniciar" src="../assets/Develop_Getting-Started.png" />
+      <img alt="Crear una cuenta de desarrollador" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Introducción</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Crear una cuenta de desarrollador</strong></a>
     </div>
-    <em>Cree su cuenta de desarrollador ahora para comenzar</em>
+    <em>Aprenda a empezar a usar una cuenta de desarrollador</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Formación" src="../assets/Develop_Learn.png" />
+      <img alt="Descubra lo que puede hacer" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Descubra lo que puede hacer</strong></a>
