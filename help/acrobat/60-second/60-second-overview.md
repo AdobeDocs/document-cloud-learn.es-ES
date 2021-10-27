@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,19 @@ Acrobat de 60 segundos le ofrece tutoriales de tamaño hueco para ayudarle a apr
     <em>Aprenda a convertir un archivo adjunto de PowerPoint de correo electrónico en un PDF en su teléfono</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="Firmar electrónicamente un documento en papel" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Firmar electrónicamente un documento en papel</strong></a>
+    </div>
+    <em>Aprenda a utilizar Adobe Scan para firmar un formulario impreso</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="Cargar comentarios de PDF en InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ Acrobat de 60 segundos le ofrece tutoriales de tamaño hueco para ayudarle a apr
     </div>
     <em>Aprenda a cargar comentarios de PDF de nuevo en InDesign después de una revisión compartida de Acrobat</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="Editar una fotografía en el PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ Acrobat de 60 segundos le ofrece tutoriales de tamaño hueco para ayudarle a apr
     </div>
     <em>Aprenda a realizar ediciones avanzadas en un gráfico del PDF con Illustrator</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="Organización de páginas en un abrir y cerrar de ojos" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ Acrobat de 60 segundos le ofrece tutoriales de tamaño hueco para ayudarle a apr
     <a href="organize.md"><strong>Organización de páginas en un abrir y cerrar de ojos</strong></a>
     </div>
     <em>Aprenda a utilizar la herramienta Organizar páginas para obtener una vista de pájaro de su PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>
