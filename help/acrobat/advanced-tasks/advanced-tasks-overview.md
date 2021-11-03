@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Imagen de inicio de Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Vaya más allá de los conceptos básicos con estas herramientas avanzadas en Acrobat DC. Aprenda a crear una acción para repetir tareas mundanas, eliminar información confidencial, reducir y optimizar archivos grandes, recopilar rápidamente datos de formulario y crear archivos PDF universalmente accesibles.
+Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Acrobat DC. Aprenda a crear una acción para repetir tareas mundanas, eliminar información confidencial, reducir y optimizar archivos grandes, recopilar rápidamente datos de formulario y crear archivos PDF accesibles universalmente.
 
 ## Tutoriales de Acrobat
 
@@ -25,10 +25,10 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas en Ac
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Detectar diferencias entre dos archivos PDF" src="../assets/Compare_1280.png" />
+      <img alt="Detectar diferencias entre dos PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Detectar diferencias entre dos archivos PDF</strong></a>
+    <a href="compare.md"><strong>Detectar diferencias entre dos PDF</strong></a>
     </div>
     <em>Detectar de forma rápida y precisa las diferencias entre dos archivos PDF para mejorar los flujos de trabajo de revisión de documentos</em>
     <br>
@@ -40,7 +40,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas en Ac
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Crear una acción para aplicar automáticamente un conjunto de comandos a uno o varios archivos</em>
+    <em>Ahorre tiempo y pulsaciones de teclas mediante una acción para aplicar automáticamente un conjunto de comandos a uno o varios</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas en Ac
     <div>
     <a href="redact.md"><strong>Censurar y digitalizar</strong></a>
     </div>
-    <em>Quitar permanentemente información privada o confidencial del PDF</em>
+    <em>Eliminar permanentemente la información confidencial o privada de su PDF</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas en Ac
     <div>
     <a href="reduce.md"><strong>Reducción del tamaño de archivo y optimización</strong></a>
     </div>
-    <em>Reduzca los archivos grandes y optimice sus archivos PDF sin comprometer la calidad para compartir, publicar o archivar</em>
+    <em>Reduzca los archivos grandes y optimice a sus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
   </td>
   <td>
@@ -77,24 +77,24 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas en Ac
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Preparación de archivos PDF accesibles" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Preparación de archivos de PDF accesibles" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparación de archivos PDF accesibles</strong></a>
+    <a href="accessibility.md"><strong>Preparación de archivos de PDF accesibles</strong></a>
     </div>
-    <em>Crear archivos PDF accesibles universalmente</em>
+    <em>Creación de archivos PDF de acceso universal</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibility-series.md">
-      <img alt="Preparación de archivos PDF accesibles" src="../assets/Accessibilityseries_1280.png" />
+      <img alt="Preparación de archivos de PDF accesibles" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
     <a href="accessibility-series.md"><strong>Serie Acrobat Accessibility</strong></a>
     </div>
-    <em>En esta serie de seis sesiones de seminarios web bajo demanda, vaya de los conceptos básicos de accesibilidad a una gran variedad de etiquetas de archivos PDF</em>
+    <em>En esta serie de seis sesiones de seminario web bajo demanda, vaya de los conceptos básicos de accesibilidad a una gran variedad de etiquetas de archivos de PDF</em>
     <br>
   </td>
   <td>
