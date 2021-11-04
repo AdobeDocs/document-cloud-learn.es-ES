@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Ahorre tiempo y pulsaciones de teclas mediante una acción para aplicar automáticamente un conjunto de comandos a uno o varios</em>
+    <em>Ahorre tiempo y pulsaciones de teclas mediante una acción para aplicar automáticamente un conjunto de comandos a uno o varios archivos</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Preparación de archivos de PDF accesibles" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Comprobar la accesibilidad del PDF" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Preparación de archivos de PDF accesibles</strong></a>
+    <a href="accessibility.md"><strong>Comprobar la accesibilidad del PDF</strong></a>
     </div>
-    <em>Creación de archivos PDF de acceso universal</em>
+    <em>Aprenda a comprobar si su PDF es accesible universalmente para personas discapacitadas</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
     <div>
     <a href="accessibility-series.md"><strong>Serie Acrobat Accessibility</strong></a>
     </div>
-    <em>En esta serie de seis sesiones de seminario web bajo demanda, vaya de los conceptos básicos de accesibilidad a una gran variedad de etiquetas de archivos de PDF</em>
+    <em>En esta serie de seis sesiones de seminario web bajo demanda, vaya de los conceptos básicos de accesibilidad a una inmersión profunda en el etiquetado de archivos de PDF</em>
     <br>
   </td>
   <td>
