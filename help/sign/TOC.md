@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Adobe Sign
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [¿Qué es una firma digital?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Firmar con un sello](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Administración {#getting-started-managing}
-      + [Administración y seguimiento de documentos](sign-beginner-tutorials/manage-and-track.md)
+      + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
       + [Creación de una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Modificación de un documento ya enviado para firmar](sign-beginner-tutorials/modify-in-flight.md)
 + Tareas avanzadas {#advanced-tasks}
@@ -74,7 +74,7 @@ ht-degree: 6%
       + [Obtener un ID digital de Digidentity](digitalid/digidentity-reg.md)
       + [Firmar con identidad](digitalid/digidentity-sign.md)
    + Intesi Group {#intesi}
-      + [Obtener un ID digital de Intesi Group (Advanced)](digitalid/intesi-advanced.md)
+      + [Obtener un ID digital de Intesi Group (Avanzado)](digitalid/intesi-advanced.md)
       + [Obtener un ID digital de Intesi Group (calificado)](digitalid/intesi-qualified.md)
       + [Firmar con Intesi Group](digitalid/intesi-sign.md)
 + Integraciones {#integrations}

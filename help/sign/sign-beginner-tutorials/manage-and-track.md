@@ -1,25 +1,25 @@
 ---
-title: Administración y seguimiento de documentos
-description: Aprenda a gestionar y realizar el seguimiento de los acuerdos que ha enviado para firmar
+title: Manage & Track your Agreements
+description: Learn how to manage and track agreements sent for signature in Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Administración y seguimiento de documentos
+# Administrar y realizar un seguimiento de los acuerdos
 
-Aprenda a gestionar y realizar el seguimiento de los documentos que envió para firmar en Adobe Sign.
+Learn how to manage and track documents sent for signature in Adobe Sign. Get real-time status updates and notifications on every document you work with.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Introducción a Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) que está disponible de forma gratuita para el Experience League.
+>This video is part of the course [Getting Started with Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) that is available for free on Experience League!
