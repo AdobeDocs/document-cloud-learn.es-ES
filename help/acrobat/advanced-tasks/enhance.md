@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 En este tutorial práctico, aprenda a transformar el PDF añadiendo mejoras gráficas y numeración automática.
 
-<br> 
-
-## Lo que necesitarás
-
-[![Obtener archivos](../assets/Getfiles.png)](../assets/Enhance.zip)
-Muestrea archivos para practicar (ZIP, 342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![Obtener archivos](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Descargue estos archivos de muestra para practicar con (ZIP, 342 KB)
 
 ## Aprenda a añadir gráficos de fondo
 
@@ -39,7 +35,7 @@ La adición de fondos le permite añadir elementos visuales al PDF sin tener que
 1. Abrir *Altura Technology Employbook.pdf* de los archivos de muestra.
 1. Seleccionar **Editar PDF** en el panel derecho.
 1. Seleccionar **Más > Fondo > Añadir**.
-1. Seleccionar **Opciones de rango de páginas...** y elija 2 a 26 en el **Páginas de:** y, a continuación, seleccione **Aceptar**.
+1. Seleccionar **Opciones de rango de páginas...** y elija 2 a 26 en el **Páginas desde** y, a continuación, seleccione **Aceptar**.
 1. En la opción Origen, elija **Archivo** y seleccionar **Examinar** para añadir *Background Graphic.pdf* archivo de muestra.
 1. Seleccionar **Aceptar** para añadir el gráfico de fondo.
 
