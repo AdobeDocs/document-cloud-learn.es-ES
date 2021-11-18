@@ -1,27 +1,28 @@
 ---
 title: Mejorar el PDF
-description: Aprenda a transformar su PDF añadiendo adornos gráficos y numeración automática
+description: Aprenda a transformar su PDF añadiendo mejoras gráficas y numeración automática
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Mejorar el PDF
 
-Aprenda a transformar su PDF añadiendo adornos gráficos y numeración automática.
+En este tutorial práctico, aprenda a transformar el PDF añadiendo mejoras gráficas y numeración automática.
 
 <br> 
 
 ## Lo que necesitarás
 
-[![Obtener archivos](../assets/Getfiles.png)](../assets/Enhance.zip)   Muestrea archivos para practicar (ZIP, 342 KB)
+[![Obtener archivos](../assets/Getfiles.png)](../assets/Enhance.zip)
+Muestrea archivos para practicar (ZIP, 342 KB)
 
 <br> 
 
