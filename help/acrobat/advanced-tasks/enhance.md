@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 En este tutorial práctico, aprenda a transformar el PDF añadiendo mejoras gráficas y numeración automática.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Obtener archivos" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Descargue estos archivos de muestra para practicar con (ZIP, 342 KB)
-  </td>
-</tr>
-</table>
+[![Obtener archivos](../assets/Getfiles.svg)](../assets/Enhance.zip)   Descargue estos archivos de muestra para practicar con (ZIP, 342 KB)
+
+<br> 
 
 ## Aprenda a añadir gráficos de fondo
 
@@ -65,14 +58,14 @@ La adición de nuevos encabezados o pies de página permite crear archivos de PD
 1. Introduzca 2 en el **Vista previa de página** cuadro.
 1. En la sección Fuente, seleccione Calibri Bold en el **Nombre** desplegable.
 Seleccione 12 en el **Tamaño** y elija un color blanco.
-1. Confidencial de la tecnología Altura en **Texto de pie de página izquierdo** cuadro.
+1. Tipo *Confidencial de la tecnología Altura* en el **Texto de pie de página izquierdo** cuadro.
 1. Seleccionar **Insertar número de página** en el **Texto de pie de página central** cuadro.
-1. Escriba Revisión 3.0 en el **Texto de pie de página derecho** cuadro.
+1. Tipo *Revisión 3.0* en el **Texto de pie de página derecho** cuadro.
 1. Seleccionar **Número de página y formato de fecha**.
 Introduzca 2 en **Número de página inicial** y seleccionar **Aceptar**.
 1. Seleccionar **Opciones de rango de páginas...**.
 Introduzca 2 a 26 en el **Páginas de:** y, a continuación, seleccione **Aceptar**.
 1. Introduzca 0,7 en el **Inferior** de la sección Margen.
 1. Seleccionar **Guardar ajustes**.
-Escriba Revisión 3.0 en el cuadro y seleccione **Aceptar**.
+Tipo *Revisión 3.0* en el cuadro y seleccione **Aceptar**.
 1. Seleccionar **Aceptar** para aplicar el nuevo pie de página al PDF.
