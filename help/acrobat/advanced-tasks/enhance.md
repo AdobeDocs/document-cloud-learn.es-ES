@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ En este tutorial práctico, aprenda a transformar el PDF añadiendo mejoras grá
 
 >[!TIP]
 >
->Descargue estos archivos de muestra para practicar con (ZIP, 342 KB)
+>[Descargar estos archivos de muestra](../assets/Enhance.zip) para practicar con (ZIP, 342 KB)
 
-[![Obtener archivos](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Obtener archivos](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Aprenda a añadir gráficos de fondo
 
@@ -61,5 +62,3 @@ La adición de nuevos encabezados o pies de página permite crear archivos de PD
 1. Elija 0,7 en el **Inferior** de la sección Margen.
 1. Seleccionar **Guardar ajustes**, escriba Revisión 3.0 en el cuadro y seleccione **Aceptar**.
 1. Seleccionar **Aceptar** para aplicar el nuevo pie de página al PDF.
-
-
