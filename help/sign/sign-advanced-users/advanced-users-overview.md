@@ -1,24 +1,24 @@
 ---
-title: Introducción a las tareas avanzadas
-description: Aprenda a enviar un documento para su firma a 100 destinatarios a la vez, a configurar un documento listo para firmar para su sitio web, a gestionar las transacciones de firma y a crear y gestionar plantillas de documento
+title: Introducción a Tareas avanzadas
+description: Aprenda a enviar un documento para que se firme a cientos de destinatarios a la vez, configurar un documento listo para firmar para su sitio web, administrar transacciones de firma y crear y administrar plantillas de documentos
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Introducción a las tareas avanzadas
+# Introducción a tareas avanzadas
 
-![Firmar imagen avanzada](../assets/Hero-Advanced.png)
+![Imagen avanzada de Sign](../assets/Hero-Advanced.png)
 
-Obtenga más información sobre cómo enviar un documento para su firma a 100 destinatarios a la vez, configurar un documento listo para firmar para su sitio web, administrar las transacciones de firma y crear y administrar plantillas de documento. Estos tutoriales son para cualquiera que ya esté familiarizado con los conceptos básicos del envío y la solicitud de firmas, y desea obtener más información sobre cómo Adobe Sign puede trabajar para ellos.
+Aprende a enviar un documento para que se firme a cientos de destinatarios a la vez, a configurar un documento listo para firmar para tu sitio web, a administrar transacciones de firma y a crear y administrar plantillas de documentos. Estos tutoriales están destinados a cualquier persona que ya esté familiarizada con los conceptos básicos del envío y la solicitud de firmas y que desee obtener más información sobre cómo Adobe Sign puede trabajar para ellos.
 
 ## Enviando
 
@@ -41,15 +41,15 @@ Obtenga más información sobre cómo enviar un documento para su firma a 100 de
     <div>
     <a href="delegate-signature.md"><strong>Delegar en otra persona</strong></a>
     </div>
-    <em>Utilice la función de delegador para enviar un documento a un intermediario que puede enrutar el documento para su firma</em>
+    <em>Utilice la función de delegador para enviar un documento a un intermediario que pueda enviar el documento para su firma</em>
     <br>
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Adición de un aprobador" src="../assets/Approver.png" />
+      <img alt="Añadir un aprobador" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Adición de un aprobador</strong></a>
+    <a href="add-an-approver.md"><strong>Añadir un aprobador</strong></a>
     </div>
     <em>Añadir una función de aprobador al proceso de aprobación del contrato</em>
     <br>
@@ -63,17 +63,17 @@ Obtenga más información sobre cómo enviar un documento para su firma a 100 de
     <div>
     <a href="megasign.md"><strong>Recopilación de firmas en bloque</strong></a>
     </div>
-    <em>Recopile cientos de firmas a la vez para cualquier documento en tan solo unos pocos pasos</em>
+    <em>Recopila cientos de firmas a la vez para cualquier documento en solo unos pasos</em>
     <br>
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Configuración de un formulario web" src="../assets/Webform.png" />
+      <img alt="Configurar un formulario web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Configuración de un formulario web</strong></a>
+    <a href="webform.md"><strong>Configurar un formulario web</strong></a>
     </div>
-    <em>Crear un documento que se pueda firmar electrónicamente directamente en el sitio web</em>
+    <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
   </td> 
   <td>
@@ -83,12 +83,12 @@ Obtenga más información sobre cómo enviar un documento para su firma a 100 de
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Adobe Sign</strong></a>
     </div>
-    <em>Creación de campos de formulario de Adobe Sign mediante etiquetas de texto con Adobe Acrobat DC</em>
+    <em>Creación de campos de formulario de Adobe Sign mediante el etiquetado de texto con Adobe Acrobat</em>
     <br>
   </td> 
 </table>
 
-## Administración
+## Gestión
 
 <table style="table-layout:fixed">
 <tr>
@@ -99,16 +99,16 @@ Obtenga más información sobre cómo enviar un documento para su firma a 100 de
     <div>
     <a href="edit-a-template.md"><strong>Administración de plantillas de documento</strong></a>
     </div>
-    <em>Edición o eliminación de una plantilla de la biblioteca</em>
+    <em>Editar o eliminar una plantilla de la biblioteca</em>
     <br>
   </td>  
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

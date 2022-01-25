@@ -1,24 +1,24 @@
 ---
-title: Información general sobre administradores
-description: Aprenda los conceptos básicos de añadir usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos
+title: Introducción a Administradores
+description: Conozca los fundamentos de agregar usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
 
-# Descripción general de los administradores
+# Introducción a Administradores
 
 ![Imagen de administradores de Sign](../assets/Hero-Admin.png)
 
-Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar grupos, compartir el acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos. Estos tutoriales están diseñados para administradores que han superado la fase de instalación y están listos para empezar a administrar Adobe Sign. Las tareas avanzadas cubren temas que se expanden más allá de la parte de configuración de administración y se mueven a la definición de configuración global, acceso a cuentas y uso compartido, y etiquetado de texto.
+Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos. Estos tutoriales están diseñados para administradores que han pasado la fase de instalación y están listos para comenzar a administrar Adobe Sign. Las Tareas avanzadas cubren temas que se expanden más allá de la parte de configuración del administrador y pasan a definir la configuración global, el acceso y uso compartido de la cuenta y el etiquetado de texto.
 
 ## Introducción
 
@@ -26,12 +26,12 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 <tr>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="En ejecución para administradores" src="../assets/Up-Running.png" />
+      <img alt="En marcha para administradores" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>En ejecución para administradores</strong></a>
+    <a href="up-and-running-admin.md"><strong>En marcha para administradores</strong></a>
     </div>
-    <em>Información general sobre 7 áreas clave para que los administradores se pongan a funcionar rápidamente en Adobe Sign</em>
+    <em>Descripción general de 7 áreas clave en las que los administradores pueden empezar a trabajar rápidamente en Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -41,7 +41,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configuración de alertas y eventos compartidos</strong></a>
     </div>
-    <em>Configuración de eventos y alertas para su organización</em>
+    <em>Configurar eventos y alertas para su organización</em>
     <br>
   </td>
   <td>
@@ -58,12 +58,12 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 <tr>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Creación y administración de grupos" src="../assets/Creating-Groups.png" />
+      <img alt="Creación y gestión de grupos" src="../assets/Creating-Groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Creación y gestión de grupos</strong></a>
     </div>
-    <em>Creación de grupos, adición de usuarios a grupos y edición de la configuración de grupos</em>
+    <em>Crear grupos, añadir usuarios a grupos y editar la configuración de los grupos</em>
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="set-up-your-external-archive.md"><strong>Configuración de un archivo externo</strong></a>
     </div>
-    <em>Crear un archivo externo para copias de seguridad de los acuerdos que se han enviado</em>
+    <em>Crear un archivo externo para copias de seguridad de los acuerdos enviados</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creación de una plantilla de documento</strong></a>
     </div>
-    <em>Creación de una plantilla de documento reutilizable para agilizar y mantener la coherencia</em>
+    <em>Crea una plantilla de documento reutilizable para agilizar y mantener la coherencia</em>
     <br>
   </td>
 </tr>
@@ -95,17 +95,17 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="create-a-report.md"><strong>Creación de un informe</strong></a>
     </div>
-    <em>Cree y programe informes para obtener visibilidad sobre el uso de Adobe Sign por parte de su organización</em>
+    <em>Cree y programe informes para tener visibilidad del uso de Adobe Sign por parte de su organización</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Configuración de un formulario web" src="../assets/Webform.png" />
+      <img alt="Configurar un formulario web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Configuración de un formulario web</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>Configurar un formulario web</strong></a>
     </div>
-    <em>Crear un documento que se pueda firmar electrónicamente directamente en el sitio web</em>
+    <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
   </td>
   <td>
@@ -113,9 +113,9 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
       <img alt="Recopilar firmas en bloque" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Recopilar firmas en bloque</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Recopila firmas de forma masiva</strong></a>
     </div>
-    <em>Recopilar cientos de firmas a la vez para cualquier documento</em>
+    <em>Recopila cientos de firmas a la vez para cualquier documento</em>
     <br>
   </td>
 </tr>
@@ -127,16 +127,16 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="building-a-custom-workflow.md"><strong>Configuración de un flujo de trabajo</strong></a>
     </div>
-    <em>Automatizar los flujos de trabajo de los documentos para obtener rápidamente firmas y datos electrónicos</em>
+    <em>Automatiza los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y datos</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -164,17 +164,17 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="share-account-access.md"><strong>Acceso a la cuenta compartida</strong></a>
     </div>
-    <em>Configurar el acceso de solo vista a las transacciones de la cuenta de otro usuario</em>
+    <em>Configurar el acceso de solo lectura a las transacciones en la cuenta de otro usuario</em>
     <br>
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Uso compartido de cuentas avanzado" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Uso compartido avanzado de la cuenta" src="../assets/AdvancedSharing_1280.png" />
     </a>
     <div>
-    <a href="advanced-account-sharing.md"><strong>Uso compartido de cuentas avanzado</strong></a>
+    <a href="advanced-account-sharing.md"><strong>Uso compartido avanzado de la cuenta</strong></a>
     </div>
-    <em>Configurar el uso compartido de cuentas para permitir que los administradores y los usuarios deleguen sus permisos de envío, modificación y visualización</em>
+    <em>Configurar el uso compartido de cuentas para permitir a los administradores y usuarios delegar sus permisos de envío, modificación y visualización</em>
     <br>
   </td>
 </tr>
@@ -186,7 +186,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Uso de la configuración de biofarmacéutica</strong></a>
     </div>
-    <em>Configure la configuración de biofarmacéutica que le permita cumplir los requisitos de la parte 11 de la FDA 21 CFR</em>
+    <em>Configurar opciones de biofarmacéutica que le permitan cumplir con los requisitos de la FDA 21 CFR Parte 11</em>
     <br>
   </td> 
   <td>
@@ -196,11 +196,11 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Adobe Sign</strong></a>
     <div>
-    <em>Creación de campos de formulario de Adobe Sign mediante etiquetas de texto con Adobe Acrobat DC</em>
+    <em>Creación de campos de formulario de Adobe Sign mediante el etiquetado de texto con Adobe Acrobat</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

@@ -1,68 +1,68 @@
 ---
-title: Creadores de aptitudes de Acrobat DC
-description: Póngase al día en Acrobat DC con estos creadores de habilidades interactivos
+title: Acrobat DC Skill Builder
+description: Ponte al día sobre Acrobat con estos creadores de habilidades interactivos
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
 # Acrobat Skill Builder
 
-Póngase al día en Acrobat DC con estos creadores de habilidades interactivos. O bien, únase a una [sesión activa mensual](skill-builder-webinars.md).
+Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O bien, únase a un [sesión mensual en directo](skill-builder-webinars.md).
 
 ![Imagen de Acrobat Skill Builder](../assets/Hero-SkillBuilders.png)
 
-## Go Digital
+## Pásate a lo digital
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank">
-      <img alt="Papel a PDF" src="../assets/sb_papertopdf.png" />
+      <img alt="De papel a PDF" src="../assets/sb_papertopdf.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>Ir de papel a PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>Pasar del papel al PDF</strong></a>
     </div>
-    <em>Transformar digitalmente cualquier documento en papel a PDF</em>
+    <em>Transforma digitalmente cualquier documento en papel en un PDF</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank">
-      <img alt="Papel a PDF" src="../assets/sb_prepareforsignature.png" />
+      <img alt="De papel a PDF" src="../assets/sb_prepareforsignature.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Prepararse para firmar</strong></a>
+    <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Preparar para firmar</strong></a>
     </div>
-    <em>Crear archivos PDF con campos de firma electrónica</em>
+    <em>Crear PDF con campos de firma electrónica</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Stay Digital
+## Mantente digital
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank">
-      <img alt="Creación y organización de archivos PDF" src="../assets/sb_create.png" />
+      <img alt="Crear y organizar PDF" src="../assets/sb_create.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>Creación y organización de archivos PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>Crear y organizar PDF</strong></a>
     </div>
-    <em>Crear y organizar archivos PDF a partir de cualquier tipo de archivo</em>
+    <em>Crear y organizar PDF a partir de cualquier tipo de archivo</em>
     <br>
   </td>
   <td>
@@ -72,39 +72,39 @@ Póngase al día en Acrobat DC con estos creadores de habilidades interactivos. 
     <div>
     <a href="https://doccloud.adobeconnect.com/micro/" target="_blank"><strong>Acrobat y Microsoft 101</strong></a>
     </div>
-    <em>Crear y administrar archivos PDF directamente en SharePoint</em>
+    <em>Crear y administrar PDF directamente en SharePoint</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank">
-      <img alt="Editar archivos PDF" src="../assets/sb_edit.png" />
+      <img alt="Editar los PDF" src="../assets/sb_edit.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>Editar archivos PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>Editar los PDF</strong></a>
     </div>
-    <em>Agregar texto, imágenes, vínculos y marcas de agua al PDF</em>
+    <em>Añada texto, imágenes, vínculos y marcas de agua a su PDF</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
-      <img alt="Firmar el trabajo" src="../assets/sb_signed.png" />
+      <img alt="Firma Tu Trabajo" src="../assets/sb_signed.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/sign/" target="_blank"><strong>Firmar el trabajo</strong></a>
+    <a href="https://doccloud.adobeconnect.com/sign/" target="_blank"><strong>Firma Tu Trabajo</strong></a>
     </div>
     <em>Firmar documentos directamente en Microsoft Outlook</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
-      <img alt="Convertir archivos PDF" src="../assets/sb_convert.png" />
+      <img alt="Convierta sus PDF" src="../assets/sb_convert.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank"><strong>Convertir archivos PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank"><strong>Convierta sus PDF</strong></a>
     </div>
-    <em>Convertir archivos PDF a Word, Excel y PowerPoint</em>
+    <em>Convertir PDF a Word, Excel y PowerPoint</em>
     <br>
   </td>
   <td>
@@ -121,28 +121,28 @@ Póngase al día en Acrobat DC con estos creadores de habilidades interactivos. 
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
-      <img alt="Optimizar archivos PDF" src="../assets/sb_optimize.png" />
+      <img alt="Optimiza tus PDF" src="../assets/sb_optimize.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimizar archivos PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimiza tus PDF</strong></a>
     </div>
-    <em>Preparar archivos PDF para su distribución</em>
+    <em>Preparar PDF para la distribución</em>
     <br>
   </td>
   <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Trabajar
+## Obtener trabajo realizado
 
 <table style="table-layout:fixed">
 <tr>
@@ -153,21 +153,21 @@ Póngase al día en Acrobat DC con estos creadores de habilidades interactivos. 
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank"><strong>Compartir y recopilar comentarios</strong></a>
     </div>
-    <em>Recopile y obtenga comentarios sobre sus archivos PDF</em>
+    <em>Recopile y obtenga comentarios sobre sus PDF</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank">
-      <img alt="Proteger archivos PDF" src="../assets/sb_secure.png" />
+      <img alt="Protege a tus PDF" src="../assets/sb_secure.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Proteger archivos PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Protege a tus PDF</strong></a>
     </div>
-    <em>Censurar y proteger información confidencial en los archivos PDF</em>
+    <em>Censurar y proteger la información confidencial de los PDF</em>
     <br>
   </td>
   <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

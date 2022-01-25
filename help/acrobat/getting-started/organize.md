@@ -1,39 +1,39 @@
 ---
 title: Organizar páginas
-description: Añadir, reemplazar, extraer, rotar, eliminar y mover páginas en el PDF
+description: Añade, reemplaza, extrae, rota, elimina y mueve páginas en tu PDF
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1f085348bf86e593e54d8a6851365d1c862c6610
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '163'
 ht-degree: 2%
 
 ---
 
 # Organizar páginas
 
-Usar **[!UICONTROL Organizar páginas]** en Acrobat DC para añadir, reemplazar, extraer, rotar, eliminar y mover páginas en el PDF.
+Uso **[!UICONTROL Organizar páginas]** en Acrobat para añadir, reemplazar, extraer, rotar, eliminar y mover páginas en el PDF.
 
-1. Seleccionar **[!UICONTROL Organizar páginas]** del [!UICONTROL Herramientas] panel central o derecho.
+1. Seleccionar **[!UICONTROL Organizar páginas]** de la [!UICONTROL Herramientas] panel central o derecho.
 
-   ![Organizar paso 1](../assets/Organize_1.png)
+   ![Organizar el paso 1](../assets/Organize_1.png)
 
-1. Pase el ratón por encima de una página para rotarla hacia la derecha o hacia la izquierda, o bien para eliminarla.
+1. Pase el ratón sobre una página para rotarla en el sentido de las agujas del reloj o en sentido contrario, o elimínela.
 
    Para mover una página, selecciónela y arrástrela a la nueva ubicación.
 
-   ![Organizar paso 2](../assets/Organize_2.png)
+   ![Organizar el paso 2](../assets/Organize_2.png)
 
-1. Seleccionar **[!UICONTROL Extraer]** en la barra de herramientas, para crear un PDF a partir de una o varias páginas.
+1. Seleccionar **[!UICONTROL Extract]** en la barra de herramientas, para crear un PDF a partir de una o varias páginas.
 
-1. Seleccione la página o páginas y, a continuación, seleccione **[!UICONTROL Extraer]**.
+1. Seleccione la página o páginas y, a continuación, seleccione **[!UICONTROL Extract]**.
 
    También puede **[!UICONTROL Insertar]** o **[!UICONTROL Reemplazar]** y ver otras opciones seleccionando **[!UICONTROL Más]**.
 
-   ![Organizar paso 4](../assets/Organize_3.png)
+   ![Organizar el paso 4](../assets/Organize_3.png)
 
 1. Seleccionar **[!UICONTROL Dividir]** para separar uno o más PDF en varios PDF más pequeños.
 
@@ -43,4 +43,4 @@ Usar **[!UICONTROL Organizar páginas]** en Acrobat DC para añadir, reemplazar,
 
 Haga clic para descargar un PDF del *Organizar páginas* tutorial.
 
-[![Tutorial sobre la descarga de páginas de Organizer](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
+[![Descargar tutorial de Organize Pages](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)

@@ -1,22 +1,22 @@
 ---
-title: '5 consejos para trabajar desde cualquier lugar con Acrobat DC: obtenga sus herramientas'
-description: Descubra cómo hacer que sus herramientas de Acrobat DC y aplicaciones móviles complementarias funcionen desde cualquier lugar
+title: 'Cinco consejos para trabajar con Acrobat desde cualquier parte: consigue tus herramientas'
+description: Descubre cómo hacer que tus herramientas de Acrobat y aplicaciones móviles complementarias funcionen desde cualquier lugar
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# 5 consejos para trabajar desde cualquier lugar con Acrobat DC: obtenga sus herramientas
+# Cinco consejos para trabajar con Acrobat desde cualquier parte: consigue tus herramientas
 
-El primer paso para empezar a trabajar desde cualquier lugar es obtener las herramientas de Acrobat DC y las aplicaciones móviles complementarias.
+El primer paso para empezar a trabajar desde cualquier lugar es conseguir tus herramientas de Acrobat y aplicaciones móviles complementarias.
 
-## Sugerencia n.º 1 - Get your tools (2:59) (Obtener herramientas, en inglés)
+## Consejo n.º 1: Consigue tus herramientas (2:59)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34290)

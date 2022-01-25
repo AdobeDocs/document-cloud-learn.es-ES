@@ -1,23 +1,23 @@
 ---
-title: Introducción a las tareas avanzadas
-description: Vaya más allá de los conceptos básicos mediante estas herramientas avanzadas en Acrobat
+title: Introducción a Tareas avanzadas
+description: Ve más allá de lo básico con estas herramientas avanzadas de Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
 
-# Introducción a las tareas avanzadas
+# Introducción a tareas avanzadas
 
-![Imagen de inicio de Acrobat](../assets/Hero-AdvancedTasks.png)
+![Imagen de introducción a Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Acrobat DC. Aprenda a crear una acción para repetir tareas mundanas, eliminar información confidencial, reducir y optimizar archivos grandes, recopilar rápidamente datos de formulario y crear archivos PDF accesibles universalmente.
+Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda a crear una acción para repetir tareas rutinarias, quitar información confidencial, reducir y optimizar archivos grandes, recopilar rápidamente datos de formulario y crear archivos de PDF de acceso universal.
 
 ## Tutoriales de Acrobat
 
@@ -25,10 +25,10 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
 <tr>
   <td>
     <a href="enhance.md">
-      <img alt="Mejorar el PDF" src="../assets/Enhance_1280.png" />
+      <img alt="Mejorar su PDF" src="../assets/Enhance_1280.png" />
     </a>
     <div>
-    <a href="enhance.md"><strong>Mejorar el PDF</strong></a>
+    <a href="enhance.md"><strong>Mejorar su PDF</strong></a>
     </div>
     <em>Transforme su PDF añadiendo mejoras gráficas y numeración automática</em>
     <br>
@@ -40,7 +40,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
     <div>
     <a href="compare.md"><strong>Detectar diferencias entre dos PDF</strong></a>
     </div>
-    <em>Detectar de forma rápida y precisa las diferencias entre dos archivos PDF para mejorar los flujos de trabajo de revisión de documentos</em>
+    <em>Detecta de forma rápida y precisa las diferencias entre dos archivos de PDF para mejorar los flujos de trabajo de revisión de documentos</em>
     <br>
   </td>
   <td>
@@ -50,29 +50,29 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>Ahorre tiempo y pulsaciones de teclas mediante una acción para aplicar automáticamente un conjunto de comandos a uno o varios archivos</em>
+    <em>Ahorra tiempo y pulsaciones de teclas usando una acción para aplicar automáticamente un conjunto de comandos a uno o varios archivos</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="redact.md">
-      <img alt="Censurar y digitalizar" src="../assets/Redact.jpg" />
+      <img alt="Censurar y Corregir" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>Censurar y digitalizar</strong></a>
+    <a href="redact.md"><strong>Censurar y Corregir</strong></a>
     </div>
-    <em>Eliminar permanentemente la información confidencial o privada de su PDF</em>
+    <em>Quita permanentemente información privada o confidencial del PDF</em>
     <br>
   </td>
   <td>
     <a href="reduce.md">
-      <img alt="Reducción del tamaño de archivo y optimización" src="../assets/Reduce.jpg" />
+      <img alt="Reducir el tamaño del archivo y optimizar" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Reducción del tamaño de archivo y optimización</strong></a>
+    <a href="reduce.md"><strong>Reducir el tamaño del archivo y optimizar</strong></a>
     </div>
-    <em>Reduzca los archivos grandes y optimice a sus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
+    <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
-    <a href="formdata.md"><strong>Trabajo con datos de formulario</strong></a>
+    <a href="formdata.md"><strong>Trabajar con datos de formulario</strong></a>
     </div>
     <em>Compilar datos de formulario en una sola hoja de cálculo</em>
     <br>
@@ -89,12 +89,12 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
 <tr>
   <td>
     <a href="accessibility.md">
-      <img alt="Comprobar la accesibilidad del PDF" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="Comprobar accesibilidad del PDF" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Comprobar la accesibilidad del PDF</strong></a>
+    <a href="accessibility.md"><strong>Comprobar accesibilidad del PDF</strong></a>
     </div>
-    <em>Aprenda a comprobar si su PDF es accesible universalmente para personas discapacitadas</em>
+    <em>Aprenda a comprobar si su PDF es accesible universalmente para las personas con discapacidades</em>
     <br>
   </td>
   <td>
@@ -102,13 +102,13 @@ Vaya más allá de los conceptos básicos con estas herramientas avanzadas de Ac
       <img alt="Preparación de archivos de PDF accesibles" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Serie Acrobat Accessibility</strong></a>
+    <a href="accessibility-series.md"><strong>Serie de accesibilidad de Acrobat</strong></a>
     </div>
-    <em>En esta serie de seis sesiones de seminario web bajo demanda, vaya de los conceptos básicos de accesibilidad a una inmersión profunda en el etiquetado de archivos de PDF</em>
+    <em>En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico sobre accesibilidad a profundizar en el etiquetado de archivos de PDF</em>
     <br>
   </td>
   <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
