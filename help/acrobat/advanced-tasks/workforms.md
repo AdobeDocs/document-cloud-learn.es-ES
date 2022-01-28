@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Utilice la herramienta Prepare Form para agregar automáticamente campos de form
 >[!TIP]
 >
 >Active las teclas aceleradoras en las preferencias de la categoría General.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Las propiedades Comb se utilizan para distribuir texto uniformemente por el anch
 
 ## Aprenda a establecer propiedades para varios campos a la vez, el orden de tabulación y para proteger un formulario
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Para establecer propiedades para varios campos a la vez, el orden de tabulación
 
 Establecer el orden de tabulación garantiza que el rellenador del formulario pueda desplazarse fácilmente de un campo a otro mientras rellena un formulario.
 
-1. Escriba Mayús + N para mostrar el orden de tabulación.
+1. Tipo *Mayús + N* para mostrar el orden de tabulación.
 1. Mueva el *Ubicación de HQ* en el campo *Número de empleados* en el panel derecho.
 1. Mueva el *Inicio del proyecto* y *Fin del proyecto* campos bajo la *DIRECCIÓN DE CORREO ELECTRÓNICO* en el panel derecho.
 
 Proteger un formulario garantiza que no se puedan modificar los campos o el contenido del documento.
 
-1. Escriba Ctrl + D (Cmd + D en el Mac) para que aparezca el **Propiedades del documento** diálogo.
+1. Tipo *Ctrl + D (Cmd + D en el Mac)* para que aparezca la **Propiedades del documento** diálogo.
 1. Seleccione la **Seguridad** .
 1. Seleccionar **Seguridad de contraseña** bajo el **Método de seguridad:** desplegable.
 1. Comprobar **Restringe la edición e impresión del documento. Se requerirá una contraseña para cambiar esta configuración de permisos.**
