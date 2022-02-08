@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizeseo.md">
+      <img alt="Optimize PDF para SEO" src="../assets/seo_1280.png" />
+    </a>
+    <div>
+    <a href="optimizeseo.md"><strong>Optimize PDF para SEO</strong></a>
+    </div>
+    <em>Optimizar un PDF para mejorar la capacidad de detección y la clasificación de los motores de búsqueda en la web</em>
+    <br>
+  </td>
   <td>
     <a href="workforms.md">
       <img alt="Trabajar con campos de formulario" src="../assets/Workform_1280.png" />
@@ -43,7 +53,9 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Transforme su PDF añadiendo mejoras gráficas y numeración automática</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="compare.md">
       <img alt="Detectar diferencias entre dos PDF" src="../assets/Compare_1280.png" />
     </a>
@@ -52,9 +64,7 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     </div>
     <em>Detecte de forma rápida y precisa las diferencias entre dos archivos de PDF</em>
     <br>
-  </td>
-</tr>
-<tr>
+  </td> 
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -75,6 +85,8 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Quita permanentemente información privada o confidencial del PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="reduce.md">
       <img alt="Reducir el tamaño del archivo y optimizar" src="../assets/Reduce.jpg" />
@@ -85,9 +97,7 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -107,6 +117,8 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Aprenda a comprobar si su PDF es accesible universalmente para las personas con discapacidades</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Preparación de archivos de PDF accesibles" src="../assets/Accessibilityseries_1280.png" />
@@ -115,6 +127,16 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <a href="accessibility-series.md"><strong>Serie de accesibilidad de Acrobat</strong></a>
     </div>
     <em>En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico sobre accesibilidad a profundizar en el etiquetado de archivos de PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
