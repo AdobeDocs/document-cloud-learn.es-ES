@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
-source-git-commit: 388ef8f5d320ecdcd0d5167b83728302c2ea473e
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -71,7 +72,7 @@ Este paso reduce el tamaño del archivo y permite **Vista rápida en Web** en el
 
 ## Crear un nombre de archivo de palabra clave
 
-El nombre de archivo pasa a formar parte de la dirección URL cuando se publica un PDF en Internet. Una buena práctica recomendada es hacer coincidir el título optimizado para palabras clave con el nombre del archivo. Para facilitar la búsqueda, utilice minúsculas, sin puntuación ni hash, y evite las palabras de detención (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si utiliza palabras separadas, agregue guiones o guiones bajos entre las palabras.
+El nombre de archivo pasa a formar parte de la dirección URL cuando se publica un PDF en Internet. Se recomienda hacer coincidir el título optimizado para palabras clave con el nombre del archivo. Para facilitar la búsqueda, utilice minúsculas, sin puntuación ni hash, y evite las palabras de detención (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si utiliza palabras separadas, agregue guiones o guiones bajos entre las palabras.
 
 ## Proteger el PDF
 
