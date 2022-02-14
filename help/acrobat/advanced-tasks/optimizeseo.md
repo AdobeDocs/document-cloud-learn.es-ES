@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Optimice la experiencia de interacción con el PDF preparándolo para la visuali
 Este paso reduce el tamaño del archivo y permite **Vista rápida en Web** en el PDF. **Vista rápida en Web** permite abrir, ver y buscar el archivo inmediatamente antes de que se transmita o descargue todo el archivo, lo que crea una experiencia óptima para el usuario final. Abrir **[!UICONTROL Propiedades del documento]** (*Ctrl + D* en Windows o *Cmd + D* en Mac) para determinar si **Vista rápida en Web** está activado.
 
 ![Captura de pantalla de Propiedades del documento](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Si tiene Acrobat Pro, ejecute Optimizar para Web y dispositivos móviles en la herramienta Action Wizard. Esta acción convierte los colores en sRGB e incrusta las fuentes para una visualización coherente de los PDF en los navegadores y dispositivos móviles.
 
 ## Crear un nombre de archivo de palabra clave
 
