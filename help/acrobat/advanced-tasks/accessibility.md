@@ -1,26 +1,26 @@
 ---
-title: Comprobar accesibilidad del PDF
-description: Aprenda a comprobar si su PDF es accesible universalmente para personas discapacitadas
+title: Comprobar Accesibilidad Del PDF
+description: Aprenda a comprobar si su PDF es accesible universalmente para las personas con discapacidades
 role: User
 product: adobe acrobat
 level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
-# Comprobar la accesibilidad del PDF
+# Comprobar accesibilidad del PDF
 
-Aprenda a comprobar si su PDF es accesible para todas las personas con discapacidad, incluidas las personas con discapacidad de movilidad reducida, ciegas, con visión baja, sordas, con dificultad auditiva o con discapacidad cognitiva.
+Aprenda a comprobar si su PDF es accesible universalmente para personas con discapacidades, incluidas personas con problemas de movilidad, ciegos, problemas de visión, sordos, auditivos o con deficiencias cognitivas.
 
 >[!NOTE]
 >
->Disponible solo en Acrobat Pro DC.
+>Disponible solo en Acrobat Pro.
 
 ## Comprobación de accesibilidad
 
@@ -32,9 +32,9 @@ Aprenda a comprobar si su PDF es accesible para todas las personas con discapaci
 
    ![Paso 2 de accesibilidad](../assets/Accessibility_2.png)
 
-1. Seleccione una categoría del menú desplegable y elementos de la lista de comprobación.
+1. Seleccione una categoría de la lista desplegable y elementos de la lista de comprobación.
 
-   Deje cada casilla marcada para un informe completo.
+   Deje todas las casillas marcadas para obtener un informe completo.
 
 1. Seleccionar **[!UICONTROL Iniciar comprobación]** para iniciar el informe.
 
@@ -44,16 +44,16 @@ Aprenda a comprobar si su PDF es accesible para todas las personas con discapaci
 
    ![Paso 4 de accesibilidad](../assets/Accessibility_4.png)
 
-También puede utilizar el [!UICONTROL Hacer accesible] en el [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) que recorre un conjunto básico de pasos para crear un PDF accesible.
+También puede utilizar la [!UICONTROL Hacer accesible] acción en el [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) , que recorre un conjunto básico de pasos para crear un PDF accesible.
 
 ## Solucionar problemas de accesibilidad
 
-En la ventana del informe de accesibilidad, haga clic con el botón derecho en un elemento para que aparezca el menú contextual. El menú contextual de cualquier elemento que haya fallado en la comprobación de accesibilidad le ofrece la opción de solucionar el problema.
+En la ventana del informe de accesibilidad, haga clic con el botón derecho en un elemento para que aparezca el menú contextual. El menú contextual de cualquier elemento que no haya superado la comprobación de accesibilidad le ofrece la opción de corregir el problema.
 
 >[!NOTE]
 >
->Algunos problemas no se pueden solucionar automáticamente y necesitan la intervención manual para corregir el problema. En esos casos, >Acrobat presenta un cuadro de diálogo que le indica qué corregir.
+>Algunos problemas no se pueden corregir automáticamente y es necesario que intervenga manualmente para corregirlos. En esos casos, >Acrobat presenta un cuadro de diálogo que le indica lo que debe corregir.
 
-Seleccione el icono del PDF para descargar el *Comprobar la accesibilidad del PDF* tutorial.
+Seleccione el icono del PDF para descargar el *Comprobar accesibilidad del PDF* tutorial.
 
-[![Tutorial sobre accesibilidad de descarga](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).
+[![Descargar tutorial de accesibilidad](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf).

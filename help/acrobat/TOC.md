@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 8e10aac6ae42846fe1fa77d65fd933f741e3bbbc
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '344'
 ht-degree: 9%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 9%
    + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
 + Tareas avanzadas {#advanced-tasks}
    + [Información general](advanced-tasks/advanced-tasks-overview.md)
+   + [Campos de formulario avanzados](advanced-tasks/advancedforms.md)
    + [Optimize PDF para SEO](advanced-tasks/optimizeseo.md)
    + [Trabajar con campos de formulario](advanced-tasks/workforms.md)
    + [Mejorar su PDF](advanced-tasks/enhance.md)
