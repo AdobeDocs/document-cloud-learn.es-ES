@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 4%
@@ -30,7 +30,7 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <div>
     <a href="custom.md"><strong>Comandos y herramientas personalizados</strong></a>
     </div>
-    <em>Mejorar la productividad del flujo de trabajo de documentos mediante comandos y conjuntos de herramientas personalizados</em>
+    <em>Mejorar la productividad del flujo de trabajo de documentos mediante el uso de comandos y herramientas personalizadas</em>
     <br>
   </td>
   <td>
