@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasific
 
 ## Crear contenido único
 
-Cree contenido de PDF diferente de la información de las páginas Web. El contenido del PDF debe ser único y estar estructurado de la siguiente manera:
+Cree contenido de PDF diferente de la información de las páginas Web.
+
++++Ver detalles sobre cómo crear contenido único
+
+El contenido del PDF debe ser único y estar estructurado de la siguiente manera:
 
 * Utilizar un único título o encabezado principal que empiece por una palabra clave
 * Usar subencabezados de palabras clave organizados en una estructura jerárquica
@@ -31,9 +35,17 @@ Cree contenido de PDF diferente de la información de las páginas Web. El conte
 
    ![Captura de pantalla de Liquid Mode en la aplicación móvil de Acrobat Reader](../assets/optimizeseo1.png)
 
++++
+
+<br> 
+
 ## Agregar propiedades de documento
 
-Los archivos de PDF tienen un título y una meta descripción, como una página web. Agregar clave **[!UICONTROL Propiedades del documento]** como sigue:
+Los archivos de PDF tienen un título y una meta descripción, como una página web.
+
++++Ver detalles sobre cómo añadir propiedades de documento
+
+Agregar clave **[!UICONTROL Propiedades del documento]** como sigue:
 
 1. Seleccionar **[!UICONTROL Archivo > Propiedades]** o utilice el método abreviado de teclado *Ctrl + D* en Windows o *Cmd + D* en Mac y seleccione la **[!UICONTROL Descripción]** .
 1. Introduzca un título optimizado para palabras clave en el **[!UICONTROL Título:]** campo.
@@ -44,13 +56,21 @@ Prueba a empezar el resumen usando un verbo de acción como Aprender, Descubrir,
 
    ![Captura de pantalla de Propiedades del documento](../assets/optimizeseo2.png)
 
++++
+
+<br> 
+
 ## Etiquetar el PDF
 
 >[!NOTE]
 >
 >Disponible solo en Acrobat Pro.
 
-El etiquetado de contenido en el PDF no solo crea el archivo [Accesible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) a las personas con discapacidades, también mejora el SEO. Etiquete un PDF de la siguiente manera:
+El etiquetado de contenido en el PDF no solo crea el archivo [Accesible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) a las personas con discapacidades, también mejora el SEO.
+
++++Ver detalles sobre cómo etiquetar a un PDF
+
+Etiquete un PDF de la siguiente manera:
 
 1. Seleccionar **[!UICONTROL Accesibilidad]** en el **[!UICONTROL Herramientas]** centro.
 1. Seleccionar **[!UICONTROL Etiquetar documento automáticamente]** en el panel derecho.
@@ -60,9 +80,19 @@ El etiquetado de contenido en el PDF no solo crea el archivo [Accesible](https:/
 
    ![Captura de pantalla de la configuración de texto alternativo en PDF](../assets/optimizeseo3.png)
 
++++
+
+<br> 
+
 ## Prepararse para la Web
 
-Optimice la experiencia de interacción con el PDF preparándolo para la visualización en la Web y reduciendo el tamaño del archivo. Para preparar al PDF para la Web, seleccione **[!UICONTROL Archivo > Guardar como otro > PDF de tamaño reducido]**.
+Optimice la experiencia de interacción con el PDF preparándolo para la visualización en la Web y reduciendo el tamaño del archivo.
+
++++Ver detalles sobre cómo preparar al PDF para la Web
+
+Prepare a su PDF para Internet de la siguiente manera:
+
+Para preparar al PDF para la Web, seleccione **[!UICONTROL Archivo > Guardar como otro > PDF de tamaño reducido]**.
 
 ![Captura de pantalla de Propiedades del documento](../assets/optimizeseo4.png)
 
@@ -74,13 +104,29 @@ Este paso reduce el tamaño del archivo y permite **Vista rápida en Web** en el
 >
 >Si tiene Acrobat Pro, ejecute Optimizar para Web y dispositivos móviles en la herramienta Action Wizard. Esta acción convierte los colores en sRGB e incrusta las fuentes para una visualización coherente de los PDF en los navegadores y dispositivos móviles.
 
++++
+
+<br> 
+
 ## Crear un nombre de archivo de palabra clave
+
++++Ver detalles sobre cómo crear un nombre de archivo de palabra clave
+
+Cree un nombre de archivo de palabra clave de la siguiente manera:
 
 El nombre de archivo pasa a formar parte de la dirección URL cuando se publica un PDF en Internet. Se recomienda hacer coincidir el título optimizado para palabras clave con el nombre del archivo. Para facilitar la búsqueda, utilice minúsculas, sin puntuación ni hash, y evite las palabras de detención (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si utiliza palabras separadas, agregue guiones o guiones bajos entre las palabras.
 
++++
+
+<br> 
+
 ## Proteger el PDF
 
-El último paso es proteger al PDF para evitar cambios no autorizados. Proteja un PDF de la siguiente manera:
+El último paso es proteger al PDF para evitar cambios no autorizados.
+
++++Ver detalles sobre cómo proteger el PDF
+
+Proteja un PDF de la siguiente manera:
 
 1. Abrir **[!UICONTROL Propiedades del documento]** (*Ctrl + D* en Windows o *Cmd + D* en Mac) y seleccione la **[!UICONTROL Seguridad]** .
 1. Comprobar **[!UICONTROL Imprimir la edición e impresión del documento. Se requerirá una contraseña para poder cambiar esta configuración.]**
@@ -90,5 +136,7 @@ El último paso es proteger al PDF para evitar cambios no autorizados. Proteja u
 1. Seleccionar **[!UICONTROL OK]** y guarde el archivo.
 
    ![Captura de pantalla de Propiedades del documento](../assets/optimizeseo6.png)
+
++++
 
 Ahora tu PDF está listo para publicarse en la web, con un potencial óptimo de clasificación de palabras clave e interacción con el usuario final.
