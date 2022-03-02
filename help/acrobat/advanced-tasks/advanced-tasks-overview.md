@@ -1,5 +1,5 @@
 ---
-title: Introducción a Tareas avanzadas
+title: Advanced Tasks Overview
 description: Ve más allá de lo básico con estas herramientas avanzadas de Acrobat
 role: User
 product: adobe acrobat
@@ -89,10 +89,10 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Detectar diferencias entre dos PDF" src="../assets/Compare_1280.png" />
+      <img alt="Detect Differences Between two PDFs" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Detectar diferencias entre dos PDF</strong></a>
+    <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
     </div>
     <em>Detecte de forma rápida y precisa las diferencias entre dos archivos de PDF</em>
     <br>
@@ -121,10 +121,10 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
 <tr>
  <td>
     <a href="reduce.md">
-      <img alt="Reducir el tamaño del archivo y optimizar" src="../assets/Reduce.jpg" />
+      <img alt="Reduce file size &amp; optimize" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Reducir el tamaño del archivo y optimizar</strong></a>
+    <a href="reduce.md"><strong>Reduce file size &amp; optimize</strong></a>
     </div>
     <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
