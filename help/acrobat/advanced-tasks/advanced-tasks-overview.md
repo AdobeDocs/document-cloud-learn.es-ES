@@ -1,14 +1,14 @@
 ---
-title: Advanced Tasks Overview
+title: Introducción a Tareas avanzadas
 description: Ve más allá de lo básico con estas herramientas avanzadas de Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,16 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="bookmarks.md">
+      <img alt="Añadir marcadores e hipervínculos" src="../assets/Bookmarks_1280.png" />
+    </a>
+    <div>
+    <a href="bookmarks.md"><strong>Añadir marcadores e hipervínculos</strong></a>
+    </div>
+    <em>Aprenda a agregar marcadores e hipervínculos para una mejor navegación e interacción</em>
+    <br>
+  </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Optimizar documentos digitalizados" src="../assets/Scan_1280.png" />
@@ -43,7 +53,9 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Mejorar la productividad del flujo de trabajo de documentos mediante el uso de comandos y herramientas personalizadas</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="advancedforms.md">
       <img alt="Campos de formulario avanzados" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Aprende técnicas avanzadas para formar PDF forms profesionales</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF para SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Agregue diversos tipos de campos de formulario, establezca las propiedades de los campos de formulario y añada seguridad para crear formularios profesionales de alta calidad</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="Mejorar su PDF" src="../assets/Enhance_1280.png" />
@@ -84,15 +96,13 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     </div>
     <em>Transforme su PDF añadiendo mejoras gráficas y numeración automática</em>
     <br>
-  </td>   
-</tr>
-<tr>
-  <td>
+  </td>
+ <td>
     <a href="compare.md">
-      <img alt="Detect Differences Between two PDFs" src="../assets/Compare_1280.png" />
+      <img alt="Detectar diferencias entre dos PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Detect differences between two PDFs</strong></a>
+    <a href="compare.md"><strong>Detectar diferencias entre dos PDF</strong></a>
     </div>
     <em>Detecte de forma rápida y precisa las diferencias entre dos archivos de PDF</em>
     <br>
@@ -107,7 +117,9 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Ahorra tiempo y pulsaciones de teclas usando una acción para aplicar automáticamente un conjunto de comandos a uno o varios archivos</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="redact.md">
       <img alt="Censurar y Corregir" src="../assets/Redact.jpg" />
     </a>
@@ -117,14 +129,12 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Quita permanentemente información privada o confidencial del PDF</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="reduce.md">
-      <img alt="Reduce file size &amp; optimize" src="../assets/Reduce.jpg" />
+      <img alt="Reducir el tamaño del archivo y optimizar" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Reduce file size &amp; optimize</strong></a>
+    <a href="reduce.md"><strong>Reducir el tamaño del archivo y optimizar</strong></a>
     </div>
     <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
@@ -139,7 +149,9 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Compilar datos de formulario en una sola hoja de cálculo</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="accessibility.md">
       <img alt="Comprobar Accesibilidad Del PDF" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -149,9 +161,7 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <em>Compruebe si su PDF es universalmente accesible para las personas con discapacidades</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="accessibility-series.md">
       <img alt="Preparación de archivos de PDF accesibles" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -159,11 +169,6 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
     <a href="accessibility-series.md"><strong>Serie de accesibilidad de Acrobat</strong></a>
     </div>
     <em>En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico sobre accesibilidad a profundizar en el etiquetado de archivos de PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
