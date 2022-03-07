@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '230'
 ht-degree: 7%
 
 ---
@@ -54,7 +54,3 @@ Reduce archivos grandes y optimiza tus PDF sin comprometer la calidad para compa
 >[!TIP]
 >
 >Para optimizar varios archivos de PDF, pruebe a utilizar la [Action Wizard](../advanced-tasks/action.md).
-
-Seleccione el icono del PDF para descargar el *Reducir el tamaño del archivo y optimizar* tutorial.
-
-[![Descargar Tutorial para reducir el tamaño del archivo y optimizar](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf).

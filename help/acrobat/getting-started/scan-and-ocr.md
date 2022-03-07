@@ -1,54 +1,50 @@
 ---
 title: Digitalización y OCR
-description: Conversión de digitalizaciones o imágenes de documentos en archivos PDF editables que permiten búsquedas y ajuste la calidad del archivo resultante
+description: Convierte las digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas, y ajusta la calidad del archivo resultante
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
 
 # Digitalización y OCR
 
-Convierta digitalizaciones o imágenes de documentos en archivos PDF editables en los que se pueden realizar búsquedas y ajuste la calidad del archivo resultante.
+Convierte las digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas, y ajusta la calidad del archivo resultante.
 
 >[!TIP]
 >
->Para acceder a varios archivos de PDF de OCR, intente utilizar el [Action Wizard](../advanced-tasks/action.md).
+>Para OCR varios archivos de PDF, pruebe a utilizar la [Action Wizard](../advanced-tasks/action.md).
 
-1. Seleccionar **[!UICONTROL Digitalización y OCR]** del [!UICONTROL Herramientas] panel central o derecho.
+1. Seleccionar **[!UICONTROL Digitalización y OCR]** de la [!UICONTROL Herramientas] panel central o derecho.
 
    ![Paso 1 del análisis](../assets/Scan_1.png)
 
 1. Seleccionar un archivo.
 
-   Este archivo puede ser una fotografía de un documento o un archivo ya digitalizado creado mediante un escáner o la aplicación móvil de Adobe Scan. O bien, puede digitalizar un documento para crear un nuevo archivo mediante un escáner conectado.
+   Este archivo podría ser una foto de un documento o un archivo ya digitalizado creado mediante un escáner o la aplicación móvil de Adobe Scan. O bien, puede digitalizar un documento para crear un nuevo archivo mediante un escáner conectado.
 
-   ![Paso de exploración 2](../assets/Scan_2.png)
+   ![Paso 2 del análisis](../assets/Scan_2.png)
 
 1. Elegir **[!UICONTROL Documento digitalizado]** o **[!UICONTROL Imagen de cámara]** para mejorar el documento.
 
-1. Seleccionar **[!UICONTROL Mejorar]** para limpiar la imagen.
+1. Seleccionar **[!UICONTROL Mejora]** para limpiar la imagen.
 
-   ![Paso de exploración 3](../assets/Scan_3.png)
+   ![Paso 3 del análisis](../assets/Scan_3.png)
 
    Acrobat reconoce automáticamente el texto de los documentos digitalizados.
 
-1. Seleccionar **[!UICONTROL Reconocer texto]** para reconocer manualmente el texto de los archivos de imagen.
+1. Seleccionar **[!UICONTROL Reconocer texto]** para reconocer manualmente texto en archivos de imagen.
 
-   ![Paso de análisis 4](../assets/Scan_4.png)
+   ![Paso 4 del análisis](../assets/Scan_4.png)
 
-El archivo es ahora un archivo PDF editable en el que se pueden realizar búsquedas.
-
-Haga clic para descargar un PDF del *Digitalización y OCR* tutorial.
-
-[![Descargar tutorial de digitalización y OCR] (../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+El archivo es ahora un archivo de PDF editable y en el que se pueden realizar búsquedas.
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaje de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitamente en Experience League.
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!

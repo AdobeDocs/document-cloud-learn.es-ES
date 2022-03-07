@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ Uso **[!UICONTROL Organizar páginas]** en Acrobat para añadir, reemplazar, ext
    Al dividir un PDF, puede separarlo por el número de páginas, el tamaño de archivo o los marcadores de nivel superior.
 
    ![Paso 5 del análisis](../assets/Organize_4.png)
-
-Haga clic para descargar un PDF del *Organizar páginas* tutorial.
-
-[![Descargar tutorial de Organize Pages](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
