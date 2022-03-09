@@ -1,40 +1,40 @@
 ---
-title: Información general sobre integraciones
-description: Aprenda a agregar Adobe Sign a sus sistemas, procesos y aplicaciones existentes
+title: Resumen de integraciones
+description: Aprenda a añadir Adobe Sign a los sistemas, procesos y aplicaciones existentes
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
 
 # Introducción a las integraciones
 
-![Firmar imagen integrada](../assets/Hero-Integrate.png)
+![Firmar integrar imagen](../assets/Hero-Integrate.png)
 
-Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organización, como Microsoft, Salesforce, Workday y Marketo, para nombrar algunas. Descubra cómo puede simplificar sus flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
+Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
 
 >[!NOTE]
-> Si tiene problemas para acceder a cualquiera de estas funciones, póngase en contacto con el administrador de su organización para asegurarse de que la integración está habilitada.
+> Si tiene problemas para acceder a cualquiera de estas funciones, consulte al administrador de su organización para asegurarse de que la integración esté activada.
 
-## Tutoriales sobre las integraciones de Microsoft
+## Tutoriales de integraciones de Microsoft
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="fill-and-sign-doc-microsoft-outlook.md">
-      <img alt="Rellenado e inicio de sesión en Microsoft Outlook" src="../assets/MS-FillSign.png" />
+      <img alt="Rellenar y firmar en Microsoft Outlook" src="../assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Rellenado e inicio de sesión en Microsoft Outlook</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Rellenar y firmar en Microsoft Outlook</strong></a>
     </div>
-    <em>Rellenar y firmar un formulario directamente en Microsoft Outlook</em>
+    <em>Rellenar y firmar un formulario directamente desde Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -44,7 +44,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Enviar para firmar en Outlook</strong></a>
     </div>
-    <em>Enviar un documento para firmar directamente desde Microsoft Outlook</em>
+    <em>Enviar un documento para firmar directamente en Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Enviar para firmar en SharePoint Online</strong></a>
     </div>
-    <em>Envío de un documento para su firma directamente en Sharepoint Online</em>
+    <em>Enviar un documento para firmar directamente en SharePoint Online</em>
     <br>
   </td>
 </tr>
@@ -66,7 +66,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>Seguimiento en SharePoint Online</strong></a>
     </div>
-    <em>Realice un seguimiento del progreso de un acuerdo directamente desde Microsoft Sharepoint</em>
+    <em>Seguimiento del progreso de un acuerdo directamente desde Microsoft Sharepoint</em>
     <br>
   </td>
   <td>
@@ -76,7 +76,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="adobe-sign-teams-mortgage.md"><strong>Envío de documentos para su firma en [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Enviar documentos para su firma directamente en [!DNL Microsoft Teams]</em>
+    <em>Envía documentos para su firma directamente en [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -86,13 +86,13 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="documentautomation.md"><strong>Automatización de documentos con Adobe Sign para Microsoft Power Platform</strong></a>
     </div>
-    <em>Aprenda a activar y utilizar los conectores de Adobe Sign y Adobe PDF Tools para Microsoft Power Apps</em>
+    <em>Obtenga información sobre cómo activar y usar los conectores de Adobe Sign y Adobe PDF Tools para Microsoft Power Apps</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Tutoriales de integración de Salesforce
+## Tutoriales de integraciones de Salesforce
 
 <table style="table-layout:fixed">
 <tr>
@@ -113,7 +113,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="set-up-data-mapping.md"><strong>Configuración de la asignación de datos</strong></a>
     </div>
-    <em>Retirar datos a Salesforce después de firmar un acuerdo</em>
+    <em>Recuperar datos en Salesforce después de firmar un acuerdo</em>
     <br>
   </td>
   <td>
@@ -123,7 +123,7 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="set-up-merging-map.md"><strong>Configuración de la asignación de combinación</strong></a>
     </div>
-    <em>Combinar datos de Salesforce directamente en un acuerdo</em>
+    <em>Fusionar datos de Salesforce directamente en un acuerdo</em>
     <br>
   </td>
 </tr>
@@ -135,16 +135,16 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="create-a-custom-button.md"><strong>Creación de un botón personalizado</strong></a>
     </div>
-    <em>Crear un botón personalizado que inicie el proceso de envío y rellene automáticamente un acuerdo en Salesforce</em>
+    <em>Crear un botón personalizado que inicie el proceso de envío y rellene automáticamente un acuerdo dentro de Salesforce</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -162,16 +162,16 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
     <div>
     <a href="workday.md"><strong>Configuración de Adobe Sign con Workday</strong></a>
     </div>
-    <em>Aprenda a configurar Adobe Sign para que funcione directamente en Workday para administrar sin problemas todos los documentos de HR</em>
+    <em>Aprenda a configurar Adobe Sign para que funcione directamente en Workday y administre sin problemas todo el papeleo de RR. HH</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Whitespacer.png" />
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -184,58 +184,58 @@ Puede utilizar Adobe Sign dentro de otras aplicaciones que ya utilice su organiz
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Envío de notificaciones mediante Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Enviar notificaciones con Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Envío de notificaciones mediante Adobe Sign para Salesforce y Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Enviar notificaciones con Adobe Sign para Salesforce y Marketo</strong></a>
     </div>
-    <em>Obtenga más información sobre cómo enviar un mensaje de texto, un correo electrónico o una notificación de inserción para que el firmante sepa que un acuerdo está en camino</em>
+    <em>Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Tutorial de vídeo sobre envío de recordatorios con Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Tutorial de vídeo para enviar recordatorios con Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Tutorial de vídeo sobre envío de recordatorios con Adobe Sign para Salesforce y Marketovideo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Tutorial de vídeo para enviar recordatorios con Adobe Sign para Salesforce y Marketo</strong></a>
     </div>
-    <em>Obtenga más información sobre cómo enviar un recordatorio por correo electrónico de Marketo cuando un acuerdo no se ha firmado después de un período de tiempo</em>
+    <em>Obtenga información sobre cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Envío de recordatorios mediante la guía de configuración de Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Enviar recordatorios con la guía de configuración de Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Envío de recordatorios mediante la guía de configuración de Adobe Sign para Salesforce y Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Enviar recordatorios con la guía de configuración de Adobe Sign para Salesforce y Marketo</strong></a>
     </div>
-    <em>Lea cómo enviar un recordatorio por correo electrónico de Marketo cuando un acuerdo sigue sin firmar después de un período de tiempo</em>
+    <em>Consulte cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Envío de recordatorios con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Enviar recordatorios con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Envío de recordatorios con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Enviar recordatorios con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
     </div>
-    <em>Obtenga más información sobre cómo enviar un recordatorio por correo electrónico cuando un acuerdo permanece sin firmar tras un período de tiempo</em>
+    <em>Obtenga información sobre cómo enviar un recordatorio por correo electrónico cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Envío de notificaciones con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Envío de notificaciones con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
     </div>
-    <em>Obtenga más información sobre cómo enviar un mensaje de texto, un correo electrónico o una notificación de inserción para que el firmante sepa que un acuerdo está en camino</em>
+    <em>Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino</em>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
