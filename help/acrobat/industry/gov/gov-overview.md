@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
+source-git-commit: 77f676d923ca5b199d9c73299bbd15ae7e1518fe
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,8 @@ ht-degree: 0%
 # Acrobat para la Administración Pública
 
 Explora nuestros tutoriales de Acrobat diseñados específicamente para la administración federal, estatal y local.
+
+## Cinco consejos para trabajar con Acrobat desde cualquier parte
 
 <table style="table-layout:fixed">
 <tr>
@@ -81,6 +83,11 @@ Explora nuestros tutoriales de Acrobat diseñados específicamente para la admin
     <br>
   </td>
 </tr>
+</table>
+
+## Accesibilidad
+
+<table>
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
