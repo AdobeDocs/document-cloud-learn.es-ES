@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 9%
@@ -108,7 +108,7 @@ ht-degree: 9%
          + [#1 - Comprensión de la accesibilidad](industry/gov/understanding-accessibility.md)
          + [#2 - Creación en Word](industry/gov/authoring-in-word.md)
          + [#3 - Acabado en Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Hacer más accesibles las papeletas de PDF](industry/gov/making-pdf-ballots-accessible.md)
+         + [Hacer más accesibles las papeletas de los PDF](industry/gov/making-pdf-ballots-accessible.md)
 + Revelar {#develop}
    + [Información general](develop/develop-overview.md)
 + Implementación {#deploy}
