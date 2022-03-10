@@ -1,55 +1,55 @@
 ---
-title: Visión General de Industrias y Departamentos
-description: Vea cómo puede transformar las experiencias de firma electrónica de clientes y empleados a través de estos casos de uso, recetas y seminarios web del sector y del departamento en el mundo real
+title: Resumen de sectores y departamentos
+description: Descubre cómo puedes transformar las experiencias de firma electrónica de clientes y empleados mediante estos casos prácticos, recetas y seminarios web reales del sector y los departamentos
 role: User
 product: adobe sign
 level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 5418e505275fb8c9d889e8928278dad69179cdc1
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Información general sobre sectores y departamentos
+# Resumen de sectores y departamentos
 
 ![Imagen del sector de Adobe Sign](../assets/Hero-Industry.png)
 
-Descubra cómo puede transformar las experiencias de firma electrónica de su organización explorando estos casos de uso, recetas y seminarios web del sector y del departamento en el mundo real.
+Descubre cómo puedes transformar las experiencias de firma electrónica de tu organización explorando estos casos prácticos, recetas y seminarios web reales del sector y los departamentos.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="innovation-series.md">
-      <img alt="Generador de aptitudes" src="../assets/SB_1280.jpg" />
+      <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Generador de aptitudes</strong></a>
+    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
     </div>
-    <em>Únase a nosotros durante 30 minutos a Skill Builder para aprender a poner en marcha sus firmas electrónicas sin necesidad de añadir ningún trabajo adicional a su día</em>
+    <em>Únete a nosotros en un Skill Builder de 30 minutos para aprender a poner a trabajar tus firmas electrónicas, sin añadir nada más a tu día</em>
     <br>
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Usar recetas de caso" src="../assets/Expand_RecipeR.png" />
+      <img alt="Recetas de casos prácticos" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Recetas de caso de uso</strong></a>
+    <a href="recipes.md"><strong>Recetas de casos prácticos</strong></a>
     </div>
-    <em>Descargue los recursos que necesita para implementar rápidamente varios flujos de trabajo del departamento de firma electrónica por su cuenta</em>
+    <em>Descarga los recursos que necesitas para implementar rápidamente varios flujos de trabajo de departamentos de firma electrónica por tu cuenta</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Muestra de casos de uso" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="Caso práctico" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Muestra de casos de uso</strong></a>
+    <a href="use-case-showcase.md"><strong>Caso práctico</strong></a>
     </div>
-    <em>Vea sesiones grabadas o en directo en las que se le presentan los nuevos casos y tendencias de uso de Adobe Sign</em>
+    <em>Ve sesiones en directo o grabadas que te presentan nuevos casos prácticos y tendencias de Adobe Sign</em>
     <br>
   </td>
 </tr>
