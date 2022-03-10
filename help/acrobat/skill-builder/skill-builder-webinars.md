@@ -1,12 +1,12 @@
 ---
 title: Seminarios web de Adobe Acrobat Skill Builder
-description: Los creadores de aptitudes de Adobe Acrobat son sesiones de 30 minutos diseñadas para llevar los flujos de trabajo de PDf al siguiente nivel
+description: Adobe Acrobat Skill Builder son sesiones de 30 minutos diseñadas para llevar tus flujos de trabajo de PDF al siguiente nivel
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 4f6de1f7ec3ccd061bcb125a2aaf18c9070f76e1
+source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
 workflow-type: tm+mt
-source-wordcount: '810'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,51 +15,30 @@ ht-degree: 0%
 
 ![Imagen de Acrobat Skill Builder](../assets/sbacrobatwebinars.png)
 
-Los creadores de aptitudes de Adobe Acrobat son sesiones de 30 minutos diseñadas para llevar los flujos de trabajo de PDF al siguiente nivel. Cada mes se resalta un nuevo tema.
+Los Adobe Acrobat Skill Builder son sesiones de 30 minutos diseñadas para llevar los flujos de trabajo de tus PDF al siguiente nivel. Cada mes se resalta un nuevo tema.
 
 ## Sesiones mensuales
 
-* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Fecha: 24 de marzo de 2022 Aprenda los conceptos básicos del trabajo con PDF forms: Cómo agregar campos de formulario a cualquier PDF para recopilar información de otros usuarios y cómo rellenar y firmar un formulario usted mismo.
+* **[Seguridad de PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
+Fecha: 25 de agosto de 2022 Obtén toda la información que necesitas para proteger el contenido de tu PDF. En esta sesión se compartirán técnicas para añadir contraseñas que impidan ver, editar o imprimir un PDF, y se mostrará cómo eliminar de forma permanente información confidencial, incluso de metadatos no visibles.
 
-* **[Añadir interactividad a los PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Fecha: 24 de febrero de 2022 Únase a esta sesión para aprender a hacer que sus PDF sean interactivos con vídeos, hipervínculos, botones, marcadores y mucho más.
+* **[Automatización simple con Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
+Fecha: 28 de julio de 2022 ¡Deja de repetir tareas manuales simples! Esta sesión le enseñará a utilizar Action Wizard en Acrobat DC para procesar por lotes los archivos de PDF y realizar tareas repetitivas y seriales de forma automática.
 
-* **[Productividad, esté donde esté](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Fecha: 27 de enero de 2022 Esta sesión le enseñará a acceder a sus herramientas favoritas de Acrobat desde cualquier navegador web o desde su dispositivo móvil. Acrobat en la web le ofrece la posibilidad de trabajar desde cualquier lugar y la aplicación móvil de Acrobat amplía su productividad a contextos en cualquier lugar.
+* **[Legibilidad para todos: Creación de PDF accesibles](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
+Fecha: 23 de junio de 2022 La adición de funciones de accesibilidad a los PDF ayuda a todos los lectores a acceder al contenido. Únete a esta sesión para descubrir cómo puedes crear PDF compatibles y accesibles con Acrobat.
 
-* **[Trabajar con PDF en las aplicaciones de Microsoft](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Fecha: 16 de diciembre de 2021 Descubra cómo puede añadir flujos de trabajo de PDF a las aplicaciones de Microsoft que utiliza todos los días, incluidos Teams, Outlook, SharePoint y Word, Powerpoint y Excel.
+* **[De papel a píxeles a palabras: Digitalización y OCR](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/db1178ff-fd0e-4429-9a91-dae080cac9c3/611fa8dd-1b65-4135-800b-feb61541615f){target=&quot;_blank&quot;}**
+Fecha: 26 de mayo de 2022 Descubre lo fácil que es escanear tus documentos en papel para convertirlos en archivos de PDF editables y con opción de búsqueda.
 
-* **[Colaboración PDF: Compartir, revisar y trabajar juntos](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Fecha: 18 de noviembre de 2021 Descubra la forma sencilla de revisar documentos con su equipo y disfrute de una visita guiada por las herramientas de comentarios disponibles. También hablaremos de la revisión de PDF con otros usuarios en Microsofts Teams y de cómo enviar comentarios desde cualquier lugar mediante la aplicación móvil de Acrobat y Acrobat Web.
+* **[PDF forms 201](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/e05d5e32-598e-49a2-b847-a06207dcbfd7/39c070e1-4ef4-4fc2-aa1e-bf89fb59215e){target=&quot;_blank&quot;}**
+Fecha: 21 de abril de 2022 Lleva tus formularios rellenables un paso más allá y obtén información sobre las opciones de distribución y cómo usar JavaScript para crear formularios a prueba de fallos.
 
-* **[Reutilizar el contenido del PDF: Edición y exportación](https://primetime.bluejeans.com/a2m/events/playback/9eb8dbdb-c6b1-40c9-b826-70a255a59139){target=&quot;_blank&quot;}**
-Fecha: 28 de octubre de 2021 Aprenda a modificar sus PDF existentes: edite texto e imágenes, añada hipervínculos y marcadores, convierta archivos de Microsoft Word, PowerPoint y Excel y mucho más.
+* **[PDF forms 101](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c7f08842-3d62-4b98-bb2a-029feef13621/5f8f1f46-c321-4fba-8c49-4b89d3de6d36){target=&quot;_blank&quot;}**
+Fecha: 24 de marzo de 2022 Descubre los aspectos básicos del trabajo con PDF forms: Cómo añadir campos de formulario a cualquier PDF para recopilar información de otros, y cómo completar y firmar un formulario usted mismo.
 
-* **[Introducción a Acrobat DC](https://primetime.bluejeans.com/a2m/events/playback/98e95413-4743-4377-8649-baf8c10628d4){target=&quot;_blank&quot;}**
-Fecha: 23 de septiembre de 2021 Póngase en marcha con Adobe Acrobat y PDF. Lori DeFurio, Experto Principal en Productos de Adobe Document Cloud, le presentará la interfaz de Acrobat DC y le mostrará cómo:
-   * Crear PDF a partir de archivos de imagen y documentos: incluidos Word, Excel y PowerPoint
-   * Combinar varios archivos — PDF, Word, imágenes y mucho más — en un PDF editable
-   * Trabaje en cualquier lugar y en cualquier momento con Acrobat Web y dispositivos móviles
+* **[Añadir interactividad a los PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c3150e33-0164-4f94-ac46-aec99b843291/14ea3de0-529f-4c79-9020-cd0a4f98aab0){target=&quot;_blank&quot;}**
+Fecha: 24 de febrero de 2022 Únete a esta sesión para descubrir cómo hacer que tus PDF sean interactivos con vídeos, hipervínculos, botones, marcadores y mucho más.
 
-* **[Opciones de seguridad para tus PDF: Contraseñas y censura](https://acrobat-skill-builder-pdf-security.joinus.adobeevents.com?utm_source=exl&amp;utm_campaign=exl){target=&quot;_blank&quot;}**
-Fecha: 26 de agosto de 2021 Aprenda a evitar que otras personas vean, editen o copien un PDF y vea cómo puede eliminar información confidencial de forma permanente.
-
-* **[Consejos avanzados para crear PDF forms](https://acrobat-skill-builder-advanced-forms.joinus.adobeevents.com/register/registration/form){target=&quot;_blank&quot;}**
-Fecha: 29 de julio de 2021 Ya has visto cómo Acrobat DC puede ayudarte a crear y distribuir PDF forms fácilmente. Ahora tienes la oportunidad de hacer mucho más. En una sesión de 30 minutos repleta de sugerencias avanzadas, descubra las joyas ocultas en el cuadro de diálogo de propiedades de campo: y ir más allá con más interactividad.
-
-* **[Acrobat + Microsoft: Trabajar con PDF en la grabación a petición de Office y SharePoint](https://event.on24.com/wcc/r/3196868/BE965B6CCBF4D3F8CAA0BD9A9BE27D95){target=&quot;_blank&quot;}**
-Fecha: 24 de junio de 2021 Ya estás usando las aplicaciones de Microsoft todo el día, todos los días. Manténgase en contacto con su flujo llevando las herramientas del PDF a donde ya está trabajando.
-
-* **[Crear PDF forms rellenables en la grabación a petición de Acrobat DC](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&amp;referrer=&amp;eventid=3121725&amp;sessionid=1&amp;key=25B5B53B5D1C0C28817D573D38715E98&amp;regTag=&amp;V2=false&amp;sourcepage=register){target=&quot;_blank&quot;}**
-Fecha: 27 de mayo de 2021 Su trabajo está lleno de formularios que usted necesita que las personas completen y le regresen, ya sean inscripciones y registros, solicitudes o solicitudes de licencia. Únete a nosotros para obtener un Adobe Acrobat Skill Builder para aprender a crear un formulario rellenable en Acrobat DC.
-
-* **[Ir sin papel: Escanear, firmar y enviar grabación bajo demanda](https://event.on24.com/wcc/r/3032072/58D1594AD332B56C87C6791CACC48EEC){target=&quot;_blank&quot;}**
-Fecha: 22 de abril de 2021 Para este Adobe Acrobat Skill Builder, estamos celebrando el Día de la Tierra sin papel. Únase a la experta en Adobe Lori DeFurio para ver lo fácil que es pasar a la digital con Adobe Acrobat en el escritorio, en un navegador web y utilizando su dispositivo móvil.
-
-* **[Trabajar con contenido de PDF: editar y exportar grabación bajo demanda](https://event.on24.com/wcc/r/3032046/B8E6566A2137FD0647CA1ECB7F9C0C7D){target=&quot;_blank&quot;}**
-Fecha: 18 de marzo de 2021 Aprenda a editar y exportar contenido en los archivos PDF.
-
-* **[Introducción a Acrobat: Creación, combinación y organización de grabaciones a petición](https://event.on24.com/wcc/r/2989840/9372A25C3E59A72DB07F7A42161BC26B){target=&quot;_blank&quot;}**
-Fecha: 25 de febrero de 2021 Únase a la evangelista Adobe Lori DeFurio mientras le muestra cómo puede ponerse en marcha con Adobe Acrobat para mejorar su productividad y hacer su trabajo.
+* **[Productividad, esté donde esté](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/99e0622a-adf9-4a8b-918f-fd4f4b3a3235/53620704-6da7-4b88-97da-a1f9f0fff3f4){target=&quot;_blank&quot;}**
+Fecha: 27 de enero de 2022 Esta sesión te enseñará cómo acceder a tus herramientas favoritas de Acrobat desde cualquier navegador web o desde tu dispositivo móvil. Acrobat en la Web le permite trabajar desde cualquier lugar y la aplicación móvil de Acrobat extiende su productividad a los contextos en los que se desplaza.
