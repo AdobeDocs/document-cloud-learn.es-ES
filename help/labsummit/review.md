@@ -3,9 +3,9 @@ title: Compartir archivos de PDF y revisarlos en línea
 description: Aprenda algunos trucos y consejos para usar Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ Recibirá un aviso por correo electrónico una vez que los destinatarios hayan v
 
 ## Experiencia del revisor
 
-Los revisores reciben una invitación por correo electrónico con un vínculo al PDF a revisar. Cuando hacen clic en el vínculo o en el botón de **[!UICONTROL Revisión]** de la invitación, el PDF se abre en un navegador web. Pueden usar las herramientas de comentarios para añadir comentarios al PDF. También pueden usar las aplicaciones de escritorio de Acrobat Reader DC o Acrobat DC para añadir comentarios.
+Los revisores reciben una invitación por correo electrónico con un vínculo al PDF a revisar. Cuando hacen clic en el vínculo o en el botón de **[!UICONTROL Revisión]** de la invitación, el PDF se abre en un navegador web. Pueden usar las herramientas de comentarios para añadir comentarios al PDF. También pueden usar las aplicaciones de escritorio de Acrobat Reader o Acrobat para añadir comentarios.
 
 ## Envíe vínculos anónimos o públicos en un correo electrónico
 

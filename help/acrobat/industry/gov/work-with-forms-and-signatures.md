@@ -1,22 +1,24 @@
 ---
-title: '5 consejos para trabajar en cualquier lugar con Acrobat DC: trabajar con Forms y firmas'
-description: Aprenda a permanecer digital al rellenar formularios
+title: 'Cinco consejos para trabajar con Acrobat desde cualquier lugar: trabajar con Forms y las firmas'
+description: Descubre cómo mantenerte digital al rellenar formularios
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 5f505e95db7bd069f81e810978c8de67ebad0549
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 5 consejos para trabajar en cualquier lugar con Acrobat DC: trabajar con Forms y firmas
+# Cinco consejos para trabajar con Acrobat en cualquier parte: trabajar con formularios y firmas
 
-En algún momento todos deben rellenar formularios. Como no siempre tienes acceso a una impresora, aprende a mantenerte digital al rellenar formularios.
+Todo el mundo en algún momento necesita rellenar formularios. Como no siempre tiene acceso a una impresora, aprenda a mantenerse digital al rellenar formularios.
 
-## Sugerencia n.º 4 - Work with forms and signatures (7:03) (Trabajo con formularios y firmas, en inglés)
+## Consejo n.º 4 - Trabajar con formularios y firmas (7:03)
 
->[!VIDEO](https://video.tv.adobe.com/v/34512)
+>[!VIDEO](https://video.tv.adobe.com/v/34512?hidetitle=true)
+
+[Ir al consejo n.º 5: Escanea y edita en dispositivos móviles](scan-and-edit-on-mobile.md)
