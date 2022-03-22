@@ -1,23 +1,23 @@
 ---
-title: Introducción
-description: Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguimiento de documentos con estos breves tutoriales paso a paso
+title: Introducción a Acrobat Sign
+description: Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
-# Introducción
+# Introducción a la introducción
 
-![Imagen de inicio de Sign](../assets/Hero-GettingStarted.png)
+![Imagen de introducción a Sign](../assets/Hero-GettingStarted.png)
 
-Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguimiento de documentos con estos breves tutoriales paso a paso. Obtenga una visita rápida a Adobe Sign y, a continuación, envíe un documento a una o más personas. Este contenido está diseñado para facilitar los flujos de trabajo de firma electrónica.
+Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Adobe Sign y, después, empieza a enviar un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
 
 ## Enviando
 
@@ -25,32 +25,32 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Quick tour of Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Visita guiada rápida de Adobe Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Quick tour of Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Visita guiada rápida de Adobe Sign</strong></a>
     </div>
-    <em>Realice un recorrido rápido por la interfaz de Adobe Sign para empezar a trabajar</em>
+    <em>Date una vuelta rápida por la interfaz de Adobe Sign para empezar a trabajar</em>
     <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Enviar a un solo destinatario" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Enviar a un único destinatario" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Enviar a un solo destinatario</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Enviar a un único destinatario</strong></a>
     </div>
-    <em>Sumérjase y descubra lo fácil que es enviar un documento para firmar</em>
+    <em>Entra y descubre lo fácil que es enviar un documento para que se firme</em>
     <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Envío a varios destinatarios" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Enviar a varios destinatarios" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Envío a varios destinatarios</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Enviar a varios destinatarios</strong></a>
     </div>
-    <em>Enviar un documento para su firma electrónica a más de una persona en el orden que desee</em>
+    <em>Envía un documento para su firma electrónica a más de una persona exactamente en el orden que desees</em>
     <br>
   </td>
 </tr>
@@ -66,12 +66,12 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -89,27 +89,27 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
     </div>
-    <em>Descubra lo fácil que es firmar un documento que se le ha enviado con Adobe Sign</em>
+    <em>Descubre lo fácil que es firmar un documento que te han enviado con Adobe Sign</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Rellenado y firma de un documento" src="../assets/FillandSign.png" />
+      <img alt="Rellenar y firmar un documento" src="../assets/FillandSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Rellenado y firma de un documento</strong></a>
+    <a href="fill-and-sign.md"><strong>Rellenar y firmar un documento</strong></a>
     </div>
-    <em>Rellenar formularios y agregar su firma electrónica a documentos</em>
+    <em>Rellena formularios y añade tu firma electrónica a los documentos</em>
     <br>
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Obtener una firma en persona" src="../assets/In-person.png" />
+      <img alt="Obtención de una firma en persona" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Obtener una firma en persona</strong></a>
+    <a href="sign-in-person.md"><strong>Obtención de una firma en persona</strong></a>
     </div>
-    <em>Obtener la firma personal de otra persona mediante la aplicación móvil de Adobe Sign</em>
+    <em>Obtener la firma de otra persona mediante la aplicación móvil de Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -121,7 +121,7 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>¿Qué es una firma digital?</strong></a>
     </div>
-    <em>Obtenga más información sobre las firmas digitales basadas en certificados</em>
+    <em>Más información sobre las firmas digitales basadas en certificados</em>
     <br>
   </td>
   <td>
@@ -135,14 +135,14 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
      <br>
   </td> 
   <td>
-    <img alt="Espaciador" src="../assets/Grayspacer.png" />
+    <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
 </tr>  
 </table>
 
-## Administración
+## Gestión
 
 <table style="table-layout:fixed">
 <tr>
@@ -153,7 +153,7 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
     <div>
     <a href="manage-and-track.md"><strong>Administrar y realizar un seguimiento de los acuerdos</strong></a>
     </div>
-    <em>Aprenda a gestionar y realizar un seguimiento de los acuerdos enviados para firmar</em>
+    <em>Aprenda a administrar y realizar un seguimiento de los acuerdos enviados para firmar</em>
     <br>
   </td>
   <td>
@@ -163,7 +163,7 @@ Obtenga información actualizada sobre cómo enviar, firmar y realizar un seguim
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creación de una plantilla de documento</strong></a>
     </div>
-    <em>Crear una plantilla de documento reutilizable para proporcionar velocidad y coherencia a su organización</em>
+    <em>Crea una plantilla de documento reutilizable para proporcionar velocidad y coherencia a tu organización</em>
     <br>
   </td>
   <td>

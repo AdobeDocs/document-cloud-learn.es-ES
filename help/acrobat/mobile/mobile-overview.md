@@ -1,6 +1,6 @@
 ---
-title: Información general sobre dispositivos móviles
-description: Crear, rellenar y firmar PDF en el dispositivo móvil
+title: Descripción general de Acrobat Mobile
+description: Crea, rellena y firma PDF en tu dispositivo móvil
 role: User
 product: adobe acrobat
 level: Intermediate
@@ -8,18 +8,18 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# Información general sobre dispositivos móviles
+# Introducción a Mobile
 
-![Acrobat Mobile Image](../assets/Hero-Mobile.png)
+![Imagen de Acrobat Mobile](../assets/Hero-Mobile.png)
 
-Cree, rellene y firme PDF en su dispositivo móvil.
+Crea, rellena y firma PDF en tu dispositivo móvil.
 
 ## Tutoriales de aplicaciones móviles de Acrobat Reader
 
@@ -32,30 +32,30 @@ Cree, rellene y firme PDF en su dispositivo móvil.
     <div>
      <a href="../getting-started/productivity.md"><strong>Productividad sobre la marcha</strong></a>
     </div>
-    <em>Haga más directamente desde su tableta o teléfono móvil con la aplicación móvil de Acrobat Reader</em>
+    <em>Haz más directamente desde tu tableta o teléfono móvil con la aplicación móvil de Acrobat Reader</em>
     <br>
   </td>
   <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Espaciador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-Descargar [Aplicación móvil de Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} es el estándar global gratuito para ver, anotar y firmar PDF de forma fiable.
+Descargar [Aplicación móvil de Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target=&quot;_blank&quot;} el estándar gratuito global para ver, anotar y firmar PDF de forma fiable.
 
-[Guía móvil de Acrobat Reader para iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
-[Guía móvil de Acrobat Reader para Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
+[Guía de Acrobat Reader para móviles iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target=&quot;_blank&quot;}
+[Guía de Acrobat Reader para dispositivos móviles Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target=&quot;_blank&quot;}
 
-Descargar [Aplicación móvil de Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} para capturar cualquier documento en papel y transformarlo en un PDF de alta calidad con texto que pueda buscar.
+Descargar [Aplicación móvil de Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target=&quot;_blank&quot;} para capturar cualquier documento en papel y transformarlo en un PDF de alta calidad con texto en el que se pueden realizar búsquedas.
 
-[Guía móvil de Adobe Scan para iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
-[Guía móvil de Adobe Scan para Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
+[Guía de Adobe Scan para móviles iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target=&quot;_blank&quot;}
+[Guía de Adobe Scan para dispositivos móviles Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target=&quot;_blank&quot;}
 
-Descargar [Aplicación móvil de Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} para rellenar, firmar y enviar cualquier formulario desde cualquier lugar, en cualquier dispositivo, usando solo el dedo o un lápiz stylus.
+Descargar [Aplicación móvil de Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target=&quot;_blank&quot;} para rellenar, firmar y enviar cualquier formulario desde cualquier parte, en cualquier dispositivo, usando solo un dedo o un puntero.
