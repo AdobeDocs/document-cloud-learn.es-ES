@@ -1,5 +1,5 @@
 ---
-title: Forms de Contratos y Solicitudes
+title: Contratos comerciales y solicitud Forms
 description: Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, y completa con informes de auditoría
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Contratos y formularios de solicitud
+# Contratos comerciales y formularios de solicitud
 
 Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Obtén información sobre la herramienta Diseñador de flujos de trabajo de Adobe Sign para ayudar a optimizar todo el proceso.
 
