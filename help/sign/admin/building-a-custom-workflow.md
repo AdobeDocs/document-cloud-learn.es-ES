@@ -1,30 +1,30 @@
 ---
 title: Creación de un flujo de trabajo personalizado
-description: Aprenda a personalizar y automatizar los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y recopilar datos de formularios
+description: Aprende a adaptar y automatizar los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y recopilar datos de formularios
 role: User, Admin
 product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # Creación de un flujo de trabajo personalizado
 
-En este tutorial de vídeo, aprenda a personalizar y automatizar los flujos de trabajo de los documentos para obtener firmas electrónicas, recopilar datos de formulario y confirmar la entrega de un documento importante para agilizar la gestión del flujo de trabajo.
+Aprende a adaptar y automatizar los flujos de trabajo de documentos para obtener firmas electrónicas, recopilar datos de formularios y confirmar la entrega de un documento importante para optimizar la gestión de flujos de trabajo.
 
-Consulte estos casos de uso adicionales en el mundo real:
+Echa un vistazo a estos casos prácticos adicionales del mundo real:
 
-* [Caso Contratos de la Administración Pública y ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) Formsuse de Solicitudes.
-* [Caso de contratos comerciales y ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) formularios de solicitud.
+* [Forms de Contratos y Solicitudes de la Administración Pública](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) caso práctico.
+* [Contratos comerciales y solicitud Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) caso práctico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Introducción a Adobe Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte del curso [Introducción a Adobe Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) que está disponible de forma gratuita en el Experience League!
