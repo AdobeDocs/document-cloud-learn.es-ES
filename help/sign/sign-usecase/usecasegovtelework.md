@@ -3,11 +3,11 @@ title: Acuerdo de Teletrabajo Gubernamental
 description: Recopila firmas de forma eficaz de todos tus empleados en acuerdos de teletrabajo, actualizaciones de políticas y mucho más
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

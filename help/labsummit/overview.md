@@ -1,21 +1,21 @@
 ---
-title: Descripción general e introducción de Lab
-description: Aprenda algunos trucos y sugerencias para usar Adobe Document Cloud
-solution: Document Cloud
+title: Introducción y descripción general del laboratorio
+description: Aprenda algunos trucos y consejos para usar Adobe Document Cloud
+solution: Acrobat, Acrobat Sign
 exl-id: 254bfc9f-fb19-4e4e-a91f-b08a1b3da87f
-source-git-commit: 99ed9ab8bc276df2011e8a693c043a9d3e1fba17
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Descripción general e introducción de Lab
+# Introducción y descripción general del laboratorio
 
-¿Sabía que el Document Cloud y sus productos principales, Acrobat y Sign, son algunas de las herramientas de productividad más utilizadas hoy en día? Son utilizados por equipos de negocios y marketing en más del 80% de las empresas de Fortune 100.
+¿Sabías que Document Cloud y sus productos principales, Acrobat y Sign, son algunas de las herramientas de productividad más utilizadas en la actualidad? Los utilizan los equipos de negocios y marketing de más del 80 % de las empresas de la lista Fortune 100.
 
-En este laboratorio, lleve su productividad y creatividad al siguiente nivel aprendiendo a:
+En este laboratorio, lleva tu productividad y creatividad al siguiente nivel aprendiendo cómo:
 
-* Go Digital with PDF
-* Haga más cosas con PDF
-* Transforma experiencias de clientes y empleados
+* Pásate a lo digital con PDF
+* Haz más con PDF
+* Transforma las experiencias de los clientes y empleados

@@ -1,13 +1,13 @@
 ---
-user-guide-title: Dé rienda suelta a las experiencias digitales con Adobe Document Cloud
-solution: Document Cloud
+user-guide-title: Desata experiencias digitales con Adobe Document Cloud
+solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
 getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-source-git-commit: 679051e07b81b9e02dbf62d259b79ff1209901fc
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 ---
 
 
-# Dé rienda suelta a las experiencias digitales con Adobe Document Cloud {#lab719}
+# Desata experiencias digitales con Adobe Document Cloud {#lab719}
 
-+ [Descripción general e introducción de Lab](overview.md)
-+ Dé rienda suelta a las experiencias digitales con Adobe Document Cloud {#gsd}
-   + [Dé rienda suelta a las experiencias digitales con Adobe Document Cloud](gsd.md)
-   + [Ejemplo: Digitalizar cualquier formulario](scan.md)
++ [Introducción y descripción general del laboratorio](overview.md)
++ Desata experiencias digitales con Adobe Document Cloud {#gsd}
+   + [Desata experiencias digitales con Adobe Document Cloud](gsd.md)
+   + [Ejemplo 1: Digitalizar cualquier formulario](scan.md)
    + [Ejemplo 2: Rellenar y firmar cualquier formulario](fillsign.md)
-   + [Ejemplo: Compartir archivos PDF y revisarlos en línea](review.md)
+   + [Ejemplo 3: Compartir archivos de PDF y revisarlos en línea](review.md)

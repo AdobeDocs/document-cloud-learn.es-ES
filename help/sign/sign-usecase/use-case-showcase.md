@@ -3,12 +3,12 @@ title: Caso práctico
 description: Los casos prácticos son una sesión retransmitida en directo en la que se presentan nuevos casos prácticos y tendencias de Adobe Sign y se muestra cómo puede su organización implementarlos y beneficiarse de ellos
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -23,7 +23,7 @@ El caso práctico es una sesión retransmitida en directo en la que se presentan
 
 A continuación se muestran grabaciones o vínculos de registro para las últimas sesiones:
 
-## Sesiones de 2021
+## 2021 sessions
 
 * **[El camino de AbbVie hacia la transformación digital](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
 Fecha: 4 de agosto de 2021 La estrategia de AbbVie es ofrecer medicamentos innovadores y tener un impacto notable en la vida de las personas. Para aumentar la agilidad y liberar a los empleados para que se centren en un trabajo más complejo, la empresa está trabajando para automatizar algunos de sus procesos empresariales, y la transición para dejar de usar el lápiz y el papel es un primer paso crucial. Únete a nosotros en una conversación con AbbVie para conocer sus objetivos, estrategia y procesos para lograr el éxito de la transformación digital.
@@ -33,8 +33,8 @@ Fecha: 4 de agosto de 2021 La estrategia de AbbVie es ofrecer medicamentos innov
 
 Únete a nosotros en una conversación entre bastidores con Volvo Cars, para discutir cómo han tomado grandes ideas y cómo las han convertido en realidades, y cómo otras empresas pueden aprender de sus experiencias de transformación.
 
-* **[Cinco formas en las que las agencias gubernamentales transformarán la grabación bajo demanda en 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
-¿Cómo puede Adobe Sign ayudar a las agencias gubernamentales a servir mejor a sus electores? Tanto los ciudadanos como los empleados esperan ahora experiencias online más atractivas. Además, para digitalizarlos, los procesos de la administración pública deben cumplir estrictos requisitos de seguridad, privacidad y cumplimiento normativo. Cuando se desencadenó la pandemia, los organismos públicos tuvieron que intensificar sus esfuerzos de transformación digital para seguir satisfaciendo las necesidades de sus ciudadanos y mantener la continuidad operativa.
+* **[5 Ways Government Agencies Will Transform in 2021 on-demand recording](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
+How can Adobe Sign help governmental agencies better serve their constituents? Tanto los ciudadanos como los empleados esperan ahora experiencias online más atractivas. And to go digital, government processes must meet strict security, privacy, and compliance requirements. When the pandemic hit, government agencies had to ramp up their digital transformation efforts to continue to meet the needs of their constituents and maintain operational continuity.
 
 Únete a nosotros en el caso práctico de Adobe Sign para saber lo que dicen algunos expertos de la administración pública sobre los desafíos a los que se han enfrentado los organismos federales, estatales y locales, y cómo siguen innovando para mantener la administración pública en funcionamiento.
 
@@ -61,14 +61,14 @@ Enfoque: Funcionamiento de Adobe Sign en la administración pública estatal y l
 * **[Educación](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target=&quot;_blank&quot;}**
 Enfoque: Cómo funciona Adobe Sign para el sector educativo.
 
-* **[Ciencias de la vida](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
-Enfoque: Cómo funciona Adobe Sign para las ciencias biológicas.
+* **[Life Science](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
+Focus: How Adobe Sign works for Life Sciences.
 
 * **[Atención de salud](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target=&quot;_blank&quot;}**
-Enfoque: Cómo funciona Adobe Sign en el sector sanitario. Los temas incluyen: creciente uso de la telesalud y la transformación digital: infraestructura y ampliación.
+Enfoque: Cómo funciona Adobe Sign en el sector sanitario. Topics include: growing use of telehealth and digital transformation--infrastructure and scaling.
 
 * **[Servicios financieros](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target=&quot;_blank&quot;}**
-Enfoque: Cómo funciona Adobe Sign para la banca. Los temas incluyen: tendencias del sector a partir de 2020, documentos y procesos digitales como parte de una transformación digital más amplia, prácticas recomendadas, casos prácticos y las ventajas de Adobe Sign.
+Enfoque: Cómo funciona Adobe Sign para la banca. Topics include: industry trends 2020 and beyond, digital documents and processes as a part of a broader digital transformation, best practices, use cases, and the benefits of Adobe Sign.
 
-* **[Seguros](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
-Enfoque: Cómo funciona Adobe Sign para los servicios financieros y los seguros. Los temas incluyen: las tendencias del sector, el cumplimiento normativo y los requisitos normativos en el sector financiero, y ofrecer una excelente experiencia de usuario.
+* **[Insurance](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
+Focus: How Adobe Sign works for Financial Services and Insurance. Los temas incluyen: las tendencias del sector, el cumplimiento normativo y los requisitos normativos en el sector financiero, y ofrecer una excelente experiencia de usuario.
