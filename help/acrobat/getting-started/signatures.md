@@ -1,12 +1,13 @@
 ---
 title: Obtener firmas
-description: Mantenga el negocio en movimiento mediante la recopilación de firmas electrónicas legalmente vinculantes de otros — desde cualquier lugar
+description: Mantén tu empresa en marcha recopilando firmas electrónicas legalmente vinculantes de otras personas, desde cualquier lugar
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
-source-git-commit: 7db57badff0e39d003ec39b6b8ad7b615db71fd5
+exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -15,10 +16,10 @@ ht-degree: 0%
 
 # Obtener firmas
 
-Mantenga el negocio en movimiento mediante la recopilación de firmas electrónicas legalmente vinculantes de otros — desde cualquier lugar.
+Mantén tu empresa en marcha recopilando firmas electrónicas legalmente vinculantes de otras personas, desde cualquier lugar.
 
 >[!IMPORTANT]
 >
->Además de su suscripción a Acrobat Enterprise, debe tener derechos de Adobe Sign Enterprise.
+>Además de la suscripción a Acrobat Enterprise, debe tener derechos de Acrobat Sign Enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)

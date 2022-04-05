@@ -1,13 +1,13 @@
 ---
 title: Resumen de integraciones de Sign
-description: Aprenda a añadir Adobe Sign a los sistemas, procesos y aplicaciones existentes
+description: Aprenda a añadir Acrobat Sign a sus sistemas, procesos y aplicaciones existentes
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Firmar integrar imagen](../assets/Hero-Integrate.png)
 
-Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
+Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
 
 >[!NOTE]
 > Si tiene problemas para acceder a cualquiera de estas funciones, consulte al administrador de su organización para asegurarse de que la integración esté activada.
@@ -81,12 +81,12 @@ Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza,
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Automatización de documentos con Adobe Sign para Microsoft Power Platform" src="../assets/SF-Button.png" />
+      <img alt="Automatización de documentos con Acrobat Sign para Microsoft Power Platform" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Automatización de documentos con Adobe Sign para Microsoft Power Platform</strong></a>
+    <a href="documentautomation.md"><strong>Automatización de documentos con Acrobat Sign para Microsoft Power Platform</strong></a>
     </div>
-    <em>Obtenga información sobre cómo activar y usar los conectores de Adobe Sign y Adobe PDF Tools para Microsoft Power Apps</em>
+    <em>Obtenga información sobre cómo activar y usar los conectores de Acrobat Sign y Adobe PDF Tools para Microsoft Power Apps</em>
     <br>
   </td>
 </tr>
@@ -98,10 +98,10 @@ Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza,
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Creación de una plantilla de documento en Adobe Sign para Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Creación de una plantilla de documento en Acrobat Sign para Salesforce" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Creación de una plantilla de documento en Adobe Sign para Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Creación de una plantilla de documento en Acrobat Sign para Salesforce</strong></a>
     </div>
     <em>Crear una plantilla de documento reutilizable para proporcionar velocidad y coherencia</em>
     <br>
@@ -157,12 +157,12 @@ Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza,
 <tr>
   <td>
     <a href="workday.md">
-      <img alt="Configuración de Adobe Sign con Workday" src="../assets/WD-Configure.png" />
+      <img alt="Configuración de Acrobat Sign con Workday" src="../assets/WD-Configure.png" />
     </a>
     <div>
-    <a href="workday.md"><strong>Configuración de Adobe Sign con Workday</strong></a>
+    <a href="workday.md"><strong>Configuración de Acrobat Sign con Workday</strong></a>
     </div>
-    <em>Aprenda a configurar Adobe Sign para que funcione directamente en Workday y administre sin problemas todo el papeleo de RR. HH</em>
+    <em>Aprenda a configurar Acrobat Sign para que funcione directamente en Workday y administre sin problemas todo el papeleo de RR. HH</em>
     <br>
   </td>
   <td>
@@ -184,30 +184,30 @@ Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza,
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Enviar notificaciones con Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Enviar notificaciones con Acrobat Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Enviar notificaciones con Adobe Sign para Salesforce y Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Enviar notificaciones con Acrobat Sign para Salesforce y Marketo</strong></a>
     </div>
     <em>Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Tutorial de vídeo para enviar recordatorios con Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Tutorial de vídeo para enviar recordatorios con Acrobat Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Tutorial de vídeo para enviar recordatorios con Adobe Sign para Salesforce y Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Tutorial de vídeo para enviar recordatorios con Acrobat Sign para Salesforce y Marketo</strong></a>
     </div>
     <em>Obtenga información sobre cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="Enviar recordatorios con la guía de configuración de Adobe Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="Enviar recordatorios con la guía de configuración de Acrobat Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Enviar recordatorios con la guía de configuración de Adobe Sign para Salesforce y Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Enviar recordatorios con la guía de configuración de Acrobat Sign para Salesforce y Marketo</strong></a>
     </div>
     <em>Consulte cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
@@ -216,20 +216,20 @@ Puede utilizar Adobe Sign en otras aplicaciones que su organización ya utiliza,
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Enviar recordatorios con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Enviar recordatorios con Acrobat Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Enviar recordatorios con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Enviar recordatorios con Acrobat Sign para Microsoft Dynamics y Marketo</strong></a>
     </div>
     <em>Obtenga información sobre cómo enviar un recordatorio por correo electrónico cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Enviar notificaciones con Acrobat Sign para Microsoft Dynamics y Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Enviar notificaciones con Adobe Sign para Microsoft Dynamics y Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Enviar notificaciones con Acrobat Sign para Microsoft Dynamics y Marketo</strong></a>
     </div>
     <em>Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino</em>
     <br>

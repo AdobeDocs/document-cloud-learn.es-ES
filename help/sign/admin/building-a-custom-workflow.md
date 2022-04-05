@@ -3,11 +3,10 @@ title: Creación de un flujo de trabajo personalizado
 description: Aprende a adaptar y automatizar los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y recopilar datos de formularios
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -27,4 +26,4 @@ Echa un vistazo a estos casos prácticos adicionales del mundo real:
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Introducción a Adobe Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) que está disponible de forma gratuita en el Experience League!

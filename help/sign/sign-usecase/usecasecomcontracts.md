@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Contratos comerciales y formularios de solicitud
 
-Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Obtén información sobre la herramienta Diseñador de flujos de trabajo de Adobe Sign para ayudar a optimizar todo el proceso.
+Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Obtén más información sobre la herramienta Diseñador de flujos de trabajo de Acrobat Sign para ayudar a optimizar todo el proceso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 

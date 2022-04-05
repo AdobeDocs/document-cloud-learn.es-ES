@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Imagen avanzada de Sign](../assets/Hero-Advanced.png)
 
-Aprende a enviar un documento para que se firme a cientos de destinatarios a la vez, a configurar un documento listo para firmar para tu sitio web, a administrar transacciones de firma y a crear y administrar plantillas de documentos. Estos tutoriales están destinados a cualquier persona que ya esté familiarizada con los conceptos básicos del envío y la solicitud de firmas y que desee obtener más información sobre cómo Adobe Sign puede trabajar para ellos.
+Aprende a enviar un documento para que se firme a cientos de destinatarios a la vez, a configurar un documento listo para firmar para tu sitio web, a administrar transacciones de firma y a crear y administrar plantillas de documentos. Estos tutoriales están destinados a cualquier persona que ya esté familiarizada con los conceptos básicos del envío y la solicitud de firmas, y que desee obtener más información sobre cómo Acrobat Sign puede funcionar para ellos.
 
 ## Enviando
 
@@ -78,12 +78,12 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Etiquetado de texto de Adobe Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Adobe Sign</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
     </div>
-    <em>Creación de campos de formulario de Adobe Sign mediante el etiquetado de texto con Adobe Acrobat</em>
+    <em>Creación de campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
     <br>
   </td> 
 </table>
