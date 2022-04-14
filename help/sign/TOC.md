@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [Enviar a un único destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Enviar a varios destinatarios](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Introducción a Acrobat Sign para nuevos remitentes](sign-beginner-tutorials/new-sender.md)
+      + [Modificación de un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [Firmar electrónicamente un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Rellenar y firmar un documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + Gestión {#getting-started-managing}
       + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
       + [Creación de una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [Modificación de un documento ya enviado para firmar](sign-beginner-tutorials/modify-in-flight.md)
 + Tareas avanzadas {#advanced-tasks}
    + [Información general](sign-advanced-users/advanced-users-overview.md)
    + Enviando {#advanced-tasks-sending}

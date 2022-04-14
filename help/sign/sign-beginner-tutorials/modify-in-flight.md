@@ -1,24 +1,28 @@
 ---
-title: Modificación de un documento ya enviado para firmar
+title: Modificación de un documento tras su envío
 description: Obtenga información sobre cómo modificar el flujo de trabajo de un documento que ya está en curso
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
-thumbnail: 17343.jpg
+thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Modificación de un documento ya enviado para firmar
+# Modificación de un documento después de enviarlo
 
-Aprende a modificar un documento que ya se ha enviado para firmar, como cuando se envía un documento por error.
+Aprende a modificar un documento que ya se ha enviado para firmar, como cuando se envía un documento incorrecto por error.
 
->[!VIDEO](https://video.tv.adobe.com/v/17343?hidetitle=true)
+>[!NOTE]
+>
+>La modificación de un documento después de su envío solo está disponible para los planes de nivel Enterprise. Es posible que el administrador de Acrobat Sign deba activar la opción Modificar acuerdos en la sección Configuración de envío de Configuración de cuenta para utilizar esta función.
+
+>[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
 >[!TIP]
 >

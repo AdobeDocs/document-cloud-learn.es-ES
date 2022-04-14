@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Imagen de introducción a Sign](../assets/Hero-GettingStarted.png)
 
-Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, envía un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
+Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, empieza a enviar un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
 
 ## Enviando
 
@@ -65,10 +65,15 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <em>Este completo tutorial es un buen punto de partida para los nuevos remitentes en Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Modificación de un documento después de enviarlo" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Modificación de un documento después de enviarlo</strong></a>
+    </div>
     <br>
+    <em>Modificar un documento que ya está en curso</em>
   </td>
   <td>
     <img alt="Separador" src="../assets/Grayspacer.png" />
@@ -167,14 +172,9 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Modificación de un documento ya enviado para firmar" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Modificación de un documento ya enviado para firmar</strong></a>
-    </div>
     <br>
-    <em>Modificar el flujo de trabajo de un documento que ya está en curso</em>
   </td>
 </tr>
 </table>
