@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Modificación de un documento después de enviarlo
 
-Aprende a modificar un documento que ya se ha enviado para firmar, como cuando se envía un documento incorrecto por error.
+Aprende a modificar un documento que ya se ha enviado para firmar, como cuando se envía un documento incorrecto por error. La modificación de acuerdos solo se puede utilizar en documentos que cumplan los siguientes criterios:
+
+* El documento no se ha firmado, aprobado ni delegado
+* El documento no incluye una firma digital ni una firma escrita
+* El documento no se ha iniciado desde un flujo de trabajo personalizado
+
 
 >[!NOTE]
 >
