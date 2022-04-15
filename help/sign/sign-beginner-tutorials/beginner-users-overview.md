@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -75,10 +75,15 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <br>
     <em>Modificar un documento que ya está en curso</em>
   </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Sustitución de un firmante" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Sustitución de un firmante</strong></a>
+    </div>
     <br>
+    <em>Aprenda a cambiar el firmante de un documento que ya está en curso</em>
   </td>
 </tr>
 </table>
@@ -94,7 +99,7 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
     </div>
-    <em>Descubra lo fácil que es firmar un documento que se le ha enviado con Acrobat Sign</em>
+    <em>Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign</em>
     <br>
   </td>
   <td>
