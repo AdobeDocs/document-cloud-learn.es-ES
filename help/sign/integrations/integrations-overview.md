@@ -1,13 +1,13 @@
 ---
 title: Resumen de integraciones de Sign
-description: Aprenda a añadir Acrobat Sign a sus sistemas, procesos y aplicaciones existentes
+description: Aprenda a añadir Acrobat Sign a los sistemas, procesos y aplicaciones existentes
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Firmar integrar imagen](../assets/Hero-Integrate.png)
 
-Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
+Puede utilizar Acrobat Sign en otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
 
 >[!NOTE]
 > Si tiene problemas para acceder a cualquiera de estas funciones, consulte al administrador de su organización para asegurarse de que la integración esté activada.
@@ -197,7 +197,7 @@ Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya
       <img alt="Tutorial de vídeo para enviar recordatorios con Acrobat Sign para Salesforce y Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Tutorial de vídeo para enviar recordatorios con Acrobat Sign para Salesforce y Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Tutorial de vídeo para enviar recordatorios con Adobe Sign para Salesforce y Marketo</strong></a>
     </div>
     <em>Obtenga información sobre cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo</em>
     <br>
