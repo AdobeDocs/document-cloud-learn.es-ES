@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![Imagen de introducción a Sign](../assets/Hero-GettingStarted.png)
 
-Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, envía un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
+Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, empieza a enviar un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
 
 ## Enviando
 
@@ -72,8 +72,8 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <div>
     <a href="modify-in-flight.md"><strong>Modificación de un documento después de enviarlo</strong></a>
     </div>
-    <br>
     <em>Modificar un documento que ya está en curso</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <div>
     <a href="replace-signer.md"><strong>Sustitución de un firmante</strong></a>
     </div>
-    <br>
     <em>Aprenda a cambiar el firmante de un documento que ya está en curso</em>
+     <br>
   </td>
 </tr>
 </table>
@@ -99,7 +99,7 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
     </div>
-    <em>Descubra lo fácil que es firmar un documento que se le ha enviado con Acrobat Sign</em>
+    <em>Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign</em>
     <br>
   </td>
   <td>

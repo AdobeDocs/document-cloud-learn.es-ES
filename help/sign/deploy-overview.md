@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -33,11 +33,11 @@ Artículos de prácticas recomendadas con información valiosa sobre la implemen
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/es/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Prácticas recomendadas" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Prácticas recomendadas</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Prácticas recomendadas</strong></a>
     </div>
     <em>Revisar la información y los conocimientos valiosos obtenidos por el trabajo de nuestro administrador de éxito de clientes con nuestros clientes en la implementación de Acrobat Sign</em>
     <br>
@@ -59,7 +59,7 @@ Artículos de prácticas recomendadas con información valiosa sobre la implemen
       <img alt="Guía de estudio de aspectos esenciales de Acrobat Sign" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Guía de estudio de aspectos esenciales de Acrobat Sign</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Guía de estudio de Acrobat Sign Essentials</strong></a>
     </div>
     <em>Guía de estudio de Acrobat Sign para la evaluación de aspectos esenciales de Acrobat Sign (AD3-D104)</em>
     <br>
