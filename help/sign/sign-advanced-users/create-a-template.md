@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Creación de una plantilla de documento
 
-Aprenda a crear una plantilla de documento reutilizable y agregarla a la biblioteca de Acrobat Sign para su uso futuro. Las plantillas de documento proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar las revisiones y los cambios del documento.
+Aprenda a crear una plantilla de documento reutilizable y agregarla a su biblioteca de Acrobat Sign para su uso futuro. Las plantillas de documento proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar las revisiones y los cambios del documento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 

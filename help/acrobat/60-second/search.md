@@ -1,6 +1,6 @@
 ---
-title: Buscar varios archivos PDF a la vez
-description: Iniciar una búsqueda en un archivo PDF y, a continuación, abrir Búsqueda avanzada y buscar una carpeta completa de archivos PDF
+title: Buscar varios archivos de PDF a la vez
+description: Inicie una búsqueda en un archivo de PDF y, a continuación, abra Búsqueda avanzada y busque en toda una carpeta de archivos de PDF
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Buscar varios archivos PDF a la vez
+# Buscar varios archivos de PDF a la vez
 
-En este tutorial de vídeo de 60 segundos, aprenda a iniciar una búsqueda en un archivo PDF y, a continuación, abra Búsqueda avanzada y busque una carpeta completa de archivos PDF.
+En este tutorial en vídeo de 60 segundos, aprende a iniciar una búsqueda en un archivo de PDF, luego abre la búsqueda avanzada y busca en toda una carpeta de archivos de PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

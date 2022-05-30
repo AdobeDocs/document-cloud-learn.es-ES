@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sign Skill Builder
-description: Los creadores de aptitudes de Acrobat Sign son sesiones de 30 minutos diseñadas para poner tus firmas electrónicas a trabajar, sin añadir más trabajo a tu día
+description: Los creadores de habilidades de Acrobat Sign son sesiones de 30 minutos diseñadas para poner tus firmas electrónicas a trabajar, sin añadir más trabajo a tu día
 role: User
 product: adobe sign
 level: Intermediate
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Banner de Skill Builder](../assets/SB_Hero.png)
 
-Los creadores de aptitudes de Acrobat Sign son sesiones de 30 minutos diseñadas para poner tus firmas electrónicas a trabajar, sin añadir más trabajo a tu día. Cada mes se resalta un nuevo tema.
+Los creadores de habilidades de Acrobat Sign son sesiones de 30 minutos diseñadas para poner tus firmas electrónicas a trabajar, sin añadir más trabajo a tu día. Cada mes se resalta un nuevo tema.
 
 ## Sesiones mensuales
 
@@ -38,7 +38,7 @@ Fecha: 19 de mayo de 2022 Descubre los consejos y las prácticas recomendadas m�
 Fecha: 14 de abril de 2022 Descubre los consejos y las prácticas recomendadas más recientes para transformar los flujos de trabajo empresariales y conseguir que los documentos importantes se firmen rápidamente.
 
 * **[Recopila muchas firmas con un solo clic](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/44e4b483-7d05-44b3-b7e7-b265c9b84d07/2736bed0-b416-4578-ac3f-a57491f22c26){target=&quot;_blank&quot;}**
-Fecha: La función Enviar en bloque de Adobe Acrobat Sign del 17 de marzo de 2022 le permite enviar un solo documento a cientos de firmantes. Cuando necesites que varias personas firmen copias únicas del mismo acuerdo de confidencialidad, formulario de cesión, actualización de la política para toda la empresa o cualquier otro documento de un solo firmante, ahorrarás tiempo preparando el archivo una vez y recopilando automáticamente las respuestas individuales.
+Fecha: 17 de marzo de 2022 La función Enviar en bloque de Adobe Acrobat Sign le permite enviar un solo documento a cientos de firmantes. Cuando necesites que varias personas firmen copias únicas del mismo acuerdo de confidencialidad, formulario de cesión, actualización de la política para toda la empresa o cualquier otro documento de un solo firmante, ahorrarás tiempo preparando el archivo una vez y recopilando automáticamente las respuestas individuales.
 
 * **[Preparar acuerdos para su firma electrónica](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9024b058-ade1-420f-87f0-68bd5f6d527a/cf8b172f-b9df-41ef-bfce-e6d4b0c3ddf4){target=&quot;_blank&quot;}**
 Fecha: 17 de febrero de 2022 Descubre tres formas sencillas de configurar tus documentos para que se firmen electrónicamente. Ya sean PDF, archivos de Microsoft 365 o incluso un simple archivo de imagen, esta sesión te dará las herramientas que necesitas para que ese documento se firme. Trataremos tres métodos: - El sencillo entorno de creación de arrastrar y soltar de Acrobat Sign - Configurar un formulario de PDF en Adobe Acrobat - Utilizar etiquetas de texto para la creación rápida de documentos.

@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Introducción a Mobile
+# Introducción a dispositivos móviles
 
-![Imagen de Acrobat Mobile](../assets/Hero-Mobile.png)
+![Imagen móvil de Acrobat](../assets/Hero-Mobile.png)
 
 Crea, rellena y firma PDF en tu dispositivo móvil.
 

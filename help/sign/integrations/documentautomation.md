@@ -30,10 +30,10 @@ Obtenga información sobre cómo activar y usar los conectores de Acrobat Sign y
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Parte 2: Proceso de aprobación automatizado para obtener la firma electrónica con Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Parte 2: Proceso de aprobación automatizado para obtener firmas electrónicas con Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Parte 2: Proceso de aprobación automatizado para obtener la firma electrónica con Acrobat Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Parte 2: Proceso de aprobación automatizado para obtener firmas electrónicas con Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -125,7 +125,7 @@ En la primera parte, utilizarás una plantilla de Power Automate Flow para confi
 
 Probará este flujo en la siguiente parte.
 
-## Parte 2: Proceso de aprobación automatizado para obtener la firma electrónica con Acrobat Sign {#part2}
+## Parte 2: Proceso de aprobación automatizado para obtener firmas electrónicas con Acrobat Sign {#part2}
 
 En la segunda parte, construimos la primera parte con un Flow más robusto y probamos ambos Flow para verlos en acción.
 
@@ -183,7 +183,7 @@ En la segunda parte, construimos la primera parte con un Flow más robusto y pro
 
    ![Captura de pantalla del menú de búsqueda](assets/documentautomation/automation_16.png)
 
-1. Introduzca &quot;cargar&quot; en el cuadro de búsqueda de Acrobat Sign y seleccione **Cargar un documento y obtener un ID de documento**.
+1. Introduce &quot;cargar&quot; en el cuadro de búsqueda de Acrobat Sign y selecciona **Cargar un documento y obtener un ID de documento**.
 1. Buscar la variable dinámica **Nombre** para obtener el nombre del elemento/documento seleccionado en el activador en **Nombre de archivo**.
 1. Haga clic en **Expresión** en el asistente variable bajo **Contenido del archivo**.
 

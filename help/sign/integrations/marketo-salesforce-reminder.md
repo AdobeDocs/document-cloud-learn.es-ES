@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Enviar recordatorios con Acrobat Sign para Salesforce y la Guía de configuración de Marketo
 
-Obtenga información sobre cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo. Esta integración utiliza Acrobat Sign, Acrobat Sign para Salesforce, Marketo y la sincronización de Marketo y Salesforce.
+Obtenga información sobre cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo. Esta integración utiliza Acrobat Sign, Acrobat Sign para Salesforce, Marketo y Marketo y Salesforce Sync.
 
 ## Requisitos previos
 
@@ -31,7 +31,7 @@ Obtenga información sobre cómo enviar un recordatorio por correo electrónico 
 
 ## Buscar el objeto personalizado
 
-Cuando se completan las configuraciones Sincronización de Marketo Salesforce y Acrobat Sign para Salesforce , aparecen varias opciones nuevas en el Terminal de administración de Marketo.
+Cuando las configuraciones Sincronización de Marketo Salesforce y Acrobat Sign para Salesforce se han completado, aparecen varias opciones nuevas en el Terminal de administración de Marketo.
 
 ![Administrador](assets/adminTab.png)
 

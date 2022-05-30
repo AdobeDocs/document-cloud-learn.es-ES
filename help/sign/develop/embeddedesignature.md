@@ -1,6 +1,6 @@
 ---
 title: Crear firmas electrónicas incrustadas y experiencias con documentos
-description: Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias con documentos en tus plataformas web y sistemas de gestión de documentos y contenido
+description: Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias con documentos en tus plataformas web y sistemas de gestión de contenidos y documentos
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Crea firmas electrónicas incrustadas y experiencias con documentos
 
-Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias con documentos en tus plataformas web y sistemas de gestión de documentos y contenido. Este tutorial práctico consta de cuatro partes que se describen en los vínculos siguientes:
+Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias de documentos en tus plataformas web y sistemas de gestión de contenidos y documentos. Este tutorial práctico consta de cuatro partes que se describen en los vínculos siguientes:
 
 <table style="table-layout:fixed">
 <tr>
@@ -98,7 +98,7 @@ En primer lugar, deberá establecer el acceso. Con Acrobat Sign, hay dos formas 
 
 Ahora que tiene acceso a la API y puede interactuar con ella, consulte lo que puede hacer con ella.
 
-1. Vaya a la [Métodos de la API REST versión 6 de Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
+1. Vaya a la [Métodos de la versión 6 de la API REST de Acrobat Sign](http://adobesign.com/public/docs/restapi/v6).
 
    ![Captura de pantalla de navegación por los métodos de la API REST versión 6 de Acrobat Sign](assets/embeddedesignature/embed_5.png)
 

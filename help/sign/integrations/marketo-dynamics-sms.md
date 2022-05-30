@@ -15,9 +15,9 @@ ht-degree: 1%
 
 ---
 
-# Send notifications using Acrobat Sign for Microsoft Dynamics 365 and Marketo
+# Enviar notificaciones con Acrobat Sign para Microsoft Dynamics 365 y Marketo
 
-Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way using Acrobat Sign, Acrobat Sign for Microsoft Dynamic, Marketo, and the Marketo Microsoft Dynamics Sync. To send notifications from Marketo, you first need to purchase or configure a Marketo SMS management feature. Este tutorial utiliza [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), pero hay otras soluciones SMS de Marketo disponibles.
+Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino mediante Acrobat Sign, Acrobat Sign para Microsoft Dynamic, Marketo y Marketo Microsoft Dynamics Sync. Para enviar notificaciones desde Marketo, primero debe adquirir o configurar una función de administración de SMS de Marketo. Este tutorial utiliza [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), pero hay otras soluciones SMS de Marketo disponibles.
 
 ## Requisitos previos
 
@@ -41,9 +41,9 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
    ![Actualizar](assets/refreshSchema.png)
 
-## Sync the custom object
+## Sincronizar el objeto personalizado
 
-1. On the right side, locate [!UICONTROL Lead], [!UICONTROL Contact], and [!UICONTROL Account]-based custom objects.
+1. En el lado derecho, localice [!UICONTROL Plomo], [!UICONTROL Contacto]y [!UICONTROL Cuenta]objetos personalizados basados en el usuario.
 
    * **[!UICONTROL Habilitar sincronización]** para los objetos en Candidato si desea activar cuando se añade un Candidato a un acuerdo en Dynamics.
 
@@ -85,11 +85,11 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
    ![Nuevo programa 2](assets/newProgram2.png)
 
-## Set up [!DNL Twilio] SMS
+## Configuración [!DNL Twilio] SMS
 
 Primero asegúrese de que tiene un [!DNL Twilio] y ha adquirido las funciones SMS que necesita.
 
-Setting up the Marketo - [!DNL Twilio] SMS webhook requires three [!DNL Twilio] parameters from your account.
+Configuración de Marketo: [!DNL Twilio] SMS webhook requiere tres [!DNL Twilio] de su cuenta.
 
 * SID de cuenta
 * Token de cuenta

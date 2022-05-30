@@ -1,6 +1,6 @@
 ---
 title: Tablas complejas
-description: 'Esta sesión a petición aborda uno de los problemas más comunes y difíciles de corregir un PDF para accesibilidad: tablas complejas'
+description: Esta sesión bajo demanda aborda uno de los problemas más comunes y complejos relacionados con la corrección de tablas complejas de accesibilidad de un PDF
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Tablas complejas
 
-Esta sesión a petición aborda uno de los problemas más comunes y difíciles de corregir un PDF para accesibilidad: tablas complejas.
+Esta sesión bajo demanda aborda uno de los problemas más comunes y complejos relacionados con la corrección de tablas complejas de accesibilidad de un PDF.
 
-Haga clic [aquí](../assets/accessibilitysession3.zip) para descargar un archivo zip de los archivos prácticos para esta sesión.
+Haga clic en [aquí](../assets/accessibilitysession3.zip) para descargar un archivo zip de los archivos prácticos de esta sesión.
 
-Seleccione la imagen para ver el vídeo en una ficha diferente del navegador.
+Seleccione la imagen para ver el vídeo en una pestaña diferente del navegador.
 
-[![Vídeo](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y) de la sesión 3{target=&quot;_blank&quot;}
+[![Vídeo de la sesión 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

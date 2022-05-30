@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Configurar Acrobat Sign para Workday
 
-Optimiza tus flujos de trabajo de firmas y haz que tu equipo sea aún más productivo con Acrobat Sign para Workday. En este tutorial de vídeo, aprenderá a configurar Acrobat Sign para que funcione directamente en Workday y gestionar sin problemas todo el papeleo de RR. HH.
+Optimiza tus flujos de trabajo de firmas y haz que tu equipo sea aún más productivo con Acrobat Sign para Workday. En este tutorial de vídeo, aprenderá a configurar Acrobat Sign para que funcione directamente en Workday y administre sin problemas todo el papeleo de RR. HH.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)

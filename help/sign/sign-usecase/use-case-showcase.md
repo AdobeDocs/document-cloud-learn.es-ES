@@ -1,6 +1,6 @@
 ---
 title: Caso práctico
-description: Los casos prácticos son una sesión retransmitida en directo que presenta nuevos casos prácticos y tendencias de Acrobat Sign, y muestra cómo puede su organización implementarlos y beneficiarse de ellos
+description: Los casos prácticos son una sesión retransmitida en directo en la que se presentan nuevos casos prácticos y tendencias de Acrobat Sign y se muestra cómo puede su organización implementarlos y beneficiarse de ellos
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![banner de caso de uso](../assets/UCSC_Rebrand.png)
 
-El caso práctico es una sesión retransmitida en directo que presenta nuevos casos prácticos y tendencias de Acrobat Sign, así como la forma en la que su organización puede implementarlos y beneficiarse de ellos. Cada mes se resalta un nuevo tema.
+El caso práctico es una sesión retransmitida en directo en la que se presentan nuevos casos prácticos y tendencias de Acrobat Sign y se muestra cómo puede tu organización implementarlos y beneficiarse de ellos. Cada mes se resalta un nuevo tema.
 
 A continuación se muestran grabaciones o vínculos de registro para las últimas sesiones:
 
@@ -34,7 +34,7 @@ Fecha: 4 de agosto de 2021 La estrategia de AbbVie es ofrecer medicamentos innov
 Únete a nosotros en una conversación entre bastidores con Volvo Cars, para discutir cómo han tomado grandes ideas y cómo las han convertido en realidades, y cómo otras empresas pueden aprender de sus experiencias de transformación.
 
 * **[Cinco formas en las que las agencias gubernamentales transformarán la grabación bajo demanda en 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
-¿Cómo puede Acrobat Sign ayudar a las agencias gubernamentales a prestar un mejor servicio a sus electores? Tanto los ciudadanos como los empleados esperan ahora experiencias online más atractivas. Además, para digitalizarlos, los procesos de la administración pública deben cumplir estrictos requisitos de seguridad, privacidad y cumplimiento normativo. Cuando se desencadenó la pandemia, los organismos públicos tuvieron que intensificar sus esfuerzos de transformación digital para seguir satisfaciendo las necesidades de sus ciudadanos y mantener la continuidad operativa.
+¿Cómo puede Acrobat Sign ayudar a las agencias gubernamentales a servir mejor a sus electores? Tanto los ciudadanos como los empleados esperan ahora experiencias online más atractivas. Además, para digitalizarlos, los procesos de la administración pública deben cumplir estrictos requisitos de seguridad, privacidad y cumplimiento normativo. Cuando se desencadenó la pandemia, los organismos públicos tuvieron que intensificar sus esfuerzos de transformación digital para seguir satisfaciendo las necesidades de sus ciudadanos y mantener la continuidad operativa.
 
 Únete a nosotros en el caso práctico de Acrobat Sign para saber lo que dicen algunos expertos de la administración pública sobre los desafíos a los que se han enfrentado los organismos federales, estatales y locales, y cómo siguen innovando para mantener la administración pública en funcionamiento.
 
@@ -50,7 +50,7 @@ Enfoque: Nuestros panelistas analizan cómo gestionan los departamentos jurídic
 Enfoque: Los expertos en Adobe destacan las prácticas recomendadas para una transformación digital correcta en las adquisiciones, y el debate abarca las tendencias del sector y los requisitos para ofrecer experiencias de usuario excelentes.
 
 * **[Adquisiciones y logística](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target=&quot;_blank&quot;}**
-Enfoque: Funcionamiento de Acrobat Sign en adquisiciones y logística
+Enfoque: Cómo trabaja Acrobat Sign en adquisiciones y logística.
 
 * **[Aplicaciones de HR](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
 Enfoque: Funcionamiento de Acrobat Sign en diversas aplicaciones de RR. HH.
@@ -71,4 +71,4 @@ Enfoque: Cómo funciona Acrobat Sign en el sector sanitario. Los temas incluyen:
 Enfoque: Cómo funciona Acrobat Sign para la banca. Los temas incluyen: tendencias del sector a partir de 2020, documentos y procesos digitales como parte de una transformación digital más amplia, prácticas recomendadas, casos prácticos y las ventajas de Acrobat Sign.
 
 * **[Seguros](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
-Enfoque: Cómo funciona Acrobat Sign para servicios financieros y seguros. Los temas incluyen: las tendencias del sector, el cumplimiento normativo y los requisitos normativos en el sector financiero, y ofrecer una excelente experiencia de usuario.
+Enfoque: Cómo funciona Acrobat Sign para los servicios financieros y los seguros. Los temas incluyen: las tendencias del sector, el cumplimiento normativo y los requisitos normativos en el sector financiero, y ofrecer una excelente experiencia de usuario.

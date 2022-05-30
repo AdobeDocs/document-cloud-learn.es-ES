@@ -1,5 +1,5 @@
 ---
-title: Descripción general de Mobile
+title: Descripción móvil
 description: Envía documentos para su firma, realiza un seguimiento del progreso de la firma electrónica y obtén actualizaciones en tiempo real en tu dispositivo móvil
 role: User
 product: adobe sign
@@ -14,9 +14,9 @@ ht-degree: 29%
 
 ---
 
-# Introducción a Mobile
+# Introducción a dispositivos móviles
 
-![Firmar imagen de Mobile](../assets/Hero-Mobile.png)
+![Sign Mobile Image](../assets/Hero-Mobile.png)
 
 Envía documentos para su firma, realiza un seguimiento del progreso de la firma electrónica y obtén actualizaciones en tiempo real en tu dispositivo móvil.
 
@@ -37,7 +37,7 @@ Envía documentos para su firma, realiza un seguimiento del progreso de la firma
       <img alt="Descargar para iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Descargar la aplicación Acrobat Sign Mobile para iOS</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Descargar la aplicación móvil de Acrobat Sign para iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Envía documentos para su firma, realiza un seguimiento del progreso de la firma
       <img alt="Descargar para Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Descargar la aplicación Acrobat Sign Mobile para Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Descargar la aplicación móvil de Acrobat Sign para Android</strong></a>
     <br>
   </td>
 </tr>

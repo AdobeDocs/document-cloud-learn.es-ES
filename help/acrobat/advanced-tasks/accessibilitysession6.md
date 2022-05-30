@@ -1,6 +1,6 @@
 ---
 title: Adición de campos de formulario a un PDF sin etiquetas
-description: Esta sesión a petición profundiza en la creación manual de campos de formulario y propiedades adicionales de campos de formulario
+description: Esta sesión bajo demanda profundiza en la creación de campos de formulario manuales y propiedades de campos de formulario adicionales
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Adición de campos de formulario a un PDF sin etiquetas
 
-Esta sesión a petición profundiza en la creación manual de campos de formulario y propiedades adicionales de campos de formulario.
+Esta sesión bajo demanda profundiza en la creación de campos de formulario manuales y propiedades de campos de formulario adicionales.
 
-Haga clic [aquí](../assets/accessibilitysession6.zip) para descargar un archivo zip de los archivos prácticos para esta sesión.
+Haga clic en [aquí](../assets/accessibilitysession6.zip) para descargar un archivo zip de los archivos prácticos de esta sesión.
 
-Seleccione la imagen para ver el vídeo en una ficha diferente del navegador.
+Seleccione la imagen para ver el vídeo en una pestaña diferente del navegador.
 
-[![Vídeo](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw) de la sesión 6{target=&quot;_blank&quot;}
+[![Vídeo de la sesión 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
