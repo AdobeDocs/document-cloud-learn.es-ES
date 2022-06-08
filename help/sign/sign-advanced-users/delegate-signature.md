@@ -1,5 +1,5 @@
 ---
-title: Delegar en otra persona
+title: Uso de la función del delegador
 description: Utilice la función de delegador para enviar un documento a un intermediario que pueda enviar el documento para su firma
 role: User
 product: adobe sign
@@ -7,18 +7,22 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Delegar en otra persona
+# Uso de la función del delegador
 
 Aprenda a utilizar la función de delegador para enviar un documento a un intermediario que pueda enviar el documento para su firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
+>[!NOTE]
+>
+>La función de delegador solo está disponible para los planes de nivel empresarial. Es posible que el administrador de Acrobat Sign deba habilitar **Permitir a los remitentes marcar a algunos destinatarios como delegadores** configuración en el **Configuración de envío** sección de la **Configuración de cuenta** para utilizar esta función.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
 
 >[!TIP]
 >
