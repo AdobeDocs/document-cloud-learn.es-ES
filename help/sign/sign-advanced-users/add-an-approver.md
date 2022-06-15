@@ -1,5 +1,5 @@
 ---
-title: Añadir un aprobador
+title: Uso de la función de aprobador
 description: Aprenda a añadir una función de aprobador a su proceso de aprobación de contratos
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Añadir un aprobador
+# Uso de la función de aprobador
 
-Aprenda a enviar un documento a través de un proceso de aprobación. En este ejemplo, verá cómo enviar un contrato de contratación a través de RR. HH., empleado y responsable de contratación.
+Aprenda a enviar un documento a través de un proceso de aprobación. En este ejemplo, consulte cómo enviar un contrato de contratación a través de HR, un empleado potencial y el responsable de contratación. La función de aprobador resulta útil en situaciones en las que se debe “aprobar” un documento antes de enviarlo al firmante.
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >
