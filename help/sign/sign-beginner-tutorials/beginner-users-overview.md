@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -125,6 +125,16 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="Delegar la firma a otra persona" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>Delegar la firma a otra persona</strong></a>
+    </div>
+    <em>Descubra cómo delegar la firma de un documento a otra persona</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="¿Qué es una firma digital?" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <em>Utilizar sellos para marcar un documento aprobado o completado</em>
      <br>
   </td> 
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 
