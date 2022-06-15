@@ -5,9 +5,9 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
-thumbnail: 341295.jpg
+thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e49ff9bb170878665c4aeeceab244bd482636be0
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Enviar a un único destinatario
 
-El flujo de trabajo más común en Acrobat Sign: enviar un documento para su firma. Aprende a cargar un documento, añadir campos de formulario y enviarlo a alguien para que lo firme.
+El flujo de trabajo más común en Acrobat Sign: enviar un documento para firmar. Aprende a cargar un documento, añadir campos de formulario y enviarlo a alguien para que lo firme.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
