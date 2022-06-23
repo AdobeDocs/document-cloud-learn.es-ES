@@ -3,12 +3,12 @@ title: En marcha para administradores de Acrobat Sign
 description: Descripción general de siete áreas clave en las que los administradores pueden empezar a trabajar rápidamente en Acrobat Sign
 role: Admin
 product: adobe sign
-level: Intermediate
+level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aae60046431de366214addf8514646f2b61a59d1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # En marcha para administradores de Acrobat Sign
 
 Conoce las siete áreas clave en las que los administradores deben centrarse para empezar a trabajar con rapidez en Acrobat Sign.
+
+>[!NOTE]
+>
+>Los informes solo están disponibles para los planes de nivel Business y Enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
