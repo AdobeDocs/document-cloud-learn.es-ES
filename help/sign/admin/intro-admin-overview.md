@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -100,10 +100,10 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="Configurar un formulario web" src="../assets/Webform.png" />
+      <img alt="Creación de un formulario web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>Configurar un formulario web</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>Creación de un formulario web</strong></a>
     </div>
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>

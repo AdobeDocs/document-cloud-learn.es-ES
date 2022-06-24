@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -68,10 +68,10 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Configurar un formulario web" src="../assets/Webform.png" />
+      <img alt="Creación de un formulario web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Configurar un formulario web</strong></a>
+    <a href="webform.md"><strong>Creación de un formulario web</strong></a>
     </div>
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
