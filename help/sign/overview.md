@@ -1,23 +1,23 @@
 ---
-title: Tutoriales
+title: Tutorials de Acrobat Sign
 description: Una colección de tutoriales, seminarios web y casos prácticos diseñada para poner al día rápidamente a los principiantes y administradores sobre Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
 
 # Tutoriales de Acrobat Sign
 
-![Imagen de héroe de Acrobat Sign](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, una solución de Adobe Document Cloud, se escala para satisfacer las necesidades de tu organización con integraciones, API, autenticación avanzada, funciones de administración adicionales y mucho más. Aquí puede encontrar una amplia gama de experiencias de aprendizaje diseñadas para poner al día rápidamente a los principiantes y administradores sobre Acrobat Sign.
+Acrobat Sign, una solución de Adobe Document Cloud, se escala para satisfacer las necesidades de tu organización con integraciones, API, autenticación avanzada, funciones de administración adicionales y mucho más. Aquí encontrará una amplia gama de experiencias de aprendizaje diseñadas para poner al día a los principiantes y administradores en Acrobat Sign.
 
 ## Rutas de aprendizaje
 
@@ -72,7 +72,7 @@ Acrobat Sign, una solución de Adobe Document Cloud, se escala para satisfacer l
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integraciones</strong></a>
     </div>
-    <em>Añada Acrobat Sign directamente dentro de otras aplicaciones que ya utilice su organización</em>
+    <em>Añada Acrobat Sign directamente dentro de otras aplicaciones que su organización ya utilice</em>
     <br>
   </td>
   <td>
