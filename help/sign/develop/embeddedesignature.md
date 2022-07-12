@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ En la parte 1, aprenda a empezar con todo lo que necesita para las partes 2-4. V
    * Windows: Chocolatey
    * Todos: https://www.python.org/downloads/
 
++++
+
 ## Parte 2: Código bajo/sin: el poder de los formularios web
 
 En la parte 2, explore la opción de usar o no usar código para usar formularios web. Siempre es una buena idea comprobar si puedes evitar escribir código al principio.
@@ -54,6 +56,8 @@ En la parte 2, explore la opción de usar o no usar código para usar formulario
 1. Experimente con la adición dinámica de parámetros de consulta.
 
    ![Captura de pantalla de adición de parámetros de consulta](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Parte 3: Enviar un acuerdo con un formulario y combinar datos
 
@@ -110,6 +114,8 @@ El código es bastante sencillo; utiliza un documento de biblioteca (plantilla) 
 
 ![Captura de pantalla de código para añadir firmas dinámicamente](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Parte 4: Incrusta la experiencia de firma, las redirecciones y mucho más
 
 En muchos casos, es posible que desee permitir que el participante que realiza la activación firme inmediatamente un acuerdo. Esto resulta útil para aplicaciones y quioscos orientados al cliente.
@@ -135,6 +141,8 @@ Después de actualizar el proceso de creación del acuerdo, el paso final es gen
 ![Captura de pantalla que indica que es recomendable establecer un bucle de reintento](assets/embeddedesignature/embed_15.png)
 
 Cuando todo se junta, la solución es bastante sencilla. Está realizando un acuerdo y, a continuación, generando una URL de firma para que el firmante haga clic en él y comience el ritual de firma.
+
++++
 
 ## Temas adicionales
 
