@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
+source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -152,8 +152,6 @@ Cuando todo se junta, la solución es bastante sencilla. Está realizando un acu
    * [Webhooks en Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Reactivar correos electrónicos de solicitud (con eventos)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Reemplazar el tiempo de espera con un reintento](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
-
-   <br> 
 * Recordatorios personalizados
    * Con la creación inicial
 
