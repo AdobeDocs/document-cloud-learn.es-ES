@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 2%
+source-wordcount: '265'
+ht-degree: 4%
 
 ---
 
@@ -57,6 +57,16 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
 </tr>
 <tr>
   <td>
+    <a href="set-up-online-payments.md">
+      <img alt="Configuración de pagos en línea" src="../assets/Payments.png" />
+    </a>
+    <div>
+    <a href="set-up-online-payments.md"><strong>Configuración de pagos en línea</strong></a>
+    </div>
+    <em>Conozca cómo configurar y aceptar pagos en línea en sus documentos</em>
+    <br>
+  </td>
+  <td>
     <a href="megasign.md">
       <img alt="Enviar y recopilar firmas en bloque" src="../assets/Megasign.png" />
     </a>
@@ -75,8 +85,10 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     </div>
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
-  </td> 
-  <td>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
@@ -85,7 +97,18 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     </div>
     <em>Creación de campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
     <br>
-  </td> 
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
 </table>
 
 ## Gestión
