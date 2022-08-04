@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 6%
@@ -25,7 +25,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Conceptos básicos del área de trabajo" src="../assets/NewWorkspace.png" />
+      <img alt="Conceptos básicos del área de trabajo" src="../assets/Workspace_1280.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del área de trabajo</strong></a>
@@ -35,7 +35,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
   </td>
   <td>
     <a href="new-workspace.md">
-      <img alt="Nueva experiencia de espacio de trabajo" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Nueva experiencia de espacio de trabajo" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="new-workspace.md"><strong>Nueva experiencia de espacio de trabajo</strong></a>
