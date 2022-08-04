@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 9%
+source-wordcount: '401'
+ht-degree: 8%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 9%
 + Introducción {#getting-started}
    + [Información general](getting-started/getting-started-overview.md)
    + [Conceptos básicos del área de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Nueva experiencia de espacio de trabajo](getting-started/new-workspace.md)
    + [Trabaja en cualquier parte con la web de Acrobat](getting-started/acrobatweb.md)
    + [Productividad sobre la marcha](getting-started/productivity.md)
    + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

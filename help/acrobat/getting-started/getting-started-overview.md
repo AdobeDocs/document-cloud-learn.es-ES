@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '431'
 ht-degree: 6%
 
 ---
@@ -25,12 +25,22 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Conceptos básicos del área de trabajo" src="../assets/Workspace_1280.png" />
+      <img alt="Conceptos básicos del área de trabajo" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del área de trabajo</strong></a>
     </div>
     <em>Descubre cómo el espacio de trabajo de Acrobat facilita el acceso a archivos y herramientas en equipos de escritorio, la Web y dispositivos móviles</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Nueva experiencia de espacio de trabajo" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Nueva experiencia de espacio de trabajo</strong></a>
+    </div>
+    <em>Obtenga más información sobre la nueva experiencia de espacio de trabajo que puede activar en Acrobat</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Aprende a gestionar solicitudes de documentos empresariales desde cualquier lugar con las herramientas web de Acrobat en tu navegador</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="Productividad sobre la marcha" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Haz más directamente desde tu tableta o teléfono móvil con la aplicación móvil de Acrobat Reader</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Trabajar con Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files a PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Combine muchos tipos diferentes de archivos en un solo PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Agregue comentarios a un archivo de PDF y compártalo con otros usuarios</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Editar un PDF" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Edición de texto e imágenes en archivos de PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="Exportación de un PDF a formatos editables" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Convertir un documento creado en otra aplicación en un formulario de PDF que se puede rellenar</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="Digitalización y OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="Organizar páginas" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Agregue una contraseña a su PDF para evitar que otros usuarios abran o editen el archivo</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Rellene y firme rápidamente un formulario de PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="Obtener firmas" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Saber siempre qué archivos están esperando firmas y cuáles se han firmado</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="¿De dónde vienen los PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <a href="where-do-pdfs-come-from.md"><strong>¿De dónde vienen los PDF?</strong></a>
     </div>
     <em>Entender de dónde vienen los PDF y sus usos</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
