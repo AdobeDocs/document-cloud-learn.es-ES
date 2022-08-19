@@ -1,6 +1,6 @@
 ---
-title: Envío de documentos para su firma en [!DNL Microsoft Teams]
-description: Acrobat Sign y [!DNL Microsoft Teams] Esta integración le permite enviar acuerdos para su firma o comprobar el estado de los acuerdos existentes, todo desde [!DNL Microsoft Teams]
+title: Enviar para firmar en [!DNL Microsoft Teams]
+description: Aprenda a enviar acuerdos para su firma, comprobar su estado y enviar recordatorios desde [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,18 +8,19 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Envío de documentos para su firma en [!DNL Microsoft Teams]
+# Enviar para firmar en [!DNL Microsoft Teams]
 
-Acrobat Sign y [!DNL Microsoft Teams] Esta integración le permite enviar acuerdos para su firma o comprobar el estado de los acuerdos existentes, todo desde [!DNL Microsoft Teams]. En este ejemplo se muestra cómo un agente hipotecario envía una solicitud de préstamo directamente desde Teams. Esta estrecha integración acelera el proceso de los préstamos hipotecarios, incluso cuando se trabaja con solicitantes de préstamos hipotecarios en un entorno de trabajo remoto.
+Aprenda a enviar acuerdos para su firma, comprobar su estado y enviar recordatorios desde [!DNL Microsoft Teams].
+En este ejemplo se muestra cómo un agente hipotecario envía una solicitud de préstamo para que se firme directamente en Teams. Esta estrecha integración acelera el proceso de los préstamos hipotecarios, incluso cuando se trabaja con solicitantes de préstamos hipotecarios en un entorno de trabajo remoto.
 
->[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
 >[!TIP]
 >
