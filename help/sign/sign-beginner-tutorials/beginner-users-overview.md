@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,16 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <br>
   </td>
   <td>
+    <a href="new-sender.md">
+      <img alt="Introducción a Acrobat Sign para nuevos remitentes" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Introducción a Acrobat Sign para nuevos remitentes</strong></a>
+    </div>
+    <em>Este completo tutorial es un buen punto de partida para los nuevos remitentes en Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
     <a href="send-to-single-recipient.md">
       <img alt="Enviar a un único destinatario" src="../assets/Send-to-single-recipient.png" />
     </a>
@@ -56,13 +66,13 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="Introducción a Acrobat Sign para nuevos remitentes" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="Agregar campos a los documentos" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Introducción a Acrobat Sign para nuevos remitentes</strong></a>
+    <a href="adding-fields.md"><strong>Agregar campos a los documentos</strong></a>
     </div>
-    <em>Este completo tutorial es un buen punto de partida para los nuevos remitentes en Acrobat Sign</em>
+    <em>Aprenda a agregar diferentes tipos de campos a los documentos</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     </div>
     <em>Aprenda a cambiar el firmante de un documento que ya está en curso</em>
      <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <em>Obtener la firma de otra persona mediante la aplicación móvil de Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Delegar la firma a otra persona" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <em>Descubra cómo delegar la firma de un documento a otra persona</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="¿Qué es una firma digital?" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <em>Utilizar sellos para marcar un documento aprobado o completado</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Firmar con un sello" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Firmar con un sello</strong></a>
+    </div>
+    <em>Utilizar sellos para marcar un documento aprobado o completado</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creación de una plantilla de documento</strong></a>
     </div>
     <em>Crea una plantilla de documento reutilizable para proporcionar velocidad y coherencia a tu organización</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
