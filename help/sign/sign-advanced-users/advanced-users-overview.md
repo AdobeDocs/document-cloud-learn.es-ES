@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <em>Añadir una función de aprobador al proceso de aprobación del contrato</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Configuración de pagos en línea" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <em>Conozca cómo configurar y aceptar pagos en línea en sus documentos</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Enviar y recopilar firmas en bloque" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
     </div>
     <em>Creación de campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <a href="edit-a-template.md"><strong>Administración de plantillas de documento</strong></a>
     </div>
     <em>Editar o eliminar una plantilla de la biblioteca</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Modificar un formulario web existente" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Modificar un formulario web existente</strong></a>
+    </div>
+    <em>Aprenda a deshabilitar, editar y volver a habilitar un formulario web existente</em>
     <br>
   </td>  
   <td>
