@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Imagen de administradores de Sign](../assets/Hero-Admin.png)
 
-Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos. Estos tutoriales están diseñados para administradores que han pasado la fase de instalación y están listos para comenzar a administrar Acrobat Sign. Las Tareas avanzadas cubren temas que se expanden más allá de la parte de configuración del administrador y pasan a definir la configuración global, el acceso y uso compartido de la cuenta y el etiquetado de texto.
+Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos. Estos tutoriales están diseñados para administradores que han pasado la fase de instalación y están listos para comenzar a administrar Acrobat Sign. Las Tareas avanzadas cubren temas que se expanden más allá de la configuración del administrador y pasan a definir la configuración global, el acceso y uso compartido de la cuenta y el etiquetado de texto.
 
 ## Introducción
 
@@ -54,8 +54,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Añadir usuarios individualmente o en bloque a su cuenta de Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creación y gestión de grupos" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Crear grupos, añadir usuarios a grupos y editar la configuración de los grupos</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Configuración de un archivo externo" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Crea una plantilla de documento reutilizable para agilizar y mantener la coherencia</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="Creación de un informe" src="../assets/Report.png" />
@@ -95,7 +93,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <div>
     <a href="create-a-report.md"><strong>Creación de un informe</strong></a>
     </div>
-    <em>Cree y programe informes para tener visibilidad del uso de Acrobat Sign por parte de su organización</em>
+    <em>Cree y programe informes para obtener visibilidad del uso de Acrobat Sign por parte de su organización</em>
     <br>
   </td>
   <td>
@@ -108,6 +106,18 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="Modificar un formulario web existente" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>Modificar un formulario web existente</strong></a>
+    </div>
+    <em>Aprenda a deshabilitar, editar y volver a habilitar un formulario web existente</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Enviar y recopilar firmas en bloque" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Recopila cientos de firmas a la vez para cualquier documento</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configuración de un flujo de trabajo" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <a href="building-a-custom-workflow.md"><strong>Configuración de un flujo de trabajo</strong></a>
     </div>
     <em>Automatiza los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y datos</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Configurar el uso compartido de cuentas para permitir a los administradores y usuarios delegar sus permisos de envío, modificación y visualización</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Uso de la configuración de biofarmacéutica" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Configurar opciones de biofarmacéutica que le permitan cumplir con los requisitos de la FDA 21 CFR Parte 11</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
     <div>
     <em>Creación de campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
