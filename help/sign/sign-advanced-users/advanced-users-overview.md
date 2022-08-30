@@ -1,15 +1,15 @@
 ---
 title: Introducción a Tareas avanzadas
-description: Aprenda a enviar un documento para que se firme a cientos de destinatarios a la vez, configurar un documento listo para firmar para su sitio web, administrar transacciones de firma y crear y administrar plantillas de documentos
+description: Aprenda a enviar un documento para su firma a cientos de destinatarios a la vez, configurar un documento listo para firmar para su sitio web, administrar transacciones de firma y crear y administrar plantillas de documentos
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
+source-git-commit: 23830fe4b27abadc4e2b1f4076a62ec3bd5e1ce9
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '305'
 ht-degree: 4%
 
 ---
@@ -129,10 +129,15 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <br>
   </td>  
   <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="Creación de un informe" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>Creación de un informe</strong></a>
+    </div>
+    <em>Aprende a crear tus propios informes para ganar visibilidad en el proceso de firma de documentos</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>

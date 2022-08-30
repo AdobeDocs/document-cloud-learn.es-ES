@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -88,12 +88,12 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Creación de un informe" src="../assets/Report.png" />
+      <img alt="Creación de un gráfico de informe" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Creación de un informe</strong></a>
+    <a href="create-a-report.md"><strong>Creación de un gráfico de informe</strong></a>
     </div>
-    <em>Cree y programe informes para obtener visibilidad del uso de Acrobat Sign por parte de su organización</em>
+    <em>Aprenda a crear, guardar y administrar sus propios informes personalizados y exportaciones de datos</em>
     <br>
   </td>
   <td>

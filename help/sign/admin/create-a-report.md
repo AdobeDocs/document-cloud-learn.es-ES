@@ -1,27 +1,26 @@
 ---
-title: Creación de un informe
-description: Aprenda a ejecutar, guardar y programar informes en Acrobat Sign
+title: Creación de un gráfico de informe
+description: Aprenda a crear, guardar y administrar sus propios informes personalizados y exportaciones de datos
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# Creación de un informe
+# Creación de un gráfico de informe
 
-Aprenda a ejecutar, guardar y programar informes en Acrobat Sign.
+Aprende a crear, guardar y gestionar tus propios informes personalizados y exportaciones de datos en una vista personalizada con la nueva experiencia de creación de informes. La disponibilidad de los gráficos de informes depende del nivel de autoridad del usuario en el sistema de Acrobat Sign.
 
 >[!NOTE]
 >
 >Los informes solo están disponibles para los planes de nivel Business y Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >
