@@ -6,9 +6,9 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Echa un vistazo a estos casos prácticos adicionales del mundo real:
 
 * [Forms de Contratos y Solicitudes de la Administración Pública](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) caso práctico.
 * [Contratos comerciales y solicitud Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) caso práctico.
+
+>[!NOTE]
+>
+>Los administradores de grupo pueden asignar flujos de trabajo a cualquier grupo que administren (no solo a su grupo principal). Los administradores de grupo también pueden editar cualquier flujo de trabajo asignado a cualquier grupo que administren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
