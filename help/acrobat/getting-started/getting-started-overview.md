@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4bb3dcfb7c2d64950141a37b5f0b68c5027911b9
+source-git-commit: d25f441ba55bd24fe854a19eb04a301712723a07
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 6%
+source-wordcount: '478'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger los archivos de PDF, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
 
-## Tutoriales de Acrobat
+## Tutoriales de introducción
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Aprende a gestionar solicitudes de documentos empresariales desde cualquier lugar con las herramientas web de Acrobat en tu navegador</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="productivity.md">
       <img alt="Productividad sobre la marcha" src="../assets/Productivity_1280.png" />
     </a>
@@ -65,80 +63,171 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Haz más directamente desde tu tableta o teléfono móvil con la aplicación móvil de Acrobat Reader</em>
     <br>
   </td>
-  <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Trabajar con Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
-    </a>
-    <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabajar con Microsoft 365</strong></a>
-    </div>
-    <em>Aumenta la productividad y los flujos de trabajo de documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
-    <br>
-  </td>
-  <td>
-    <a href="collaborate.md">
-      <img alt="Colaboración en tiempo real" src="../assets/Collaborate_1280.png" />
-    </a>
-    <div>
-     <a href="collaborate.md"><strong>Colaboración en tiempo real</strong></a>
-    </div>
-    <em>Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
-    <br>
-  </td>
 </tr>
 <tr>
-  <td>
-    <a href="combine-to-pdf.md">
-      <img alt="Combine Files a PDF" src="../assets/Combine.jpg" />
-    </a>
-    <div>
-     <a href="combine-to-pdf.md"><strong>Combinar archivos en PDF</strong></a>
-    </div>
-    <em>Combine muchos tipos diferentes de archivos en un solo PDF</em>
-    <br>
-  </td>
- <td>
-    <a href="create-pdf.md">
-      <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
-    </a>
-    <div>
-    <a href="create-pdf.md"><strong>Creación de un PDF</strong></a>
-    </div>
-    <em>Crea PDF de todos los tipos de documentos</em>
-    <br>
-  </td>
- <td>
-    <a href="comment-on-pdf-files.md">
-      <img alt="Comentar en un PDF" src="../assets/Comment.jpg" />
-    </a>
-    <div>
-    <a href="comment-on-pdf-files.md"><strong>Comentar en un PDF</strong></a>
-    </div>
-    <em>Agregue comentarios a un archivo de PDF y compártalo con otros usuarios</em>
-    <br>
-  </td>
+    <td>
+      <a href="../integrate/integrate-overview.md#microsoft">
+        <img alt="Trabajar con Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabajar con Microsoft 365</strong></a>
+      </div>
+      <em>Aumenta la productividad y los flujos de trabajo de documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
+      <br>
+    </td>
+    <td>
+      <a href="../integrate/integrate-overview.md#microsoft">
+        <img alt="Trabajar con Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabajar con Microsoft 365</strong></a>
+      </div>
+      <em>Aumenta la productividad y los flujos de trabajo de documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
+      <br>
+    </td>
+    <td>
+      <a href="where-do-pdfs-come-from.md">
+        <img alt="¿De dónde vienen los PDF?" src="../assets/WherePDFs.jpg" />
+      </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>¿De dónde vienen los PDF?</strong></a>
+      </div>
+      <em>Entender de dónde vienen los PDF y sus usos</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## Creación, combinación y organización de tutoriales
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="create-pdf.md">
+        <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
+      </a>
+      <div>
+      <a href="create-pdf.md"><strong>Creación de un PDF</strong></a>
+      </div>
+      <em>Crea PDF de todos los tipos de documentos</em>
+      <br>
+    </td>
+    <td>
+      <a href="combine-to-pdf.md">
+        <img alt="Combine Files a PDF" src="../assets/Combine.jpg" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>Combinar archivos en PDF</strong></a>
+      </div>
+      <em>Combine muchos tipos diferentes de archivos en un solo PDF</em>
+      <br>
+    </td>
+    <td>
+      <a href="organize.md">
+        <img alt="Organizar páginas" src="../assets/Organize.jpg" />
+      </a>
+      <div>
+      <a href="organize.md"><strong>Organizar páginas</strong></a>
+      </div>
+      <em>Añade, reemplaza, extrae, rota, elimina y mueve páginas en tu PDF</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## Edición y exportación de tutoriales
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="edit-pdf.md">
+        <img alt="Editar un PDF" src="../assets/Edit.jpg" />
+      </a>
+      <div>
+      <a href="edit-pdf.md"><strong>Editar un PDF</strong></a>
+      </div>
+      <em>Edición de texto e imágenes en archivos de PDF</em>
+      <br>
+    </td>
+    <td>
+      <a href="auto-adjust-layout.md">
+        <img alt="Ajustar diseño automáticamente" src="../assets/Autoadjust.png" />
+      </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>Ajustar diseño automáticamente</strong></a>
+      </div>
+      <em>Más información sobre el nuevo modo de edición que ajusta automáticamente el contenido</em>
+      <br>
+    </td>
+    <td>
+      <a href="export-pdf.md">
+        <img alt="Exportación de un PDF a formatos editables" src="../assets/Export.jpg" />
+      </a>
+      <div>
+      <a href="export-pdf.md"><strong>Exportación de un PDF a formatos editables</strong></a>
+      </div>
+      <em>Aprenda a exportar archivos de PDF a formatos editables</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+  </tr>
+  </table>
+
+## Tutoriales de colaboración
+
+<table style="table-layout:fixed">
+  <tr>
+    <td>
+      <a href="collaborate.md">
+        <img alt="Colaboración en tiempo real" src="../assets/Collaborate_1280.png" />
+      </a>
+      <div>
+      <a href="collaborate.md"><strong>Colaboración en tiempo real</strong></a>
+      </div>
+      <em>Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
+      <br>
+    </td>
+    <td>
+      <a href="comment-on-pdf-files.md">
+        <img alt="Comentar en un PDF" src="../assets/Comment.jpg" />
+      </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>Comentar en un PDF</strong></a>
+      </div>
+      <em>Agregue comentarios a un archivo de PDF y compártalo con otros usuarios</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
+</table>
+
+## Tutoriales adicionales
+
+<table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="edit-pdf.md">
-      <img alt="Editar un PDF" src="../assets/Edit.jpg" />
-    </a>
-    <div>
-    <a href="edit-pdf.md"><strong>Editar un PDF</strong></a>
-    </div>
-    <em>Edición de texto e imágenes en archivos de PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="export-pdf.md">
-      <img alt="Exportación de un PDF a formatos editables" src="../assets/Export.jpg" />
-    </a>
-    <div>
-    <a href="export-pdf.md"><strong>Exportación de un PDF a formatos editables</strong></a>
-    </div>
-    <em>Aprenda a exportar archivos de PDF a formatos editables</em>
-    <br>
-  </td>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Crear formularios rellenables" src="../assets/Form_1280.png" />
@@ -149,9 +238,17 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Convertir un documento creado en otra aplicación en un formulario de PDF que se puede rellenar</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
+    <a href="fill-and-sign.md">
+      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign_1280.png" />
+    </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>PDF forms de Fill &amp; Sign</strong></a>
+    </div>
+    <em>Rellene y firme rápidamente un formulario de PDF</em>
+    <br>
+  </td>
+  <td>
     <a href="scan-and-ocr.md">
       <img alt="Digitalización y OCR" src="../assets/Scan.jpg" />
     </a>
@@ -159,16 +256,6 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <a href="scan-and-ocr.md"><strong>Digitalización y OCR</strong></a>
     </div>
     <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
-    <br>
-  </td>
-  <td>
-    <a href="organize.md">
-      <img alt="Organizar páginas" src="../assets/Organize.jpg" />
-    </a>
-    <div>
-    <a href="organize.md"><strong>Organizar páginas</strong></a>
-    </div>
-    <em>Añade, reemplaza, extrae, rota, elimina y mueve páginas en tu PDF</em>
     <br>
   </td>
   <td>
@@ -183,16 +270,6 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
   </td>
 </tr>
 <tr>
-  <td>
-    <a href="fill-and-sign.md">
-      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign_1280.png" />
-    </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>PDF forms de Fill &amp; Sign</strong></a>
-    </div>
-    <em>Rellene y firme rápidamente un formulario de PDF</em>
-    <br>
-  </td>
   <td>
     <a href="signatures.md">
       <img alt="Obtener firmas" src="../assets/Signatures_1280.png" />
@@ -213,24 +290,10 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <em>Saber siempre qué archivos están esperando firmas y cuáles se han firmado</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="¿De dónde vienen los PDF?" src="../assets/WherePDFs.jpg" />
-    </a>
-    <div>
-    <a href="where-do-pdfs-come-from.md"><strong>¿De dónde vienen los PDF?</strong></a>
-    </div>
-    <em>Entender de dónde vienen los PDF y sus usos</em>
-    <br>
-  </td>
-  </td>
   <td>
    <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
     <br>
-  </td>
   </td>
   <td>
    <img alt="Separador" src="../assets/Whitespacer.png" />
