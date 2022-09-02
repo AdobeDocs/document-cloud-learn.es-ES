@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Convertir archivos y formularios de Word en PDF y generar automáticamente campos de formulario</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Deja que Acrobat te ayude a convertir en PDF accesibles" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Comprobar si se puede acceder a un PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF a Word desde el teléfono" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Convertir un PDF digitalizado para que pueda buscar texto en el PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Combinar archivos en un solo PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Realice ediciones sencillas en texto e imágenes sin siquiera descargar el PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Buscar varios archivos de PDF a la vez" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Inicie una búsqueda en un archivo de PDF y, a continuación, abra Búsqueda avanzada y busque en toda una carpeta de archivos de PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="Crea un PDF de fotos en un instante" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     </div>
     <em>Aprenda a utilizar Adobe Scan para firmar un formulario impreso</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     </div>
     <em>Aprenda a realizar ediciones avanzadas en un gráfico en el PDF con Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Organiza páginas en un instante" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Aprende a utilizar la herramienta Organizar páginas para obtener una vista panorámica de tu PDF</em>
     <br>
   </td>
-  <td>
-   <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>
