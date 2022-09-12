@@ -1,42 +1,20 @@
 ---
 title: Organizar páginas
-description: Añade, reemplaza, extrae, rota, elimina y mueve páginas en tu PDF
+description: Añade, reemplaza, extrae, rota, elimina y reorganiza páginas en tu PDF
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
+source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '53'
+ht-degree: 7%
 
 ---
 
 # Organizar páginas
 
-Uso **[!UICONTROL Organizar páginas]** en Acrobat para añadir, reemplazar, extraer, rotar, eliminar y mover páginas en el PDF.
+Aprende a reorganizar las páginas como quieras, todo en cuestión de segundos. Inserta, reemplaza, divide, reordena, rota e incluso extrae páginas discontinuas para crear un PDF de aspecto profesional. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
 
-1. Seleccionar **[!UICONTROL Organizar páginas]** de la [!UICONTROL Herramientas] panel central o derecho.
-
-   ![Organizar el paso 1](../assets/Organize_1.png)
-
-1. Pase el ratón sobre una página para rotarla en el sentido de las agujas del reloj o en sentido contrario, o elimínela.
-
-   Para mover una página, selecciónela y arrástrela a la nueva ubicación.
-
-   ![Organizar el paso 2](../assets/Organize_2.png)
-
-1. Seleccionar **[!UICONTROL Extract]** en la barra de herramientas, para crear un PDF a partir de una o varias páginas.
-
-1. Seleccione la página o páginas y, a continuación, seleccione **[!UICONTROL Extract]**.
-
-   También puede **[!UICONTROL Insertar]** o **[!UICONTROL Reemplazar]** y ver otras opciones seleccionando **[!UICONTROL Más]**.
-
-   ![Organizar el paso 4](../assets/Organize_3.png)
-
-1. Seleccionar **[!UICONTROL Dividir]** para separar uno o más PDF en varios PDF más pequeños.
-
-   Al dividir un PDF, puede separarlo por el número de páginas, el tamaño de archivo o los marcadores de nivel superior.
-
-   ![Paso 5 del análisis](../assets/Organize_4.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
