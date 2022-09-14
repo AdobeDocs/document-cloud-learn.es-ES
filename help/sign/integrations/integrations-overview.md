@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -80,13 +80,35 @@ Puede utilizar Acrobat Sign en otras aplicaciones que su organización ya utiliz
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="Automatización de documentos con Acrobat Sign para Microsoft Power Platform" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="Archivado automático de archivos en [!DNL SharePoint] con [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Automatización de documentos con Acrobat Sign para Microsoft Power Platform</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>Archivado automático de archivos en [!DNL SharePoint] con [!DNL Power Automate]</strong></a>
     </div>
-    <em>Obtenga información sobre cómo activar y usar los conectores de Acrobat Sign y Adobe PDF Tools para Microsoft Power Apps</em>
+    <em>Aprenda a archivar automáticamente documentos firmados en un [!DNL SharePoint] biblioteca con [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="Automatización de documentos con [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>Automatización de documentos con [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo activar y utilizar la [!DNL Acrobat Sign] y [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] aplicaciones</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
