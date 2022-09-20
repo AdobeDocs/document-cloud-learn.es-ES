@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '557'
 ht-degree: 0%
 
 ---
@@ -140,12 +140,12 @@ Puede utilizar Acrobat Sign en otras aplicaciones que su organización ya utiliz
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="Configuración de la asignación de combinación" src="../assets/SF-MergeMapping.png" />
+      <img alt="Configuración de la asignación de combinación en Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Configuración de la asignación de combinación</strong></a>
+    <a href="set-up-merging-map.md"><strong>Configuración de la asignación de combinación en Salesforce</strong></a>
     </div>
-    <em>Fusionar datos de Salesforce directamente en un acuerdo</em>
+    <em>Aprenda a combinar datos de Salesforce directamente en un documento de Acrobat Sign</em>
     <br>
   </td>
 </tr>

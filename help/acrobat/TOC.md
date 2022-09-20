@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 8%
+source-wordcount: '408'
+ht-degree: 9%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 8%
    + [Comentar en un PDF](getting-started/comment-on-pdf-files.md)
    + [Crear formularios rellenables](getting-started/create-fillable-forms.md)
    + [PDF forms de Fill &amp; Sign](getting-started/fill-and-sign.md)
-   + [Digitalización y OCR](getting-started/scan-and-ocr.md)
+   + [Escáner y OCR](getting-started/scan-and-ocr.md)
    + [Protect crea un archivo de PDF con una contraseña](getting-started/password-protect.md)
    + [Obtener firmas](getting-started/signatures.md)
    + [Seguimiento de documentos](getting-started/track.md)
@@ -85,10 +85,11 @@ ht-degree: 8%
    + [Crear PDF desde [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Crear PDF en [!DNL Office] para la web](integrate/createofficeweb.md)
    + [Colaboración de PDF en [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Trabaja con tus archivos de SharePoint](integrate/acrobatandsp.md)
-   + [Convertir mensajes de correo electrónico y archivos adjuntos en PDF en Outlook](integrate/outlook.md)
-   + [Crear contenido de PDF al navegar con Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat para Google Drive](integrate/acrobatandgoogle.md)
+   + [Trabaja con tu [!DNL SharePoint] archivos](integrate/acrobatandsp.md)
+   + [Convertir mensajes de correo electrónico y archivos adjuntos en PDF en [!DNL Outlook]](integrate/outlook.md)
+   + [Crear contenido de PDF al navegar con [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat para [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Trabajar con archivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Sectores y departamentos {#by-industry}
    + [Información general](industry/industry-overview.md)
    + Gobierno {#gov}
