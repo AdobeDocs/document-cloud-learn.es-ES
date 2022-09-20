@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ Puede utilizar Acrobat Sign en otras aplicaciones que su organización ya utiliz
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Creación de una plantilla de documento en Acrobat Sign para Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Aprenda a crear una plantilla de documento reutilizable mediante el Generador de documentos para [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Creación de una plantilla de documento en Acrobat Sign para Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Aprenda a crear una plantilla de documento reutilizable mediante el Generador de documentos para [!DNL Salesforce]</strong></a>
     </div>
-    <em>Crear una plantilla de documento reutilizable para proporcionar velocidad y coherencia</em>
+    <em>Aprenda a crear una plantilla de documento reutilizable mediante el Generador de documentos para [!DNL Salesforce]</em>
     <br>
   </td>
   <td>

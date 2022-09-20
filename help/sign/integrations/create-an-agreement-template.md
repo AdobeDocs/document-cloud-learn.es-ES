@@ -1,22 +1,22 @@
 ---
-title: Creación de una plantilla de documento en Acrobat Sign para Salesforce
-description: Aprenda a crear una plantilla de documento reutilizable para proporcionar velocidad y coherencia
+title: Document Builder para [!DNL Salesforce]
+description: Aprenda a crear una plantilla de documento reutilizable con Document Builder para Salesforce
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17349.jpg
+thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Creación de una plantilla de documento en Acrobat Sign para [!DNL Salesforce]
+# Document Builder para [!DNL Salesforce]
 
-Aprenda a crear una plantilla de documento para Acrobat Sign en [!DNL Salesforce]. Las plantillas de documento proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar las revisiones y los cambios del documento.
+Aprenda a crear una plantilla de documento reutilizable con Document Builder para Salesforce. Las plantillas de documento reutilizables proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar los cambios y las revisiones de los documentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)
