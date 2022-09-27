@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -113,6 +113,16 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="Creación de un informe" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>Creación de un informe</strong></a>
+    </div>
+    <em>Aprende a crear tus propios informes para ganar visibilidad en el proceso de firma de documentos</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="Administración de plantillas de documento" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="Creación de un informe" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Administración de datos de formulario web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creación de un informe</strong></a>
+    <a href="manage-webform-data.md"><strong>Administración de datos de formulario web</strong></a>
     </div>
-    <em>Aprende a crear tus propios informes para ganar visibilidad en el proceso de firma de documentos</em>
+    <em>Aprenda a rastrear, administrar y exportar datos desde un formulario web</em>
     <br>
   </td>  
-  <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

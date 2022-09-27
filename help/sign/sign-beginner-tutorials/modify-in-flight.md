@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Aprende a modificar un documento que ya se ha enviado para firmar, como cuando s
 
 >[!NOTE]
 >
->La modificación de un documento después de su envío solo está disponible para los planes de nivel Enterprise. Es posible que el administrador de Acrobat Sign deba activar la **Modificar acuerdos** configuración en el **Configuración de envío** sección de la **Configuración de cuenta** para utilizar esta función.
+>La modificación de un documento después de su envío solo está disponible para los planes de nivel Enterprise. El administrador de Acrobat Sign debe habilitar **Modificar acuerdos** en el **Configuración de envío** sección de la **Configuración de cuenta** para utilizar esta función.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 

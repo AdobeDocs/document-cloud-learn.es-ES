@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,9 +52,10 @@ ht-degree: 8%
       + [Etiquetado de texto de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Uso del etiquetado de texto en [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gestión {#advanced-tasks-managing}
+      + [Creación de un informe](sign-advanced-users/creating-a-report.md)
       + [Administración de plantillas de documento](sign-advanced-users/edit-a-template.md)
       + [Modificar un formulario web existente](sign-advanced-users/modify-webform.md)
-      + [Creación de un informe](sign-advanced-users/creating-a-report.md)
+      + [Administración de datos de formulario web](sign-advanced-users/manage-webform-data.md)
 + Administrar {#admin-set-up}
    + [Información general](admin/intro-admin-overview.md)
    + Introducción {#getting-started-admin}
