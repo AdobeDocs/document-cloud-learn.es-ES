@@ -6,7 +6,7 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -19,6 +19,6 @@ Aprenda a rastrear, administrar y exportar datos desde un [formulario web](webfo
 
 >[!NOTE]
 >
->El administrador de Acrobat Sign debe habilitar **Permitir participantes adicionales** en el **Formularios web** sección de la **Configuración global** para utilizar el flujo de trabajo de participante adicional.
+>Solo los planes para empresas y grandes empresas tienen la opción de configurar el acceso a formularios web y las opciones del firmante. El acceso a los formularios web y las opciones del firmante se habilitan o deshabilitan en el nivel de cuenta o de grupo en Cuenta > Configuración de cuenta > Configuración global > Formularios web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
