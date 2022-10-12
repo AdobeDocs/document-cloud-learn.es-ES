@@ -5,7 +5,7 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: b5f9e469d0e26fa4a9ef97b2d273f76ed590bad6
+source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,9 +25,8 @@ Esta completa guía de vídeo está diseñada específicamente para los nuevos a
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Acceso al Admin Console</strong></a>
-        </div>
+         <br>
         <em>1:00</em>
-        <br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -36,9 +35,8 @@ Esta completa guía de vídeo está diseñada específicamente para los nuevos a
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Derechos de Acrobat Sign a un usuario</strong></a>
-        </div>
-        <em>1:45</em>
         <br>
+        <em>1:45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -47,9 +45,8 @@ Esta completa guía de vídeo está diseñada específicamente para los nuevos a
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Introducción al portal web de Acrobat Sign</strong></a>
-        </div>
-        <em>3:11</em>
         <br>
+        <em>3:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -58,9 +55,8 @@ Esta completa guía de vídeo está diseñada específicamente para los nuevos a
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>Configuración global y configuración</strong></a>
-        </div>
-        <em>05:58</em>
         <br>
+        <em>05:58</em>
     </td>
   </tr>
   </table>
