@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="Primeros pasos para nuevos administradores" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Primeros pasos para nuevos administradores</strong></a>
+    </div>
+    <em>En esta completa guía de vídeo, aprende todas las herramientas que necesitas para poner en marcha tu organización con Acrobat Sign</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="En marcha para administradores" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Añadir usuarios individualmente o en bloque a su cuenta de Acrobat Sign</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Creación y gestión de grupos" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Crear grupos, añadir usuarios a grupos y editar la configuración de los grupos</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Configuración de un archivo externo" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Aprenda a crear, guardar y administrar sus propios informes personalizados y exportaciones de datos</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Creación de un formulario web" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Modificar un formulario web existente" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <em>Recopila cientos de firmas a la vez para cualquier documento</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configuración de un flujo de trabajo" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
     <a href="building-a-custom-workflow.md"><strong>Configuración de un flujo de trabajo</strong></a>
     </div>
     <em>Automatiza los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y datos</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
