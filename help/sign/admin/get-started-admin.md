@@ -1,20 +1,20 @@
 ---
 title: Primeros pasos para nuevos administradores
-description: En esta completa guía de vídeo, aprende todas las herramientas que necesitas para poner en marcha tu organización con Acrobat Sign
+description: En esta completa guía de vídeo, aprenderá todas las herramientas necesarias para poner en marcha su organización con Acrobat Sign
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Primeros pasos para nuevos administradores
 
-Esta completa guía de vídeo está diseñada específicamente para los nuevos administradores de Acrobat Sign. Descubre todas las herramientas que necesitas para poner en marcha tu organización con Acrobat Sign. Esta guía detallada abarca los siguientes temas:
+Esta completa guía de vídeo está diseñada específicamente para los nuevos administradores de Acrobat Sign. Descubre todas las herramientas necesarias para poner en marcha tu organización con Acrobat Sign. Esta guía detallada abarca los siguientes temas:
 
 <table style="table-layout:auto">
 <tr>
