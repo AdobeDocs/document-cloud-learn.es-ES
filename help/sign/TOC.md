@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '482'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 8%
    + Digidentity {#digidentity}
       + [Obtener un ID digital de Digidentity](digitalid/digidentity-reg.md)
       + [Firmar con Digidentity](digitalid/digidentity-sign.md)
+   + D-Trust {#dtrust}
+      + [Registrar y firmar con [!DNL D-Trust]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [Obtener un ID digital de Intesi Group (avanzado)](digitalid/intesi-advanced.md)
       + [Obtener un ID digital de Intesi Group (cualificado)](digitalid/intesi-qualified.md)
