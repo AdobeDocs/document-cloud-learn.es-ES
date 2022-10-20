@@ -1,24 +1,28 @@
 ---
 title: Editar un PDF
-description: Aprenda a editar texto e imágenes en archivos PDF
+description: Aprenda a editar texto e imágenes en archivos de PDF
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '86'
+ht-degree: 6%
 
 ---
 
 # Editar un PDF
 
-Aprenda a editar texto e imágenes en archivos PDF. Haga clic o toque para añadir un nuevo párrafo, corregir un error tipográfico o reorganizar las páginas del PDF. Incluso puede añadir imágenes o recortar una fotografía.
+Aprenda a editar texto e imágenes en archivos de PDF. Haz clic o toca para añadir un nuevo párrafo, corregir una errata o reorganizar las páginas del PDF. Puedes incluso añadir imágenes o recortar una foto.
+
+>[!TIP]
+>
+>Obtenga información sobre el nuevo modo de edición que [ajusta automáticamente el contenido](auto-adjust-layout.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaje de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitamente en Experience League.
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ Convierte un formulario o documento en papel digitalizado creado en InDesign, Mi
 1. Seleccionar **[!UICONTROL Editar]** para continuar trabajando, o seleccione **[!UICONTROL Archivo]** **>** **[!UICONTROL Guardar como]** para guardar el formulario de PDF.
 
    ![Paso 4 del formulario](../assets/Form_4.png)
+
+>[!TIP]
+>
+>Profundiza en la creación de formularios con estos [técnicas avanzadas](../advanced-tasks/advancedforms.md).
