@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 6%
@@ -20,5 +20,7 @@ Aprende a reorganizar las páginas como quieras, todo en cuestión de segundos. 
 >[!TIP]
 >
 >Más información sobre cómo añadir una marca [nueva página personalizada](add-custom-page.md) al organizar las páginas.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)

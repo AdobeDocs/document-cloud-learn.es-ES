@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -21,6 +21,8 @@ Agiliza los flujos de trabajo con documentos [!DNL SharePoint] y Acrobat mediant
 >[!NOTE]
 >
 >Adobe Acrobat para [!DNL SharePoint], [!DNL OneDrive]y [!DNL Office 365] incluye funciones gratuitas (como ver y buscar en PDF) disponibles para todos los usuarios. Algunas funciones (como la creación y combinación de PDF) requieren una suscripción de pago a Acrobat para equipos o Acrobat para empresas.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 

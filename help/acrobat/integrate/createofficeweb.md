@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-8497.jpg
 kt: 8497
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -22,6 +22,8 @@ Aprende a crear archivos de PDF sin salir de tu [!DNL Microsoft Office] para apl
 >[!NOTE]
 >
 >Adobe Acrobat para [!DNL Microsoft 365] incluye funciones gratuitas (como ver y buscar en PDF) disponibles para todos los usuarios. Otras funciones (como la creación y combinación de PDF) requieren una suscripción de pago a Acrobat para equipos o Acrobat para empresas.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
 
