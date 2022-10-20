@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ Al igual que un pasaporte en formato electrónico, una identidad digital (ID dig
 >[!NOTE]
 >
 >Antes de poder utilizar un ID digital con una firma en la nube, consulte al administrador de su organización para confirmar que la solución del proveedor está habilitada en Acrobat Sign.
+
+## Novedades
+
+* [Registrar y firmar con D-Trust](d-trust.md)
+Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utilice el [!DNL D-Trust] firma digital en un documento en Acrobat Sign
 
 ## [!DNL Aadhaar]
 

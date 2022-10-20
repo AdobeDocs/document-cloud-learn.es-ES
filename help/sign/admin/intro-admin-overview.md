@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,13 @@ ht-degree: 0%
 ![Imagen de administradores de Sign](../assets/Hero-Admin.png)
 
 Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos. Estos tutoriales están diseñados para administradores que han pasado la fase de instalación y están listos para comenzar a administrar Acrobat Sign. Las Tareas avanzadas cubren temas que se expanden más allá de la configuración del administrador y pasan a definir la configuración global, el acceso y uso compartido de la cuenta y el etiquetado de texto.
+
+## Novedades
+
+* [Primeros pasos para nuevos administradores](get-started-admin.md)
+En esta completa guía de vídeo, aprenderá todas las herramientas necesarias para poner en marcha su organización con Acrobat Sign
+* [Configuración de un flujo de trabajo](building-a-custom-workflow.md)
+Automatiza los flujos de trabajo de los documentos para obtener rápidamente firmas electrónicas y datos
 
 ## Introducción
 

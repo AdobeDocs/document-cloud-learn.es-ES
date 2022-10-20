@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '382'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,13 @@ ht-degree: 3%
 ![Imagen avanzada de Sign](../assets/Hero-Advanced.png)
 
 Aprende a enviar un documento para que se firme a cientos de destinatarios a la vez, a configurar un documento listo para firmar para tu sitio web, a administrar transacciones de firma y a crear y administrar plantillas de documentos. Estos tutoriales están destinados a cualquier persona que ya esté familiarizada con los conceptos básicos del envío y la solicitud de firmas y que desee obtener más información sobre cómo Acrobat Sign puede trabajar para ellos.
+
+## Novedades
+
+* [Configurar pagos en línea](set-up-online-payments.md)
+Conozca cómo configurar y aceptar pagos en línea en sus documentos
+* [Creación de un informe](creating-a-report.md)
+Aprende a crear tus propios informes para ganar visibilidad en el proceso de firma de documentos
 
 ## Enviando
 

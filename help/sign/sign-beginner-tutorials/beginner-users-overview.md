@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Imagen de introducción a Sign](../assets/Hero-GettingStarted.png)
 
 Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, empieza a enviar un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
+
+## Novedades
+
+* [Firmar con un sello](sign-with-a-stamp.md)
+Aprenda a utilizar sellos para marcar un documento aprobado o completado
+* [Sustitución de un firmante](replace-signer.md)
+Aprenda a cambiar el firmante de un documento que ya está en curso
 
 ## Enviando
 
