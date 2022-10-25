@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, y completa con informes de auditoría</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="Asistencia para reempleo" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <em>Ayuda a los ciudadanos a obtener la ayuda que necesitan sin alinearse con los formularios de solicitud completamente digitales que pueden activarse en cuestión de días</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Protección de cheque" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <a href="usecasegovremote.md"><strong>Solicitud de orden remota</strong></a>
     </div>
     <em>Utiliza las firmas electrónicas y las conferencias web de forma conjunta para reducir el tiempo que se tarda en solicitar y garantizar las garantías de los jueces</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <a href="usecasecomtelework.md"><strong>Acuerdo de teletrabajo</strong></a>
     </div>
     <em>Recopila firmas de todos tus empleados de forma eficaz en los acuerdos de teletrabajo</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
     <a href="aadhaar-sign.md"><strong>Firmar con [!DNL Aadhaar]</strong></a>
     </div>
     <em>Aprende a usar tu [!DNL Aadhaar] ID digital con Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
     <a href="d-trust.md"><strong>Registrar y firmar con D-Trust</strong></a>
     </div>
     <em>Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utilice el [!DNL D-Trust] firma digital en un documento en Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
     <a href="intesi-sign.md"><strong>Firmar con [!DNL Intesi Group]</strong></a>
     </div>
     <em>Aprende a usar tu [!DNL Intesi Group] ID digital con Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

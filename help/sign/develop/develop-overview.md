@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 12%
+source-wordcount: '168'
+ht-degree: 13%
 
 ---
 
@@ -52,26 +52,14 @@ El 40 % de los acuerdos en Acrobat Sign se crean mediante API. Utiliza API para 
     <em>Envía, recopila y realiza el seguimiento de documentos para su firma a miles de personas al mismo tiempo</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="embeddedesignature.md">
       <img alt="Crea firmas electrónicas incrustadas y experiencias con documentos" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
     <a href="embeddedesignature.md"><strong>Crea firmas electrónicas incrustadas y experiencias con documentos</strong></a>
     </div>
-    <em>Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias con documentos en tus plataformas web y sistemas de gestión de documentos y contenido</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
+    <em>Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias con documentos en tus plataformas web y sistemas de gestión de contenidos y documentos</em>
     <br>
   </td>
 </tr>

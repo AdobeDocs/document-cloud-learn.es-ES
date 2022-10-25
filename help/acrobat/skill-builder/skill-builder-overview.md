@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O b
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Preparar para firmar</strong></a>
     </div>
     <em>Crear PDF con campos de firma electrónica</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O b
     <em>Añada texto, imágenes, vínculos y marcas de agua a su PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="Firma Tu Trabajo" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O b
     <em>Firmar documentos directamente en Microsoft Outlook</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="Convierta sus PDF" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O b
     <em>Rellenar, firmar y enviar formularios electrónicamente en cualquier dispositivo</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Optimiza tus PDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O b
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimiza tus PDF</strong></a>
     </div>
     <em>Preparar PDF para la distribución</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ Ponte al día sobre Acrobat con estos creadores de habilidades interactivos. O b
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Protege a tus PDF</strong></a>
     </div>
     <em>Censurar y proteger la información confidencial de los PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
