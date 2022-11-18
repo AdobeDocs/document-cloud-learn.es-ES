@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
 
 ## Novedades
 
+* [Establecer fechas límite y recordatorios](set-deadlines-reminders.md)
+Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente
 * [Firmar con un sello](sign-with-a-stamp.md)
 Aprenda a utilizar sellos para marcar un documento aprobado o completado
-* [Sustitución de un firmante](replace-signer.md)
-Aprenda a cambiar el firmante de un documento que ya está en curso
 
 ## Enviando
 
@@ -112,6 +112,33 @@ Aprenda a cambiar el firmante de un documento que ya está en curso
     <em>Aprenda a cambiar el firmante de un documento que ya está en curso</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Establecer fecha de caducidad y recordatorios" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Establecer fecha de caducidad y recordatorios</strong></a>
+      </div>
+      <em>Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
