@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 3%
 
 ---
 
 # Combinar archivos en un único PDF
 
-Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a combinar sin problemas muchos tipos diferentes de archivos (PDF, Word, Excel, PowerPoint, JPEG, etc.) en un único PDF. La combinación de archivos en un único PDF le permite administrar y controlar el contenido que envía a otros usuarios, lo que crea una mejor experiencia.
+Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a combinar sin problemas muchos tipos diferentes de archivos (PDF, Word, Excel, PowerPoint, JPEG, etc.) en un único PDF. [Combinar archivos en un único PDF](https://www.adobe.com/es/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} le permite administrar y controlar el contenido que envía a otros usuarios, lo que crea una mejor experiencia.
 
 >[!TIP]
 >

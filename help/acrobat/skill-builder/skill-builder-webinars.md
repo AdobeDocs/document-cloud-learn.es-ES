@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '833'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -27,10 +27,10 @@ Fecha: 15 de diciembre de 2022 Acrobat está totalmente integrado en las aplicac
 Fecha: 17 de noviembre de 2022 Este Skill Builder está destinado a la colaboración en documentos digitales. Ven a descubrir la forma más sencilla de revisar documentos con tu equipo y disfruta de una visita guiada por las herramientas de comentarios disponibles para ti. También hablaremos sobre la revisión de PDF con otras personas en Microsofts Teams y sobre cómo dejar comentarios desde cualquier lugar mediante la aplicación móvil de Acrobat y la web de Acrobat.
 
 * **[Reutilizar el contenido del PDF: Editar y exportar](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
-Fecha: 27 de octubre de 2022 Descubra cómo modificar sus PDF existentes: editar texto e imágenes, añadir hipervínculos y marcadores, convertir a archivos de Microsoft Word, PowerPoint y Excel, y mucho más.
+Fecha: 27 de octubre de 2022 Descubra cómo [modificar los PDF existentes](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}: editar texto e imágenes, añadir hipervínculos y marcadores, convertir a archivos de Microsoft Word, PowerPoint y Excel, y mucho más.
 
 * **[Introducción a Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-Fecha: 22 de septiembre de 2022 Ponte en marcha con Adobe Acrobat y PDF. Le presentaremos la interfaz de Acrobat y le mostraremos cómo hacer lo siguiente: * [Crear PDF a partir de archivos de imagen](https://www.adobe.com/es/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} y documentos, incluidos Word, Excel y PowerPoint. * Combine varios archivos (PDF, Word, imágenes y mucho más) en un solo PDF editable. * Haz el trabajo en cualquier lugar y momento con Acrobat Web y Mobile.
+Fecha: 22 de septiembre de 2022 Ponte en marcha con Adobe Acrobat y PDF. Le presentaremos la interfaz de Acrobat y le mostraremos cómo hacer lo siguiente: * [Crear PDF a partir de archivos de imagen](https://www.adobe.com/es/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} y documentos, incluidos Word, Excel y PowerPoint. * [Combinar varios archivos](https://www.adobe.com/es/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}: PDF, Word, imágenes y mucho más, en un solo PDF editable. * Haz el trabajo en cualquier lugar y momento con Acrobat Web y Mobile.
 
 * **[Seguridad de PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 Fecha: 25 de agosto de 2022 Obtén toda la información que necesitas en [proteger al PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html)Contenido de {target=&quot;_blank&quot;}. En esta sesión se compartirán técnicas para añadir contraseñas que impidan ver, editar o imprimir un PDF, y se mostrará cómo eliminar de forma permanente información confidencial, incluso de metadatos no visibles.

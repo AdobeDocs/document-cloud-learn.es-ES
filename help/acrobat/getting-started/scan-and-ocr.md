@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
 # Escáner y OCR
 
-Para que la empresa no se detenga, convierte las digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas.
+Para que la empresa no se detenga, convierte las digitalizaciones o imágenes de documentos en archivos que se puedan buscar, [archivos de PDF editables](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >

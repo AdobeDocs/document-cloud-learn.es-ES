@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 6%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # Editar un PDF
 
-Aprenda a editar texto e imágenes en archivos de PDF. Haz clic o toca para añadir un nuevo párrafo, corregir una errata o reorganizar las páginas del PDF. Puedes incluso añadir imágenes o recortar una foto.
+Aprenda a [editar texto e imágenes en archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Haz clic o toca para añadir un nuevo párrafo, corregir una errata o reorganizar las páginas del PDF. Puedes incluso añadir imágenes o recortar una foto.
 
 >[!TIP]
 >

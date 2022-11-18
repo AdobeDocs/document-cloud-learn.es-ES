@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -86,7 +86,7 @@ Etiquete un PDF de la siguiente manera:
 
 ## 4. Prepárate para la web
 
-Optimice la experiencia de interacción con el PDF preparándolo para la visualización en la Web y reduciendo el tamaño del archivo.
+Optimice la experiencia de interacción con el PDF preparándolo para la visualización en la Web y [reducir el tamaño de archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
 
 +++Ver detalles sobre cómo preparar al PDF para la Web
 
@@ -122,7 +122,7 @@ El nombre de archivo pasa a formar parte de la dirección URL cuando se publica 
 
 ## 6. Proteja su PDF
 
-El último paso es proteger al PDF para evitar cambios no autorizados.
+El último paso es [proteja a su PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} para evitar cambios no autorizados.
 
 +++Ver detalles sobre cómo proteger el PDF
 
