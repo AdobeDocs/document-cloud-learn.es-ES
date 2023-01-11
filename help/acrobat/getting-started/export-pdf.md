@@ -1,25 +1,25 @@
 ---
-title: Exportación de un PDF a los formatos de Microsoft Office
-description: Aprenda a exportar los archivos PDF a formatos editables como Microsoft Word, Excel o PowerPoint
+title: Exportar un PDF a formatos de Microsoft Office
+description: Aprenda a exportar archivos de PDF a formatos editables como Microsoft Word, Excel o PowerPoint
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
-# Exportación de un PDF a formatos de Microsoft Office
+# Exportar un PDF a formatos de Microsoft Office
 
-Aprenda a exportar los archivos PDF a formatos editables, como Microsoft Word, PowerPoint y Excel. La exportación a otro formato de archivo le permite realizar revisiones y actualizaciones significativas en los documentos.
+Aprende a exportar tus archivos de PDF a formatos editables, como [Microsoft Word](https://www.adobe.com/es/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/es/acrobat/online/pdf-to-ppt.html)y [Excel](https://www.adobe.com/es/acrobat/online/pdf-to-excel.html). La exportación a otro formato de archivo le permite realizar revisiones y actualizaciones importantes en sus documentos.
 
 >[!TIP]
 >
->Para exportar varios archivos de PDF a otro formato, intente utilizar el [Action Wizard](../advanced-tasks/action.md).
+>Para exportar varios archivos de PDF a otro formato, pruebe a utilizar la [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,8 +27,8 @@ Aprenda a exportar los archivos PDF a formatos editables, como Microsoft Word, P
 
 >[!TIP]
 >
->Obtenga más información sobre cómo trabajar con [Acrobat y Microsoft 365](../integrate/integrate-overview.md).
+>Más información sobre cómo trabajar con [Acrobat y Microsoft 365](../integrate/integrate-overview.md).
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaje de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitamente en Experience League.
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
