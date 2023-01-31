@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
 
 ## Novedades
 
+* [Introducción a Acrobat Sign](new-sender.md)
+¿Es nuevo en el uso de Acrobat Sign? Este tutorial es un buen punto de partida.
 * [Establecer fechas límite y recordatorios](set-deadlines-reminders.md)
 Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente
-* [Firmar con un sello](sign-with-a-stamp.md)
-Aprenda a utilizar sellos para marcar un documento aprobado o completado
 
 ## Enviando
 
