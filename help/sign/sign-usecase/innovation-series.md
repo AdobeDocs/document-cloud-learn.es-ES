@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Fecha: 18 de mayo de 2023 Únete a nosotros para conocer los aspectos básicos d
 **[Formación avanzada sobre el entorno de creación](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Fecha: 20 de abril de 2023 Profundiza en las opciones disponibles en el Entorno de creación de Acrobat Sign. Los temas tratados incluyen:
 
-    * Información general sobre la preparación de plantillas de documentos de Acrobat Sign con Acrobat, el etiquetado de texto y el entorno de creación de Acrobat Sign.
-    * Profundiza en el entorno de creación, ya que abarca la clonación frente a la copia de campos, la adición de campos especializados, la asignación de campos y la configuración de campos condicionales y de cálculo.
-    * Cómo enviar plantillas para su firma, comparando la plantilla de documento con la plantilla de campos de formulario.
+* Información general sobre la preparación de plantillas de documentos de Acrobat Sign con Acrobat, el etiquetado de texto y el entorno de creación de Acrobat Sign.
+* Profundiza en el entorno de creación, ya que abarca la clonación frente a la copia de campos, la adición de campos especializados, la asignación de campos y la configuración de campos condicionales y de cálculo.
+* Cómo enviar plantillas para firmar, comparando la plantilla de documento con la plantilla de campos de formulario.
 
 **[Publicar un formulario web que se pueda rellenar y firmar](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Fecha: 16 de marzo de 2023 Aprende a crear un formulario web que permita a cualquier persona cumplimentar y firmar sin tener que iniciar la transacción ni siquiera conocer la dirección de correo electrónico del firmante. También verás cómo preparar una plantilla de documento que se pueda usar para transacciones de firma individuales, así como para publicar en una dirección URL única para un uso compartido amplio.
@@ -44,9 +44,9 @@ Fecha: 16 de febrero de 2023 Descubre cómo la función Enviar en bloque de Acro
 **[Preparar acuerdos para su firma electrónica](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 Fecha: 19 de enero de 2023 Descubre tres formas sencillas de configurar tus documentos para que se firmen electrónicamente. Ya sean PDF, archivos de Microsoft 365 o incluso un simple archivo de imagen, esta sesión te dará las herramientas que necesitas para que ese documento se firme. Trataremos tres métodos:
 
-    * El sencillo entorno de creación de Adobe Acrobat Sign con función de arrastrar y soltar
-    * Configurar un formulario de PDF en Adobe Acrobat
-    * Usar etiquetas de texto para agilizar la creación de documentos
+* El sencillo entorno de creación de Adobe Acrobat Sign con función de arrastrar y soltar
+* Configurar un formulario de PDF en Adobe Acrobat
+* Uso de etiquetas de texto para agilizar la creación de documentos
 
 **[Trabaja con firmas electrónicas en tus aplicaciones de Microsoft](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Fecha: 8 de diciembre de 2022 Amplía tu forma de usar aplicaciones de Microsoft como Word, Outlook y Sharepoint añadiendo Adobe Acrobat Sign a tus flujos de trabajo existentes. Esta sesión te enseñará cómo empezar a agilizar los procesos con documentos en las aplicaciones comunes de Microsoft, para que no tengas que cambiar de contexto solo para obtener una firma o comprobar un estado.
