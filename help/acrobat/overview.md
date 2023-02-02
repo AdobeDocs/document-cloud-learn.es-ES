@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 7b00851bd253e219d3dce1fbe0f06df80d8dafef
+source-git-commit: e6a96b762a4d9f15b1aa0ebc716960dc4e65a14f
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 4%
 
 ---
@@ -44,11 +44,11 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a que las tareas no 
     <br>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-overview.md">
+    <a href="skill-builder/skill-builder-webinars.md">
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>Creadores de habilidades</strong></a>
+    <a href="skill-builder/skill-builder-webinars.md"><strong>Seminarios web de Skill Builder</strong></a>
     </div>
     <em>Consejos basados en tareas que te ayudan a digitalizarte, a mantenerte digital y a trabajar</em>
     <br>

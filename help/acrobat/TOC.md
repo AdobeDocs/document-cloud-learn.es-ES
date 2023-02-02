@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 9%
+source-wordcount: '412'
+ht-degree: 8%
 
 ---
 
@@ -78,7 +78,6 @@ ht-degree: 9%
    + [Editar un gráfico en el PDF](60-second/editgraphic.md)
    + [Organiza páginas en un instante](60-second/organize.md)
 + Creadores de habilidades {#skill-builders}
-   + [Información general](skill-builder/skill-builder-overview.md)
    + [Seminarios web](skill-builder/skill-builder-webinars.md)
 + Integraciones {#integrations}
    + [Información general](integrate/integrate-overview.md)
