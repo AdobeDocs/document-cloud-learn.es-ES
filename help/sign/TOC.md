@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 9%
 
 + [Información general](overview.md)
 + Introducción {#getting-started}
-   + [Información general](sign-beginner-tutorials/beginner-users-overview.md)
-   + Enviando {#getting-started-sending}
-      + [Conceptos básicos del área de trabajo](sign-beginner-tutorials/quick-tour.md)
+   + [Resumen](sign-beginner-tutorials/beginner-users-overview.md)
+   + Envíar {#getting-started-sending}
+      + [Descripción general del espacio de trabajo](sign-beginner-tutorials/quick-tour.md)
       + [Introducción a Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Enviar a un único destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Enviar a varios destinatarios](sign-beginner-tutorials/send-to-multiple-recipients.md)
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Modificación de un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
       + [Sustitución de un firmante](sign-beginner-tutorials/replace-signer.md)
       + [Establecer fecha de caducidad y recordatorios](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Firmando {#getting-started-signing}
       + [Firmar electrónicamente un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Rellenar y firmar un documento](sign-beginner-tutorials/fill-and-sign.md)
       + [Obtención de una firma en persona](sign-beginner-tutorials/sign-in-person.md)
@@ -42,8 +42,8 @@ ht-degree: 9%
       + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
       + [Creación de una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tareas avanzadas {#advanced-tasks}
-   + [Información general](sign-advanced-users/advanced-users-overview.md)
-   + Enviando {#advanced-tasks-sending}
+   + [Resumen](sign-advanced-users/advanced-users-overview.md)
+   + Envío {#advanced-tasks-sending}
       + [Configuración del pedido de firma](sign-advanced-users/setting-up-routing.md)
       + [Uso de la función del delegador](sign-advanced-users/delegate-signature.md)
       + [Uso de la función de aprobador](sign-advanced-users/add-an-approver.md)
@@ -58,8 +58,8 @@ ht-degree: 9%
       + [Modificar un formulario web existente](sign-advanced-users/modify-webform.md)
       + [Administración de datos de formulario web](sign-advanced-users/manage-webform-data.md)
 + Administrar {#admin-set-up}
-   + [Información general](admin/intro-admin-overview.md)
-   + Introducción {#getting-started-admin}
+   + [Resumen](admin/intro-admin-overview.md)
+   + Primeros pasos {#getting-started-admin}
       + [Primeros pasos para nuevos administradores](admin/get-started-admin.md)
       + [En marcha para administradores](admin/up-and-running-admin.md)
       + [Configurar notificaciones de eventos y alertas](admin/set-up-shared-events-and-alert.md)
@@ -79,7 +79,7 @@ ht-degree: 9%
       + [Usar configuración de biofarmacéutica](admin/use-bio-pharma-settings.md)
       + [Etiquetado de texto de Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
 + ID digital {#digital-id}
-   + [Información general](digitalid/digitalid-overview.md)
+   + [Resumen](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Firmar con Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
@@ -92,7 +92,7 @@ ht-degree: 9%
       + [Obtener un ID digital de Intesi Group (cualificado)](digitalid/intesi-qualified.md)
       + [Firmar con Intesi Group](digitalid/intesi-sign.md)
 + Integraciones {#integrations}
-   + [Información general](integrations/integrations-overview.md)
+   + [Resumen](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Rellenar y firmar en Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Enviar para firmar en Outlook](integrations/send-for-signature-with-outlook.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Enviar para firmar en [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Archivado automático de archivos en [!DNL SharePoint] con [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automatización de documentos con Acrobat Sign para Microsoft Power Platform](integrations/documentautomation.md)
+   + Notarizar {#notarize}
+      + [Enviar documentos para su notarización](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder para Salesforce](integrations/create-an-agreement-template.md)
       + [Configuración de la asignación de datos](integrations/set-up-data-mapping.md)
@@ -115,12 +117,12 @@ ht-degree: 9%
       + [Enviar notificaciones con Acrobat Sign para Microsoft Dynamics y Marketo](integrations/marketo-dynamics-sms.md)
       + [Enviar recordatorios con Acrobat Sign para Microsoft Dynamics 365 y Marketo](integrations/marketo-dynamics-reminder.md)
 + Sectores y departamentos {#expand}
-   + [Información general](sign-usecase/expand-inspire-overview.md)
+   + [Resumen](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Seminarios web](sign-usecase/innovation-series.md)
    + Recetas de casos prácticos {#recipes}
-      + [Información general](sign-usecase/recipes.md)
-      + Gobierno {#gov}
+      + [Resumen](sign-usecase/recipes.md)
+      + Organismos públicos {#gov}
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasegovtelework.md)
          + [Contratos y formularios de solicitud](sign-usecase/usecasegovcontracts.md)
@@ -134,13 +136,13 @@ ht-degree: 9%
    + Caso práctico {#use-case}
       + [Escaparate](sign-usecase/use-case-showcase.md)
 + Revelar {#develop}
-   + [Información general](develop/develop-overview.md)
+   + [Resumen](develop/develop-overview.md)
    + API personalizadas {#custom}
       + [Recopilación de documentos de gran volumen mediante GigaSign](develop/gigasign.md)
       + [Crea firmas electrónicas incrustadas y experiencias con documentos](develop/embeddedesignature.md)
 + Implementación {#deploy}
-   + [Información general](deploy-overview.md)
-+ Dispositivos móviles {#mobile}
-   + [Información general](mobile/mobile-overview.md)
+   + [Resumen](deploy-overview.md)
++ Para móviles {#mobile}
+   + [Resumen](mobile/mobile-overview.md)
    + Tutoriales para móviles {#mobile-tutorials}
       + [Liquid Mode en Acrobat Sign](mobile/liquidmode.md)
