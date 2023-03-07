@@ -1,6 +1,6 @@
 ---
-title: Firmar con [!DNL Digidentity]
-description: Aprende a usar tu [!DNL Digidentity] ID digital con Acrobat Sign
+title: Regístrate y firma con una [!DNL Digidentity] ID digital
+description: Aprenda a registrarse y utilizar su [!DNL Digidentity] ID digital con Acrobat Sign
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,15 +8,17 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Firmar con [!DNL Digidentity]
+# Regístrate y firma con una [!DNL Digidentity] ID digital
 
-Aprende a usar tu [!DNL Digidentity] ID digital para autenticar su identidad y autorizar una firma digital remota (firma en la nube) en un documento.
+Digidentity es un proveedor de servicios de confianza cualificado de la UE (QTSP). El proceso de identificación e incorporación de Digidentity se basa en la aplicación móvil Digidentity y requiere el uso de un documento de identidad con un chip NFC integrado, así como un dispositivo móvil compatible con NFC. El proceso de Digidentity es completamente de autoservicio y está disponible 24/7/365, sin &quot;humano en el bucle&quot;. En la mayoría de los casos, se tarda tan solo 5-10 minutos para completar el registro.
+
+Este tutorial de vídeo detalla el recorrido del usuario desde la recepción del correo electrónico de invitación de registro hasta el uso de un ID digital para autenticar y aplicar una firma en la nube en Adobe Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)

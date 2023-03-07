@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 0%
+source-wordcount: '486'
+ht-degree: 10%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 + [Información general](overview.md)
 + Introducción {#getting-started}
-   + [Resumen](sign-beginner-tutorials/beginner-users-overview.md)
+   + [Información general](sign-beginner-tutorials/beginner-users-overview.md)
    + Envíar {#getting-started-sending}
-      + [Descripción general del espacio de trabajo](sign-beginner-tutorials/quick-tour.md)
+      + [Conceptos básicos del área de trabajo](sign-beginner-tutorials/quick-tour.md)
       + [Introducción a Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Enviar a un único destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Enviar a varios destinatarios](sign-beginner-tutorials/send-to-multiple-recipients.md)
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [Modificación de un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
       + [Sustitución de un firmante](sign-beginner-tutorials/replace-signer.md)
       + [Establecer fecha de caducidad y recordatorios](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Firmando {#getting-started-signing}
+   + Firma {#getting-started-signing}
       + [Firmar electrónicamente un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Rellenar y firmar un documento](sign-beginner-tutorials/fill-and-sign.md)
       + [Obtención de una firma en persona](sign-beginner-tutorials/sign-in-person.md)
@@ -42,8 +42,8 @@ ht-degree: 0%
       + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
       + [Creación de una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tareas avanzadas {#advanced-tasks}
-   + [Resumen](sign-advanced-users/advanced-users-overview.md)
-   + Envío {#advanced-tasks-sending}
+   + [Información general](sign-advanced-users/advanced-users-overview.md)
+   + Envíar {#advanced-tasks-sending}
       + [Configuración del pedido de firma](sign-advanced-users/setting-up-routing.md)
       + [Uso de la función del delegador](sign-advanced-users/delegate-signature.md)
       + [Uso de la función de aprobador](sign-advanced-users/add-an-approver.md)
@@ -58,8 +58,8 @@ ht-degree: 0%
       + [Modificar un formulario web existente](sign-advanced-users/modify-webform.md)
       + [Administración de datos de formulario web](sign-advanced-users/manage-webform-data.md)
 + Administrar {#admin-set-up}
-   + [Resumen](admin/intro-admin-overview.md)
-   + Primeros pasos {#getting-started-admin}
+   + [Información general](admin/intro-admin-overview.md)
+   + Introducción {#getting-started-admin}
       + [Primeros pasos para nuevos administradores](admin/get-started-admin.md)
       + [En marcha para administradores](admin/up-and-running-admin.md)
       + [Configurar notificaciones de eventos y alertas](admin/set-up-shared-events-and-alert.md)
@@ -79,12 +79,11 @@ ht-degree: 0%
       + [Usar configuración de biofarmacéutica](admin/use-bio-pharma-settings.md)
       + [Etiquetado de texto de Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
 + ID digital {#digital-id}
-   + [Resumen](digitalid/digitalid-overview.md)
+   + [Información general](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Firmar con Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Obtener un ID digital de Digidentity](digitalid/digidentity-reg.md)
-      + [Firmar con Digidentity](digitalid/digidentity-sign.md)
+      + [Regístrate y firma con una [!DNL Digidentity] ID digital](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrar y firmar con [!DNL D-Trust]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
@@ -92,7 +91,7 @@ ht-degree: 0%
       + [Obtener un ID digital de Intesi Group (cualificado)](digitalid/intesi-qualified.md)
       + [Firmar con Intesi Group](digitalid/intesi-sign.md)
 + Integraciones {#integrations}
-   + [Resumen](integrations/integrations-overview.md)
+   + [Información general](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Rellenar y firmar en Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Enviar para firmar en Outlook](integrations/send-for-signature-with-outlook.md)
@@ -117,11 +116,11 @@ ht-degree: 0%
       + [Enviar notificaciones con Acrobat Sign para Microsoft Dynamics y Marketo](integrations/marketo-dynamics-sms.md)
       + [Enviar recordatorios con Acrobat Sign para Microsoft Dynamics 365 y Marketo](integrations/marketo-dynamics-reminder.md)
 + Sectores y departamentos {#expand}
-   + [Resumen](sign-usecase/expand-inspire-overview.md)
+   + [Información general](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Seminarios web](sign-usecase/innovation-series.md)
    + Recetas de casos prácticos {#recipes}
-      + [Resumen](sign-usecase/recipes.md)
+      + [Información general](sign-usecase/recipes.md)
       + Organismos públicos {#gov}
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasegovtelework.md)
@@ -136,13 +135,13 @@ ht-degree: 0%
    + Caso práctico {#use-case}
       + [Escaparate](sign-usecase/use-case-showcase.md)
 + Revelar {#develop}
-   + [Resumen](develop/develop-overview.md)
+   + [Información general](develop/develop-overview.md)
    + API personalizadas {#custom}
       + [Recopilación de documentos de gran volumen mediante GigaSign](develop/gigasign.md)
       + [Crea firmas electrónicas incrustadas y experiencias con documentos](develop/embeddedesignature.md)
 + Implementación {#deploy}
-   + [Resumen](deploy-overview.md)
-+ Para móviles {#mobile}
-   + [Resumen](mobile/mobile-overview.md)
+   + [Información general](deploy-overview.md)
++ Móvil {#mobile}
+   + [Información general](mobile/mobile-overview.md)
    + Tutoriales para móviles {#mobile-tutorials}
       + [Liquid Mode en Acrobat Sign](mobile/liquidmode.md)
