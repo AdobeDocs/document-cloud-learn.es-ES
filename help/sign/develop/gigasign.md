@@ -7,26 +7,26 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 4%
+source-wordcount: '264'
+ht-degree: 5%
 
 ---
 
 # Recopilación de documentos de gran volumen mediante GigaSign
 
-Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos para su firma a miles de personas al mismo tiempo. Se ha diseñado para comunicaciones de gran volumen con sus empleados y clientes, y ofrece asistencia a hasta 2500 destinatarios con cada envío masivo. GigaSign utiliza la API de Acrobat Sign para proporcionar la misma funcionalidad que MegaSign e incluye compatibilidad con varios firmantes, grupos de destinatarios, funciones de destinatarios, nombres de acuerdos, copia de carbón y mucho más.
+Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos para su firma a miles de personas al mismo tiempo. Se ha diseñado para comunicaciones de gran volumen con sus empleados y clientes, y ofrece asistencia a hasta 2500 destinatarios con cada envío masivo. GigaSign utiliza la API de Acrobat Sign para proporcionar la misma funcionalidad que MegaSign e incluye compatibilidad con varios firmantes, grupos de destinatarios, funciones de destinatarios, nombres de acuerdos, copia de seguridad y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Descargar e instalar la aplicación GigaSign
 
 [Descargar archivo Zip de GigaSign](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Vínculo de descarga de Java 1.8 (solo si es necesario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Vínculo de descarga de Java 1.8 (solo si es necesario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[Direcciones IP a lista blanca (solo si es necesario)](https://helpx.adobe.com/es/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[Direcciones IP a lista blanca (solo si es necesario)](https://helpx.adobe.com/es/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Instrucciones básicas de configuración
 

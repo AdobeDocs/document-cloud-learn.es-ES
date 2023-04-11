@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -21,4 +21,4 @@ Digidentity es un proveedor de servicios de confianza cualificado de la UE (QTSP
 
 Este tutorial de vídeo detalla el recorrido del usuario desde la recepción del correo electrónico de invitación de registro hasta el uso de un ID digital para autenticar y aplicar una firma en la nube en Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

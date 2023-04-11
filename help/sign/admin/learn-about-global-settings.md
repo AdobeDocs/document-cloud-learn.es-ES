@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: 8bf47e73f9bc1c82467e7567069bca406b357725
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 31%
@@ -18,7 +18,7 @@ ht-degree: 31%
 
 La sección Configuración global de la ficha Cuenta es una de las secciones que incluye más opciones, y todas ellas son específicas para determinados casos de uso. Aprenda a editar la configuración globalmente para toda su organización o para grupos específicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

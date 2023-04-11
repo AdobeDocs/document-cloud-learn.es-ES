@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Aprende a recopilar de forma eficaz las firmas de todos tus empleados en acuerdos de teletrabajo, actualizaciones de políticas y mucho más. En primer lugar, cree una plantilla de documento reutilizable a la que se pueda acceder rápidamente desde la biblioteca de documentos. En segundo lugar, envíe la nueva plantilla de documento para su firma a cientos de empleados a la vez mediante Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
 
 Haz clic para descargar la receta de PDF paso a paso para los acuerdos de teletrabajo.
 
-[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

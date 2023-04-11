@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Utilice la herramienta Prepare Form para agregar automáticamente campos de form
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -46,7 +47,7 @@ Para agregar varios tipos de campos de formulario y establecer sus propiedades e
 
 1. Descargar y abrir *Questionnaire.pdf*.
 1. Seleccionar **Prepare Form** en el Centro de herramientas.
-1. Seleccione **Inicio**.
+1. Seleccionar **Inicio**.
 1. Seleccionar **Editar texto e imágenes** en la barra de herramientas para corregir la errata.
 1. Elegir **Seleccionar** en la barra de herramientas para salir del modo de edición.
 1. Seleccione y elimine el campo de formulario superior.

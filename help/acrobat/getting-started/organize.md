@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 25%
+source-wordcount: '96'
+ht-degree: 30%
 
 ---
 
 # Organizar páginas
 
-Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprende a reorganizar las páginas como quieras, todo en cuestión de segundos. [Insertar](https://www.adobe.com/es/acrobat/online/add-pages-to-pdf.html){target=&quot;_blank&quot;}, reemplazar, [dividir](https://www.adobe.com/es/acrobat/online/split-pdf.html){target=&quot;_blank&quot;}, [reordenar](https://www.adobe.com/es/acrobat/online/rearrange-pdf.html){target=&quot;_blank&quot;}, [rotar](https://www.adobe.com/es/acrobat/online/rotate-pdf.html){target=&quot;_blank&quot;} e incluso [extraer páginas discontinuas](https://www.adobe.com/es/acrobat/online/extract-pdf-pages.html){target=&quot;_blank&quot;} para crear un PDF de aspecto profesional. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
+Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprende a reorganizar las páginas como quieras, todo en cuestión de segundos. [Insertar](https://www.adobe.com/es/acrobat/online/add-pages-to-pdf.html){target="_blank"}, replace, [split](https://www.adobe.com/es/acrobat/online/split-pdf.html){target="_blank"}, [reorder](https://www.adobe.com/es/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotate](https://www.adobe.com/es/acrobat/online/rotate-pdf.html){target="_blank"}, and even [extract discontinuous pages](https://www.adobe.com/es/acrobat/online/extract-pdf-pages.html){target="_blank"} para crear un PDF de aspecto profesional. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
 
 >[!TIP]
 >
@@ -23,4 +23,4 @@ Ofrecer las mejores experiencias a los clientes requiere que el contenido se cre
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)

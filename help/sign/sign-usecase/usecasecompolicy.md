@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Recopila firmas de todos tus empleados de forma eficaz en acuerdos de política, actualizaciones de políticas y mucho más. Aprenda a crear un formulario web en línea que se pueda rellenar **y** firmado sin imprimir ni enviar nada por correo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Haga clic aquí para descargar la receta del PDF paso a paso para los acuerdos de política.
 
-[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

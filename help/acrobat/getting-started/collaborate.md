@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8255.jpg
 kt: 8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
-# Colaboración en tiempo real
+# Colabora en tiempo real
 
 Con el teletrabajo en todas partes, una colaboración fluida es fundamental para ofrecer contenido con velocidad y escala. Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar.
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

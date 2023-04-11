@@ -1,21 +1,21 @@
 ---
-title: Cargar comentarios de PDF en InDesign
-description: Aprenda a cargar comentarios de PDF de nuevo en el InDesign después de una revisión compartida de Acrobat
+title: Cargar comentarios del PDF en InDesign
+description: Obtenga información sobre cómo cargar los comentarios del PDF en InDesign después de compartir una revisión de Acrobat
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8816.jpg
 KT: 8816
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
-source-git-commit: 2dc395a9495f71742b19a843a72e2efb387c1f89
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Cargar comentarios de PDF en InDesign
+# Cargar comentarios del PDF en InDesign
 
-En este tutorial de vídeo de 60 segundos, aprenda a cargar comentarios de PDF de nuevo en InDesign después de una revisión compartida de Acrobat. Este flujo de trabajo digital le ayuda a completar las revisiones en tiempo récord.
+En este tutorial en vídeo de 60 segundos, aprenderá a volver a cargar los comentarios del PDF en InDesign después de una revisión compartida de Acrobat. Este flujo de trabajo digital le ayuda a completar las revisiones en tiempo récord.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)

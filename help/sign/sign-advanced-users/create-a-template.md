@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aprenda a crear una plantilla de documento reutilizable y agregarla a su biblioteca de Acrobat Sign para su uso futuro. Las plantillas de documento proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar las revisiones y los cambios del documento.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

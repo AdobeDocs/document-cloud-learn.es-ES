@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 Ofrece asistencia rápida a las empresas al proporcionar acceso de autoservicio a formularios de solicitud de subvención, préstamo y aplazamiento de impuestos. Aprenda a crear un formulario web en línea que se pueda rellenar **y** firmado sin imprimir ni enviar nada por correo.
 
->[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Haga clic para descargar la receta de PDF paso a paso para las subvenciones y préstamos empresariales.
 
-[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

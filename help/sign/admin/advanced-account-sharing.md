@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Aprenda a configurar el uso compartido avanzado de cuentas, lo que permite a los
 >
 >El uso compartido avanzado de cuentas solo está disponible para los planes de nivel Enterprise. El servicio de asistencia técnica puede habilitar el uso compartido avanzado, pero una vez habilitado, cambia las relaciones de los objetos compartidos de forma irreversible. Por este motivo, se recomienda que se ponga en contacto con el equipo de cuentas de Adobe y que configure una cuenta de prueba para que pueda probar la funcionalidad y comprobar que permite todo lo que desea lograr.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
