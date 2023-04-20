@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: e6a96b762a4d9f15b1aa0ebc716960dc4e65a14f
+source-git-commit: 6b117eba16ed6738708db30ebe3fc41c14685f35
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 4%
+source-wordcount: '74'
+ht-degree: 6%
 
 ---
 
@@ -27,31 +27,16 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a que las tareas no 
     <a href="getting-started/getting-started-overview.md">
       <img alt="Introducción" src="assets/acrobat_title_getting_started.png" />
     </a>
-    <div>
-    <a href="getting-started/getting-started-overview.md"><strong>Introducción</strong></a>
-    </div>
-    <em>Obtén información actualizada sobre cómo crear, editar, convertir, proteger y mucho más con archivos de PDF</em>
-    <br>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
       <img alt="Tareas avanzadas" src="assets/acrobat_title_advanced_tasks.png" />
     </a>
-    <div>
-    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Tareas avanzadas</strong></a>
-    </div>
-    <em>Ve más allá de lo básico con tareas específicas y automatización</em>
-    <br>
   </td>
   <td>
     <a href="skill-builder/skill-builder-webinars.md">
       <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
-    <div>
-    <a href="skill-builder/skill-builder-webinars.md"><strong>Seminarios web de Skill Builder</strong></a>
-    </div>
-    <em>Consejos basados en tareas que te ayudan a digitalizarte, a mantenerte digital y a trabajar</em>
-    <br>
   </td>
 </tr>
 <tr>
@@ -59,31 +44,16 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a que las tareas no 
     <a href="integrate/integrate-overview.md">
       <img alt="Integraciones" src="assets/acrobat_title_integrate.png" />
     </a>
-    <div>
-    <a href="integrate/integrate-overview.md"><strong>Integraciones</strong></a>
-    </div>
-    <em>Añadir Acrobat a los sistemas, procesos y aplicaciones empresariales existentes</em>
-    <br>
   </td>
   <td>
     <a href="industry/industry-overview.md">
       <img alt="Sectores y departamentos" src="assets/acrobat_title_industry.png" />
     </a>
-    <div>
-    <a href="industry/industry-overview.md"><strong>Sectores y departamentos</strong></a>
-    </div>
-    <em>Descubre cómo las organizaciones del mundo real se vuelven 100 % digitales</em>
-    <br>
   </td>  
   <td>
     <a href="develop/develop-overview.md">
       <img alt="Revelar" src="assets/acrobat_title_develop.png" />
     </a>
-    <div>
-    <a href="develop/develop-overview.md"><strong>Revelar</strong></a>
-    </div>
-    <em>Obtener recursos de desarrollo en Adobe Acrobat</em>
-    <br>
   </td>
 </tr>
 <tr>
@@ -91,21 +61,11 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a que las tareas no 
     <a href="deploy/deploy-overview.md">
       <img alt="Implementación" src="assets/acrobat_title_deploy.png" />
     </a>
-    <div>
-    <a href="deploy/deploy-overview.md"><strong>Implementación</strong></a>
-    </div>
-    <em>Información y prácticas recomendadas para implementar Acrobat en su organización</em>
-    <br>
   </td>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="Dispositivos móviles" src="assets/acrobat_title_mobile.png" />
+      <img alt="Móvil" src="assets/acrobat_title_mobile.png" />
     </a>
-    <div>
-    <a href="mobile/mobile-overview.md"><strong>Dispositivos móviles</strong></a>
-    </div>
-    <em>Crea, rellena y firma PDF en tu dispositivo móvil</em>
-    <br>
   </td>  
   <td>
    <img alt="Separador" src="assets/Whitespacer.png" />
