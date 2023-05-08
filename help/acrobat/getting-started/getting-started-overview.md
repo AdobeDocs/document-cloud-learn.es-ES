@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ![Imagen de introducción a Acrobat](../assets/Hero-GettingStarted.png)
 
-Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger o [editar los archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
+Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger o [editar los archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
 
 ## Tutoriales de introducción
 
@@ -107,7 +107,7 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
         <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
       </a>
       <div>
-      <a href="create-pdf.md"><strong>Creación de un PDF</strong></a>
+      <a href="create-pdf.md"><strong>Crear un PDF</strong></a>
       </div>
       <em>Crea PDF de todos los tipos de documentos</em>
       <br>
@@ -193,10 +193,10 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Colaboración en tiempo real" src="../assets/Collaborate_1280.png" />
+        <img alt="Colabora en tiempo real" src="../assets/Collaborate_1280.png" />
       </a>
       <div>
-      <a href="collaborate.md"><strong>Colaboración en tiempo real</strong></a>
+      <a href="collaborate.md"><strong>Colabora en tiempo real</strong></a>
       </div>
       <em>Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
       <br>
@@ -250,10 +250,10 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Escáner y OCR" src="../assets/Scan.jpg" />
+      <img alt="Digitalización y OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Escáner y OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Digitalización y OCR</strong></a>
     </div>
     <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
     <br>
@@ -291,12 +291,12 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
     <br>
   </td>
   <td>
-   <img alt="Separador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Separador" src="../assets/Whitespacer.png" />
+   <img alt="Separador" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
