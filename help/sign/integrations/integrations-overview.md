@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -104,6 +104,11 @@ En este tutorial de tres partes, aprenderá a enviar un documento para su notari
     <a href="documentautomation.md"><strong>Automatización de documentos con [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Obtenga información sobre cómo activar y utilizar la [!DNL Acrobat Sign] y [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] aplicaciones</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

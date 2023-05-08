@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,35 @@ Los creadores de habilidades de Acrobat Sign son sesiones de 30 minutos diseñad
 
 ## Sesiones mensuales
 
+**[Trabaja con firmas electrónicas en tus aplicaciones de Microsoft](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+Fecha: 19 de octubre de 2023 Amplía tu forma de usar aplicaciones de Microsoft como Word, Outlook y Sharepoint añadiendo Adobe Acrobat Sign a tus flujos de trabajo existentes. Esta sesión te enseñará cómo empezar a agilizar los procesos con documentos en las aplicaciones comunes de Microsoft, para que no tengas que cambiar de contexto solo para obtener una firma o comprobar un estado.
+
+**[Administrar acuerdos: Obtener visibilidad en tiempo real del estado del acuerdo](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+Fecha: 21 de septiembre de 2023 Conozca los detalles de las herramientas y prácticas recomendadas de administración de acuerdos para que pueda conocer el estado de sus acuerdos en cualquier momento. En esta sesión se tratarán:
+
+* ¿Qué acciones puede realizar en los documentos desde la ficha Administrar?
+* Cómo procesar y usar datos de formularios web y envíos masivos
+* Cómo buscar y filtrar para encontrar los documentos que necesita
+
+**[Sugerencias avanzadas para enviar documentos para su firma](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+Fecha: 17 de agosto de 2023 Únete a nosotros mientras profundizamos en todas las opciones disponibles al enviar acuerdos para su firma. En esta sesión, descubrirás lo siguiente:
+
+* Enviar a varios destinatarios
+* Funciones disponibles para el destinatario (firmante, rellenador de formularios, delegador, etc.)
+* Añadir un campo CC
+* Protección con contraseña y mucho más
+
+**[Integraciones de Acrobat Sign: Salesforce y Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+Fecha: 20 de julio de 2023 Únete a nosotros mientras revisamos algunas de las integraciones de Acrobat Sign más comunes y potentes con Salesforce y Workday. En esta sesión se explorará cómo puedes acelerar las transacciones empresariales eliminando las tareas manuales e ineficaces y creando procesos de firma electrónica y flujos de trabajo totalmente digitales justo dentro de las herramientas que ya utilizas.
+
 **[Informes avanzados para Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 Fecha: 22 de junio de 2023 Obtén información sobre los análisis e informes disponibles en Acrobat Sign y descubre cómo puedes ver los datos para ayudar a ofrecer la información que necesitas para impulsar tu negocio hacia delante.
 
-**[Acrobat Sign 101: Introducción a Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
-Fecha: 18 de mayo de 2023 Únete a nosotros para conocer los aspectos básicos de las firmas electrónicas: cómo obtener un documento firmado electrónicamente con Acrobat Sign, qué verá el firmante y cómo realizar un seguimiento del progreso de los acuerdos enviados.
+**[Creación y uso de flujos de trabajo: de principio a fin](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
+Fecha: 18 de mayo de 2023 Llamar a todos los administradores y usuarios finales de Acrobat Sign/colaboradores individuales. En esta sesión se tratará tanto la creación como el uso de flujos de trabajo.
+
+* Como administrador de grupo o cuenta de Acrobat Sign, descubra cómo puede definir flujos de trabajo preestablecidos para enviar automáticamente documentos para su firma a las partes correctas y, a continuación, conceder acceso a todo el grupo de Acrobat Sign.
+* Y, como usuario final, aprenda a utilizar estos flujos de trabajo para asegurarse de que los documentos se firmen correctamente la primera vez y siempre.
 
 **[Formación avanzada sobre el entorno de creación](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Fecha: 20 de abril de 2023 Profundiza en las opciones disponibles en el Entorno de creación de Acrobat Sign. Los temas tratados incluyen:
@@ -47,21 +71,3 @@ Fecha: 19 de enero de 2023 Descubre tres formas sencillas de configurar tus docu
 * El sencillo entorno de creación de Adobe Acrobat Sign con función de arrastrar y soltar
 * Configurar un formulario de PDF en Adobe Acrobat
 * Uso de etiquetas de texto para agilizar la creación de documentos
-
-**[Trabaja con firmas electrónicas en tus aplicaciones de Microsoft](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
-Fecha: 8 de diciembre de 2022 Amplía tu forma de usar aplicaciones de Microsoft como Word, Outlook y Sharepoint añadiendo Adobe Acrobat Sign a tus flujos de trabajo existentes. Esta sesión te enseñará cómo empezar a agilizar los procesos con documentos en las aplicaciones comunes de Microsoft, para que no tengas que cambiar de contexto solo para obtener una firma o comprobar un estado.
-
-**[Sugerencias avanzadas para enviar documentos para su firma](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/6dc32a47-1784-46ec-939a-f39f1a2957fc/1e8b283c-e36c-46d8-a537-2ab62a90e9a4){target="_blank"}**
-Fecha: 10 de noviembre de 2022 Eche un vistazo más de cerca a todas las opciones que tiene para enviar acuerdos. En esta sesión, aprenderás los matices de enviar un acuerdo para su firma, entre los que se incluyen: - Cómo enviar a varios destinatarios: ¿qué funciones de destinatario están disponibles (firmante, rellenador de formulario, delegador y más). - Añadir un campo de CC: protección con contraseña, y mucho más?
-
-**[Administrar acuerdos: Obtener visibilidad en tiempo real del estado del acuerdo](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/1c66eec5-0ee4-4ca9-8479-0c645262cc8f/d1a4d8f4-d364-4067-bc17-b46c54795bda){target="_blank"}**
-Fecha: 20 de octubre de 2022 En esta sesión se mostrarán los pormenores de las herramientas y prácticas recomendadas de gestión de acuerdos: Aprenderás las acciones que puedes realizar en los documentos desde la pestaña Gestionar, cómo procesar y usar datos de formularios web y envíos masivos, y cómo buscar y filtrar para encontrar los documentos que necesitas.
-
-**[Creación y uso de flujos de trabajo: de principio a fin](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9c1f8eb7-ebc8-44c6-9d50-f791eb91ff82/3eaf4640-bcf4-4f1d-8fd0-5ce6db5b49b5){target="_blank"}**
-Fecha: 15 de septiembre de 2022 Llamar a todos los administradores y usuarios finales de Acrobat Sign/colaboradores individuales. En esta sesión se tratará tanto la creación como el uso de flujos de trabajo. Como administrador de grupo o cuenta de Acrobat Sign, descubra cómo puede definir flujos de trabajo preestablecidos para enviar automáticamente documentos para su firma a las partes correctas; a continuación, conceda acceso a todo el grupo de Acrobat Sign para que puedan ejecutar flujos de trabajo para procesos de firma clave. Además, como usuario final, puede aprender a utilizar estos flujos de trabajo para asegurarse de que los documentos se firmen correctamente la primera vez y siempre.
-
-**[Document Builder para Acrobat Sign en Salesforce](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target="_blank"}**
-Fecha: 18 de agosto de 2022 Únete a nosotros mientras revisamos el último complemento para Adobe Acrobat Sign para Salesforce: Document Builder. En lugar de utilizar plantillas de documento estáticas, esta nueva solución le permite generar dinámicamente un documento utilizando datos de Salesforce antes de enviarlo para su firma, lo que hace que un proceso que antes era engorroso sea más simple y ágil. Analizaremos el proceso paso a paso de configurar Document Builder para Acrobat Sign, que le ayudará a ahorrar tiempo y esfuerzo. Tras la demostración, se realizará una sesión de preguntas y respuestas en directo.
-
-**[Informes avanzados para Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target="_blank"}**
-Fecha: 14 de julio de 2022 Obtén información sobre los análisis e informes disponibles en Acrobat Sign y descubre cómo puedes ver los datos para ayudar a ofrecer la información que necesitas para impulsar tu negocio hacia delante.
