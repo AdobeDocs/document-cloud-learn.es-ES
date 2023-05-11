@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
+source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '498'
 ht-degree: 10%
 
 ---
@@ -69,6 +69,7 @@ ht-degree: 10%
       + [Configuración de un archivo externo](admin/set-up-your-external-archive.md)
       + [Creación de una plantilla](sign-advanced-users/create-a-template.md)
       + [Creación de un gráfico de informe](admin/create-a-report.md)
+      + [Opciones de informes para usuarios](admin/report-options.md)
       + [Creación de un formulario web](sign-advanced-users/webform.md)
       + [Modificar un formulario web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Enviar y recopilar firmas en bloque](sign-advanced-users/megasign.md)
