@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
+source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Automatiza los flujos de trabajo de los documentos para obtener rápidamente fir
     <div>
     <a href="add-users-to-your-account.md"><strong>Agregación de usuarios</strong></a>
     </div>
-    <em>Añadir usuarios individualmente o en bloque a su cuenta de Acrobat Sign</em>
+    <em>Añadir y administrar usuarios para Acrobat Sign</em>
     <br>
   </td>
 </tr>
