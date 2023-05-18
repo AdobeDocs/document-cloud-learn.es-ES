@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -21,18 +21,18 @@ ht-degree: 8%
    + [Productividad sobre la marcha](getting-started/productivity.md)
    + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
-   + [Creación de un PDF](getting-started/create-pdf.md)
+   + [Crear un PDF](getting-started/create-pdf.md)
    + [Combine Files a PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
    + [Agregar página personalizada](getting-started/add-custom-page.md)
    + [Editar un PDF](getting-started/edit-pdf.md)
    + [Ajustar diseño automáticamente](getting-started/auto-adjust-layout.md)
    + [Exportación de un PDF a formatos editables](getting-started/export-pdf.md)
-   + [Colaboración en tiempo real](getting-started/collaborate.md)
+   + [Colabora en tiempo real](getting-started/collaborate.md)
    + [Comentar en un PDF](getting-started/comment-on-pdf-files.md)
    + [Crear formularios rellenables](getting-started/create-fillable-forms.md)
    + [PDF forms de Fill &amp; Sign](getting-started/fill-and-sign.md)
-   + [Escáner y OCR](getting-started/scan-and-ocr.md)
+   + [Digitalización y OCR](getting-started/scan-and-ocr.md)
    + [Protect crea un archivo de PDF con una contraseña](getting-started/password-protect.md)
    + [Obtener firmas](getting-started/signatures.md)
    + [Seguimiento de documentos](getting-started/track.md)
@@ -61,22 +61,22 @@ ht-degree: 8%
       + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
 + Acrobat de 60 segundos {#60-second}
    + [Información general](60-second/60-second-overview.md)
-   + [Crea archivos de PDF más eficaces en un instante](60-second/optimize.md)
-   + [Protect almacena los archivos de PDF con una contraseña](60-second/protect.md)
-   + [Convertir Word a PDF, incluidos los campos de formulario](60-second/wordform.md)
-   + [Deja que Acrobat te ayude a convertir en PDF accesibles](60-second/accessible.md)
-   + [Export PDF a Word desde el teléfono](60-second/exportwordphone.md)
+   + [Editar PDF con Acrobat Web](60-second/edit.md)
    + [Reconocer texto en un archivo de PDF digitalizado](60-second/textrecognition.md)
    + [Combinar archivos en un solo PDF](60-second/combine-to-one-pdf.md)
-   + [Editar PDF con Acrobat Web](60-second/edit.md)
-   + [Buscar varios archivos de PDF a la vez](60-second/search.md)
-   + [Crea un PDF de fotos en un instante](60-second/photo.md)
-   + [Convertir un archivo PPT a PDF en el teléfono](60-second/phone.md)
-   + [Firmar electrónicamente un documento en papel](60-second/sign.md)
-   + [Cargar comentarios del PDF en InDesign](60-second/indesign.md)
+   + [Organiza páginas en un instante](60-second/organize.md)
    + [Editar una fotografía en el PDF](60-second/editphoto.md)
    + [Editar un gráfico en el PDF](60-second/editgraphic.md)
-   + [Organiza páginas en un instante](60-second/organize.md)
+   + [Export PDF a Word desde el teléfono](60-second/exportwordphone.md)
+   + [Convertir Word a PDF, incluidos los campos de formulario](60-second/wordform.md)
+   + [Crea un PDF de fotos en un instante](60-second/photo.md)
+   + [Convertir un archivo PPT a PDF en el teléfono](60-second/phone.md)
+   + [Crea archivos de PDF más eficaces en un instante](60-second/optimize.md)
+   + [Firmar electrónicamente un documento en papel](60-second/sign.md)
+   + [Protect almacena los archivos de PDF con una contraseña](60-second/protect.md)
+   + [Deja que Acrobat te ayude a convertir en PDF accesibles](60-second/accessible.md)
+   + [Buscar varios archivos de PDF a la vez](60-second/search.md)
+   + [Cargar comentarios del PDF en InDesign](60-second/indesign.md)
 + Creadores de habilidades {#skill-builders}
    + [Seminarios web](skill-builder/skill-builder-webinars.md)
 + Integraciones {#integrations}
@@ -92,7 +92,7 @@ ht-degree: 8%
    + [Trabajar con archivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Sectores y departamentos {#by-industry}
    + [Información general](industry/industry-overview.md)
-   + Gobierno {#gov}
+   + Organismos públicos {#gov}
       + [Información general](industry/gov/gov-overview.md)
       + Cinco consejos para trabajar con Acrobat desde cualquier parte {#tips}
          + [Cinco consejos para trabajar con Acrobat desde cualquier parte](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -112,7 +112,7 @@ ht-degree: 8%
 + Implementación {#deploy}
    + [Información general](deploy/deploy-overview.md)
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
-+ Dispositivos móviles {#mobile}
++ Móvil {#mobile}
    + [Información general](mobile/mobile-overview.md)
    + [Productividad sobre la marcha](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
