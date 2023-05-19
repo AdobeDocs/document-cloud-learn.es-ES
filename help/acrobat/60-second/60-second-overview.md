@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="Convertir un PDF a Word" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>Convertir un PDF a Word</strong></a>
+    </div>
+    <em>Convertir un archivo de PDF en un documento de Microsoft Word totalmente editable</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Convertir un PDF a Excel" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Convertir un PDF a Excel</strong></a>
+    </div>
+    <em>Convertir un archivo de PDF en un documento de Microsoft Excel totalmente editable</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="Convertir un PDF a PowerPoint" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Convertir un PDF a PowerPoint</strong></a>
+    </div>
+    <em>Convertir un archivo de PDF en un documento de Microsoft PowerPoint totalmente editable</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDF a Word desde el teléfono" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     </div>
     <em>Convertir un archivo de PDF en un documento de Microsoft Word totalmente editable con la aplicación móvil de Acrobat</em>
     <br>
-  </td>
-  <td>
-      <img alt="Separador" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Separador" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Separador" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Comprobar si se puede acceder a un PDF</em>
     <br>
   </td>
-  <td>
-      <img alt="Separador" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="Ajustar un PDF a un formato estándar" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>Ajustar un PDF a un formato estándar</strong></a>
+    </div>
+    <em>Aprenda a validar el contenido del PDF según criterios estándar del PDF, como PDF/X, PDF/A o PDF/E</em>
+    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />

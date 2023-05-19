@@ -2,10 +2,10 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 6%
 
 ---
 
@@ -67,6 +67,9 @@ ht-degree: 7%
    + [Organiza páginas en un instante](60-second/organize.md)
    + [Editar una fotografía en el PDF](60-second/editphoto.md)
    + [Editar un gráfico en el PDF](60-second/editgraphic.md)
+   + [Convertir un PDF a Word](60-second/convert-pdf-word.md)
+   + [Convertir un PDF a Excel](60-second/convert-pdf-excel.md)
+   + [Convertir un PDF a PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF a Word desde el teléfono](60-second/exportwordphone.md)
    + [Convertir Word a PDF, incluidos los campos de formulario](60-second/wordform.md)
    + [Crea un PDF de fotos en un instante](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 7%
    + [Firmar electrónicamente un documento en papel](60-second/sign.md)
    + [Protect almacena los archivos de PDF con una contraseña](60-second/protect.md)
    + [Deja que Acrobat te ayude a convertir en PDF accesibles](60-second/accessible.md)
+   + [Ajustar un PDF a un formato estándar](60-second/conform.md)
    + [Buscar varios archivos de PDF a la vez](60-second/search.md)
    + [Cargar comentarios del PDF en InDesign](60-second/indesign.md)
 + Creadores de habilidades {#skill-builders}
