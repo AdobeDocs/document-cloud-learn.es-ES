@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ Para enviar su primer acuerdo, lo mejor es saber cómo utilizar la API.
 
 ![Captura de pantalla de creación de un documento transitorio](assets/embeddedesignature/embed_7.png)
 
-Después de enviar un acuerdo por primera vez, ya puede añadir la lógica. Siempre es una buena idea establecer algunos ayudantes para minimizar la repetición. A continuación se ofrecen algunos ejemplos:
+Después de enviar un acuerdo por primera vez, ya puede añadir la lógica. Siempre es una buena idea establecer algunos ayudantes para minimizar la repetición. A continuación se muestran algunos ejemplos:
 
 **Validación**
 

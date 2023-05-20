@@ -26,7 +26,7 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, y realiz
 * [Establecer fechas límite y recordatorios](set-deadlines-reminders.md)
 Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente
 
-## Enviando
+## Envíar
 
 <table style="table-layout:fixed">
 <tr>
@@ -142,7 +142,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
 </tr>
 </table>
 
-## Signing
+## Firma
 
 <table style="table-layout:fixed">
 <tr>

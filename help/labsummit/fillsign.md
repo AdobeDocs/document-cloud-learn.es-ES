@@ -6,7 +6,7 @@ exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
 source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ Estas son las [archivos de demostración](assets/03_FillSignScan.zip) para este 
 
 **Paso 4:** Utilice el botón blanco para hacer una foto y, a continuación, pulse **[!UICONTROL Usar fotografía]**. Pulse **[!UICONTROL Hecho]** en la esquina superior derecha.
 
-**Paso 5:** En la parte inferior de la aplicación, toque el icono **[!UICONTROL Recortar]** y utilizar las guías para [recortar la imagen](https://www.adobe.com/es/acrobat/online/crop-pdf.html). Pulse **[!UICONTROL Hecho]** cuando haya terminado.
+**Paso 5:** En la parte inferior de la aplicación, toque el icono **[!UICONTROL Recortar]** y utilizar las guías para [recortar la imagen](https://www.adobe.com/acrobat/online/crop-pdf.html). Pulse **[!UICONTROL Hecho]** cuando haya terminado.
 
 ![imagen de documento local](assets/localdoc.jpg)
 

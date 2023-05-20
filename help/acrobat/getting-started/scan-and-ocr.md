@@ -1,5 +1,5 @@
 ---
-title: Escáner y OCR
+title: Digitalización y OCR
 description: Convierte las digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas, y ajusta la calidad del archivo resultante
 role: User
 product: adobe acrobat
@@ -8,14 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
-# Escáner y OCR
+# Digitalización y OCR
 
-Para que la empresa no se detenga, convierte las digitalizaciones o imágenes de documentos en archivos que se puedan buscar, [archivos de PDF editables](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}.
+Para que la empresa no se detenga, convierte las digitalizaciones o imágenes de documentos en archivos que se puedan buscar, [archivos de PDF editables](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >

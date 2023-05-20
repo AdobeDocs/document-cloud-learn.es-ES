@@ -11,7 +11,7 @@ exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -31,7 +31,7 @@ Obtenga información sobre cómo enviar un recordatorio por correo electrónico 
 
 ## Buscar el objeto personalizado
 
-Una vez completadas las configuraciones de Sincronización de Marketo Microsoft Dynamics y Acrobat Sign para Dynamics , aparecen dos nuevas opciones en el Terminal de administración de Marketo.
+Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acrobat Sign para Dynamics , aparecen dos nuevas opciones en el Terminal de administración de Marketo.
 
 ![Administrador](assets/adminTerminal.png)
 

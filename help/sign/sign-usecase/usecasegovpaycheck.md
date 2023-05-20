@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Protección de cheque
 
-Haga clic en la imagen siguiente para ver cómo puede utilizar Acrobat Sign para convertir el formulario del Programa de protección de pagos en un formulario interactivo en línea.
+Haga clic en la imagen siguiente para ver cómo puede utilizar Acrobat Sign para convertir el formulario del Programa de Protección de Pagos en un formulario interactivo en línea.
 
 [![Recorrido interactivo de captura de pago](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

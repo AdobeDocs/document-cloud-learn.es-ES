@@ -1,5 +1,5 @@
 ---
-title: Configurar  Acrobat Sign para Workday.
+title: Configurar  Acrobat Sign para Workday
 description: Aprenda a configurar Acrobat Sign para que funcione directamente en Workday y administre sin problemas todo el papeleo de RR. HH
 product: adobe sign
 level: Intermediate
@@ -13,7 +13,7 @@ ht-degree: 15%
 
 ---
 
-# Configurar  Acrobat Sign para Workday.
+# Configurar  Acrobat Sign para Workday
 
 Optimiza tus flujos de trabajo de firmas y haz que tu equipo sea aún más productivo con Acrobat Sign para Workday. En este tutorial de vídeo, aprenderá a configurar Acrobat Sign para que funcione directamente en Workday y administre sin problemas todo el papeleo de RR. HH.
 

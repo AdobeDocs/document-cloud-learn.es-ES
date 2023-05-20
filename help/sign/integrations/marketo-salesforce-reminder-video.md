@@ -11,7 +11,7 @@ exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
 source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ Obtenga información sobre cómo enviar un recordatorio de correo electrónico d
 
    Dispone de información y del plugin más reciente para Salesforce Sync [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instale Acrobat Sign para Salesforce.
+1. Instalación de Acrobat Sign para Salesforce.
 
    Información sobre este plugin está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

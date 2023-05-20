@@ -6,18 +6,18 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '519'
-ht-degree: 26%
+ht-degree: 10%
 
 ---
 
 # Compartir archivos de PDF y revisarlos en línea
 
-Utilice el servicio de revisión de Adobe Document Cloud para compartir fácilmente archivos de PDF para su revisión desde la aplicación de escritorio de Acrobat, la web de Document Cloud o la aplicación móvil de Acrobat Reader. Cuando los revisores hacen clic en la URL del correo electrónico de invitación desde su ordenador, pueden realizar sus comentarios fácilmente en un navegador sin tener que iniciar sesión o instalar ningún software adicional.
+Utilice el servicio de revisión de Adobe Document Cloud para compartir fácilmente archivos de PDF para su revisión desde la aplicación de escritorio de Acrobat, la web de Document Cloud o la aplicación móvil de Acrobat Reader. Cuando los revisores hacen clic en la dirección URL que figura en la invitación que reciben por correo electrónico desde su equipo, pueden enviar fácilmente sus comentarios en un navegador sin tener que iniciar sesión ni instalar ningún software adicional.
 
 En este ejercicio, revisamos cómo,
 
 * Enviar invitaciones personalizadas para comentar
-* Envíe vínculos anónimos o públicos en un correo electrónico
+* Enviar un vínculo anónimo o público en un correo electrónico
 
 Estas son las [archivos de demostración](assets/01_Review.zip) para este ejercicio.
 
@@ -39,13 +39,13 @@ Recibirá un aviso por correo electrónico una vez que los destinatarios hayan v
 
 ## Experiencia del revisor
 
-Los revisores reciben una invitación por correo electrónico con un vínculo al PDF a revisar. Cuando hacen clic en el vínculo o en el botón de **[!UICONTROL Revisión]** de la invitación, el PDF se abre en un navegador web. Pueden usar las herramientas de comentarios para añadir comentarios al PDF. También pueden usar las aplicaciones de escritorio de Acrobat Reader o Acrobat para añadir comentarios.
+Los revisores recibirán una invitación por correo electrónico con un vínculo al PDF para revisar. Cuando hacen clic en el vínculo o en el **[!UICONTROL Revisión]** en la invitación, el PDF se abre en un navegador web. Pueden utilizar las herramientas de comentario para agregar comentarios al PDF. También pueden utilizar las aplicaciones de escritorio Acrobat Reader o Acrobat para agregar comentarios.
 
-## Envíe vínculos anónimos o públicos en un correo electrónico
+## Enviar un vínculo anónimo o público en un correo electrónico
 
 **Paso 1:** Abra el `localFoodTruckmenu_start.pdf` en Adobe Acrobat.
 
-**Paso 2:** Haga clic en **[!UICONTROL Compartir Un Vínculo]** ![linkicon](assets/sendlinkicon.png). El vínculo compartido se genera instantáneamente. No tendrá que esperar a que el archivo se cargue en la nube. De forma predeterminada, el [!UICONTROL Permitir comentarios] está activado.
+**Paso 2:** Haga clic en **[!UICONTROL Compartir Un Vínculo]** ![linkicon](assets/sendlinkicon.png). El vínculo compartido se genera instantáneamente; no tendrá que esperar a que el archivo se cargue en la nube. De forma predeterminada, el [!UICONTROL Permitir comentarios] está activado.
 
 ![Imagen del paso 2L](assets/Step2L.png)
 

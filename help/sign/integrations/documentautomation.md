@@ -10,7 +10,7 @@ exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -266,7 +266,7 @@ Ahora, estas carpetas forman parte del flujo de Power Automate.
 
    ![Captura de pantalla del botón Introducción](assets/documentautomation/automation_28.png)
 
-1. Inicie sesión con Adobe ID.
+1. Inicie sesión con el Adobe ID.
 
    ![Captura de pantalla de la pantalla de inicio de sesión](assets/documentautomation/automation_29.png)
 

@@ -25,7 +25,7 @@ Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación
 
    Dispone de información y del plugin más reciente para Salesforce Sync [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instale Acrobat Sign para Salesforce.
+1. Instalación de Acrobat Sign para Salesforce.
 
    Información sobre este plugin está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
