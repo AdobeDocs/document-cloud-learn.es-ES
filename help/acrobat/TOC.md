@@ -2,9 +2,9 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '471'
 ht-degree: 6%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [Convertir un PDF a Excel](60-second/convert-pdf-excel.md)
    + [Convertir un PDF a PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF a Word desde el teléfono](60-second/exportwordphone.md)
+   + [Crear un PDF desde Microsoft Word](60-second/word-to-pdf.md)
+   + [Crear archivos de PDF con Acrobat](60-second/create-from-acrobat.md)
    + [Convertir Word a PDF, incluidos los campos de formulario](60-second/wordform.md)
    + [Crea un PDF de fotos en un instante](60-second/photo.md)
    + [Convertir un archivo PPT a PDF en el teléfono](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [Compartir para comentarios](60-second/share-comment.md)
    + [Compartir y comentar archivos de PDF en Teams](60-second/share-comment-teams.md)
    + [Discutir comentarios del PDF con Resumir](60-second/summarize-comments.md)
+   + [Cargar comentarios del PDF en InDesign](60-second/indesign.md)
    + [Deja que Acrobat te ayude a convertir en PDF accesibles](60-second/accessible.md)
    + [Ajustar un PDF a un formato estándar](60-second/conform.md)
+   + [Encuentra las diferencias con PDF Compare](60-second/compare.md)
    + [Buscar varios archivos de PDF a la vez](60-second/search.md)
-   + [Cargar comentarios del PDF en InDesign](60-second/indesign.md)
 + Creadores de habilidades {#skill-builders}
    + [Seminarios web](skill-builder/skill-builder-webinars.md)
 + Integraciones {#integrations}
