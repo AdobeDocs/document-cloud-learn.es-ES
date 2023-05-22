@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -242,9 +242,14 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <br>
   </td>
   <td>
-      <img alt="Separador" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="Censura: La forma correcta" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>Censura: La forma correcta</strong></a>
+    </div>
+    <em>Aprende la forma correcta de eliminar información confidencial de un PDF</em>
+    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
       <img alt="Separador" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## Compartir y revisar
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="Compartir un PDF para recibir comentarios" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>Compartir un PDF para recibir comentarios</strong></a>
+    </div>
+    <em>Aprende a compartir un PDF para recopilar rápidamente comentarios de varias personas en un solo archivo</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="Compartir y comentar archivos de PDF en Teams" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>Compartir y comentar archivos de PDF en Teams</strong></a>
+    </div>
+    <em>Aprenda a colaborar en tiempo real en un archivo de PDF en Microsoft Teams</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="Discutir comentarios del PDF con Resumir" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>Discutir comentarios del PDF con Resumir</strong></a>
+    </div>
+    <em>Aprenda a crear un resumen de todos los comentarios y marcas en el archivo de PDF</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="Cargar comentarios del PDF en InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>Cargar comentarios del PDF en InDesign</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo cargar los comentarios del PDF en InDesign después de compartir una revisión de Acrobat</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
     <em>Inicie una búsqueda en un archivo de PDF y, a continuación, abra Búsqueda avanzada y busque en toda una carpeta de archivos de PDF</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="Cargar comentarios del PDF en InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Cargar comentarios del PDF en InDesign</strong></a>
-    </div>
-    <em>Obtenga información sobre cómo cargar los comentarios del PDF en InDesign después de compartir una revisión de Acrobat</em>
-    <br>
+ <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
