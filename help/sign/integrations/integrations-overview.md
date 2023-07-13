@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ En este tutorial de tres partes, aprenderá a enviar un documento para su notari
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Envío de documentos para su firma en [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Integrar un formulario web con [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Enviar para firmar en [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Integrar un formulario web con [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Envía documentos para su firma directamente en [!DNL Microsoft Teams]</em>
+    <em>Aprenda a asignar los datos recopilados de un formulario web a un [!DNL SharePoint] lista</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ En este tutorial de tres partes, aprenderá a enviar un documento para su notari
     <em>Obtenga información sobre cómo activar y utilizar la [!DNL Acrobat Sign] y [!DNL Adobe PDF Tools] conectores para [!DNL Microsoft Power] aplicaciones</em>
     <br>
   </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Envío de documentos para su firma en [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Enviar para firmar en [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Envía documentos para su firma directamente en [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
