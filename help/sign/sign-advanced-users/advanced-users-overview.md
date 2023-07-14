@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
 
 ## Novedades
 
+* [Crear un formulario web con varios firmantes desconocidos](webform-multiple-signers.md)
+Aprenda a crear un formulario web complejo con varios participantes desconocidos
 * [Métodos de autenticación en Acrobat Sign](authentication-methods.md)
 Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign para autenticar la identidad de alguien que firma un documento
-* [Administrar datos de formulario](manage-form-data.md)
-Aprenda a consolidar datos de formulario de sus documentos
 
 ## Envíar
 
