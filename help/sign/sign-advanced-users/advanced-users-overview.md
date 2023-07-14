@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ Aprenda a consolidar datos de formulario de sus documentos
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Creación de un formulario web" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Crear un formulario web con varios firmantes desconocidos" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Creación de un formulario web</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Crear un formulario web con varios firmantes desconocidos</strong></a>
     </div>
-    <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
+    <em>Aprenda a crear un formulario web complejo con varios participantes desconocidos</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
+      </div>
+      <em>Creación de campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ Aprenda a consolidar datos de formulario de sus documentos
     <a href="text-tagging-word.md"><strong>Uso del etiquetado de texto en [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Aprenda a crear una plantilla de documento reutilizable añadiendo etiquetas de texto de Acrobat Sign en [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
