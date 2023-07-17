@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 10%
 
 ---
@@ -52,7 +52,6 @@ ht-degree: 10%
       + [Configuración de pagos en línea](sign-advanced-users/set-up-online-payments.md)
       + [Enviar y recopilar firmas en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Creación de un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Crear un formulario web con varios firmantes desconocidos](sign-advanced-users/webform-multiple-signers.md)
       + [Etiquetado de texto de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Uso del etiquetado de texto en [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gestión {#advanced-tasks-managing}
@@ -128,6 +127,7 @@ ht-degree: 10%
    + Recetas de casos prácticos {#recipes}
       + [Información general](sign-usecase/recipes.md)
       + Organismos públicos {#gov}
+         + [Solicitud de préstamo gubernamental con varios firmantes desconocidos](sign-usecase/webform-multiple-signers.md)
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasegovtelework.md)
          + [Contratos y formularios de solicitud](sign-usecase/usecasegovcontracts.md)

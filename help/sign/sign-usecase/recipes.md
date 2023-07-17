@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 Acelera los flujos de trabajo digitales de tu organización con estos ejemplos de firmas electrónicas comerciales y de la administración pública. Haga clic aquí para ver un PDF con recursos y detalles sobre cómo configurar estos casos prácticos específicos de firma electrónica.
 
+* [Solicitud de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
+Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
+
 ## Casos prácticos del gobierno
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="Solicitud de préstamo gubernamental con varios firmantes desconocidos" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>Solicitud de préstamo gubernamental con varios firmantes desconocidos</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="Subvenciones y préstamos empresariales" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, y completa con informes de auditoría</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="Asistencia para reempleo" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <em>Ayuda a los ciudadanos a obtener la ayuda que necesitan sin alinearse con los formularios de solicitud completamente digitales que pueden activarse en cuestión de días</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Protección de cheque" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
     <a href="usecasegovremote.md"><strong>Solicitud de orden remota</strong></a>
     </div>
     <em>Utiliza las firmas electrónicas y las conferencias web de forma conjunta para reducir el tiempo que se tarda en solicitar y garantizar las garantías de los jueces</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
