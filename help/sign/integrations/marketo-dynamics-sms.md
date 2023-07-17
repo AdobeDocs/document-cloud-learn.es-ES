@@ -5,9 +5,10 @@ role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -36,9 +37,9 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 * Haga clic en **[!UICONTROL Sincronización de entidades de Dynamics]**.
 
-   La sincronización debe desactivarse antes de sincronizar entidades personalizadas. Haga clic en **[!UICONTROL Sincronizar esquema]** si es tu primera vez. De lo contrario, haga clic en **[!UICONTROL Actualizar esquema]**.
+  La sincronización debe desactivarse antes de sincronizar entidades personalizadas. Haga clic en **[!UICONTROL Sincronizar esquema]** si es tu primera vez. De lo contrario, haga clic en **[!UICONTROL Actualizar esquema]**.
 
-   ![Actualizar](assets/refreshSchema.png)
+  ![Actualizar](assets/refreshSchema.png)
 
 ## Sincronizar el objeto personalizado
 

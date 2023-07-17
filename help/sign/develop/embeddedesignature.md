@@ -4,10 +4,11 @@ description: Aprende a utilizar las API de Acrobat Sign para insertar firmas ele
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -37,7 +38,7 @@ En la parte 1, aprenda a empezar con todo lo que necesita para las partes 2-4. V
 
 ## Parte 2: Código bajo/sin: el poder de los formularios web
 
-En la parte 2, explore la opción de usar o no usar código para usar formularios web. Siempre es una buena idea comprobar si puedes evitar escribir código al principio.
+En la parte 2, explore la opción de usar o no usar código para usar formularios web. Siempre es una buena idea ver si puedes evitar escribir código al principio.
 
 +++Ver detalles sobre cómo crear un formulario web
 
@@ -155,6 +156,6 @@ Cuando todo se junta, la solución es bastante sencilla. Está realizando un acu
 * Recordatorios personalizados
    * Con la creación inicial
 
-      ![Captura de pantalla de la navegación a Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Captura de pantalla de la navegación a Power Automate](assets/embeddedesignature/embed_16.png)
 
    * O añade uno [en vuelo](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
