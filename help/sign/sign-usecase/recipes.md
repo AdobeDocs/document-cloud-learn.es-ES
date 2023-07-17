@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![Banner de caso de uso](../assets/Hero-Recipe.png)
 
 Acelera los flujos de trabajo digitales de tu organización con estos ejemplos de firmas electrónicas comerciales y de la administración pública. Haga clic aquí para ver un PDF con recursos y detalles sobre cómo configurar estos casos prácticos específicos de firma electrónica.
+
+## Novedades
 
 * [Solicitud de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
 Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
