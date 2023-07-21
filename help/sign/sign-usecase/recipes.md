@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
 
 ## Novedades
 
+* [Formulario web de formación de prácticas](usecase-edu-intern.md)
+Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
 * [Solicitud de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
 Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
 
@@ -152,3 +154,36 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
   </td>
 </tr>
 </table>
+
+## Casos prácticos de educación
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="Formulario web de formación de prácticas" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>Formulario web de formación de prácticas</strong></a>
+    </div>
+    <em>Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: ec0a3c86e42a185d22c623911274b823886d261c
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '501'
 ht-degree: 10%
 
 ---
@@ -138,6 +138,8 @@ ht-degree: 10%
          + [Contratos y formularios de solicitud](sign-usecase/usecasecomcontracts.md)
          + [Acuerdos de política](sign-usecase/usecasecompolicy.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasecomtelework.md)
+      + Educación {#edu}
+         + [Formulario web de formación de prácticas](sign-usecase/usecase-edu-intern.md)
    + Caso práctico {#use-case}
       + [Escaparate](sign-usecase/use-case-showcase.md)
 + Revelar {#develop}
