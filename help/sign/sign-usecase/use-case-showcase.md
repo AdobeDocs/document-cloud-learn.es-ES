@@ -2,14 +2,12 @@
 title: Caso práctico
 description: Los casos prácticos son una sesión retransmitida en directo en la que se presentan nuevos casos prácticos y tendencias de Acrobat Sign y se muestra cómo puede su organización implementarlos y beneficiarse de ellos
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%

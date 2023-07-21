@@ -2,13 +2,11 @@
 title: Establecer fechas límite y recordatorios
 description: Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10605
 thumbnail: KT-10605.jpg
 exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 6%

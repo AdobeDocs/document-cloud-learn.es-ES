@@ -1,9 +1,11 @@
 ---
 title: Pásate a lo digital con Adobe Scan
 description: Aprenda algunos trucos y consejos para usar Adobe Document Cloud
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 # Pásate a lo digital con Adobe Scan
 
-¡Desordene, organice o comparta! No tienes que guardar pilas de papel en tu escritorio ni guardar recibos en tu cartera. La aplicación móvil de Adobe Scan escanea documentos impresos directamente a los PDF y reconoce texto automáticamente.
+¡Desordene, organice o comparta! No hay necesidad de guardar pilas de papel en tu escritorio o recibos de cosas en tu billetera. La aplicación móvil de Adobe Scan escanea documentos impresos directamente a los PDF y reconoce texto automáticamente.
 
 En este ejercicio, carga el contenido de una tarjeta de presentación directamente en los contactos. Escanea y almacena un recibo.
 
@@ -24,7 +26,7 @@ Recopila una tarjeta de visita, un recibo u otro artículo en papel con el que q
 
 **Paso 2:** Abra la aplicación de Adobe Scan.
 
-**Paso 3:** Desde la aplicación, haz una foto de la tarjeta de visita que contiene la información de contacto que deseas guardar en tu teléfono.
+**Paso 3:** Desde la aplicación, tome una foto de la tarjeta de visita que contiene la información de contacto que desea guardar en su teléfono.
 
 ![b imagen de tarjeta](assets/scanbcard.png)
 

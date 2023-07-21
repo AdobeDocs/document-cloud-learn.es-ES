@@ -2,13 +2,11 @@
 title: Rellenar y firmar un documento
 description: Aprende a rellenar formularios y a añadir tu firma electrónica a los documentos
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4964
 thumbnail: 33660.jpg
 exl-id: 4bb7caab-002c-4e8e-b0c6-fdde220037a4
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

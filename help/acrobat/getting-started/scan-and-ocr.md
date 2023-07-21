@@ -2,12 +2,11 @@
 title: Digitalización y OCR
 description: Convierte las digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas, y ajusta la calidad del archivo resultante
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 jira: KT-6830
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 4%

@@ -2,8 +2,10 @@
 title: Compartir archivos de PDF y revisarlos en línea
 description: Aprenda algunos trucos y consejos para usar Adobe Document Cloud
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 10%
@@ -93,4 +95,4 @@ Revisa y comparte versiones de diseño con Acrobat. Acrobat te permite:
 * Gestiona los comentarios en un lugar organizado.
 * Todo lo que necesitas es un navegador.
 
-Es fácil enviar y realizar el seguimiento de los comentarios, todo en un solo lugar. Los destinatarios pueden ver el contenido aunque no tengan Acrobat. Puede invitar a alguien a que comente mediante un navegador. Ahorra tiempo y esfuerzo.
+Es fácil enviar y realizar el seguimiento de comentarios, todo en un único lugar. Los destinatarios pueden ver el contenido aunque no tengan Acrobat. Puede invitar a alguien a que comente mediante un navegador. Ahorra tiempo y esfuerzo.

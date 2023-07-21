@@ -2,11 +2,10 @@
 title: 'Cinco consejos para trabajar con Acrobat desde cualquier lugar: trabajar con Forms y las firmas'
 description: Descubre cómo mantenerte digital al rellenar formularios
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

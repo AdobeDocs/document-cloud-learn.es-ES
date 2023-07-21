@@ -2,12 +2,11 @@
 title: 'Creación de PDF accesibles: creación en [!DNL Microsoft Word]'
 description: Creación de documentos accesibles en [!DNL Microsoft Word]
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34513.jpg
 exl-id: 6e1f2471-085f-4510-8f59-0f635367aa98
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
