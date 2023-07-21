@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
 
 * [Formulario web de formación de prácticas](usecase-edu-intern.md)
 Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
+* [Crear una aplicación de prácticas de formularios web educativos](usecase-edu-intern-create.md)
+Aprende a crear un formulario web de prácticas
 * [Solicitud de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
 Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
 
@@ -170,10 +172,15 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <br>
   </td> 
   <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Crear una aplicación de prácticas de formularios web educativos" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Crear una aplicación de prácticas de formularios web educativos</strong></a>
+    </div>
+    <em>Aprende a crear un formulario web de prácticas</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Separador" src="../assets/Whitespacer.png" />
     <div>
