@@ -9,9 +9,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 ![Firmar integrar imagen](../assets/Hero-Integrate.png)
 
-Puede utilizar Acrobat Sign en otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
+Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya utiliza, como Microsoft, Salesforce, Workday y Marketo, por nombrar algunas. Aprenda a simplificar los flujos de trabajo de firma electrónica en estas guías y tutoriales de integración.
 
 >[!NOTE]
 > Si tiene problemas para acceder a cualquiera de estas funciones, consulte al administrador de su organización para asegurarse de que la integración esté activada.
 
 ## Novedades
 
+* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
+Descubre cómo Acrobat Sign y [!DNL Microsoft Dynamics 365] para el servicio de atención al cliente se utilizan para mejorar la satisfacción del cliente en un portal web de cliente de autoservicio
 * [Integrar un formulario web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
 Aprenda a asignar los datos recopilados de un formulario web a un [!DNL SharePoint] lista
-* [Contratación de nuevos empleados de Acrobat Sign y Workday](acrobat-sign-workday-onboarding.md)
-Descubre cómo optimizar los flujos de trabajo de incorporación con Acrobat Sign y Workday
 
 ## Tutoriales de integraciones de Microsoft
 
@@ -53,7 +53,7 @@ Descubre cómo optimizar los flujos de trabajo de incorporación con Acrobat Sig
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Enviar para firmar en Outlook</strong></a>
     </div>
-    <em>Enviar un documento para firmar directamente en Microsoft Outlook</em>
+    <em>Enviar un documento para su firma directamente en Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Descubre cómo optimizar los flujos de trabajo de incorporación con Acrobat Sig
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Enviar para firmar en SharePoint Online</strong></a>
     </div>
-    <em>Enviar un documento para firmar directamente en SharePoint Online</em>
+    <em>Enviar un documento para su firma directamente en SharePoint Online</em>
     <br>
   </td>
    <td>
@@ -116,6 +116,33 @@ Descubre cómo optimizar los flujos de trabajo de incorporación con Acrobat Sig
     <a href="adobe-sign-teams-mortgage.md"><strong>Enviar para firmar en [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Envía documentos para su firma directamente en [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    </div>
+    <em>Descubre cómo Acrobat Sign y [!DNL Microsoft Dynamics 365] para el servicio de atención al cliente se utilizan para mejorar la satisfacción del cliente en un portal web de cliente de autoservicio</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

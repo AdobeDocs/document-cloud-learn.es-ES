@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '513'
 ht-degree: 10%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 10%
       + [Introducción a Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Enviar a un único destinatario](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Enviar a varios destinatarios](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [Agregar campos a los documentos](sign-beginner-tutorials/adding-fields.md)
+      + [Adición de campos a los documentos](sign-beginner-tutorials/adding-fields.md)
       + [Configurar opciones de envío](sign-beginner-tutorials/sending-options.md)
       + [Modificación de un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
       + [Sustitución de un firmante](sign-beginner-tutorials/replace-signer.md)
@@ -104,6 +104,7 @@ ht-degree: 10%
       + [Archivado automático de archivos en [!DNL SharePoint] con [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automatización de documentos con Acrobat Sign para [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Enviar para firmar en [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
    + Notarizar {#notarize}
       + [Enviar documentos para su notarización](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
@@ -115,11 +116,11 @@ ht-degree: 10%
       + [Configuración de Acrobat Sign con [!DNL Workday]](integrations/workday.md)
       + [Contratación de nuevos empleados de Acrobat Sign y Workday](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Enviar notificaciones con Acrobat Sign para [!DNL Salesforce] y Marketo](integrations/marketo-salesforce-sms.md)
+      + [Enviar notificaciones con Acrobat Sign para [!DNL Salesforce] y MARKETO](integrations/marketo-salesforce-sms.md)
       + [Enviar recordatorios con Acrobat Sign para [!DNL Salesforce] y tutorial en vídeo de Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Enviar recordatorios con Acrobat Sign para [!DNL Salesforce] y guía de configuración de Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Enviar notificaciones con Acrobat Sign para [!DNL Microsoft Dynamics] y Marketo](integrations/marketo-dynamics-sms.md)
-      + [Enviar recordatorios con Acrobat Sign para [!DNL Microsoft Dynamics 365] y Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Enviar notificaciones con Acrobat Sign para [!DNL Microsoft Dynamics] y MARKETO](integrations/marketo-dynamics-sms.md)
+      + [Enviar recordatorios con Acrobat Sign para [!DNL Microsoft Dynamics 365] y MARKETO](integrations/marketo-dynamics-reminder.md)
 + Sectores y departamentos {#expand}
    + [Información general](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
@@ -127,11 +128,11 @@ ht-degree: 10%
    + Recetas de casos prácticos {#recipes}
       + [Información general](sign-usecase/recipes.md)
       + Organismos públicos {#gov}
-         + [Solicitud de préstamo gubernamental con varios firmantes desconocidos](sign-usecase/webform-multiple-signers.md)
+         + [Solicitud de préstamo del gobierno con varios firmantes desconocidos](sign-usecase/webform-multiple-signers.md)
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasegovtelework.md)
          + [Contratos y formularios de solicitud](sign-usecase/usecasegovcontracts.md)
-         + [Asistencia para reempleo](sign-usecase/usecasegovreemployment.md)
+         + [Asistencia para el reempleo](sign-usecase/usecasegovreemployment.md)
          + [Protección de sueldo](sign-usecase/usecasegovpaycheck.md)
          + [Solicitud de orden remota](sign-usecase/usecasegovremote.md)
       + Comercial {#com}
@@ -139,10 +140,10 @@ ht-degree: 10%
          + [Acuerdos de política](sign-usecase/usecasecompolicy.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasecomtelework.md)
       + Educación {#edu}
-         + [Formulario web de formación de prácticas](sign-usecase/usecase-edu-intern.md)
+         + [Aplicación de prácticas de formularios web educativos](sign-usecase/usecase-edu-intern.md)
          + [Crear una aplicación de prácticas de formularios web educativos](sign-usecase/usecase-edu-intern-create.md)
    + Caso práctico {#use-case}
-      + [Escaparate](sign-usecase/use-case-showcase.md)
+      + [Exposición](sign-usecase/use-case-showcase.md)
 + Revelar {#develop}
    + [Información general](develop/develop-overview.md)
    + API personalizadas {#custom}
