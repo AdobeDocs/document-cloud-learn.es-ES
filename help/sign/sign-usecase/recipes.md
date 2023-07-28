@@ -7,9 +7,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,13 @@ Acelera los flujos de trabajo digitales de tu organización con estos ejemplos d
 
 ## Novedades
 
-* [Formulario web de formación de prácticas](usecase-edu-intern.md)
+* [Flujo de trabajo personalizado para el proceso IEP educativo](usecase-edu-iep.md)
+Obtenga información sobre cómo se utiliza el Diseñador de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)
+* [Aplicación de prácticas de formularios web educativos](usecase-edu-intern.md)
 Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
 * [Crear una aplicación de prácticas de formularios web educativos](usecase-edu-intern-create.md)
 Aprende a crear un formulario web de prácticas
-* [Solicitud de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
+* [Solicitud de préstamo del gobierno con varios firmantes desconocidos](webform-multiple-signers.md)
 Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
 
 ## Casos prácticos del gobierno
@@ -35,10 +37,10 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
 <tr>
   <td>
     <a href="webform-multiple-signers.md">
-      <img alt="Solicitud de préstamo gubernamental con varios firmantes desconocidos" src="../assets/Web-form-unknown.png" />
+      <img alt="Solicitud de préstamo del gobierno con varios firmantes desconocidos" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>Solicitud de préstamo gubernamental con varios firmantes desconocidos</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Solicitud de préstamo del gobierno con varios firmantes desconocidos</strong></a>
     </div>
     <em>Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos</em>
     <br>
@@ -77,10 +79,10 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
 <tr>
  <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Asistencia para reempleo" src="../assets/UC_WebformsR.png" />
+      <img alt="Asistencia para el reempleo" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Asistencia para reempleo</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Asistencia para el reempleo</strong></a>
     </div>
     <em>Ayuda a los ciudadanos a obtener la ayuda que necesitan sin alinearse con los formularios de solicitud completamente digitales que pueden activarse en cuestión de días</em>
     <br>
@@ -161,10 +163,10 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
 <tr>
   <td>
     <a href="usecase-edu-intern.md">
-      <img alt="Formulario web de formación de prácticas" src="../assets/Webform-internship.png" />
+      <img alt="Aplicación de prácticas de formularios web educativos" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Formulario web de formación de prácticas</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Aplicación de prácticas de formularios web educativos</strong></a>
     </div>
     <em>Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios</em>
     <br>
@@ -180,8 +182,13 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <br>
   </td> 
   <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="Flujo de trabajo personalizado para el proceso IEP educativo" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>Flujo de trabajo personalizado para el proceso IEP educativo</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo se utiliza el Diseñador de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)</em>
     <br>
   </td>
   <td>
