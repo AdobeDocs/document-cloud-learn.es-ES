@@ -1,13 +1,13 @@
 ---
 title: Acrobat para la Administración Pública
 description: Explora nuestros tutoriales de Acrobat diseñados específicamente para la administración federal, estatal y local
+feature: Accessibility, Collaboration, Workspace, Mobile, Security
 role: User
-product: adobe acrobat
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-9910.jpg
 jira: KT-9910
+thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -44,17 +44,17 @@ Explora nuestros tutoriales de Acrobat diseñados específicamente para la admin
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="Consejo 2: Colaborar en documentos" src="../../assets/Tip2.png" />
+      <img alt="Consejo 2: Colabora en documentos" src="../../assets/Tip2.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>Consejo 2: Colaborar en documentos</strong></a>
+    <a href="collaborate-on-documents.md"><strong>Consejo 2: Colabora en documentos</strong></a>
     </div>
     <em>Crea flujos de trabajo sencillos y sin esfuerzo para colaborar en documentos</em>
     <br>
   </td>
   <td>
     <a href="protect-digital-documents.md">
-      <img alt="Sugerencia: 3Documentos digitales de Protect" src="../../assets/Tip3.png" />
+      <img alt="Sugerencia: Documentos digitales de 3Protect" src="../../assets/Tip3.png" />
     </a>
     <div>
     <a href="protect-digital-documents.md"><strong>Consejo 3: Documentos digitales de Protect</strong></a>
@@ -65,10 +65,10 @@ Explora nuestros tutoriales de Acrobat diseñados específicamente para la admin
 </tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
-      <img alt="Consejo 4: Trabajar con formularios y firmas" src="../../assets/Tip4.png" />
+      <img alt="Consejo 4: Trabaja con formularios y firmas" src="../../assets/Tip4.png" />
     </a>
     <div>
-    <a href="work-with-forms-and-signatures.md"><strong>Consejo 4: Trabajar con formularios y firmas</strong></a>
+    <a href="work-with-forms-and-signatures.md"><strong>Consejo 4: Trabaja con formularios y firmas</strong></a>
     </div>
     <em>Descubre cómo mantenerte digital al rellenar formularios</em>
     <br>
@@ -112,30 +112,30 @@ Explora nuestros tutoriales de Acrobat diseñados específicamente para la admin
   </td>
   <td>
     <a href="understanding-accessibility.md">
-      <img alt="Creación de PDF accesibles: Descripción de accesibilidad" src="../../assets/Accessibiityunderstanding.png" />
+      <img alt="Hacer que los PDF sean accesibles: Introducción a la accesibilidad" src="../../assets/Accessibiityunderstanding.png" />
     </a>
     <div>
-    <a href="understanding-accessibility.md"><strong>Creación de PDF accesibles: Descripción de accesibilidad</strong></a>
+    <a href="understanding-accessibility.md"><strong>Hacer que los PDF sean accesibles: Introducción a la accesibilidad</strong></a>
     </div>
-    <em>Conozca lo que significa hacer que un PDF sea accesible para personas con discapacidades</em>
+    <em>Conozca lo que significa hacer que un PDF sea accesible para las personas con discapacidades</em>
     <br>
   </td>  
   <td>
     <a href="collaborate-on-documents.md">
-      <img alt="Creación de PDF accesibles: Creación en Word" src="../../assets/Accessibilityword.png" />
+      <img alt="Hacer que los PDF sean accesibles: creación en Word" src="../../assets/Accessibilityword.png" />
     </a>
     <div>
-    <a href="collaborate-on-documents.md"><strong>Creación de PDF accesibles: Creación en Word</strong></a>
+    <a href="collaborate-on-documents.md"><strong>Hacer que los PDF sean accesibles: creación en Word</strong></a>
     </div>
     <em>Conozca las prácticas recomendadas para crear archivos de PDF creados en [!DNL Microsoft Word]</em>
     <br>
   </td>
    <td>
     <a href="finishing-in-acrobat.md">
-      <img alt="Creación de PDF accesibles: Acabado en Acrobat" src="../../assets/Accessibilityacrobat.png" />
+      <img alt="Creación de PDF accesibles: acabado en Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
     <div>
-    <a href="finishing-in-acrobat.md"><strong>Creación de PDF accesibles: Acabado en Acrobat</strong></a>
+    <a href="finishing-in-acrobat.md"><strong>Creación de PDF accesibles: acabado en Acrobat</strong></a>
     </div>
     <em>Aprenda a terminar de hacer que el archivo de PDF sea accesible mediante las herramientas de Acrobat Pro</em>
     <br>

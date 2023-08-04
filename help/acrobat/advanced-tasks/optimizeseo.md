@@ -1,12 +1,13 @@
 ---
 title: Optimize PDF para SEO (Search Engine Optimization)
-description: Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasificación de motores de búsqueda en la web
+description: Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasificación de los motores de búsqueda en la web
+feature: Edit PDF
 role: User
 level: Experienced
-thumbnail: KT-9347.jpg
 jira: KT-9347
+thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -19,7 +20,7 @@ Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasific
 
 ## 1. Crear contenido único
 
-Cree contenido de PDF diferente de la información de las páginas Web.
+Crear contenido de PDF que sea diferente de la información de las páginas web.
 
 +++Ver detalles sobre cómo crear contenido único
 
@@ -31,7 +32,7 @@ El contenido del PDF debe ser único y estar estructurado de la siguiente manera
 * Añadir hipervínculos internos y externos (contenido de su sitio web u otros sitios web)
 * Agregar una tabla de contenido con hipervínculos para documentos de más de 25 páginas
 * Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) en todos los documentos digitalizados
-* Crear PDF compatibles con dispositivos móviles Para comprobar la experiencia de visualización móvil de su PDF, abra el archivo en la [Aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y active Liquid Mode. Incluir subtítulos adicionales si es necesario para mejorar la navegación.
+* Crear PDF compatibles con dispositivos móviles Para comprobar la experiencia de visualización móvil de su PDF, abra el archivo en la [Aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y active Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
 
   ![Captura de pantalla de Liquid Mode en la aplicación móvil de Acrobat Reader](../assets/optimizeseo1.png)
 
@@ -45,7 +46,7 @@ Los archivos de PDF tienen un título y una meta descripción, como una página 
 
 +++Ver detalles sobre cómo añadir propiedades de documento
 
-Agregar clave **[!UICONTROL Propiedades del documento]** como sigue:
+Agregar clave **[!UICONTROL Propiedades del documento]** según se indica:
 
 1. Seleccionar **[!UICONTROL Archivo > Propiedades]** o utilice el método abreviado de teclado *Ctrl + D* en Windows o *Cmd + D* en Mac y seleccione la **[!UICONTROL Descripción]** .
 1. Introduzca un título optimizado para palabras clave en el **[!UICONTROL Título:]** campo.
@@ -69,7 +70,7 @@ El etiquetado de contenido en el PDF no solo crea el archivo [Accesible](https:/
 Etiquete un PDF de la siguiente manera:
 
 1. Seleccionar **[!UICONTROL Accesibilidad]** en el **[!UICONTROL Herramientas]** centro.
-1. Seleccionar **[!UICONTROL Etiquetar documento automáticamente]** en el panel derecho.
+1. Seleccionar **[!UICONTROL Etiquetar automáticamente el documento]** en el panel derecho.
 1. Siga las sugerencias de reparación en el panel izquierdo **[!UICONTROL Informe de reconocimiento]**.
 1. Ejecutar **[!UICONTROL Establecer texto alternativo]** si es necesario.
 1. Utilice palabras clave para describir la imagen en el **[!UICONTROL Texto alternativo]**.
@@ -90,7 +91,7 @@ Optimice la experiencia de interacción con el PDF preparándolo para la visuali
 
 +++Ver detalles sobre cómo preparar al PDF para la Web
 
-Prepare a su PDF para Internet de la siguiente manera:
+Prepare a su PDF para la Web de la siguiente manera:
 
 Para preparar al PDF para la Web, seleccione **[!UICONTROL Archivo > Guardar como otro > PDF de tamaño reducido]**.
 
@@ -114,7 +115,7 @@ Este paso reduce el tamaño del archivo y permite **Vista rápida en Web** en el
 
 Cree un nombre de archivo de palabra clave de la siguiente manera:
 
-El nombre de archivo pasa a formar parte de la dirección URL cuando se publica un PDF en Internet. Se recomienda hacer coincidir el título optimizado para palabras clave con el nombre del archivo. Para facilitar la búsqueda, utilice minúsculas, sin puntuación ni hash, y evite las palabras de detención (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si utiliza palabras separadas, agregue guiones o guiones bajos entre las palabras.
+El nombre de archivo pasa a formar parte de la dirección URL cuando se publica un PDF en Internet. Se recomienda hacer coincidir el título optimizado para palabras clave con el nombre del archivo. Para facilitar la búsqueda, utilice minúsculas, sin puntuación ni caracteres hash, y evite las palabras de detención (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si utiliza palabras separadas, agregue guiones o guiones bajos entre las palabras.
 
 +++
 
@@ -130,7 +131,7 @@ Proteja un PDF de la siguiente manera:
 
 1. Abrir **[!UICONTROL Propiedades del documento]** (*Ctrl + D* en Windows o *Cmd + D* en Mac) y seleccione la **[!UICONTROL Seguridad]** .
 1. Comprobar **[!UICONTROL Imprimir la edición e impresión del documento. Se requerirá una contraseña para poder cambiar esta configuración.]**
-1. Bajo **[!UICONTROL Cambios permitidos:]** seleccionar **[!UICONTROL Ninguno]**.
+1. Debajo **[!UICONTROL Cambios permitidos:]** seleccionar **[!UICONTROL Ninguno]**.
 1. Comprobar **[!UICONTROL Habilite el acceso al texto para dispositivos lectores de pantalla para personas con problemas de visión.]**
 1. Introduzca y confirme una contraseña segura.
 1. Seleccionar **[!UICONTROL OK]** y guarde el archivo.

@@ -1,13 +1,14 @@
 ---
 title: Introducción a Acrobat Sign
 description: Este completo tutorial es un buen punto de partida para los nuevos remitentes en Adobe Sign
+feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 >
 >Este tutorial es específico para planes de nivel Business y Enterprise.
 
-Este tutorial detallado abarca los siguientes temas:
+En este tutorial detallado se tratan los siguientes temas:
 
 <table style="table-layout:auto">
 <tr>

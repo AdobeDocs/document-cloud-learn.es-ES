@@ -1,6 +1,7 @@
 ---
 title: Enviar recordatorios con Acrobat Sign para Microsoft Dynamics 365 y Marketo
 description: Obtenga información sobre cómo enviar un recordatorio por correo electrónico cuando un acuerdo permanece sin firmar después de un período de tiempo
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
@@ -38,13 +39,13 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 1. Haga clic en **[!UICONTROL Sincronización de entidades de Dynamics]**.
 
-   La sincronización debe desactivarse antes de sincronizar entidades personalizadas. Haga clic en **Sincronizar esquema** si es tu primera vez. De lo contrario, haga clic en **Actualizar esquema**.
+   La sincronización debe desactivarse antes de sincronizar entidades personalizadas. Haga clic en **Sincronizar esquema** si esta es tu primera vez. De lo contrario, haga clic en **Actualizar esquema**.
 
    ![Actualizar](assets/refreshSchema.png)
 
 ## Sincronizar el objeto personalizado
 
-1. En el lado derecho, localice [!UICONTROL Plomo], [!UICONTROL Contacto]y [!UICONTROL Cuenta]objetos personalizados basados en el usuario.
+1. En el lado derecho, localice [!UICONTROL Plomo], [!UICONTROL Contacto], y [!UICONTROL Cuenta]objetos personalizados basados en el usuario.
 
    * **Habilitar sincronización** para los objetos bajo **[!UICONTROL Plomo]** si desea enviar un recordatorio cuando un [!UICONTROL Plomo] no ha firmado ningún acuerdo en Dynamics.
 
@@ -80,17 +81,17 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 1. Haga clic con el botón derecho en la carpeta creada y seleccione **Nuevo programa** y ponle un nombre.
 
-   Deje todo lo demás como predeterminado y, a continuación, haga clic en **Crear**.
+   Deje todo lo demás como predeterminado y haga clic en **Crear**.
 
    ![Nuevo programa 1](assets/newProgram1.png)
 
    ![Nuevo programa 2](assets/newProgram2.png)
 
-1. Haga clic en **Mis tokens**, y arrastre **Script de correo electrónico** al lienzo.
+1. Haga clic en **Mis tokens** y, a continuación, arrastrar **Script de correo electrónico** en el lienzo.
 
    ![Script de correo electrónico](assets/emailScript.png)
 
-1. Asigne un nombre y, a continuación, haga clic en **Haga clic para editar**.
+1. Ponle un nombre y haz clic en **Haga clic para editar**.
 
    ![Nombre y edición](assets/nameAndSave.png)
 
@@ -128,9 +129,9 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 ## Crear el recordatorio y añadir personalización
 
-Algunos ejemplos de personalización son: el nombre del firmante, el nombre del acuerdo, un vínculo al acuerdo, etc.
+Entre los ejemplos de personalización se incluyen: el nombre del firmante, el nombre del acuerdo, un vínculo al acuerdo, etc.
 
-1. Haga clic con el botón derecho en el programa que ha creado y haga clic en **[!UICONTROL Nuevo activo local]**, luego seleccione **[!UICONTROL Correo electrónico]**.
+1. Haga clic con el botón derecho en el programa que ha creado y haga clic en **[!UICONTROL Nuevo activo local]** y, a continuación, seleccione **[!UICONTROL Correo electrónico]**.
 
    ![Nuevo correo electrónico](assets/createNewEmail.png)
 
@@ -142,7 +143,7 @@ Algunos ejemplos de personalización son: el nombre del firmante, el nombre del 
 
 1. Establezca el **[!UICONTROL Nombre de origen]** y **[!UICONTROL Dirección de origen]**.
 
-   ![Correo electrónico recordatorio](assets/reminderEmail.png)
+   ![Correo electrónico del recordatorio](assets/reminderEmail.png)
 
 1. Haga clic en el cuerpo del mensaje para activar el editor.
 
@@ -162,7 +163,7 @@ Algunos ejemplos de personalización son: el nombre del firmante, el nombre del 
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Asigne un nombre a su elección y, a continuación, haga clic en **[!UICONTROL Crear]**.
+1. Asigne un nombre y, a continuación, haga clic en **[!UICONTROL Crear]**.
 
    ![Smart Campaign 2](assets/smartCampaign2.png)
 
@@ -170,7 +171,7 @@ Algunos ejemplos de personalización son: el nombre del firmante, el nombre del 
 
    ![Tiene acuerdo](assets/hasAgreementDynamics1.png)
 
-   Los campos que expuso al activador deben estar disponibles en **[!UICONTROL Agregar restricción]**.
+   Los campos expuestos al activador deben estar disponibles en **[!UICONTROL Agregar restricción]**.
 
 1. Seleccionar **[!UICONTROL Estado del acuerdo]** y cualquier otro campo por el que desee filtrar.
 
@@ -190,7 +191,7 @@ Algunos ejemplos de personalización son: el nombre del firmante, el nombre del 
 
 Porque el filtro de campaña **Días hasta que caduque** , puede utilizar una periodicidad programada para la campaña.
 
-1. Haga clic en **[!UICONTROL Flujo]** en la pestaña [!UICONTROL Smart Campaign].
+1. Haga clic en **[!UICONTROL Flujo]** en la pestaña [!UICONTROL Campaña inteligente].
 
    Busque y arrastre el **Enviar correo electrónico** en el lienzo y seleccione el correo electrónico de recordatorio que creó en la sección anterior.
 
@@ -198,9 +199,9 @@ Porque el filtro de campaña **Días hasta que caduque** , puede utilizar una pe
 
 1. Haga clic en **[!UICONTROL Programación]** de la Campaña inteligente. Asegúrese de que el flujo de la campaña esté limitado a ejecutarse solo una vez por persona en el **Configuración inteligente de campañas**. A continuación, haga clic en el **Programar periodicidad** .
 
-   ![Ficha Programación](assets/scheduleTab.png)
+   ![Pestaña Programación](assets/scheduleTab.png)
 
-1. Establezca el **Programación** para _Diario_. Elija un día de inicio y una fecha de finalización para la campaña, si es necesario.
+1. Establezca el **Programación** para _Diario_. Elija un día y una hora de inicio y una fecha de finalización para la campaña, si es necesario.
 
    ![Configuración de programación](assets/scheduleSettings.png)
 

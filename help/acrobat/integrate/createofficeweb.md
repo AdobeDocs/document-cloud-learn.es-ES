@@ -1,14 +1,15 @@
 ---
 title: Crear PDF en [!DNL Office] para la Web
-description: Aprende a crear archivos de PDF sin salir de tu [!DNL Microsoft Office] para aplicaciones web
+description: Aprende a crear archivos de PDF sin tener que salir de tu [!DNL Microsoft Office] para aplicaciones web
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8497.jpg
 jira: KT-8497
+thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # Crear PDF en [!DNL Office] para la web
 
-Aprende a crear archivos de PDF sin salir de tu [!DNL Microsoft Office] para aplicaciones web. Este complemento requiere una suscripción a Acrobat para equipos o Acrobat para empresas.
+Aprende a crear archivos de PDF sin tener que salir de tu [!DNL Microsoft Office] para aplicaciones web. Este complemento requiere una suscripción a Acrobat para equipos o Acrobat para empresas.
 
 >[!NOTE]
 >

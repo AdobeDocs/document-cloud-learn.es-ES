@@ -1,14 +1,15 @@
 ---
 title: Descripción general de integraciones Acrobat
 description: Integra Acrobat con las aplicaciones Box, Dropbox, Google Drive, OneDrive y Microsoft
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
@@ -19,11 +20,11 @@ ht-degree: 1%
 
 ![Imagen integrada de Acrobat](../assets/Hero-Integrate.png)
 
-Integrar Acrobat con [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]y [!DNL Microsoft] aplicaciones.
+Integrar Acrobat con [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive], y [!DNL Microsoft] aplicaciones.
 
 ## Microsoft
 
-Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con archivos de PDF, desde dentro [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+Descubre la forma en la que todos los miembros de tu equipo pueden trabajar sin problemas con archivos de PDF, desde dentro [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -44,7 +45,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
     <div>
     <a href="createofficeweb.md"><strong>Crear PDF en [!DNL Office] para la web</strong></a>
     </div>
-    <em>Aprende a crear archivos de PDF sin salir de tu [!DNL Microsoft Office] para aplicaciones web</em>
+    <em>Aprende a crear archivos de PDF sin tener que salir de tu [!DNL Microsoft Office] para aplicaciones web</em>
     <br>
   </td> 
   <td>
@@ -54,7 +55,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
     <div>
     <a href="acrobatandsp.md"><strong>Trabaja con tu [!DNL SharePoint] archivos</strong></a>
     </div>
-    <em>Agiliza los flujos de trabajo con documentos [!DNL SharePoint] y Acrobat</em>
+    <em>Agiliza los flujos de trabajo con documentos [!DNL SharePoint] y ACROBAT</em>
     <br>
   </td>
   <td>
@@ -64,7 +65,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
     <div>
     <a href="acrobatandteams.md"><strong>Colaboración de PDF en [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Colabora y trabaja con tus compañeros viendo, anotando y revisando PDF sin tener que salir de aquí [!DNL Microsoft Teams]</em>
+    <em>Colabora y trabaja con tus compañeros viendo, anotando y revisando a los PDF sin tener que salir de aquí [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
@@ -81,17 +82,17 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
   </td>
   <td>
     <a href="edge.md">
-      <img alt="Crear contenido de PDF al navegar con [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="Crear contenido de PDF mientras navega con [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>Crear contenido de PDF al navegar con [!DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>Crear contenido de PDF mientras navega con [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Descubre cómo archivar páginas web en PDF sobre la marcha con la extensión de Adobe Acrobat para [!DNL Microsoft Edge]</em>
     <br>
   </td>
   <td>
     <a href="microsoftsensitivitylabels.md">
-      <img alt="Crear contenido de PDF al navegar con [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
+      <img alt="Crear contenido de PDF mientras navega con [!DNL Microsoft Edge]" src="../assets/Purview_1280.png" />
     </a>
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>PDF de Protect con [!DNL Microsoft Purview Information] etiquetas de sensibilidad</strong></a>
@@ -109,7 +110,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
 
 ## Google Drive
 
-Aprende a hacer más en menos tiempo con las herramientas esenciales de PDF y firma electrónica incluidas [!DNL Google Drive].
+Aprende a hacer más en menos tiempo con las herramientas esenciales de PDF y firma electrónica de Adobe [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>

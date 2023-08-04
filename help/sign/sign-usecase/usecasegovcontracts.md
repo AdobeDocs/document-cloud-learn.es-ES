@@ -1,12 +1,13 @@
 ---
 title: Forms de Contratos y Solicitudes de la Administración Pública
 description: Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, y completa con informes de auditoría
+feature: Use Cases, Workflow, Form
 role: User
 level: Intermediate
 jira: KT-5302
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Contratos públicos y formularios de solicitud
 
-Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Aprenda a utilizar la herramienta Workflow Designer de Acrobat Sign para optimizar todo el proceso.
+Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Aprenda a utilizar la herramienta Diseñador de flujos de trabajo de Acrobat Sign para ayudar a optimizar todo el proceso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 

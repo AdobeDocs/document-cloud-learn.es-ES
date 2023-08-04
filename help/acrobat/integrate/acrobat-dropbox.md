@@ -1,14 +1,15 @@
 ---
 title: Trabajar con archivos de [!DNL Dropbox]
 description: Aprenda a abrir, crear, editar, firmar y guardar cambios en su [!DNL Dropbox] archivos desde Acrobat
+feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
 topic: Integrations
 topic-revisit: Integrations
-thumbnail: KT-10837.jpg
 jira: KT-10837
+thumbnail: KT-10837.jpg
 exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

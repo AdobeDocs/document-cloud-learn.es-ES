@@ -2,8 +2,10 @@
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
 breadcrumb-title: Tutorials de Acrobat
+feature-set: Document Cloud
 role: User
-source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
+type: Tutorial
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 6%
@@ -18,12 +20,12 @@ ht-degree: 6%
    + [Información general](getting-started/getting-started-overview.md)
    + [Conceptos básicos del área de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nueva experiencia de espacio de trabajo](getting-started/new-workspace.md)
-   + [Trabaja en cualquier parte con la web de Acrobat](getting-started/acrobatweb.md)
+   + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
    + [Productividad sobre la marcha](getting-started/productivity.md)
    + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Crear un PDF](getting-started/create-pdf.md)
-   + [Combine Files a PDF](getting-started/combine-to-pdf.md)
+   + [COMBINE FILES a PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
    + [Agregar página personalizada](getting-started/add-custom-page.md)
    + [Editar un PDF](getting-started/edit-pdf.md)
@@ -36,10 +38,10 @@ ht-degree: 6%
    + [Digitalización y OCR](getting-started/scan-and-ocr.md)
    + [Protect crea un archivo de PDF con una contraseña](getting-started/password-protect.md)
    + [Obtener firmas](getting-started/signatures.md)
-   + [Seguimiento de documentos](getting-started/track.md)
+   + [Realizar un seguimiento de documentos](getting-started/track.md)
 + Tareas avanzadas {#advanced-tasks}
    + [Información general](advanced-tasks/advanced-tasks-overview.md)
-   + [Añadir marcadores e hipervínculos](advanced-tasks/bookmarks.md)
+   + [Adición de marcadores e hipervínculos](advanced-tasks/bookmarks.md)
    + [Optimizar documentos digitalizados](advanced-tasks/optimizescan.md)
    + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
    + [Campos de formulario avanzados](advanced-tasks/advancedforms.md)
@@ -66,27 +68,27 @@ ht-degree: 6%
    + [Reconocer texto en un archivo de PDF digitalizado](60-second/textrecognition.md)
    + [Combinar archivos en un solo PDF](60-second/combine-to-one-pdf.md)
    + [Organiza páginas en un instante](60-second/organize.md)
-   + [Editar una fotografía en el PDF](60-second/editphoto.md)
-   + [Editar un gráfico en el PDF](60-second/editgraphic.md)
+   + [Edición de una fotografía en el PDF](60-second/editphoto.md)
+   + [Edición de un gráfico en el PDF](60-second/editgraphic.md)
    + [Convertir un PDF a Word](60-second/convert-pdf-word.md)
    + [Convertir un PDF a Excel](60-second/convert-pdf-excel.md)
    + [Convertir un PDF a PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF a Word desde el teléfono](60-second/exportwordphone.md)
    + [Crear un PDF desde Microsoft Word](60-second/word-to-pdf.md)
    + [Crear archivos de PDF con Acrobat](60-second/create-from-acrobat.md)
-   + [Convertir Word a PDF, incluidos los campos de formulario](60-second/wordform.md)
+   + [Convertir de Word a PDF, incluidos los campos de formulario](60-second/wordform.md)
    + [Crea un PDF de fotos en un instante](60-second/photo.md)
    + [Convertir un archivo PPT a PDF en el teléfono](60-second/phone.md)
    + [Crea archivos de PDF más eficaces en un instante](60-second/optimize.md)
    + [Firmar electrónicamente un documento en papel](60-second/sign.md)
    + [Protect almacena los archivos de PDF con una contraseña](60-second/protect.md)
-   + [Censura: La forma correcta](60-second/redaction.md)
-   + [Compartir para comentarios](60-second/share-comment.md)
+   + [Censura: la forma correcta](60-second/redaction.md)
+   + [Compartir para comentar](60-second/share-comment.md)
    + [Compartir y comentar archivos de PDF en Teams](60-second/share-comment-teams.md)
    + [Discutir comentarios del PDF con Resumir](60-second/summarize-comments.md)
    + [Cargar comentarios del PDF en InDesign](60-second/indesign.md)
    + [Deja que Acrobat te ayude a convertir en PDF accesibles](60-second/accessible.md)
-   + [Ajustar un PDF a un formato estándar](60-second/conform.md)
+   + [Conformar un PDF a un formato estándar](60-second/conform.md)
    + [Encuentra las diferencias con PDF Compare](60-second/compare.md)
    + [Buscar varios archivos de PDF a la vez](60-second/search.md)
 + Creadores de habilidades {#skill-builders}
@@ -98,7 +100,7 @@ ht-degree: 6%
    + [Colaboración de PDF en [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Trabaja con tu [!DNL SharePoint] archivos](integrate/acrobatandsp.md)
    + [Convertir mensajes de correo electrónico y archivos adjuntos en PDF en [!DNL Outlook]](integrate/outlook.md)
-   + [Crear contenido de PDF al navegar con [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Crear contenido de PDF mientras navega con [!DNL Microsoft Edge]](integrate/edge.md)
    + [PDF de Protect con [!DNL Microsoft Purview Information] etiquetas de sensibilidad](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat para [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Trabajar con archivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)

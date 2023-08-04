@@ -1,12 +1,13 @@
 ---
 title: Tutorials de Acrobat Sign
 description: Una colección de tutoriales, seminarios web y casos prácticos diseñada para poner al día rápidamente a los principiantes y administradores sobre Acrobat Sign
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
@@ -17,7 +18,7 @@ ht-degree: 5%
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, una solución de Adobe Document Cloud, se escala para satisfacer las necesidades de tu organización con integraciones, API, autenticación avanzada, funciones de administración adicionales y mucho más. Aquí encontrará una amplia gama de experiencias de aprendizaje diseñadas para poner al día a los principiantes y administradores en Acrobat Sign.
+Acrobat Sign, una solución de Adobe Document Cloud, se escala para satisfacer las necesidades de tu organización con integraciones, API, autenticación avanzada, funciones de administración adicionales y mucho más. Aquí puede encontrar una amplia gama de experiencias de aprendizaje diseñadas para poner al día rápidamente a los principiantes y administradores en Acrobat Sign.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

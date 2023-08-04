@@ -1,11 +1,12 @@
 ---
 title: 'Cinco consejos para trabajar con Acrobat desde cualquier parte: consigue tus herramientas'
 description: Descubre cómo hacer que tus herramientas de Acrobat y aplicaciones móviles complementarias funcionen desde cualquier lugar
+feature: Workspace
 role: User
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

@@ -1,13 +1,14 @@
 ---
-title: Resumen de revelado
+title: Información general de revelado
 description: Aprende a usar las API de Acrobat Sign para crear aplicaciones personalizadas para tus equipos, partners y clientes
+feature: Workflow, Integrations
 role: Developer
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 13%
@@ -18,7 +19,7 @@ ht-degree: 13%
 
 ![Firmar imagen de revelado](../assets/Hero-Develop.png)
 
-El 40 % de los acuerdos en Acrobat Sign se crean mediante API. Utiliza API para crear aplicaciones personalizadas para tus equipos, partners y clientes.
+El 40 % de los acuerdos en Acrobat Sign se crean mediante API. Utiliza las API para crear aplicaciones personalizadas para tus equipos, partners y clientes.
 
 <table style="table-layout:fixed">
 <tr>

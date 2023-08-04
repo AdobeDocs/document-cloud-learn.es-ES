@@ -1,12 +1,13 @@
 ---
 title: Crear Forms rellenable
-description: Convertir un documento creado en InDesign, Microsoft Word o Excel en un formulario de PDF que se puede rellenar
+description: Convierte un documento creado en InDesign, Microsoft Word o Excel en un formulario de PDF que se puede rellenar
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6831.jpg
 jira: KT-6831
+thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%
@@ -27,7 +28,7 @@ Convertir un formulario o documento en papel digitalizado creado en InDesign, Mi
 
    Si [!UICONTROL Detección automática del campo de formulario] es **ACTIVADO**, los campos de formulario se detectan automáticamente en el archivo de PDF. Compruebe la colocación de los campos de formulario.
 
-   Arrastre y suelte campos desde el menú superior y edite los detalles de los campos de formulario en el panel derecho.
+   Arrastra y suelta campos desde el menú superior y edita los detalles de los campos de formulario en el panel de la derecha.
 
 1. Seleccionar **[!UICONTROL Vista previa]** para ver tu formulario.
 

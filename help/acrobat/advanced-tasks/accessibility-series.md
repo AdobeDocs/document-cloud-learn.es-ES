@@ -1,12 +1,13 @@
 ---
 title: Serie de accesibilidad de Acrobat
 description: Serie de accesibilidad bajo demanda de seis sesiones
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8364.jpg
 jira: KT-8364
+thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -78,7 +79,7 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
       <img alt="Adición de campos de formulario a un PDF sin etiquetas" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>Agregar campos de formulario a un PDF sin etiquetas</strong></a>
+    <a href="accessibilitysession6.md"><strong>Adición de campos de formulario a un PDF sin etiquetas</strong></a>
     </div>
     <em>Esta sesión bajo demanda profundiza en la creación de campos de formulario manuales y propiedades de campos de formulario adicionales</em>
     <br>

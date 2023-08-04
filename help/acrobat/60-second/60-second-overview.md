@@ -1,12 +1,13 @@
 ---
 title: Descripción general de Acrobat de 60 segundos
 description: La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para ayudarte a aprender un nuevo truco en Acrobat en un minuto o menos
+feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
-thumbnail: KT-8493.jpg
 jira: KT-8493
+thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -69,20 +70,20 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="editphoto.md">
-      <img alt="Editar una fotografía en el PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+      <img alt="Edición de una fotografía en el PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
     <div>
-    <a href="editphoto.md"><strong>Editar una fotografía en el PDF</strong></a>
+    <a href="editphoto.md"><strong>Edición de una fotografía en el PDF</strong></a>
     </div>
     <em>Aprenda a realizar ediciones avanzadas en una fotografía en el PDF con Photoshop</em>
     <br>
   </td>
   <td>
     <a href="editgraphic.md">
-      <img alt="Editar un gráfico en el PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+      <img alt="Edición de un gráfico en el PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
     </a>
     <div>
-    <a href="editgraphic.md"><strong>Editar un gráfico en el PDF</strong></a>
+    <a href="editgraphic.md"><strong>Edición de un gráfico en el PDF</strong></a>
     </div>
     <em>Aprenda a realizar ediciones avanzadas en un gráfico en el PDF con Illustrator</em>
     <br>
@@ -173,10 +174,10 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
   </td>
   <td>
     <a href="wordform.md">
-      <img alt="Convertir Word a PDF, incluidos los campos de formulario" src="../assets/60sec_Wordform_1280.jpg" />
+      <img alt="Convertir de Word a PDF, incluidos los campos de formulario" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
     <div>
-     <a href="wordform.md"><strong>Convertir Word a PDF, incluidos los campos de formulario</strong></a>
+     <a href="wordform.md"><strong>Convertir de Word a PDF, incluidos los campos de formulario</strong></a>
     </div>
     <em>Convertir archivos y formularios de Word en PDF y generar automáticamente campos de formulario</em>
     <br>
@@ -274,10 +275,10 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
   </td>
   <td>
     <a href="redaction.md">
-      <img alt="Censura: La forma correcta" src="../assets/60sec_redaction.png" />
+      <img alt="Censura: la forma correcta" src="../assets/60sec_redaction.png" />
     </a>
     <div>
-    <a href="redaction.md"><strong>Censura: La forma correcta</strong></a>
+    <a href="redaction.md"><strong>Censura: la forma correcta</strong></a>
     </div>
     <em>Aprende la forma correcta de eliminar información confidencial de un PDF</em>
     <br>
@@ -358,12 +359,12 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
   </td>
  <td>
     <a href="conform.md">
-      <img alt="Ajustar un PDF a un formato estándar" src="../assets/60sec_standard.png" />
+      <img alt="Conformar un PDF a un formato estándar" src="../assets/60sec_standard.png" />
     </a>
     <div>
-    <a href="conform.md"><strong>Ajustar un PDF a un formato estándar</strong></a>
+    <a href="conform.md"><strong>Conformar un PDF a un formato estándar</strong></a>
     </div>
-    <em>Aprenda a validar el contenido del PDF según criterios estándar del PDF, como PDF/X, PDF/A o PDF/E</em>
+    <em>Obtenga información sobre cómo validar el contenido del PDF según criterios estándar del PDF, como PDF/X, PDF/A o PDF/E</em>
     <br>
   </td>
   <td>

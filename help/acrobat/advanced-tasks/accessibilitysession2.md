@@ -1,12 +1,13 @@
 ---
 title: Corrección de un PDF inaccesible
 description: En esta sesión bajo demanda, aprende el flujo de trabajo para convertir un documento de Word y a solucionar algunos problemas básicos de etiquetado con las herramientas de Acrobat Pro que se muestran en el seminario web de introducción
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8609.jpg
 jira: KT-8609
+thumbnail: KT-8609.jpg
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

@@ -1,20 +1,21 @@
 ---
 title: Comprobar Accesibilidad Del PDF
 description: Aprenda a comprobar si su PDF es accesible universalmente para las personas con discapacidades
+feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
-thumbnail: KT-6829.jpg
 jira: KT-6829
+thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Comprobar accesibilidad del PDF
+# Comprobar la accesibilidad del PDF
 
 Aprenda a comprobar si su PDF es accesible universalmente para personas con discapacidades, incluidas personas con problemas de movilidad, ciegos, problemas de visión, sordos, auditivos o con deficiencias cognitivas.
 
@@ -52,4 +53,4 @@ En la ventana del informe de accesibilidad, haga clic con el botón derecho en u
 
 >[!NOTE]
 >
->Algunos problemas no se pueden corregir automáticamente y es necesario que intervenga manualmente para corregirlos. En esos casos, >Acrobat presenta un cuadro de diálogo que le indica lo que debe corregir.
+>Algunos problemas no se pueden solucionar automáticamente y es necesario que intervenga de forma manual para corregirlos. En esos casos, >Acrobat presenta un cuadro de diálogo que le indica lo que debe corregir.

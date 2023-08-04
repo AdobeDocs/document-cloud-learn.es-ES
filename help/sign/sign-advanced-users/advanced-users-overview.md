@@ -1,19 +1,20 @@
 ---
 title: Introducción a Tareas avanzadas
 description: Aprenda a enviar un documento para su firma a cientos de destinatarios a la vez, configurar un documento listo para firmar para su sitio web, administrar transacciones de firma y crear y administrar plantillas de documentos
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
 
 ---
 
-# Introducción a tareas avanzadas
+# Introducción a las tareas avanzadas
 
 ![Imagen avanzada de Sign](../assets/Hero-Advanced.png)
 
@@ -99,7 +100,7 @@ Conozca cómo configurar y aceptar pagos en línea en sus documentos
       <div>
       <a href="megasign.md"><strong>Enviar y recopilar firmas en bloque</strong></a>
       </div>
-      <em>Recopila cientos de firmas a la vez para cualquier documento en solo unos pasos</em>
+      <em>Recopila cientos de firmas a la vez para cualquier documento en solo unos breves pasos</em>
       <br>
   </td>
  <td>
@@ -168,7 +169,7 @@ Conozca cómo configurar y aceptar pagos en línea en sus documentos
     <div>
     <a href="edit-a-template.md"><strong>Administrar plantillas de documento</strong></a>
     </div>
-    <em>Editar o eliminar una plantilla de la biblioteca</em>
+    <em>Edición o eliminación de una plantilla de la biblioteca</em>
     <br>
   </td>
   <td>

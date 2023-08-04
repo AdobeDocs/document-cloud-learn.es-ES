@@ -1,14 +1,15 @@
 ---
-title: Colaboración de PDF en [!DNL Microsoft Teams]
+title: PDF Collaboration en [!DNL Microsoft Teams]
 description: Adobe Acrobat para equipos permite a los usuarios colaborar y trabajar con sus compañeros al ver, anotar y revisar PDF sin tener que salir [!DNL Microsoft Teams]
+feature: Integrations, Collaboration
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331277.jpg
 jira: KT-7119
+thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

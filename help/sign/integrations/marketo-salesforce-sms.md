@@ -1,6 +1,7 @@
 ---
 title: Enviar notificaciones con Acrobat Sign para Salesforce y Marketo
 description: Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
@@ -26,7 +27,7 @@ Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación
 
    Dispone de información y del plugin más reciente para Salesforce Sync [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instalación de Acrobat Sign para Salesforce.
+1. Instale Acrobat Sign para Salesforce.
 
    Información sobre este plugin está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -38,7 +39,7 @@ Una vez completadas las configuraciones de Sincronización de Marketo Salesforce
 
 ![Sincronización de objetos](assets/salesforceAdmin.png)
 
-1. Haga clic en **Sincronizar esquema** si es tu primera vez. De lo contrario, haga clic en **Actualizar esquema**.
+1. Haga clic en **Sincronizar esquema** si esta es tu primera vez. De lo contrario, haga clic en **Actualizar esquema**.
 
    ![Actualizar](assets/refreshSchema1.png)
 
@@ -80,7 +81,7 @@ En el lado derecho, consulte Objetos personalizados basados en clientes potencia
 
    ![Nueva carpeta](assets/newFolder.png)
 
-1. Haga clic con el botón derecho en la carpeta creada y seleccione **Nuevo programa** y ponle un nombre. Deje todo lo demás como predeterminado y, a continuación, haga clic en **Crear**.
+1. Haga clic con el botón derecho en la carpeta creada y seleccione **Nuevo programa** y ponle un nombre. Deje todo lo demás como predeterminado y haga clic en **Crear**.
 
    ![Nuevo programa 1](assets/newProgram1.png)
 
@@ -114,7 +115,7 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Seleccionar **POST** como tipo de solicitud.
+1. Seleccionar **POST** como su tipo de solicitud.
 
 1. Introduzca lo siguiente **Plantilla** y asegúrese de reemplazar **[MY_TWILIO_NUMBER]** con tu número de teléfono Twilio y **[YOUR_MESSAGE]** con un mensaje de su elección.
 
@@ -126,25 +127,25 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
 1. Establezca el Tipo de respuesta en JSON y, a continuación, haga clic en **Guardar**.
 
-## Configurar el activador inteligente de campañas
+## Configurar el activador inteligente de la campaña
 
 1. En la sección Actividades de marketing, haga clic con el botón derecho en el programa que ha creado y, a continuación, seleccione **Nueva campaña inteligente**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Asígnele un nombre y, a continuación, haga clic en **Crear**.
+1. Asígnele un nombre y haga clic en **Crear**.
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
    Si la configuración de la sincronización de objetos personalizados se ha realizado correctamente, debería ver los siguientes desencadenadores disponibles para su uso en la carpeta Salesforce.
 
-1. Haga clic y arrastre Agregado al acuerdo a la lista inteligente. Añada las restricciones que desee tener en el activador.
+1. Haga clic en Añadir al acuerdo y arrástrelo a la lista inteligente. Añada las restricciones que desee tener en el activador.
 
    ![Añadido al acuerdo 2](assets/addedToAgreement2.png)
 
 ## Configurar el flujo de campaña inteligente
 
-1. Haga clic en el **Flujo** de la Campaña inteligente. Busque y arrastre el **Llamar a webhook** en el lienzo y seleccione el webhook creado en la sección anterior.
+1. Haga clic en el **Flujo** de la Campaña inteligente. Busque y arrastre el **Llamar a webhook** en el lienzo y seleccione el webhook que creó en la sección anterior.
 
    ![Llamar a webhook](assets/callWebhook.png)
 

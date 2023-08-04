@@ -1,11 +1,12 @@
 ---
 title: Seminarios web de Adobe Acrobat Skill Builder
 description: Adobe Acrobat Skill Builder son sesiones de 30 minutos diseñadas para llevar tus flujos de trabajo de PDF al siguiente nivel
+feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
-thumb: KT-8199.jpg
 jira: KT-8199
+thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%
@@ -28,19 +29,19 @@ Fecha: 16 de noviembre de 2023 Deja de repetir tareas manuales simples. En esta 
 * Cómo crear tus propias acciones
 * Cómo compartir acciones con otros
 
-**[Desbloquee sus documentos en papel: Digitalización a escala](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/46e148fe-92c0-4d79-ac83-8888e9f0521e/dfcf3b90-4390-4c6e-abd9-20ba6e913dc1){target="_blank"}**
+**[Desbloquea tus documentos en papel: digitalización a escala](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/46e148fe-92c0-4d79-ac83-8888e9f0521e/dfcf3b90-4390-4c6e-abd9-20ba6e913dc1){target="_blank"}**
 Fecha: 26 de octubre de 2023 ¿Tienes tú o tu organización pilas de papel que deban importarse al mundo digital para que sea más fácil acceder a ellas y a ti? Descubre cómo Acrobat utiliza la tecnología de reconocimiento óptico de caracteres (OCR) para convertir tus archivos escaneados en documentos de PDF reutilizables, editables y en los que se puede realizar búsquedas que tengan el mismo aspecto que el archivo original. También compartiremos consejos sobre la tecnología de OCR a escala y la automatización de los flujos de trabajo de digitalización con Power Automate y la API de servicios de Adobe PDF.
 
 **[Saca el máximo partido a las aplicaciones de Microsoft con los complementos de Acrobat](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/8b4ea780-6e4d-48b6-8c70-ea10245a5a64/b4fe64de-3614-4a6d-94c6-ff6612ac07fb){target="_blank"}**
 Fecha: 28 de septiembre de 2023 Con las herramientas y servicios de Acrobat incorporados en Microsoft 365, todo el mundo puede hacer negocios y colaborar más rápido sin cambiar de aplicación. Te mostraremos cómo añadir flujos de trabajo de PDF a las aplicaciones de Microsoft que utilizas a diario, entre las que se incluyen:
 
-* Microsofts Teams (colaborar en PDF)
+* Microsofts Teams (Colaborar en PDF)
 * SharePoint (crear, combinar, organizar y Export PDF)
 * Word, Excel y PowerPoint (crear y colaborar en PDF)
 * Outlook (Crear PDF)
 
 **[Descubre La Seguridad Integrada Del PDF](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/b454ab64-9c2e-4aec-bcf9-ca82e3a6b869/3a456ace-042e-41c8-8e8c-d285e9ba0ab8){target="_blank"}**
-Fecha: 24 de agosto de 2023 Reduce el tiempo dedicado a garantizar la seguridad de los documentos legales y su cumplimiento con pistas de auditoría automatizadas y completas, censura para eliminar información confidencial, funciones de seguridad personalizables para el PDF como la visualización, las marcas de agua, los controles de acceso y el cifrado.
+Fecha: 24 de agosto de 2023 Reduce el tiempo dedicado a garantizar la seguridad de los documentos legales y su cumplimiento con pistas de auditoría automatizadas y completas, censura para eliminar información confidencial, funciones de seguridad personalizables del PDF como la visualización, las marcas de agua, los controles de acceso y el cifrado.
 
 * Seguridad de PDF en aplicaciones de Microsoft 365 (Word, Excel, PPT y Outlook)
 * Seguridad del PDF en aplicaciones de Adobe (InDesign, Illustrator, Photoshop, InCopy)
@@ -49,7 +50,7 @@ Fecha: 24 de agosto de 2023 Reduce el tiempo dedicado a garantizar la seguridad 
 * Varios archivos de Protect (en bloque)
 * Eliminación de información confidencial del PDF (censurar, corregir, ocultar información confidencial)
 
-**[PDF forms 201: Desarrolla Tus Habilidades De Formularios](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/32518a73-e152-42b5-825c-b31ce53ab1f2/b9966934-6a5b-49c2-a9b0-d434543ce7f4){target="_blank"}**
+**[PDF forms 201: Desarrolla tus habilidades con los formularios](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/32518a73-e152-42b5-825c-b31ce53ab1f2/b9966934-6a5b-49c2-a9b0-d434543ce7f4){target="_blank"}**
 Fecha: 27 de julio de 2023 Lleva a tus PDF forms al siguiente nivel mientras profundizamos en las opciones más avanzadas que Acrobat tiene para ofrecer. En esta sesión se tratarán:
 
 * Creación de formularios online para recopilar fácilmente datos y firmas desde cualquier lugar
@@ -71,7 +72,7 @@ Fecha: 25 de mayo de 2023 Ayuda a garantizar que el contenido de tu PDF sea más
 * Un recorrido por las funciones de la herramienta de accesibilidad de Acrobat
 
 **[Reutilización del contenido del PDF: Editar y exportar](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
-Fecha: 27 de abril de 2023 ¿Por qué recrear la rueda cuando simplemente se puede editar y exportar PDF? En esta sesión, aprenderás a modificar tus PDF existentes con las herramientas de edición y exportación de Acrobat. Aprenderá a hacer lo siguiente:
+Fecha: 27 de abril de 2023 ¿Por qué volver a crear la rueda cuando simplemente puede editar y exportar PDF? En esta sesión, aprenderás a modificar tus PDF existentes con las herramientas de edición y exportación de Acrobat. Aprenderás a hacer lo siguiente:
 
 * Editar texto e imágenes
 * Añade hipervínculos y marcadores para facilitar la navegación por los documentos
@@ -79,7 +80,7 @@ Fecha: 27 de abril de 2023 ¿Por qué recrear la rueda cuando simplemente se pue
 * Exportar un documento completo o elegir texto, imágenes o tablas específicos
 
 **[Colaboración de PDF: Compartir, revisar y trabajar juntos](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
-Fecha: 23 de marzo de 2023 Ponte en marcha con Adobe Acrobat y PDF. Únete a nosotros para descubrir los aspectos fundamentales con una introducción a la interfaz de Acrobat y las funciones clave que te ayudarán a ser más productivo. Le mostraremos cómo hacer lo siguiente:
+Fecha: 23 de marzo de 2023 Ponte en marcha con Adobe Acrobat y los PDF. Únete a nosotros para descubrir los aspectos fundamentales con una introducción a la interfaz de Acrobat y las funciones clave que te ayudarán a ser más productivo. Le mostraremos cómo hacer lo siguiente:
 
 * Crea PDF a partir de archivos de imagen y documentos, incluidos Word, Excel y PowerPoint
 * Combina varios archivos (PDF, Word, imágenes y mucho más) en un solo PDF editable

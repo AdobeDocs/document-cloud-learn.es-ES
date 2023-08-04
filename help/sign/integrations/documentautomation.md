@@ -1,13 +1,14 @@
 ---
 title: Automatización de documentos con Acrobat Sign para Microsoft Power Platform
 description: Obtenga información sobre cómo activar y usar los conectores de Acrobat Sign y Adobe PDF Tools para Microsoft Power Apps. Crea flujos de trabajo que automatizan los procesos de aprobación y firma de la empresa de forma rápida y segura sin ningún código
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
@@ -22,10 +23,10 @@ Obtenga información sobre cómo activar y usar los conectores de Acrobat Sign y
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Parte 1: Almacenar acuerdo firmado en SharePoint con Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Parte 1: Almacenar acuerdos firmados en SharePoint con Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Parte 1: Almacenar acuerdo firmado en SharePoint con Acrobat Sign</strong></a>
+    <a href="documentautomation.md#part1"><strong>Parte 1: Almacenar acuerdos firmados en SharePoint con Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -72,7 +73,7 @@ Obtenga información sobre cómo activar y usar los conectores de Acrobat Sign y
 
 Descargar materiales [aquí](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Parte 1: Almacenar acuerdo firmado en SharePoint con Acrobat Sign {#part1}
+## Parte 1: Almacenar acuerdos firmados en SharePoint con Acrobat Sign {#part1}
 
 En la primera parte, utilizarás una plantilla de Power Automate Flow para configurar un flujo de trabajo automatizado que guardará todos los acuerdos firmados en tu sitio de SharePoint.
 
@@ -111,7 +112,7 @@ En la primera parte, utilizarás una plantilla de Power Automate Flow para confi
    ![Captura de pantalla de la configuración de SharePoint](assets/documentautomation/automation_6.png)
 
    **Dirección del sitio:** Tu sitio de SharePoint
-   **Ruta de carpeta:** Ruta a los documentos compartidos que desea utilizar
+   **Ruta de carpeta:** Ruta de acceso a los documentos compartidos que desea utilizar
    **Nombre de archivo:** Aceptar el valor predeterminado
    **Contenido del archivo:** Aceptar el valor predeterminado
 
@@ -121,7 +122,7 @@ En la primera parte, utilizarás una plantilla de Power Automate Flow para confi
 
 1. Vaya a la pantalla de información general de flujo con la flecha azul hacia atrás. Probará este flujo en la parte 2.
 
-   ![Captura de pantalla de la pantalla de resumen de flujo](assets/documentautomation/automation_8.png)
+   ![Captura de pantalla de la pantalla de información general de flujo](assets/documentautomation/automation_8.png)
 
 Probará este flujo en la siguiente parte.
 
@@ -148,18 +149,18 @@ En la segunda parte, construimos la primera parte con un Flow más robusto y pro
 
    Este flujo tiene muchos pasos preconfigurados, incluida la comprobación de errores y pasos condicionales anidados.
 
-1. Configurar **Para un archivo seleccionado** como sigue:
+1. Configurar **Para un archivo seleccionado** según se indica:
    **Dirección del sitio:** Tu sitio de SharePoint
-   **Nombre de biblioteca:** Su repositorio de documentos
+   **Nombre de la biblioteca:** Su repositorio de documentos
 1. Añada una entrada de la siguiente manera:
    **Tipo**: Correo electrónico
    **Nombre**: Correo electrónico del firmante
 
    ![Captura de pantalla de configuración del flujo](assets/documentautomation/automation_11.png)
 
-1. Configurar **Obtener propiedades de archivo:** como sigue:
+1. Configurar **Obtener propiedades de archivo:** según se indica:
    **Dirección del sitio:** Tu sitio de SharePoint
-   **Nombre de biblioteca:** Su repositorio de documentos
+   **Nombre de la biblioteca:** Su repositorio de documentos
 
 1. Desplácese hacia abajo y busque **En caso afirmativo**.
 
@@ -167,21 +168,21 @@ En la segunda parte, construimos la primera parte con un Flow más robusto y pro
 
 1. Haga clic en **Añadir una acción** en el **En caso afirmativo** (no el que aparece más abajo) para agregar los pasos que se van a enviar para firmar.
 
-   ![Captura de pantalla de adición de una acción en el cuadro Si es así](assets/documentautomation/automation_13.png)
+   ![Captura de pantalla de la adición de una acción en el cuadro Si es así](assets/documentautomation/automation_13.png)
 
 1. Buscar por **SharePoint obtener contenido de archivo** y elija **Obtener contenido del archivo**.
 
    ![Captura de pantalla del cuadro de búsqueda](assets/documentautomation/automation_14.png)
 
-1. Configure el **Obtener contenido del archivo** como sigue:
+1. Configure el **Obtener contenido del archivo** según se indica:
 
    ![Captura de pantalla de la configuración de contenido de Obtener archivo](assets/documentautomation/automation_15.png)
 
    **Dirección del sitio:** Tu sitio de SharePoint.
-   **Identificador de archivo:** Busque &quot;identificador&quot; y elija Identificador en el **Obtener propiedades de archivo** paso.
+   **Identificador de archivo:** Busque &quot;identificador&quot; y elija Identificador en el menú **Obtener propiedades de archivo** paso.
 1. Busque &quot;Adobe&quot; y elija **Acrobat Sign** para agregar otra acción.
 
-   ![Captura de pantalla del menú de búsqueda](assets/documentautomation/automation_16.png)
+   ![Captura de pantalla del menú Buscar](assets/documentautomation/automation_16.png)
 
 1. Introduce &quot;cargar&quot; en el cuadro de búsqueda de Acrobat Sign y selecciona **Cargar un documento y obtener un ID de documento**.
 1. Buscar la variable dinámica **Nombre** para obtener el nombre del elemento/documento seleccionado en el activador en **Nombre de archivo**.
@@ -191,7 +192,7 @@ En la segunda parte, construimos la primera parte con un Flow más robusto y pro
 
 1. Añada un solo apóstrofo y, a continuación, haga clic en volver a **Contenido dinámico**, eliminar el apóstrofo, seleccione **Contenido del archivo** y haga clic en **OK**.
 
-   Asegúrese de que no haya apóstrofos adicionales y que se parezca a la muestra siguiente.
+   Asegúrese de que no haya apóstrofos adicionales y que se vea como en la siguiente muestra.
 
    ![Captura de pantalla del aspecto que debería tener la pantalla Contenido dinámico](assets/documentautomation/automation_18.png)
 
@@ -200,7 +201,7 @@ En la segunda parte, construimos la primera parte con un Flow más robusto y pro
 
    ![Captura de pantalla de la búsqueda de crear](assets/documentautomation/automation_19.png)
 
-1. Configure la información necesaria: Elegir **Nombre** del asistente de variable dinámica en **Nombre del acuerdo**.
+1. Configure la información necesaria: Elija **Nombre** del asistente de variable dinámica en **Nombre del acuerdo**.
 Elegir **ID de documento** del asistente de variable dinámica en **ID de documento**.
 Elegir **Correo electrónico del firmante** del asistente de variable dinámica en **Correo electrónico del participante**.
 Introduzca &quot;1&quot; en **Orden del participante**.
@@ -216,7 +217,7 @@ Vaya al repositorio de documentos de su sitio de SharePoint para probarlo.
 
 1. Seleccione el documento y elija **Automatizar** y el **Flujo** acabas de crear.
 
-   ![Captura de pantalla de la selección del menú y flujo Automatizar](assets/documentautomation/automation_21.png)
+   ![Captura de pantalla de la selección del menú Automatizar y el flujo](assets/documentautomation/automation_21.png)
 
 1. Inicie el flujo para validar las conexiones (solo primera ejecución de flujo).
 1. Escriba un mensaje bonito para el aprobador en **Mensaje**.
@@ -268,13 +269,13 @@ Ahora, estas carpetas forman parte del flujo de Power Automate.
 
 1. Inicie sesión con el Adobe ID.
 
-   ![Captura de pantalla de la pantalla de inicio de sesión](assets/documentautomation/automation_29.png)
+   ![Captura de pantalla de la pantalla Iniciar sesión](assets/documentautomation/automation_29.png)
 
 1. Introduzca el nombre y la descripción de las credenciales y haga clic en **Crear credenciales**.
 
    ![Captura de pantalla de la pantalla Crear credenciales](assets/documentautomation/automation_30.png)
 
-   Mantenga la ventana con las credenciales abiertas. Deberá especificarlas en Microsoft Power Automate.
+   Mantenga la ventana con las credenciales abiertas. Deberá introducirlos en Microsoft Power Automate.
 
    ![Captura de pantalla de la pestaña del navegador para mantenerla abierta](assets/documentautomation/automation_31.png)
 
@@ -290,7 +291,7 @@ Ahora, estas carpetas forman parte del flujo de Power Automate.
 
 1. Seleccione el campo Dirección del sitio y elija el sitio de SharePoint que está utilizando en el activador denominado **Cuando se crea un archivo en una carpeta**.
 
-   ![Captura de pantalla de selección de Cuando se crea un archivo en un activador de carpeta](assets/documentautomation/automation_34.png)
+   ![Captura de pantalla de la selección de Cuando se crea un archivo en un activador de carpeta](assets/documentautomation/automation_34.png)
 
 1. Pulse el icono de carpeta para acceder a la carpeta Contratos Antiguos situada en ID de carpeta.
 
@@ -327,7 +328,7 @@ En la cuarta parte, aprenderás a combinar muchos documentos según la informaci
 * En función de la información proporcionada, combina muchos documentos. Estos documentos incluyen una portada y documentos técnicos opcionales.
 * El documento combinado se guarda en SharePoint.
 
-### Importar archivos de ejercicios a SharePoint
+### Importación de archivos de ejercicios en SharePoint
 
 1. Abra la carpeta E04 en los archivos del ejercicio.
 1. Importe las carpetas Propuesta, Plantillas y Documentos generados en SharePoint.
@@ -371,7 +372,7 @@ En la carpeta Plantillas, hay una carpeta Portadas que incluye diseños de porta
 
 ### Establecer para un archivo seleccionado
 
-Una vez creado el flujo, haga lo siguiente:
+Ahora que se ha creado el flujo, haga lo siguiente:
 
 1. Haga clic en **Editar**.
 
@@ -391,7 +392,7 @@ Agregue su biblioteca a la biblioteca.
 
 ### Definir portada Obtener contenido del archivo
 
-1. Haga clic en **Cubrir** , que expande el ámbito.
+1. Haga clic en **Cubierta** , que expande el ámbito.
 1. Expandir **Portada: Obtener contenido del archivo**.
 
    Establezca Dirección del sitio en el sitio de SharePoint.
@@ -411,13 +412,13 @@ Cambie la dirección del sitio a su sitio de SharePoint en **Obtener contenido d
 
 ### Definir informes técnicos
 
-1. Haga clic en **Informes** acción.
+1. Haga clic en **Informes técnicos** acción.
 1. Expandir **Condición: Añadir informe técnico**.
 
    ![Captura de pantalla de la condición expandida Añadir informe técnico](assets/documentautomation/automation_48.png)
 
 1. Expandir **Informe técnico 1: Obtener contenido del archivo mediante la ruta**.
-Editar la dirección del sitio en el sitio de SharePoint especificado.
+Edite la dirección del sitio en el sitio de SharePoint especificado.
 
 Repita los mismos pasos para **Condición: Añadir informe técnico 2**.
 
@@ -429,14 +430,14 @@ Repita los mismos pasos para **Condición: Añadir informe técnico 2**.
 
 1. Haga clic en **Guardar**.
 
-### Prueba del flujo
+### Probar el flujo
 
 1. Vaya a la carpeta de propuestas en SharePoint.
 1. Seleccione la carpeta Propuesta.docx .
 
    ![Captura de pantalla de selección de carpeta de propuestas](assets/documentautomation/automation_49.png)
 
-1. Seleccione el flujo en la **Automatizar** menú.
+1. Seleccione el flujo en la **Automatizar** del menú.
 
    ![Captura de pantalla de Selección del menú Automatizar](assets/documentautomation/automation_50.png)
 
@@ -449,7 +450,7 @@ Repita los mismos pasos para **Condición: Añadir informe técnico 2**.
 
    ![Captura de pantalla del botón Ejecutar flujo](assets/documentautomation/automation_52.png)
 
-Vaya a la carpeta Generar documentos . Ahora debería ver el archivo de PDF generado.
+Vaya a la carpeta Generar documentos . Ahora debería ver el archivo generado por el PDF.
 
 ![Captura de pantalla del directorio de SharePoint con el nuevo archivo de PDF](assets/documentautomation/automation_53.png)
 
@@ -457,7 +458,7 @@ Vaya a la carpeta Generar documentos . Ahora debería ver el archivo de PDF gene
 
 Ahora que ha creado correctamente un flujo, va a editar el flujo para cifrar el documento de PDF con una contraseña. Esto también explica cómo puede utilizar otras acciones.
 
-1. Vuelve al final del flujo.
+1. Vuelve al final de tu flujo.
 1. Haga clic en **+** símbolo entre **Combinar PDF** y **Crear archivo**.
 
    ![Captura de pantalla de dónde seleccionar el símbolo +](assets/documentautomation/automation_54.png)
@@ -484,7 +485,7 @@ Ahora que ha creado correctamente un flujo, va a editar el flujo para cifrar el 
 1. Borre el campo Contenido del archivo.
 1. Usar contenido dinámico para colocar **Contenido de archivo de PDF** desde **PDF de Protect desde la visualización**.
 
-### Prueba del flujo
+### Probar el flujo
 
 1. Vaya a la carpeta de propuestas en SharePoint.
 1. Seleccione Propuesta.docx.

@@ -1,12 +1,13 @@
 ---
 title: Adición de campos de formulario a un PDF sin etiquetas
 description: Esta sesión bajo demanda profundiza en la creación de campos de formulario manuales y propiedades de campos de formulario adicionales
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8613.jpg
 jira: KT-8613
+thumbnail: KT-8613.jpg
 exl-id: 73e0e348-126b-440b-a90e-061911781b76
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

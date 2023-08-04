@@ -1,12 +1,13 @@
 ---
 title: Crear archivos de PDF más eficaces en un instante
 description: Utilice la herramienta Optimize PDF para reducir significativamente el tamaño de los archivos de PDF
+feature: Optimize PDF
 role: User
 level: Intermediate
-thumbnail: KT-9751.jpg
 jira: KT-9751
+thumbnail: KT-9751.jpg
 exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

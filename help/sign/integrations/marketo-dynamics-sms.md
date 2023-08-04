@@ -1,6 +1,7 @@
 ---
 title: Enviar notificaciones con Acrobat Sign para Microsoft Dynamics 365 y Marketo
 description: Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
@@ -38,13 +39,13 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 * Haga clic en **[!UICONTROL Sincronización de entidades de Dynamics]**.
 
-  La sincronización debe desactivarse antes de sincronizar entidades personalizadas. Haga clic en **[!UICONTROL Sincronizar esquema]** si es tu primera vez. De lo contrario, haga clic en **[!UICONTROL Actualizar esquema]**.
+  La sincronización debe desactivarse antes de sincronizar entidades personalizadas. Haga clic en **[!UICONTROL Sincronizar esquema]** si esta es tu primera vez. De lo contrario, haga clic en **[!UICONTROL Actualizar esquema]**.
 
   ![Actualizar](assets/refreshSchema.png)
 
 ## Sincronizar el objeto personalizado
 
-1. En el lado derecho, localice [!UICONTROL Plomo], [!UICONTROL Contacto]y [!UICONTROL Cuenta]objetos personalizados basados en el usuario.
+1. En el lado derecho, localice [!UICONTROL Plomo], [!UICONTROL Contacto], y [!UICONTROL Cuenta]objetos personalizados basados en el usuario.
 
    * **[!UICONTROL Habilitar sincronización]** para los objetos en Candidato si desea activar cuando se añade un Candidato a un acuerdo en Dynamics.
 
@@ -80,7 +81,7 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 1. Haga clic con el botón derecho en la carpeta creada y seleccione **[!UICONTROL Nuevo programa]** y ponle un nombre.
 
-   Deje todo lo demás como predeterminado y, a continuación, haga clic en **[!UICONTROL Crear]**.
+   Deje todo lo demás como predeterminado y haga clic en **[!UICONTROL Crear]**.
 
    ![Nuevo programa 1](assets/newProgram1.png)
 
@@ -88,9 +89,9 @@ Una vez completadas las configuraciones de Marketo Microsoft Dynamics Sync y Acr
 
 ## Configuración [!DNL Twilio] SMS
 
-Primero asegúrese de que tiene un [!DNL Twilio] y ha adquirido las funciones SMS que necesita.
+En primer lugar, asegúrese de que tiene un [!DNL Twilio] y ha adquirido las funciones de SMS que necesita.
 
-Configuración de Marketo: [!DNL Twilio] SMS webhook requiere tres [!DNL Twilio] de su cuenta.
+Configuración de Marketo: [!DNL Twilio] SMS webhook requiere tres [!DNL Twilio] parámetros de su cuenta.
 
 * SID de cuenta
 * Token de cuenta
@@ -114,7 +115,7 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Seleccionar **[!UICONTROL POST]** como tipo de solicitud.
+1. Seleccionar **[!UICONTROL POST]** como su tipo de solicitud.
 
 1. Introduzca lo siguiente **Plantilla** y asegúrese de reemplazar `MY_TWILIO_NUMBER` con su [!DNL Twilio] número de teléfono y `YOUR_MESSAGE` con un mensaje de su elección.
 
@@ -124,15 +125,15 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
 1. Establezca el **[!UICONTROL Codificación de token de solicitud]** para *Formulario/URL*.
 
-1. Establezca el Tipo de respuesta en *JSON* a continuación, haga clic en **[!UICONTROL Guardar]**.
+1. Establezca el Tipo de respuesta en *JSON* a continuación, haga clic **[!UICONTROL Guardar]**.
 
-## Configurar el activador inteligente de campañas
+## Configurar el activador inteligente de la campaña
 
 1. En la sección Actividades de marketing, haga clic con el botón derecho en el programa que ha creado y, a continuación, seleccione **[!UICONTROL Nueva campaña inteligente]**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Asígnele un nombre y, a continuación, haga clic en **[!UICONTROL Crear]**.
+1. Asígnele un nombre y haga clic en **[!UICONTROL Crear]**.
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
@@ -144,9 +145,9 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
 ## Configurar el flujo de campaña inteligente
 
-1. Haga clic en **[!UICONTROL Flujo]** en la pestaña [!UICONTROL Smart Campaign].
+1. Haga clic en **[!UICONTROL Flujo]** en la pestaña [!UICONTROL Campaña inteligente].
 
-   Busque y arrastre el **Llamar a webhook** en el lienzo y seleccione el webhook creado en la sección anterior.
+   Busque y arrastre el **Llamar a webhook** en el lienzo y seleccione el webhook que creó en la sección anterior.
 
    ![Llamar a webhook](assets/callWebhook.png)
 

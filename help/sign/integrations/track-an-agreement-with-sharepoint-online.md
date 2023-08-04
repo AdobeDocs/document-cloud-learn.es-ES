@@ -1,6 +1,7 @@
 ---
 title: Seguimiento en SharePoint Online
 description: Seguimiento del progreso de un acuerdo directamente desde Microsoft Sharepoint
+feature: Integrations
 role: User
 topic: Integrations
 level: Intermediate
@@ -8,7 +9,7 @@ jira: KT-6465
 topic-revisit: Integrations
 thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -23,4 +24,4 @@ Aprenda a realizar un seguimiento del progreso de un acuerdo directamente en Mic
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Uso De Acrobat Sign En Las Aplicaciones De Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Uso De Acrobat Sign Dentro De Las Aplicaciones De Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) que está disponible de forma gratuita en el Experience League!

@@ -1,12 +1,13 @@
 ---
 title: Reducir tamaño de archivo y optimizar
 description: Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar
+feature: Optimize PDF
 role: User
 level: Intermediate
-thumbnail: KT-6827.jpg
 jira: KT-6827
+thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

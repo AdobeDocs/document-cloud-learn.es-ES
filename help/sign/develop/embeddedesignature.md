@@ -1,6 +1,7 @@
 ---
 title: Crear firmas electrónicas incrustadas y experiencias con documentos
 description: Aprende a utilizar las API de Acrobat Sign para insertar firmas electrónicas y experiencias con documentos en tus plataformas web y sistemas de gestión de contenidos y documentos
+feature: Integrations, Workflow
 role: Developer
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -44,7 +45,7 @@ En la parte 2, explore la opción de usar o no usar código para usar formulario
 
 1. Accede a Acrobat Sign con tu cuenta de desarrollador.
 
-1. Seleccionar **Publicar un formulario web** en la página principal.
+1. Seleccionar **Publicar un formulario web** en la página de inicio.
 
    ![Captura de pantalla de la página principal de Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
@@ -78,7 +79,7 @@ Ahora que tiene acceso a la API y puede interactuar con ella, consulte lo que pu
 
    ![Captura de pantalla de navegación por los métodos de la API REST versión 6 de Acrobat Sign](assets/embeddedesignature/embed_5.png)
 
-1. Utilice el token como valor &quot;portador&quot;.
+1. Utilice el distintivo como valor &quot;al portador&quot;.
 
    ![Captura de pantalla del valor al portador](assets/embeddedesignature/embed_6.png)
 
@@ -117,7 +118,7 @@ El código es bastante sencillo; utiliza un documento de biblioteca (plantilla) 
 
 +++
 
-## Parte 4: Incrusta la experiencia de firma, las redirecciones y mucho más
+## Parte 4: Incorpora la experiencia de firma, las redirecciones y mucho más
 
 En muchos casos, es posible que desee permitir que el participante que realiza la activación firme inmediatamente un acuerdo. Esto resulta útil para aplicaciones y quioscos orientados al cliente.
 

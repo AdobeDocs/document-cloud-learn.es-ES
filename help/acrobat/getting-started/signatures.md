@@ -1,12 +1,13 @@
 ---
 title: Obtener firmas
 description: Mantén tu empresa en marcha recopilando firmas electrónicas legalmente vinculantes de otras personas, desde cualquier lugar
+feature: Sign
 role: User
 level: Beginner
-thumbnail: KT-8257.jpg
 jira: KT-8257
+thumbnail: KT-8257.jpg
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 7%
@@ -15,7 +16,7 @@ ht-degree: 7%
 
 # Obtener firmas
 
-Mantén tu empresa en marcha recopilando documentos legalmente vinculantes [firmas electrónicas](https://www.adobe.com/es/acrobat/online/request-signature.html){target="_blank"} de otros, de cualquier lugar.
+Mantén tu empresa en marcha recopilando documentos legalmente vinculantes [firmas electrónicas](https://www.adobe.com/es/acrobat/online/request-signature.html){target="_blank"} de otras personas, desde cualquier lugar.
 
 >[!IMPORTANT]
 >
@@ -25,4 +26,4 @@ Mantén tu empresa en marcha recopilando documentos legalmente vinculantes [firm
 
 >[!TIP]
 >
->Aprenda a [realizar un seguimiento de documentos](track.md) que se hayan enviado para su firma en una ubicación sencilla.
+>Obtenga información sobre cómo [realizar un seguimiento de documentos](track.md) que se hayan enviado para su firma en una ubicación sencilla.

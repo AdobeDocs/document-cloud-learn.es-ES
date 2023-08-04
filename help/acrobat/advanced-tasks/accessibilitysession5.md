@@ -1,12 +1,13 @@
 ---
-title: Agregar campos de formulario a un PDF etiquetado
+title: Adición de campos de formulario a un PDF etiquetado
 description: Esta sesión bajo demanda se centra en añadir campos de formulario a un PDF etiquetado anteriormente
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8612.jpg
 jira: KT-8612
+thumbnail: KT-8612.jpg
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%

@@ -1,12 +1,13 @@
 ---
-title: Introducción a Acrobat
+title: Introducción a la introducción de Acrobat
 description: Aprenda a usar Adobe Acrobat a través de estos breves tutoriales paso a paso (1-2 min)
+feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
-thumbnail: KT-6856.jpg
 jira: KT-6856
+thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%
@@ -17,14 +18,14 @@ ht-degree: 5%
 
 ![Imagen de introducción a Acrobat](../assets/Hero-GettingStarted.png)
 
-Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger o [editar los archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
+Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde la creación de un documento hasta la protección o [editar los archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
 
 ## Novedades
 
-* [Trabaja en cualquier parte con la web de Acrobat](acrobatweb.md)
+* [Trabaja en cualquier parte con Acrobat web](acrobatweb.md)
 Aprende a gestionar solicitudes de documentos empresariales desde cualquier lugar con las herramientas web de Acrobat en tu navegador
 * [Colabora en tiempo real](collaborate.md)
-Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar
+Lleva tus proyectos más allá recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar
 
 ## Tutoriales de introducción
 
@@ -52,10 +53,10 @@ Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y r
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Trabaja en cualquier parte con la web de Acrobat" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Trabaja en cualquier parte con Acrobat web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="acrobatweb.md"><strong>Trabaja en cualquier parte con la web de Acrobat</strong></a>
+    <a href="acrobatweb.md"><strong>Trabaja en cualquier parte con Acrobat web</strong></a>
     </div>
     <em>Aprende a gestionar solicitudes de documentos empresariales desde cualquier lugar con las herramientas web de Acrobat en tu navegador</em>
     <br>
@@ -79,7 +80,7 @@ Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y r
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabajar con Microsoft 365</strong></a>
       </div>
-      <em>Aumenta la productividad y los flujos de trabajo de documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
+      <em>Aumenta la productividad y los flujos de trabajo de los documentos empresariales con Acrobat y [!DNL Microsoft 365]</em>
       <br>
     </td>
     <td>
@@ -121,12 +122,12 @@ Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y r
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="Combine Files a PDF" src="../assets/Combine.jpg" />
+        <img alt="COMBINE FILES a PDF" src="../assets/Combine.jpg" />
       </a>
       <div>
       <a href="combine-to-pdf.md"><strong>Combinar archivos en PDF</strong></a>
       </div>
-      <em>Combine muchos tipos diferentes de archivos en un solo PDF</em>
+      <em>Combinar muchos tipos diferentes de archivos en un solo PDF</em>
       <br>
     </td>
     <td>
@@ -136,7 +137,7 @@ Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y r
       <div>
       <a href="organize.md"><strong>Organizar páginas</strong></a>
       </div>
-      <em>Añade, reemplaza, extrae, rota, elimina y reorganiza páginas en tu PDF</em>
+      <em>Añade, reemplaza, extrae, rota, elimina y reorganiza las páginas en tu PDF</em>
       <br>
     </td>
     <td>
@@ -205,7 +206,7 @@ Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y r
       <div>
       <a href="collaborate.md"><strong>Colabora en tiempo real</strong></a>
       </div>
-      <em>Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
+      <em>Lleva tus proyectos más allá recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
       <br>
     </td>
     <td>
@@ -289,10 +290,10 @@ Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y r
   </td>
   <td>
     <a href="track.md">
-      <img alt="Seguimiento de documentos" src="../assets/Track_1280.png" />
+      <img alt="Realizar un seguimiento de documentos" src="../assets/Track_1280.png" />
     </a>
     <div>
-    <a href="track.md"><strong>Seguimiento de documentos</strong></a>
+    <a href="track.md"><strong>Realizar un seguimiento de documentos</strong></a>
     </div>
     <em>Saber siempre qué archivos están esperando firmas y cuáles se han firmado</em>
     <br>

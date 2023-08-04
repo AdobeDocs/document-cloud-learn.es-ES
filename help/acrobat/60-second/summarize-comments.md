@@ -1,11 +1,12 @@
 ---
 title: Discutir comentarios del PDF con Resumir
 description: Aprenda a crear un resumen de todos los comentarios y marcas en el archivo de PDF
+feature: Collaboration
 role: User
 level: Intermediate
 jira: KT-13298
 exl-id: ae50f2c7-3636-4095-8a63-025382ebbe07
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

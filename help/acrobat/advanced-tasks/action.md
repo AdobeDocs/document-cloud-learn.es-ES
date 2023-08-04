@@ -1,12 +1,13 @@
 ---
 title: Action Wizard
 description: Ahorra tiempo y pulsaciones de teclas usando una acción para aplicar automáticamente un conjunto de comandos a uno o varios archivos
+feature: Action
 role: User
-level: Experienced
-thumbnail: KT-6803.jpg
+level: Intermediate
 jira: KT-6803
+thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%

@@ -1,11 +1,12 @@
 ---
 title: Rellenar y firmar cualquier formulario desde el escritorio o el móvil
 description: Rellenar, firmar y enviar formularios rápidamente desde el escritorio, navegador o aplicación móvil
+feature: Form, Sign, Mobile
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -30,13 +31,13 @@ Estas son las [archivos de demostración](assets/03_FillSignScan.zip) para este 
 
 ![Imagen del paso 2F](assets/Step2F.jpg)
 
-**Paso 4:** Utilice el botón blanco para hacer una foto y, a continuación, pulse **[!UICONTROL Usar fotografía]**. Pulse **[!UICONTROL Hecho]** en la esquina superior derecha.
+**Paso 4:** Utilice el botón blanco para hacer una foto y, a continuación, pulse **[!UICONTROL Usar fotografía]**. Toque **[!UICONTROL Hecho]** en la esquina superior derecha.
 
-**Paso 5:** En la parte inferior de la aplicación, toque el icono **[!UICONTROL Recortar]** y utilizar las guías para [recortar la imagen](https://www.adobe.com/acrobat/online/crop-pdf.html). Pulse **[!UICONTROL Hecho]** cuando haya terminado.
+**Paso 5:** En la parte inferior de la aplicación, toque el icono **[!UICONTROL Recortar]** y utilizar las guías para [recortar la imagen](https://www.adobe.com/acrobat/online/crop-pdf.html). Toque **[!UICONTROL Hecho]** cuando haya terminado.
 
 ![imagen de documento local](assets/localdoc.jpg)
 
-**Paso 6:** Utilice la herramienta Varita mágica para limpiar la imagen, si es necesario. Pulse **[!UICONTROL Hecho]** cuando haya terminado.
+**Paso 6:** Utilice la herramienta Varita mágica para limpiar la imagen, si es necesario. Toque **[!UICONTROL Hecho]** cuando haya terminado.
 
 **Paso 7:** Pulse cualquier parte de la página para crear un campo y añadir la información necesaria al documento. Seleccione la elipse para ver más opciones.
 
@@ -51,17 +52,17 @@ Estas son las [archivos de demostración](assets/03_FillSignScan.zip) para este 
 
 ![Imagen de firma](assets/sign.jpg)
 
-**Paso 10:** Toque el icono **[!UICONTROL Perfil]** en la parte inferior de la aplicación para obtener valores precargados como su nombre y fecha. Solo tienes que rellenar esta información una vez y luego puedes usarla en todos los formularios que completes en el futuro con la aplicación Fill &amp; Sign.
+**Paso 10:** Toque el icono **[!UICONTROL Perfil]** en la parte inferior de la aplicación para obtener valores precargados como su nombre y fecha. Solo tienes que rellenar esta información una vez y luego puedes usarla en todos los formularios que completes en el futuro con la aplicación de Fill &amp; Sign.
 
 ![lleno](assets/filled.jpg)
 
 ![pre pop](assets/prepop.jpg)
 
-**Paso 11:** Una vez completado el formulario, toque el botón Compartir en la esquina inferior derecha para enviar por correo electrónico.
+**Paso 1:** Una vez completado el formulario, toque el botón Compartir en la esquina inferior derecha para enviar por correo electrónico.
 
-## Resumen:
+## Recapitulación:
 
-* Abra un archivo desde un correo electrónico o haga una foto de un formulario en papel con la cámara del dispositivo.
+* Abra un archivo desde un correo electrónico o haga una foto de un formulario en papel con la cámara de su dispositivo.
 
 * Toque para introducir texto o marcas de verificación en los campos de formulario. Y, si quieres ir más rápido, utiliza entradas de autorrelleno personalizadas.
 

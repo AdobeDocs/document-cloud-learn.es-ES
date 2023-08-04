@@ -1,13 +1,13 @@
 ---
 title: Obtener un ID digital de [!DNL Intesi Group] (Cualificado)
 description: Obtenga información sobre cómo obtener un certificado de firma digital cualificado de [!DNL Intesi Group]
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8704
 thumbnail: KT-8704.jpg
-kt: 8704
 exl-id: aea17112-0a06-4ea6-8a44-9f4ba5eebc29
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%

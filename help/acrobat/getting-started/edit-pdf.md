@@ -1,12 +1,13 @@
 ---
 title: Editar un PDF
 description: Aprenda a editar texto e imágenes en archivos de PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: 35493.jpg
 jira: KT-5528
+thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 11%
@@ -15,7 +16,7 @@ ht-degree: 11%
 
 # Editar un PDF
 
-Aprenda a [editar texto e imágenes en archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}. Toque o haga clic para añadir un nuevo párrafo o corregir una errata. Incluso puedes añadir imágenes [o recortar una foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Obtenga información sobre cómo [edición de texto e imágenes en archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}. Toque o haga clic para añadir un nuevo párrafo o corregir una errata. Incluso puedes añadir imágenes [o recorta una foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
 
 >[!TIP]
 >

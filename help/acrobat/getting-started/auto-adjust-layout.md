@@ -1,12 +1,13 @@
 ---
 title: Ajustar diseño automáticamente
 description: Más información sobre el nuevo modo de edición que ajusta automáticamente el contenido
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-10835.jpg
 jira: KT-10835
+thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Ajustar diseño automáticamente
 
-Obtenga más información sobre el nuevo modo de edición que reajusta el contenido y ajusta automáticamente el diseño en las páginas de su PDF. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
+Obtenga más información sobre el nuevo modo de edición que reajusta el contenido y ajusta automáticamente el diseño en todas las páginas de su PDF. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
 
 >[!NOTE]
 >

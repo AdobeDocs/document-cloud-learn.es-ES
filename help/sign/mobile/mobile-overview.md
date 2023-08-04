@@ -1,13 +1,14 @@
 ---
 title: Descripción móvil
 description: Envía documentos para su firma, realiza un seguimiento del progreso de la firma electrónica y obtén actualizaciones en tiempo real en tu dispositivo móvil
+feature: Mobile
 role: User
 level: Intermediate
 jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 34%
@@ -16,7 +17,7 @@ ht-degree: 34%
 
 # Introducción a dispositivos móviles
 
-![Sign Mobile Image](../assets/Hero-Mobile.png)
+![Imagen de Sign Mobile](../assets/Hero-Mobile.png)
 
 Envía documentos para su firma, realiza un seguimiento del progreso de la firma electrónica y obtén actualizaciones en tiempo real en tu dispositivo móvil.
 

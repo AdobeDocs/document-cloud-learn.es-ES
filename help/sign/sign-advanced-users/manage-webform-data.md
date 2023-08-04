@@ -1,12 +1,13 @@
 ---
 title: Administrar datos de formulario web
 description: Aprenda a rastrear, administrar y exportar datos desde un formulario web
+feature: Web Forms
 role: User, Admin
 level: Intermediate
 jira: KT-10981
 thumbnail: KT-10981.jpg
 exl-id: e0e09718-1e4f-45d2-a0a4-43468ea4ed29
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Administración de datos de formulario web
 
-Aprenda a rastrear, administrar y exportar datos desde un [formulario web](webform.md). Este tutorial muestra un flujo de trabajo de formulario web participante adicional y cómo consolidar varias entradas de datos en un único archivo .csv para su visualización y análisis.
+Aprenda a realizar el seguimiento, administrar y exportar datos desde un [formulario web](webform.md). Este tutorial muestra un flujo de trabajo de formulario web participante adicional y cómo consolidar varias entradas de datos en un único archivo .csv para su visualización y análisis.
 
 >[!NOTE]
 >

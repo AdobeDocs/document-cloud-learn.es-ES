@@ -1,12 +1,13 @@
 ---
 title: Introducción a la introducción
 description: Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
@@ -17,7 +18,7 @@ ht-degree: 5%
 
 ![Imagen de introducción a Sign](../assets/Hero-GettingStarted.png)
 
-Obtén información actualizada sobre cómo enviar y firmar documentos, y realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, empieza a enviar un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
+Obtén información actualizada sobre cómo enviar y firmar documentos, así como realizar su seguimiento, con estos breves tutoriales paso a paso. Date una vuelta rápida por Acrobat Sign y, después, empieza a enviar un documento a una o más personas. Este contenido está diseñado para facilitarle los flujos de trabajo de firma electrónica.
 
 ## Novedades
 
@@ -79,15 +80,15 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
     <div>
     <a href="sending-options.md"><strong>Configurar opciones de envío</strong></a>
     </div>
-    <em>Aprenda a configurar varias opciones al enviar un documento para su firma</em>
+    <em>Obtenga información sobre cómo configurar varias opciones al enviar un documento para su firma</em>
     <br>
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Agregar campos a los documentos" src="../assets/AddingFields.png" />
+      <img alt="Adición de campos a los documentos" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="adding-fields.md"><strong>Agregar campos a los documentos</strong></a>
+    <a href="adding-fields.md"><strong>Adición de campos a los documentos</strong></a>
     </div>
     <em>Aprenda a agregar diferentes tipos de campos a los documentos</em>
     <br>
@@ -109,7 +110,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
     <div>
     <a href="replace-signer.md"><strong>Sustitución de un firmante</strong></a>
     </div>
-    <em>Aprenda a cambiar el firmante de un documento que ya está en curso</em>
+    <em>Obtenga información sobre cómo cambiar el firmante de un documento que ya está en curso</em>
      <br>
   </td>
 </tr>
@@ -190,10 +191,10 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="¿Qué es una firma digital?" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Qué es una firma digital" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
     <div>
-    <a href="sign-with-a-digital-signature.md"><strong>¿Qué es una firma digital?</strong></a>
+    <a href="sign-with-a-digital-signature.md"><strong>Qué es una firma digital</strong></a>
     </div>
     <em>Más información sobre las firmas digitales basadas en certificados</em>
     <br>

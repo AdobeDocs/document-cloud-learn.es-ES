@@ -1,11 +1,12 @@
 ---
 title: Compartir archivos de PDF y revisarlos en línea
 description: Aprenda algunos trucos y consejos para usar Adobe Document Cloud
+feature: Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 10%
@@ -47,7 +48,7 @@ Los revisores recibirán una invitación por correo electrónico con un vínculo
 
 **Paso 1:** Abra el `localFoodTruckmenu_start.pdf` en Adobe Acrobat.
 
-**Paso 2:** Haga clic en **[!UICONTROL Compartir Un Vínculo]** ![linkicon](assets/sendlinkicon.png). El vínculo compartido se genera instantáneamente; no tendrá que esperar a que el archivo se cargue en la nube. De forma predeterminada, el [!UICONTROL Permitir comentarios] está activado.
+**Paso 2:** Haga clic en **[!UICONTROL Compartir Un Vínculo]** ![linkicon](assets/sendlinkicon.png). El vínculo compartido se genera instantáneamente; no tendrá que esperar a que el archivo se cargue en la nube. De forma predeterminada, el [!UICONTROL Permitir comentarios] el interruptor está activado.
 
 ![Imagen del paso 2L](assets/Step2L.png)
 
@@ -55,7 +56,7 @@ Los revisores recibirán una invitación por correo electrónico con un vínculo
 
 ## Realizar comentarios
 
-**Paso 1:** Haga clic en **[!UICONTROL Comment]** en el panel derecho.
+**Paso 1:** Haga clic en **[!UICONTROL Comentario]** en el panel derecho.
 
 ![Haga clic en comentario](assets/Cselect.jpg)
 
@@ -85,14 +86,14 @@ InDesign CC 2019 le permite importar comentarios directamente desde archivos de 
 
 Los comentarios aparecen en la interfaz de usuario.
 
-## Resumen:
+## Recapitulación:
 
 Revisa y comparte versiones de diseño con Acrobat. Acrobat te permite:
 
 * Envía un enlace a un PDF para que otros lo revisen.
-* Revisa en cualquier parte: escritorio, navegador, móvil.
+* Revisa en cualquier parte: escritorio, navegador, dispositivo móvil.
 * Recopilar en un solo documento.
 * Gestiona los comentarios en un lugar organizado.
 * Todo lo que necesitas es un navegador.
 
-Es fácil enviar y realizar el seguimiento de comentarios, todo en un único lugar. Los destinatarios pueden ver el contenido aunque no tengan Acrobat. Puede invitar a alguien a que comente mediante un navegador. Ahorra tiempo y esfuerzo.
+Es fácil enviar y realizar el seguimiento de los comentarios, todo en un único lugar. Los destinatarios pueden ver el contenido aunque no tengan Acrobat. Puede invitar a alguien a que comente mediante un navegador. Ahorra tiempo y esfuerzo.

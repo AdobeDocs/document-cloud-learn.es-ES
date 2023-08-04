@@ -1,12 +1,13 @@
 ---
 title: Colabora en tiempo real
-description: Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar
+description: Lleva tus proyectos más allá recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar
+feature: Collaboration
 role: User
 level: Beginner
-thumbnail: KT-8255.jpg
 jira: KT-8255
+thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

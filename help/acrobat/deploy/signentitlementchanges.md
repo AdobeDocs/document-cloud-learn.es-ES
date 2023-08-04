@@ -1,12 +1,13 @@
 ---
 title: Actualizaciones importantes de productos de Acrobat DC para clientes ETLA
 description: Conozca los cambios importantes en los derechos de Acrobat DC incluidos en las ofertas de ETLA (Enterprise Term License Agreement) desde agosto de 2020 hasta el 20 de noviembre de 2020
+feature: Deploy
 role: Admin
 level: Intermediate
-thumbnail: KT-7269.jpg
 jira: KT-7269
+thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 6%
@@ -17,7 +18,7 @@ ht-degree: 6%
 
 [!DNL Adobe Sign Individual] (también conocido como Adobe Sign Pro) se retirará de todas las asignaciones de Acrobat DC incluidas en las ofertas de ETLA (Enterprise Term License Agreement) solo a partir de agosto de 2020 y continuará hasta el 20 de noviembre de 2020. [!DNL Adobe Sign Individual] no proporciona funciones de nivel empresarial y debe sustituirse por clientes de Adobe Sign Enterprise para empresas. Esto incluye Acrobat DC con licencia como aplicación independiente y Acrobat DC con licencia como parte de Creative Cloud para empresas - Todas las aplicaciones.
 
-Acceso a [!DNL Adobe Sign Individual] está disponible en Acrobat a través del **Adobe Sign** o la **Fill &amp; Sign** herramienta ([Solicitar firmas](https://www.adobe.com/es/acrobat/online/request-signature.html){target="_blank"}).
+Acceso a [!DNL Adobe Sign Individual] está disponible en Acrobat a través de la **Adobe Sign** o la **Fill &amp; Sign** herramienta ([Solicitar firmas](https://www.adobe.com/es/acrobat/online/request-signature.html){target="_blank"}).
 
 ![[!DNL Adobe Sign Individual] acceso en Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
@@ -29,9 +30,9 @@ Si no ha actualizado Acrobat DC a la versión más reciente, es posible que la h
 
 Antes de la versión de octubre de 2018, los usuarios de Acrobat DC podían enviar documentos para firmarlos electrónicamente mediante herramientas de Acrobat con la etiqueta &quot;Fill &amp; Sign&quot; (o &quot;Adobe Sign&quot; o &quot;Send for Signature&quot;), que se suministraban con [!DNL Adobe Sign Individual] derecho.
 
-Si bien disponer de esta opción ha proporcionado una excelente forma de capturar firmas electrónicas, estamos retirando el aprovisionamiento [!DNL Adobe Sign Individual] porque no proporciona la funcionalidad de nivel Enterprise que está disponible en Adobe Sign Enterprise, como:
+Si bien disponer de esta opción ha proporcionado una excelente forma de capturar firmas electrónicas, estamos retirando el aprovisionamiento [!DNL Adobe Sign Individual] porque no proporciona la funcionalidad de nivel Enterprise que está disponible a través de Adobe Sign Enterprise, como:
 
-* Capacidad de administrar de forma centralizada los usuarios que tienen permiso para enviar acuerdos o firmar
+* Capacidad de administrar de forma centralizada los usuarios que tienen permiso para enviar acuerdos o firmar.
 * Permitir a los administradores administrar acuerdos que se envían y utilizan en toda la organización
 * Ofrecer controles detallados para gestionar las firmas electrónicas en toda la organización
 
@@ -57,13 +58,13 @@ Los usuarios podrán seguir accediendo a cualquier acuerdo enviado antes de esta
 ## Experiencia de Acrobat DC sin [!DNL Sign Individual] derecho
 
 Los usuarios que tengan derechos de Adobe Sign Enterprise podrán enviar acuerdos dentro de Acrobat utilizando Adobe Sign o [!UICONTROL Fill &amp; Sign] (Solicitar firmas).
-Los usuarios que no tengan derechos de Adobe Sign Enterprise no podrán enviar nuevos acuerdos y recibirán un mensaje de error. El gráfico siguiente describe los posibles resultados.
+Los usuarios que no tengan derechos de Adobe Sign Enterprise no podrán enviar nuevos acuerdos y recibirán un mensaje de error. En el gráfico siguiente se describen los posibles resultados.
 
 ![Mensaje de error de Acrobat DC Experience](../assets/Deploy_SignEntitle2.png)
 
 ## Experiencia web de Adobe Document Cloud sin derechos de Sign Individual
 
-Los usuarios podrán iniciar sesión en https://documentcloud.adobe.com/ para acceder y descargar cualquier acuerdo que se haya enviado antes de retirar los derechos de Adobe Sign Individual.
+Los usuarios podrán iniciar sesión en https://documentcloud.adobe.com/ para acceder y descargar cualquier acuerdo que se haya enviado antes de desaprovisionar los derechos de Adobe Sign Individual.
 
 ![Mensaje de error de Document Cloud Web Experience](../assets/Deploy_SignEntitle3.png)
 
@@ -75,4 +76,4 @@ Los usuarios podrán iniciar sesión en https://documentcloud.adobe.com/ para ac
 * [Descripción general de [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
 * [Gestión de Adobe Sign en el [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html)
 
-**Revisiones** 20 de mayo de 2020; original post - agosto 2019
+**Revisiones** 20 de mayo de 2020; publicación original: agosto de 2019

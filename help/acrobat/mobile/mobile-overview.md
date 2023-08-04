@@ -1,13 +1,14 @@
 ---
 title: Descripción general de Acrobat Mobile
 description: Crea, rellena y firma PDF en tu dispositivo móvil
+feature: Mobile, Sign, Create PDF
 role: User
 level: Beginner, Intermediate
 topic-revisit: mobile
-thumbnail: KT-6863.jpg
 jira: KT-6863
+thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 ![Imagen móvil de Acrobat](../assets/Hero-Mobile.png)
 
-Crear, rellenar y [firmar PDF](https://www.adobe.com/es/acrobat/online/sign-pdf.html){target="_blank"}  en tu dispositivo móvil.
+Crea, rellena y [firmar PDF](https://www.adobe.com/es/acrobat/online/sign-pdf.html){target="_blank"}  en tu dispositivo móvil.
 
 ## Tutoriales de aplicaciones móviles de Acrobat Reader
 
@@ -86,12 +87,12 @@ Crear, rellenar y [firmar PDF](https://www.adobe.com/es/acrobat/online/sign-pdf.
 
 Descargar [Aplicación móvil de Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} el estándar gratuito global para ver, anotar y firmar PDF de forma fiable.
 
-[Guía de Acrobat Reader para móviles iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Guía de Acrobat Reader para dispositivos móviles iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
 [Guía de Acrobat Reader para dispositivos móviles Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
 Descargar [Aplicación móvil de Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} para capturar cualquier documento de papel y transformarlo en un PDF de alta calidad con texto se puede buscar.
 
-[Guía de Adobe Scan para móviles iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Guía de Adobe Scan para dispositivos móviles iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
 [Guía de Adobe Scan para dispositivos móviles Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
 Descargar [Aplicación móvil de Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} para rellenar, firmar y enviar cualquier formulario desde cualquier lugar, en cualquier dispositivo, usando solo un dedo o un puntero.

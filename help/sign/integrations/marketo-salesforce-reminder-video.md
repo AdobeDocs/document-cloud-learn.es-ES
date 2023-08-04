@@ -1,6 +1,7 @@
 ---
 title: Tutorial de vídeo para enviar recordatorios con Acrobat Sign para Salesforce y Marketo
-description: En este tutorial de vídeo, aprenderás a enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un periodo de tiempo
+description: Obtenga información sobre cómo enviar un recordatorio por correo electrónico desde Marketo cuando un acuerdo permanece sin firmar después de un período de tiempo
+feature: Integrations
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
@@ -10,10 +11,10 @@ jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 4%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +28,7 @@ Obtenga información sobre cómo enviar un recordatorio de correo electrónico d
 
    Dispone de información y del plugin más reciente para Salesforce Sync [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Instalación de Acrobat Sign para Salesforce.
+1. Instale Acrobat Sign para Salesforce.
 
    Información sobre este plugin está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 

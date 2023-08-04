@@ -1,19 +1,20 @@
 ---
 title: Descripción general de tareas avanzadas de Acrobat
 description: Ve más allá de lo básico con estas herramientas avanzadas de Acrobat
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
 
 ---
 
-# Introducción a tareas avanzadas
+# Introducción a las tareas avanzadas
 
 ![Imagen de introducción a Acrobat](../assets/Hero-AdvancedTasks.png)
 
@@ -22,7 +23,7 @@ Ve más allá de lo básico con estas herramientas avanzadas de Acrobat. Aprenda
 ## Novedades
 
 * [Optimize PDF para SEO (Search Engine Optimization)](optimizeseo.md)
-Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasificación de motores de búsqueda en la web
+Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasificación de los motores de búsqueda en la web
 
 ## Tutoriales de tareas avanzadas
 
@@ -30,10 +31,10 @@ Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasific
 <tr>
   <td>
     <a href="bookmarks.md">
-      <img alt="Añadir marcadores e hipervínculos" src="../assets/Bookmarks_1280.png" />
+      <img alt="Adición de marcadores e hipervínculos" src="../assets/Bookmarks_1280.png" />
     </a>
     <div>
-    <a href="bookmarks.md"><strong>Añadir marcadores e hipervínculos</strong></a>
+    <a href="bookmarks.md"><strong>Adición de marcadores e hipervínculos</strong></a>
     </div>
     <em>Aprenda a agregar marcadores e hipervínculos para una mejor navegación e interacción</em>
     <br>
@@ -45,7 +46,7 @@ Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasific
     <div>
     <a href="optimizescan.md"><strong>Optimizar documentos digitalizados</strong></a>
     </div>
-    <em>Aprenda a mejorar los documentos digitalizados para una mejor experiencia de visualización y búsqueda de PDF</em>
+    <em>Aprende a mejorar los documentos escaneados para una mejor experiencia de visualización y búsqueda de PDF</em>
     <br>
   </td>
   <td>

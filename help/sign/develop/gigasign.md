@@ -1,13 +1,14 @@
 ---
 title: Recopilación de documentos de gran volumen mediante GigaSign
 description: Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos para su firma a miles de personas al mismo tiempo
+feature: Workflow
 role: Developer
 level: Intermediate
 jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 5%
@@ -16,7 +17,7 @@ ht-degree: 5%
 
 # Recopilación de documentos de gran volumen mediante GigaSign
 
-Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos para su firma a miles de personas al mismo tiempo. Se ha diseñado para comunicaciones de gran volumen con sus empleados y clientes, y ofrece asistencia a hasta 2500 destinatarios con cada envío masivo. GigaSign utiliza la API de Acrobat Sign para proporcionar la misma funcionalidad que MegaSign e incluye compatibilidad con varios firmantes, grupos de destinatarios, funciones de destinatarios, nombres de acuerdos, copia de seguridad y mucho más.
+Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos para su firma a miles de personas al mismo tiempo. Se ha diseñado para comunicaciones de gran volumen con sus empleados y clientes, y ofrece asistencia a un máximo de 2500 destinatarios con cada envío masivo. GigaSign utiliza la API de Acrobat Sign para proporcionar la misma funcionalidad que MegaSign e incluye compatibilidad con varios firmantes, grupos de destinatarios, funciones de destinatarios, nombres de acuerdos, copia de seguridad y mucho más.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
