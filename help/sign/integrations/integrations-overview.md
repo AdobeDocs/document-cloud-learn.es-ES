@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya
 
 ## Novedades
 
+* [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
+Descubre cómo Acrobat Sign, [!DNL Power Automate], y [!DNL Microsoft Dynamics 365] de Field Service se utilizan para agilizar las interacciones in situ con los clientes
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
 Descubre cómo Acrobat Sign y [!DNL Microsoft Dynamics 365] para el servicio de atención al cliente se utilizan para mejorar la satisfacción del cliente en un portal web de cliente de autoservicio
 * [Integrar un formulario web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
@@ -132,8 +134,13 @@ Aprenda a asignar los datos recopilados de un formulario web a un [!DNL SharePoi
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    </div>
+    <em>Descubre cómo Acrobat Sign, [!DNL Power Automate], y [!DNL Microsoft Dynamics 365] de Field Service se utilizan para agilizar las interacciones in situ con los clientes</em>
     <br>
   </td>
   <td>
