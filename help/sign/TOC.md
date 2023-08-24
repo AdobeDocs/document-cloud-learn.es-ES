@@ -11,9 +11,9 @@ breadcrumb-title: Tutorials de Acrobat Sign
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '524'
 ht-degree: 10%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 10%
    + Tareas avanzadas {#advanced-tasks-admins}
       + [Configuración global](admin/learn-about-global-settings.md)
       + [Acceso a la cuenta compartida](admin/share-account-access.md)
-      + [Uso compartido avanzado de la cuenta](admin/advanced-account-sharing.md)
+      + [Uso compartido avanzado de cuentas](admin/advanced-account-sharing.md)
       + [Usar configuración de biofarmacéutica](admin/use-bio-pharma-settings.md)
       + [Etiquetado de texto de Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
 + ID digital {#digital-id}
@@ -108,6 +108,7 @@ ht-degree: 10%
       + [Automatización de documentos con Acrobat Sign para [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Enviar para firmar en [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
+      + [Microsoft Dynamics 365 for Field Service](integrations/dynamics-field-service.md)
    + Notarizar {#notarize}
       + [Enviar documentos para su notarización](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
