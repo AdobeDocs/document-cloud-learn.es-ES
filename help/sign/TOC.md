@@ -11,9 +11,9 @@ breadcrumb-title: Tutorials de Acrobat Sign
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
+source-git-commit: 4b689ca7c360fefff845be799e548b69748304c0
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '527'
 ht-degree: 10%
 
 ---
@@ -160,4 +160,5 @@ ht-degree: 10%
 + Móvil {#mobile}
    + [Información general](mobile/mobile-overview.md)
    + Tutoriales para móviles {#mobile-tutorials}
+      + [Firma documentos sobre la marcha](mobile/sign-mobile.md)
       + [Liquid Mode en Acrobat Sign](mobile/liquidmode.md)
