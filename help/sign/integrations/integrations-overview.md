@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya
 
 ## Novedades
 
+* [Crea un flujo de trabajo sencillo con [!DNL Power Automate]](simple-workflow-power-automate.md)
+Aprenda a crear un flujo de trabajo simple con [!DNL Power Automate] conectores
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Descubre cómo Acrobat Sign y [!DNL Microsoft Dynamics 365] de ventas se utilizan para automatizar el proceso de firma de presupuestos de ventas
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Descubre cómo Acrobat Sign, [!DNL Power Automate], y [!DNL Microsoft Dynamics 365] de Field Service se utilizan para agilizar las interacciones in situ con los clientes
-* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-Descubre cómo Acrobat Sign y [!DNL Microsoft Dynamics 365] para el servicio de atención al cliente se utilizan para mejorar la satisfacción del cliente en un portal web de cliente de autoservicio
-* [Integrar un formulario web con [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Aprenda a asignar los datos recopilados de un formulario web a un [!DNL SharePoint] lista
+
 
 ## Tutoriales de integraciones de Microsoft
 
@@ -126,6 +125,16 @@ Aprenda a asignar los datos recopilados de un formulario web a un [!DNL SharePoi
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Crea un flujo de trabajo sencillo con Power Automate" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Crea un flujo de trabajo sencillo con Power Automate</strong></a>
+    </div>
+    <em>Aprenda a crear un flujo de trabajo simple con [!DNL Power Automate] conectores</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ Aprenda a asignar los datos recopilados de un formulario web a un [!DNL SharePoi
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Descubre cómo Acrobat Sign y [!DNL Microsoft Dynamics 365] de ventas se utilizan para automatizar el proceso de firma de presupuestos de ventas</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
