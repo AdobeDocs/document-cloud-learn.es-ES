@@ -8,16 +8,14 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
 # Recetas de casos prácticos
-
-![Banner de caso de uso](../assets/Hero-Recipe.png)
 
 Acelera los flujos de trabajo digitales de tu organización con estos ejemplos de firmas electrónicas comerciales y de la administración pública. Haga clic aquí para ver un PDF con recursos y detalles sobre cómo configurar estos casos prácticos específicos de firma electrónica.
 
@@ -73,7 +71,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasegovcontracts.md"><strong>Contratos y formularios de solicitud</strong></a>
     </div>
-    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, y completa con informes de auditoría</em>
+    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con las normativas, y completa con informes de auditoría</em>
     <br>
   </td>
 </tr>
@@ -127,7 +125,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasecomcontracts.md"><strong>Contratos y formularios de solicitud</strong></a>
     </div>
-    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, y completa con informes de auditoría</em>
+    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con las normativas, y completa con informes de auditoría</em>
     <br>
   </td> 
   <td>

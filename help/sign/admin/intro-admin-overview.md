@@ -8,16 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # Introducción a Administradores
-
-![Imagen de administradores de Sign](../assets/Hero-Admin.png)
 
 Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar grupos, compartir acceso y configurar un flujo de trabajo, un archivo externo y eventos y alertas compartidos. Estos tutoriales están diseñados para administradores que han pasado la fase de instalación y están listos para comenzar a administrar Acrobat Sign. Las Tareas avanzadas cubren temas que se expanden más allá de la configuración del administrador y pasan a definir la configuración global, el acceso y uso compartido de la cuenta y el etiquetado de texto.
 
@@ -211,10 +209,10 @@ Aprenda a añadir y administrar usuarios para Acrobat Sign
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Uso compartido avanzado de la cuenta" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Uso compartido avanzado de cuentas" src="../assets/AdvancedSharing_1280.png" />
     </a>
     <div>
-    <a href="advanced-account-sharing.md"><strong>Uso compartido avanzado de la cuenta</strong></a>
+    <a href="advanced-account-sharing.md"><strong>Uso compartido avanzado de cuentas</strong></a>
     </div>
     <em>Configurar el uso compartido de cuentas para permitir a los administradores y usuarios delegar sus permisos de envío, modificación y visualización</em>
     <br>

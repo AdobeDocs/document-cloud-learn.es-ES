@@ -8,16 +8,14 @@ jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
 
 # Caso práctico
-
-![banner de caso de uso](../assets/UCSC_Rebrand.png)
 
 El caso práctico es una sesión retransmitida en directo en la que se presentan nuevos casos prácticos y tendencias de Acrobat Sign y se muestra cómo puede tu organización implementarlos y beneficiarse de ellos. Cada mes se resalta un nuevo tema.
 

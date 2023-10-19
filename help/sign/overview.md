@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 5%
 
 ---
 
 # Tutoriales de Acrobat Sign
-
-![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
 Acrobat Sign, una solución de Adobe Document Cloud, se escala para satisfacer las necesidades de tu organización con integraciones, API, autenticación avanzada, funciones de administración adicionales y mucho más. Aquí puede encontrar una amplia gama de experiencias de aprendizaje diseñadas para poner al día rápidamente a los principiantes y administradores en Acrobat Sign.
 

@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '536'
 ht-degree: 5%
 
 ---
 
 # Introducción a la introducción
-
-![Imagen de introducción a Acrobat](../assets/Hero-GettingStarted.png)
 
 Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde la creación de un documento hasta la protección o [editar los archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
 
@@ -127,7 +125,7 @@ Lleva tus proyectos más allá recopilando comentarios, colaborando en las respu
       <div>
       <a href="combine-to-pdf.md"><strong>Combinar archivos en PDF</strong></a>
       </div>
-      <em>Combinar muchos tipos diferentes de archivos en un solo PDF</em>
+      <em>Combine muchos tipos diferentes de archivos en un solo PDF</em>
       <br>
     </td>
     <td>

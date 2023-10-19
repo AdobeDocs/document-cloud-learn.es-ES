@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # Introducción a Acrobat de 60 segundos
-
-![Imagen de Acrobat de 60 segundos](../assets/Hero-60sec.png)
 
 La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para ayudarte a aprender un nuevo truco en Acrobat en un minuto o menos. Estas sugerencias basadas en tareas le ayudan a adquirir nuevas aptitudes para trabajar con archivos de PDF desbloqueando algunas de las gemas ocultas de Acrobat. Puedes ver uno para obtener una respuesta rápida o cinco para aumentar la productividad de tu documento, y todavía tener tiempo para disfrutar de tu descanso.
 

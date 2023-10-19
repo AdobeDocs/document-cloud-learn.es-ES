@@ -8,16 +8,14 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '165'
 ht-degree: 13%
 
 ---
 
 # Desarrollar información general
-
-![Firmar imagen de revelado](../assets/Hero-Develop.png)
 
 El 40 % de los acuerdos en Acrobat Sign se crean mediante API. Utiliza las API para crear aplicaciones personalizadas para tus equipos, partners y clientes.
 
