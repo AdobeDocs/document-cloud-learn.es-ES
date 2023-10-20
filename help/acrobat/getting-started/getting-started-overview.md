@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,10 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde la c
 
 ## Novedades
 
+* [Estilizar este PDF](stylize-this-PDF.md)
+Aprende a crear PDF de aspecto profesional con las herramientas de diseño integradas y fáciles de usar en Adobe Express
 * [Trabaja en cualquier parte con Acrobat web](acrobatweb.md)
 Aprende a gestionar solicitudes de documentos empresariales desde cualquier lugar con las herramientas web de Acrobat en tu navegador
-* [Colabora en tiempo real](collaborate.md)
-Lleva tus proyectos más allá recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar
 
 ## Tutoriales de introducción
 
@@ -166,6 +166,16 @@ Lleva tus proyectos más allá recopilando comentarios, colaborando en las respu
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Estilizar este PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Estilizar este PDF</strong></a>
+      </div>
+      <em>Más información sobre el nuevo modo de edición que ajusta automáticamente el contenido</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Ajustar diseño automáticamente" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Lleva tus proyectos más allá recopilando comentarios, colaborando en las respu
       <a href="export-pdf.md"><strong>Exportación de un PDF a formatos editables</strong></a>
       </div>
       <em>Aprenda a exportar archivos de PDF a formatos editables</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Separador" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
