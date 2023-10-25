@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5325
 thumbnail: 37841.jpg
 exl-id: d6297c78-40d5-4353-893c-9fd5648048c6,ed99edd5-f826-4ac6-8f32-6a4e6e48ddc6
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,16 @@ ht-degree: 0%
 
 Aprende a crear un documento que se pueda firmar electrónicamente directamente en tu sitio web. Puede crear un [hipervínculo alojado a su formulario](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*) o utilice el vínculo para incrustarlo en su sitio web en html o JavaScript.
 
-Echa un vistazo a estos casos prácticos adicionales del mundo real:
+[!BADGE Casos prácticos]
 
-* [Subvenciones y préstamos empresariales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) caso práctico.
-* [Asistencia para el reempleo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) caso práctico.
+* [Aplicación de prácticas de formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
+* [Crear una aplicación de prácticas de formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+Aprende a crear un formulario web de prácticas
+* [Solicitud de préstamo del gobierno con varios firmantes desconocidos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
+* [Subvenciones y préstamos empresariales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
+* [Asistencia para el reempleo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 

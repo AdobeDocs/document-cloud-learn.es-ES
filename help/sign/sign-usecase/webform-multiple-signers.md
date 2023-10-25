@@ -5,9 +5,10 @@ feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: c3da976d-df41-4632-ab9b-c3be3e4a7ffc
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -16,9 +17,13 @@ ht-degree: 0%
 
 Descubre cómo un [formulario web](../sign-advanced-users/webform.md) se utiliza para un flujo de trabajo complejo de solicitud de préstamos del gobierno que implica varios participantes desconocidos. Estos formularios se pueden incrustar en un sitio web o enviarse como un vínculo en un correo electrónico. También se pueden rellenar en cualquier dispositivo, en cualquier ubicación, lo que acelera los procesos y la entrega de servicios.
 
-Echa un vistazo a estos casos prácticos adicionales de formularios web del mundo real:
+[!BADGE Casos prácticos]
 
-* [Subvenciones y préstamos empresariales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) caso práctico.
-* [Asistencia para el reempleo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) caso práctico.
+* [Aplicación de prácticas de formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
+* [Crear una aplicación de prácticas de formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+Aprende a crear un formulario web de prácticas
+* [Subvenciones y préstamos empresariales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
+* [Asistencia para el reempleo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

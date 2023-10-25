@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 Aprende a adaptar y automatizar los flujos de trabajo de los documentos para obtener firmas electrónicas, recopilar datos de formularios y confirmar la entrega de un documento importante para optimizar la gestión de flujos de trabajo.
 
-Echa un vistazo a estos casos prácticos adicionales del mundo real:
+[!BADGE Casos prácticos]
 
-* [Forms de Contratos y Solicitudes de la Administración Pública](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) caso práctico.
-* [Forms de Contratos Comerciales y Solicitudes](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) caso práctico.
+* [Flujo de trabajo personalizado para el proceso IEP educativo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+Obtenga información sobre cómo se utiliza el Diseñador de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)
+* [Forms de Contratos y Solicitudes de la Administración Pública](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Forms de Contratos Comerciales y Solicitudes](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
