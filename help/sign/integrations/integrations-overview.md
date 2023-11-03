@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya
 
 ## Novedades
 
-* [Integración de la pestaña Documentos en [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [Integración de la pestaña Documentos para [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Aprenda a enviar documentos para su firma directamente desde la pestaña Documentos en [!DNL Microsoft Teams]
 * [Live Sign en Adobe Acrobat Sign para [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Aprende a crear una experiencia de firma online que se parezca a la firma en persona durante un [!DNL Microsoft Teams] reunión
@@ -133,10 +133,10 @@ Aprenda a crear un flujo de trabajo avanzado utilizando [!DNL Power Automate] co
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="Crea un flujo de trabajo sencillo con Power Automate" src="../assets/Documents-tab.png" />
+      <img alt="Integración de la pestaña Documentos para [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integración de la pestaña Documentos en [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integración de la pestaña Documentos para [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Aprenda a enviar documentos para su firma directamente desde la pestaña Documentos en [!DNL Microsoft Teams]</em>
     <br>
