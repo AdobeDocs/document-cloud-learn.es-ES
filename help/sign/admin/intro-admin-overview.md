@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 ## Novedades
 
+* [Enviar en bloque](../sign-advanced-users/megasign.md)
+Aprende a recopilar miles de firmas a la vez para cualquier documento en solo unos pasos
 * [Opciones de informe](report-options.md)
 Aprenda a configurar las opciones de informes para los usuarios
 * [Añadir usuarios](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Aprenda a añadir y administrar usuarios para Acrobat Sign
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Enviar y recopilar firmas en bloque" src="../assets/Megasign.png" />
+      <img alt="Enviar en bloque" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Enviar y recopilar firmas en bloque</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Enviar en bloque</strong></a>
     </div>
-    <em>Recopila cientos de firmas a la vez para cualquier documento</em>
+    <em>Recopila miles de firmas a la vez para cualquier documento</em>
     <br>
   </td>
 </tr>

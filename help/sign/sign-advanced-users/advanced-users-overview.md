@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
 
 ## Novedades
 
+* [Enviar en bloque](megasign.md)
+Aprende a recopilar miles de firmas a la vez para cualquier documento en solo unos pasos
 * [Métodos de autenticación en Acrobat Sign](authentication-methods.md)
 Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign para autenticar la identidad de alguien que firma un documento
-* [Configurar pagos en línea](set-up-online-payments.md)
-Conozca cómo configurar y aceptar pagos en línea en sus documentos
 
-## Envíar
+## Enviar
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Conozca cómo configurar y aceptar pagos en línea en sus documentos
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Enviar y recopilar firmas en bloque" src="../assets/Megasign.png" />
+        <img alt="Enviar en bloque" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Enviar y recopilar firmas en bloque</strong></a>
+      <a href="megasign.md"><strong>Enviar en bloque</strong></a>
       </div>
-      <em>Recopila cientos de firmas a la vez para cualquier documento en solo unos breves pasos</em>
+      <em>Recopila miles de firmas a la vez para cualquier documento en solo unos breves pasos</em>
       <br>
   </td>
  <td>
@@ -146,7 +146,7 @@ Conozca cómo configurar y aceptar pagos en línea en sus documentos
 </tr>
 </table>
 
-## Gestión
+## Gestionar
 
 <table style="table-layout:fixed">
 <tr>
