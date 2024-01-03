@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Descubre cómo puedes transformar las experiencias de firma electrónica de tu o
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Recetas de casos prácticos" src="../assets/Expand_RecipeR.png" />
+      <img alt="Casos prácticos" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Recetas de casos prácticos</strong></a>
+    <a href="recipes.md"><strong>Casos prácticos</strong></a>
     </div>
-    <em>Descarga los recursos que necesitas para implementar rápidamente varios flujos de trabajo de departamentos de firma electrónica por tu cuenta</em>
+    <em>Descubre cómo varias organizaciones utilizan Acrobat Sign con estos casos prácticos del mundo real</em>
     <br>
   </td>
   <td>

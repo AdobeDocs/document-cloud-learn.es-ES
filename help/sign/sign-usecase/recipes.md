@@ -1,5 +1,5 @@
 ---
-title: Recetas de casos prácticos
+title: Casos prácticos
 description: Acelera los flujos de trabajo digitales de tu organización con estos ejemplos de firmas electrónicas comerciales y de la administración pública
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# Recetas de casos prácticos
+# Casos prácticos
 
-Acelera los flujos de trabajo digitales de tu organización con estos ejemplos de firmas electrónicas comerciales y de la administración pública. Haga clic aquí para ver un PDF con recursos y detalles sobre cómo configurar estos casos prácticos específicos de firma electrónica.
+Descubre cómo varias organizaciones están utilizando Acrobat Sign para transformar los flujos de trabajo digitales de su organización con estos casos prácticos del mundo real.
 
 ## Novedades
 
