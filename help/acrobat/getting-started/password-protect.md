@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 11%
+source-wordcount: '84'
+ht-degree: 2%
 
 ---
 
@@ -22,10 +22,11 @@ Obtenga información sobre cómo [agregar una contraseña al PDF](https://www.ad
 >
 >Para proteger con contraseña varios archivos de PDF, pruebe a utilizar la [Action Wizard](../advanced-tasks/action.md).
 
-<br> 
+[!BADGE Impacto organizativo]
+Protección de la información, Gestión de riesgos
 
 >[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
