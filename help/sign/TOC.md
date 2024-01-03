@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 11%
 # Tutorials de Acrobat Sign {#sign-learning-hub}
 
 + [Información general](overview.md)
-+ Introducción {#getting-started}
++ Introducción a {#getting-started}
    + [Información general](sign-beginner-tutorials/beginner-users-overview.md)
    + Enviar {#getting-started-sending}
       + [Conceptos básicos del área de trabajo](sign-beginner-tutorials/quick-tour.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
       + [Administración de datos de formulario web](sign-advanced-users/manage-webform-data.md)
 + Administrar {#admin-set-up}
    + [Información general](admin/intro-admin-overview.md)
-   + Introducción {#getting-started-admin}
+   + Introducción a {#getting-started-admin}
       + [Primeros pasos para nuevos administradores](admin/get-started-admin.md)
       + [En marcha para administradores](admin/up-and-running-admin.md)
       + [Configurar notificaciones de eventos y alertas](admin/set-up-shared-events-and-alert.md)
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [Información general](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Seminarios web](sign-usecase/innovation-series.md)
-   + Recetas de casos prácticos {#recipes}
+   + Casos prácticos {#recipes}
       + [Información general](sign-usecase/recipes.md)
-      + Organismos públicos {#gov}
+      + Gobierno {#gov}
          + [Solicitud de préstamo del gobierno con varios firmantes desconocidos](sign-usecase/webform-multiple-signers.md)
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasegovtelework.md)
@@ -160,7 +160,7 @@ ht-degree: 11%
    + API personalizadas {#custom}
       + [Recopilación de documentos de gran volumen mediante GigaSign](develop/gigasign.md)
       + [Crea firmas electrónicas incrustadas y experiencias con documentos](develop/embeddedesignature.md)
-+ Implementación {#deploy}
++ Implementar {#deploy}
    + [Información general](deploy-overview.md)
 + Móvil {#mobile}
    + [Información general](mobile/mobile-overview.md)
