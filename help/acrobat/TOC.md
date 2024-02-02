@@ -5,10 +5,11 @@ breadcrumb-title: Tutorials de Acrobat
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +17,7 @@ ht-degree: 6%
 # Tutorials de Acrobat {#acrobat-learning}
 
 + [Información general](overview.md)
-+ Introducción {#getting-started}
++ Introducción a {#getting-started}
    + [Información general](getting-started/getting-started-overview.md)
    + [Conceptos básicos del área de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nueva experiencia de espacio de trabajo](getting-started/new-workspace.md)
@@ -107,7 +108,7 @@ ht-degree: 6%
    + [Trabajar con archivos de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Sectores y departamentos {#by-industry}
    + [Información general](industry/industry-overview.md)
-   + Organismos públicos {#gov}
+   + Gobierno {#gov}
       + [Información general](industry/gov/gov-overview.md)
       + Cinco consejos para trabajar con Acrobat desde cualquier parte {#tips}
          + [Cinco consejos para trabajar con Acrobat desde cualquier parte](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -124,7 +125,7 @@ ht-degree: 6%
          + [Hacer más accesibles las papeletas de los PDF](industry/gov/making-pdf-ballots-accessible.md)
 + Revelar {#develop}
    + [Información general](develop/develop-overview.md)
-+ Implementación {#deploy}
++ Implementar {#deploy}
    + [Información general](deploy/deploy-overview.md)
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
