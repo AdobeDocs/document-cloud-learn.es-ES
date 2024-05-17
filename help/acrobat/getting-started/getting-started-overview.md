@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 5%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Aprende a gestionar solicitudes de documentos empresariales desde cualquier luga
       <img alt="Conceptos básicos del área de trabajo" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del área de trabajo</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del espacio de trabajo</strong></a>
     </div>
     <em>Descubre cómo el espacio de trabajo de Acrobat facilita el acceso a archivos y herramientas en equipos de escritorio, la Web y dispositivos móviles</em>
     <br>
@@ -110,7 +110,7 @@ Aprende a gestionar solicitudes de documentos empresariales desde cualquier luga
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Creación de archivos PDF" src="../assets/Create.jpg" />
+        <img alt="Crear archivos de PDF" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Crear un PDF</strong></a>
@@ -143,7 +143,7 @@ Aprende a gestionar solicitudes de documentos empresariales desde cualquier luga
         <img alt="Adición de una página personalizada" src="../assets/Custompage.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>Adición de una página personalizada</strong></a>
+      <a href="add-custom-page.md"><strong>Añadir página personalizada</strong></a>
       </div>
       <em>Aprenda a añadir páginas personalizadas a su PDF mediante la aplicación de Adobe Express integrada</em>
       <br>
