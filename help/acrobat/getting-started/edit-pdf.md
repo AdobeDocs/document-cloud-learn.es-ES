@@ -1,22 +1,22 @@
 ---
-title: Editar un PDF
-description: Aprenda a editar texto e imágenes en archivos de PDF
+title: Edición de texto en un PDF
+description: Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 11%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
-# Editar un PDF
+# Edición de texto en un PDF
 
-Obtenga información sobre cómo [edición de texto e imágenes en archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}. Toque o haga clic para añadir un nuevo párrafo o corregir una errata. Incluso puedes añadir imágenes [o recorta una foto](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. Editar texto directamente en Acrobat le permite actualizar el contenido de forma precisa y profesional sin tener que cambiar de una aplicación a otra. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
 
 >[!TIP]
 >
