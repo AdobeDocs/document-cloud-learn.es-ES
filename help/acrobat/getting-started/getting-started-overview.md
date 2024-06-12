@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde la creación de un documento hasta la protección o [editar los archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarle los flujos de trabajo de PDF.
 
 ## Novedades
+
+* [Convertir PDF a diferentes formatos de archivo](export-pdf.md)
+Aprenda a convertir los archivos de PDF a diferentes formatos de archivo, como Microsoft Word, Excel o PowerPoint
 
 * [Edición de texto en un PDF](edit-pdf.md)
 Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
@@ -188,12 +191,12 @@ Aprenda a crear PDF a partir de todos los diferentes tipos de documentos
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Exportación de un PDF a formatos editables" src="../assets/Export.jpg" />
+        <img alt="Convertir PDF a diferentes formatos de archivo" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Exportación de un PDF a formatos editables</strong></a>
+      <a href="export-pdf.md"><strong>Convertir PDF a diferentes formatos de archivo</strong></a>
       </div>
-      <em>Aprenda a exportar archivos de PDF a formatos editables</em>
+      <em>Aprenda a convertir los archivos de PDF a diferentes formatos de archivo, como Microsoft Word, Excel o PowerPoint</em>
       <br>
     </td>
   </tr>

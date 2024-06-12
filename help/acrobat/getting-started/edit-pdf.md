@@ -1,5 +1,5 @@
 ---
-title: Edición de texto en un PDF
+title: Editar texto en un PDF
 description: Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
 feature: Edit PDF
 role: User
@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
