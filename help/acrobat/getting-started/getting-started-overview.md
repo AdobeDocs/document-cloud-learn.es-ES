@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
 
 ## Novedades
 
+* [Editar gráficos en un PDF](edit-graphics.md)
+Aprenda a crear, editar y mejorar gráficos en el PDF
 * [Nueva experiencia de área de trabajo](new-workspace.md)
 Obtenga más información sobre el nuevo espacio de trabajo de Acrobat que le ayuda a descubrir rápidamente las herramientas y a realizar las tareas de PDF de forma eficaz
 * [Descubre información de PDF con el Asistente de IA](ai-assistant.md)
 Aprende a obtener información de los archivos de PDF con el Asistente de IA
-* [Convertir PDF a diferentes formatos de archivo](export-pdf.md)
-Aprenda a convertir los archivos de PDF a diferentes formatos de archivo, como Microsoft Word, Excel o PowerPoint
-* [Editar texto en un PDF](edit-pdf.md)
-Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
 
 ## Tutoriales de introducción
 
@@ -112,6 +110,11 @@ Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Edición de gráficos en un PDF" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Estilizar este PDF" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
         <img alt="Ajustar diseño automáticamente" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Convertir PDF a diferentes formatos de archivo" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Tutoriales de colaboración
 
