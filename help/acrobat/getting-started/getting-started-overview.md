@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Colabora en tiempo real" src="../assets/Collaborate_1280.png" />
+        <img alt="Colabora en tiempo real" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>Colabora en tiempo real</strong></a>
-      </div>
-      <em>Impulsa tus proyectos recopilando comentarios, colaborando en las respuestas y realizando el seguimiento del progreso de tus documentos, todo ello en tiempo real y desde cualquier lugar</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Comentar en un PDF" src="../assets/Comment.jpg" />
+        <img alt="Comentar en un PDF" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Comentar en un PDF</strong></a>
-      </div>
-      <em>Agrega comentarios a un archivo de PDF y compártelo con otros</em>
-      <br>
     </td>
     <td>
     <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Crear formularios rellenables" src="../assets/Form_1280.png" />
+      <img alt="Crear formularios rellenables" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>Crear formularios rellenables</strong></a>
-    </div>
-    <em>Convertir un documento creado en otra aplicación en un formulario de PDF que se puede rellenar</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/FillSign_1280.png" />
+      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>PDF forms de Fill &amp; Sign</strong></a>
-    </div>
-    <em>Rellene y firme rápidamente un formulario de PDF</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Digitalización y OCR" src="../assets/Scan.jpg" />
+      <img alt="Digitalización y OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Digitalizar y OCR</strong></a>
-    </div>
-    <em>Reduce archivos grandes y optimiza a tus PDF sin comprometer la calidad para compartir, publicar o archivar</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect crea un archivo de PDF con una contraseña" src="../assets/Protect.jpg" />
+      <img alt="Protect crea un archivo de PDF con una contraseña" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect crea un archivo de PDF con una contraseña</strong></a>
-    </div>
-    <em>Agrega una contraseña a tu PDF para evitar que otros abran o editen el archivo</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Obtener firmas" src="../assets/Signatures_1280.png" />
+      <img alt="Obtener firmas" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>Obtener firmas</strong></a>
-    </div>
-    <em>Mantén tu empresa en marcha recopilando firmas electrónicas legalmente vinculantes de otras personas, desde cualquier lugar</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Realizar un seguimiento de documentos" src="../assets/Track_1280.png" />
+      <img alt="Realizar un seguimiento de documentos" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>Realizar un seguimiento de los documentos</strong></a>
-    </div>
-    <em>Saber siempre qué archivos están esperando firmas y cuáles se han firmado</em>
-    <br>
   </td>
   <td>
    <img alt="Separador" src="../assets/Grayspacer.png" />
