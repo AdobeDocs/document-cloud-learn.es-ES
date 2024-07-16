@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: f2edd10942327d5defff8f9ca3e8d2f7cc19f142
 workflow-type: tm+mt
-source-wordcount: '812'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -26,65 +26,35 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
    <td>
     <a href="edit.md">
-      <img alt="Editar PDF con Acrobat Web" src="../assets/60sec_Edit_1280.jpg" />
+      <img alt="Editar PDF con Acrobat Web" src="../assets/60-edit-web.png" />
     </a>
-    <div>
-    <a href="edit.md"><strong>Editar PDF con Acrobat Web</strong></a>
-    </div>
-    <em>Realice ediciones sencillas en texto e imágenes sin siquiera descargar el PDF</em>
-    <br>
   </td>
   <td>
     <a href="textrecognition.md">
-      <img alt="Reconocer texto en un archivo de PDF digitalizado" src="../assets/60sec_Textrecognition_1280.jpg" />
+      <img alt="Reconocer texto en un archivo de PDF digitalizado" src="../assets/60-ocr.png" />
     </a>
-    <div>
-     <a href="textrecognition.md"><strong>Reconocer texto en un archivo de PDF digitalizado</strong></a>
-    </div>
-    <em>Convertir un PDF digitalizado para que pueda buscar texto en el PDF</em>
-    <br>
   </td>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="Combinar archivos en un solo PDF" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="Combinar archivos en un solo PDF" src="../assets/60-combine.png" />
     </a>
-    <div>
-    <a href="combine-to-one-pdf.md"><strong>Combinar archivos en un solo PDF</strong></a>
-    </div>
-    <em>Crea rápidamente un nuevo documento combinando varios tipos diferentes de archivos en un único PDF</em>
-    <br>
   </td>
    <td>
     <a href="organize.md">
-      <img alt="Organiza páginas en un instante" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="Organiza páginas en un instante" src="../assets/60-organize.png" />
     </a>
-    <div>
-    <a href="organize.md"><strong>Organiza páginas en un instante</strong></a>
-    </div>
-    <em>Aprende a usar la herramienta Organizar páginas para obtener una vista panorámica de tu PDF</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="editphoto.md">
-      <img alt="Edición de una fotografía en el PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+      <img alt="Edición de una fotografía en el PDF" src="../assets/60-edit-photo.png" />
     </a>
-    <div>
-    <a href="editphoto.md"><strong>Edición de una fotografía en el PDF</strong></a>
-    </div>
-    <em>Aprenda a realizar ediciones avanzadas en una fotografía en el PDF con Photoshop</em>
-    <br>
   </td>
   <td>
     <a href="editgraphic.md">
-      <img alt="Edición de un gráfico en el PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+      <img alt="Edición de un gráfico en el PDF" src="../assets/60-edit-graphic.png" />
     </a>
-    <div>
-    <a href="editgraphic.md"><strong>Edición de un gráfico en el PDF</strong></a>
-    </div>
-    <em>Aprenda a realizar ediciones avanzadas en un gráfico en el PDF con Illustrator</em>
-    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Grayspacer.png" />
@@ -105,43 +75,23 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="convert-pdf-word.md">
-      <img alt="Convertir un PDF a Word" src="../assets/60sec_convertword.png" />
+      <img alt="Convertir un PDF a Word" src="../assets/60-convert-word.png" />
     </a>
-    <div>
-    <a href="convert-pdf-word.md"><strong>Convertir un PDF a Word</strong></a>
-    </div>
-    <em>Convertir un archivo de PDF en un documento de Microsoft Word totalmente editable</em>
-    <br>
   </td>
  <td>
     <a href="convert-pdf-excel.md">
-      <img alt="Convertir un PDF a Excel" src="../assets/60sec_convertexcel.png" />
+      <img alt="Convertir un PDF a Excel" src="../assets/60-convert-excel.png" />
     </a>
-    <div>
-    <a href="convert-pdf-excel.md"><strong>Convertir un PDF a Excel</strong></a>
-    </div>
-    <em>Convertir un archivo de PDF en un documento de Microsoft Excel totalmente editable</em>
-    <br>
   </td>
   <td>
     <a href="convert-pdf-powerpoint.md">
-      <img alt="Convertir un PDF a PowerPoint" src="../assets/60sec_convertppt.png" />
+      <img alt="Convertir un PDF a PowerPoint" src="../assets/60-convert-pptx.png" />
     </a>
-    <div>
-    <a href="convert-pdf-powerpoint.md"><strong>Convertir un PDF a PowerPoint</strong></a>
-    </div>
-    <em>Convertir un archivo de PDF en un documento de Microsoft PowerPoint totalmente editable</em>
-    <br>
   </td>
   <td>
     <a href="exportwordphone.md">
-      <img alt="Export PDF a Word desde el teléfono" src="../assets/60sec_Exportphone_1280.jpg" />
+      <img alt="Export PDF a Word desde el teléfono" src="../assets/60-export-word-phone.png" />
     </a>
-    <div>
-    <a href="exportwordphone.md"><strong>Export PDF a Word desde el teléfono</strong></a>
-    </div>
-    <em>Convertir un archivo de PDF en un documento de Microsoft Word totalmente editable con la aplicación móvil de Acrobat</em>
-    <br>
   </td>
 </tr>
 </table>
@@ -152,65 +102,34 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="word-to-pdf.md">
-      <img alt="Crear un PDF desde Microsoft Word" src="../assets/60sec_createfromword.png" />
+      <img alt="Crear un PDF desde Microsoft Word" src="../assets/60-create-word.png" />
     </a>
-    <div>
-     <a href="word-to-pdf.md"><strong>Crear un PDF desde Microsoft Word</strong></a>
-    </div>
-    <em>Crear un PDF desde Microsoft Word</em>
-    <br>
   </td>
   <td>
     <a href="create-from-acrobat.md">
-      <img alt="Crear PDF desde Acrobat" src="../assets/60sec_createfromacrobat.png" />
+      <img alt="Crear PDF desde Acrobat" src="../assets/60-create-acrobat.png" />
     </a>
-    <div>
-     <a href="create-from-acrobat.md"><strong>Crear PDF desde Acrobat</strong></a>
-    </div>
-    <em>Crea PDF a partir de archivos de Microsoft 365 directamente desde la aplicación de escritorio de Acrobat</em>
-    <br>
-  </td>
   <td>
     <a href="wordform.md">
-      <img alt="Convertir de Word a PDF, incluidos los campos de formulario" src="../assets/60sec_Wordform_1280.jpg" />
+      <img alt="Convertir de Word a PDF, incluidos los campos de formulario" src="../assets/60-convert-word-form.png" />
     </a>
-    <div>
-     <a href="wordform.md"><strong>Convertir de Word a PDF, incluidos los campos de formulario</strong></a>
-    </div>
-    <em>Convertir archivos y formularios de Word en PDF y generar automáticamente campos de formulario</em>
-    <br>
   </td>
   <td>
       <a href="photo.md">
-        <img alt="Crea un PDF de fotos en un instante" src="../assets/60sec_Photo_1280.jpg" />
+        <img alt="Crea un PDF de fotos en un instante" src="../assets/60-create-photos.png" />
       </a>
-      <div>
-      <a href="photo.md"><strong>Crea un PDF de fotos en un instante</strong></a>
-      </div>
-      <em>Aprende a arrastrar y soltar un grupo de JPG en el icono de Acrobat para crear un PDF</em>
-      <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="phone.md">
-      <img alt="Convertir un archivo PPT a PDF en el teléfono" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="Convertir un archivo PPT a PDF en el teléfono" src="../assets/60-ppt-phone.png" />
     </a>
-    <div>
-    <a href="phone.md"><strong>Convertir un archivo PPT a PDF en el teléfono</strong></a>
-    </div>
-    <em>Aprenda a convertir un archivo adjunto de PowerPoint de correo electrónico a PDF en su teléfono</em>
-    <br>
   </td>
   <td>
       <a href="optimize.md">
-        <img alt="Crea archivos de PDF más eficaces en un instante" src="../assets/60sec_Optimize_1280.jpg" />
+        <img alt="Crea archivos de PDF más eficaces en un instante" src="../assets/60-efficient.png" />
       </a>
-      <div>
-      <a href="optimize.md"><strong>Crea archivos de PDF más eficaces en un instante</strong></a>
-      </div>
-      <em>Utilice la herramienta Optimize PDF para reducir significativamente el tamaño de los archivos de PDF</em>
-      <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Grayspacer.png" />
@@ -231,13 +150,8 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="sign.md">
-      <img alt="Firmar electrónicamente un documento en papel" src="../assets/60sec_Sign_1280.jpg" />
+      <img alt="Firmar electrónicamente un documento en papel" src="../assets/60-electronically-sign.png" />
     </a>
-    <div>
-    <a href="sign.md"><strong>Firmar electrónicamente un documento en papel</strong></a>
-    </div>
-    <em>Aprenda a utilizar Adobe Scan para firmar un formulario impreso</em>
-    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -263,23 +177,13 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="protect.md">
-      <img alt="Protect almacena los archivos de PDF con una contraseña" src="../assets/60sec_Protect_1280.jpg" />
+      <img alt="Protect almacena los archivos de PDF con una contraseña" src="../assets/60-protect.png" />
     </a>
-    <div>
-    <a href="protect.md"><strong>Protect almacena los archivos de PDF con una contraseña</strong></a>
-    </div>
-    <em>Protect un PDF para que se requiera una contraseña para abrir o editar el PDF</em>
-    <br>
   </td>
   <td>
     <a href="redaction.md">
-      <img alt="Censura: la forma correcta" src="../assets/60sec_redaction.png" />
+      <img alt="Censura: la forma correcta" src="../assets/60-redaction.png" />
     </a>
-    <div>
-    <a href="redaction.md"><strong>Censura: la forma correcta</strong></a>
-    </div>
-    <em>Aprende la forma correcta de eliminar información confidencial de un PDF</em>
-    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -300,43 +204,23 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="share-comment.md">
-      <img alt="Compartir un PDF para recibir comentarios" src="../assets/60sec_sharecomment.png" />
+      <img alt="Compartir un PDF para recibir comentarios" src="../assets/60-share.png" />
     </a>
-    <div>
-    <a href="share-comment.md"><strong>Compartir un PDF para recibir comentarios</strong></a>
-    </div>
-    <em>Aprende a compartir un PDF para recopilar rápidamente comentarios de varias personas en un solo archivo</em>
-    <br>
   </td>
   <td>
     <a href="share-comment-teams.md">
-      <img alt="Compartir y comentar archivos de PDF en Teams" src="../assets/60sec_shareteams.png" />
+      <img alt="Compartir y comentar archivos de PDF en Teams" src="../assets/60-teams.png" />
     </a>
-    <div>
-    <a href="share-comment-teams.md"><strong>Compartir y comentar archivos de PDF en Teams</strong></a>
-    </div>
-    <em>Aprenda a colaborar en tiempo real en un archivo de PDF en Microsoft Teams</em>
-    <br>
   </td>
   <td>
     <a href="summarize-comments.md">
-      <img alt="Discutir comentarios del PDF con Resumir" src="../assets/60sec_summarize.png" />
+      <img alt="Discutir comentarios del PDF con Resumir" src="../assets/60-summarize.png" />
     </a>
-    <div>
-    <a href="summarize-comments.md"><strong>Discutir comentarios del PDF con Resumir</strong></a>
-    </div>
-    <em>Aprenda a crear un resumen de todos los comentarios y marcas en el archivo de PDF</em>
-    <br>
   </td>
    <td>
     <a href="indesign.md">
-      <img alt="Cargar comentarios del PDF en InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="Cargar comentarios del PDF en InDesign" src="../assets/60-indesign.png" />
     </a>
-    <div>
-    <a href="indesign.md"><strong>Cargar comentarios del PDF en InDesign</strong></a>
-    </div>
-    <em>Obtenga información sobre cómo cargar los comentarios del PDF en InDesign después de compartir una revisión de Acrobat</em>
-    <br>
   </td>
 </tr>
 </table>
@@ -347,23 +231,13 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="accessible.md">
-      <img alt="Deja que Acrobat te ayude a convertir en PDF accesibles" src="../assets/60sec_Accessible_1280.jpg" />
+      <img alt="Deja que Acrobat te ayude a convertir en PDF accesibles" src="../assets/60-accessible.png" />
     </a>
-    <div>
-    <a href="accessible.md"><strong>Deja que Acrobat te ayude a convertir en PDF accesibles</strong></a>
-    </div>
-    <em>Comprobar si se puede acceder a un PDF</em>
-    <br>
   </td>
  <td>
     <a href="conform.md">
-      <img alt="Conformar un PDF a un formato estándar" src="../assets/60sec_standard.png" />
+      <img alt="Conformar un PDF a un formato estándar" src="../assets/60-conform.png" />
     </a>
-    <div>
-    <a href="conform.md"><strong>Conformar un PDF a un formato estándar</strong></a>
-    </div>
-    <em>Obtenga información sobre cómo validar el contenido del PDF según criterios estándar del PDF, como PDF/X, PDF/A o PDF/E</em>
-    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -384,23 +258,13 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Encuentra las diferencias con PDF Compare" src="../assets/60sec_compare.png" />
+      <img alt="Encuentra las diferencias con PDF Compare" src="../assets/60-compare.png" />
     </a>
-    <div>
-     <a href="compare.md"><strong>Encuentra las diferencias con PDF Compare</strong></a>
-    </div>
-    <em>Aprenda a detectar las diferencias entre dos archivos de PDF mediante la herramienta Comparar archivos de Acrobat</em>
-    <br>
   </td>
  <td>
     <a href="search.md">
-      <img alt="Buscar varios archivos de PDF a la vez" src="../assets/60sec_Search_1280.jpg" />
+      <img alt="Buscar varios archivos de PDF a la vez" src="../assets/60-search.png" />
     </a>
-    <div>
-     <a href="search.md"><strong>Buscar varios archivos de PDF a la vez</strong></a>
-    </div>
-    <em>Inicie una búsqueda en un archivo de PDF y, a continuación, abra Búsqueda avanzada y busque en toda una carpeta de archivos de PDF</em>
-    <br>
   </td>
   <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
