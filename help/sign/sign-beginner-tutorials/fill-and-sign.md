@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Rellenar y firmar un documento
 
-Aprenda a rellenar formularios **Y** añade tu firma electrónica a los documentos.
+Aprende a rellenar formularios **Y** para agregar tu firma electrónica a los documentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

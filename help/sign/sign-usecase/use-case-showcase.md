@@ -10,7 +10,7 @@ kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,16 @@ A continuación se muestran grabaciones o vínculos de registro para las última
 
 ## Sesiones de 2021
 
-* **[El camino de AbbVie hacia la transformación digital](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
-Fecha: 4 de agosto de 2021 La estrategia de AbbVie es ofrecer medicamentos innovadores y tener un impacto notable en la vida de las personas. Para aumentar la agilidad y liberar a los empleados para que se centren en un trabajo más complejo, la empresa está trabajando para automatizar algunos de sus procesos empresariales, y la transición para dejar de usar el lápiz y el papel es un primer paso crucial. Únete a nosotros en una conversación con AbbVie para conocer sus objetivos, estrategia y procesos para lograr el éxito de la transformación digital.
+* Ruta de **[AbbView a la transformación digital](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target="_blank"}**
+Fecha: 4 de agosto de 2021
+La estrategia de AbbVie es ofrecer medicamentos innovadores y tener un impacto notable en la vida de las personas. Para aumentar la agilidad y liberar a los empleados para que se centren en un trabajo más complejo, la empresa está trabajando para automatizar algunos de sus procesos empresariales, y la transición para dejar de usar el lápiz y el papel es un primer paso crucial. Únete a nosotros en una conversación con AbbVie para conocer sus objetivos, estrategia y procesos para lograr el éxito de la transformación digital.
 
-* **[Con grabación bajo demanda de Volvo Cars](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
+* **[Grabación a petición de Volvo Cars](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target="_blank"}**
 ¿Cómo es el futuro de las compras de coches? Para el fabricante sueco de automóviles Volvo Cars, están haciendo cambios en su modelo de negocio que influirán en las expectativas de los clientes para la próxima generación de compradores de automóviles. Un aspecto central de su proceso es la capacidad de proporcionar una experiencia del cliente de máxima calidad para que coincida con sus ofertas premium.
 
 Únete a nosotros en una conversación entre bastidores con Volvo Cars, para discutir cómo han tomado las grandes ideas y cómo las han convertido en realidades, y cómo otras empresas pueden aprender de sus experiencias de transformación.
 
-* **[Cinco formas en las que las agencias gubernamentales transformarán la grabación bajo demanda en 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target="_blank"}**
+* **[5 formas en las que las agencias gubernamentales se transformarán en la grabación bajo demanda en 2021](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target="_blank"}**
 ¿Cómo puede Acrobat Sign ayudar a las agencias gubernamentales a servir mejor a sus electores? Tanto los ciudadanos como los empleados esperan ahora experiencias online más atractivas. Además, para digitalizarlos, los procesos de la administración pública deben cumplir estrictos requisitos de seguridad, privacidad y cumplimiento normativo. Cuando se desencadenó la pandemia, los organismos públicos tuvieron que intensificar sus esfuerzos de transformación digital para seguir satisfaciendo las necesidades de sus electores y mantener la continuidad operativa.
 
 Únete a nosotros en el caso práctico de Acrobat Sign para saber lo que dicen algunos expertos de la administración pública sobre los desafíos a los que se han enfrentado los organismos federales, estatales y locales, y cómo siguen innovando para mantener la administración pública en funcionamiento.
@@ -50,23 +51,23 @@ Enfoque: Los expertos en Adobe destacan las mejores prácticas para una transfor
 * **[Adquisiciones y logística](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target="_blank"}**
 Enfoque: Cómo trabaja Acrobat Sign en adquisiciones y logística.
 
-* **[Aplicaciones de HR](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
+* **[Aplicaciones HR](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
 Enfoque: Funcionamiento de Acrobat Sign en diversas aplicaciones de RR. HH.
 
-* **[Administración estatal y local](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
+* **[Administración Estatal y Local](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target="_blank"}**
 Enfoque: Funcionamiento de Acrobat Sign en la administración pública estatal y local
 
 * **[Educación](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target="_blank"}**
 Enfoque: cómo funciona Acrobat Sign para el sector educativo.
 
-* **[Ciencias de la vida](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target="_blank"}**
+* **[Ciencia de la Vida](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target="_blank"}**
 Enfoque: Cómo funciona Acrobat Sign para las ciencias biológicas.
 
-* **[Atención de salud](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target="_blank"}**
+* **[Atención médica](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target="_blank"}**
 Enfoque: cómo funciona Acrobat Sign en el sector sanitario. Los temas incluyen: el creciente uso de la telesalud y la transformación digital, la infraestructura y la escala.
 
 * **[Servicios financieros](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target="_blank"}**
 Enfoque: Cómo funciona Acrobat Sign para la banca. Los temas incluyen: tendencias del sector en 2020 y más allá, documentos y procesos digitales como parte de una transformación digital más amplia, prácticas recomendadas, casos prácticos y las ventajas de Acrobat Sign.
 
-* **[Seguros](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target="_blank"}**
+* **[Seguro](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target="_blank"}**
 Enfoque: Cómo funciona Acrobat Sign para los servicios financieros y los seguros. Los temas incluyen: tendencias del sector, cumplimiento y requisitos regulatorios en el sector financiero, y ofrecer una excelente experiencia de usuario.

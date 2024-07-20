@@ -22,4 +22,4 @@ Aprende a recopilar de forma eficaz las firmas de todos tus empleados en acuerdo
 
 Selecciona descargar o abrir una receta de PDF paso a paso para los acuerdos de teletrabajo.
 
-[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

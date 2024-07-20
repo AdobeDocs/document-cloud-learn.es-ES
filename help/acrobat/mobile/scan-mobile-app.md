@@ -20,6 +20,6 @@ Aprende a convertir cualquier documento en papel en un PDF con la aplicaci처n m�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
 
-![c처digo QR](../assets/Scanqrcode.jpg)
+![C처digo QR](../assets/Scanqrcode.jpg)
 
 Escanee el c처digo QR para obtener la aplicaci처n.

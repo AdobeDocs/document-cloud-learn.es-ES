@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Configuración del pedido de firma" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Configuración del pedido de firma</strong></a>
+    <a href="setting-up-routing.md"><strong>Configurando orden de firma</strong></a>
     </div>
     <em>Configurar el orden de firma para varios firmantes</em>
     <br>
@@ -44,9 +44,9 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Delegar en otra persona" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Uso de la función del delegador</strong></a>
+    <a href="delegate-signature.md"><strong>Uso del rol de delegador</strong></a>
     </div>
-    <em>Utilice la función de delegador para enviar un documento a un intermediario que pueda enviar el documento para su firma</em>
+    <em>Use la función de delegador para enviar un documento a un intermediario que pueda enviar el documento para su firma</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Uso de la función de aprobador" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Uso de la función de aprobador</strong></a>
+    <a href="add-an-approver.md"><strong>Usar el rol de aprobador</strong></a>
     </div>
-    <em>Añadir una función de aprobador al proceso de aprobación del contrato</em>
+    <em>Agregar una función de aprobador al proceso de aprobación del contrato</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
     <div>
     <a href="authentication-methods.md"><strong>Métodos de autenticación en Acrobat Sign</strong></a>
     </div>
-    <em>Obtenga más información sobre la gama de métodos de autenticación de la identidad disponibles en Acrobat Sign</em>
+    <em>Obtener información sobre el intervalo de métodos de autenticación de la identidad disponibles en Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <div>
       <a href="manage-form-data.md"><strong>Administrar datos de formulario</strong></a>
       </div>
-      <em>Aprenda a consolidar datos de formulario de sus documentos</em>
+      <em>Aprende a consolidar datos de formulario de tus documentos</em>
       <br>
     </td>
   <td>
@@ -86,9 +86,9 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Configuración de pagos en línea" src="../assets/Payments.png" />
     </a>
     <div>
-    <a href="set-up-online-payments.md"><strong>Configuración de pagos en línea</strong></a>
+    <a href="set-up-online-payments.md"><strong>Configurar pagos en línea</strong></a>
     </div>
-    <em>Conozca cómo configurar y aceptar pagos en línea en sus documentos</em>
+    <em>Descubre cómo configurar y aceptar pagos en línea en tus documentos</em>
     <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <div>
       <a href="megasign.md"><strong>Enviar en bloque</strong></a>
       </div>
-      <em>Recopila cientos de firmas a la vez para cualquier documento en solo unos breves pasos</em>
+      <em>Recopila cientos de firmas a la vez para cualquier documento en solo unos pasos</em>
       <br>
   </td>
  <td>
@@ -106,7 +106,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
         <img alt="Creación de un formulario web" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="webform.md"><strong>Creación de un formulario web</strong></a>
+      <a href="webform.md"><strong>Creando un formulario web</strong></a>
       </div>
       <em>Aprende a crear un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
       <br>
@@ -120,7 +120,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
       </div>
-      <em>Creación de campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
+      <em>Crear campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -130,7 +130,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
     <div>
     <a href="text-tagging-word.md"><strong>Uso del etiquetado de texto en [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Aprenda a crear una plantilla de documento reutilizable añadiendo etiquetas de texto de Acrobat Sign en [!DNL Microsoft Word]</em>
+    <em>Aprende a crear una plantilla de documento reutilizable agregando etiquetas de texto de Acrobat Sign en [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
@@ -146,7 +146,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
 </tr>
 </table>
 
-## Gestionar
+## Administrar
 
 <table style="table-layout:fixed">
 <tr>
@@ -155,9 +155,9 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Creación de un informe" src="../assets/Report.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creación de un informe</strong></a>
+    <a href="creating-a-report.md"><strong>Creando un informe</strong></a>
     </div>
-    <em>Aprende a crear tus propios informes para ganar visibilidad en el proceso de firma de documentos</em>
+    <em>Aprende a crear tus propios informes para obtener visibilidad del proceso de firma de documentos</em>
     <br>
   </td>
   <td>
@@ -165,9 +165,9 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Administrar plantillas de documento" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>Administrar plantillas de documento</strong></a>
+    <a href="edit-a-template.md"><strong>Administrar plantillas de documentos</strong></a>
     </div>
-    <em>Edición o eliminación de una plantilla de la biblioteca</em>
+    <em>Editar o eliminar una plantilla de tu biblioteca</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
     <div>
     <a href="modify-webform.md"><strong>Modificar un formulario web existente</strong></a>
     </div>
-    <em>Aprenda a deshabilitar, editar y volver a habilitar un formulario web existente</em>
+    <em>Obtenga información sobre cómo deshabilitar, editar y volver a habilitar un formulario web existente</em>
     <br>
   </td>  
   <td>
@@ -185,9 +185,9 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
       <img alt="Administración de datos de formulario web" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="manage-webform-data.md"><strong>Administración de datos de formulario web</strong></a>
+    <a href="manage-webform-data.md"><strong>Administrar datos de formulario web</strong></a>
     </div>
-    <em>Aprenda a rastrear, administrar y exportar datos desde un formulario web</em>
+    <em>Aprende a administrar y exportar datos de un formulario web, así como a realizar su seguimiento</em>
     <br>
   </td>  
 </tr>

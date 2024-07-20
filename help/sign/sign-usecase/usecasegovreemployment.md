@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Asistencia para el reempleo
 
-Ayuda a los ciudadanos a obtener la ayuda que necesitan sin alinearse con los formularios de solicitud completamente digitales que pueden activarse en cuestión de días. Aprenda a crear un formulario web en línea que se pueda rellenar **y** firmado sin imprimir ni enviar nada por correo.
+Ayuda a los ciudadanos a obtener la ayuda que necesitan sin alinearse con los formularios de solicitud completamente digitales que pueden activarse en cuestión de días. Aprende a crear un formulario web en línea que se pueda completar **y** y firmar sin imprimir ni enviar nada por correo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
 Seleccione para descargar o abrir una receta paso a paso del PDF para la asistencia de reempleo.
 
-[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
+[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

@@ -10,7 +10,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -36,7 +36,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
     <div>
     <a href="quick-tour.md"><strong>Conceptos básicos del área de trabajo</strong></a>
     </div>
-    <em>Date una vuelta rápida por el espacio de trabajo de Acrobat Sign para empezar a trabajar</em>
+    <em>Date una vuelta rápida por el área de trabajo de Acrobat Sign para empezar a trabajar</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Enviar a un único destinatario" src="../assets/Send-to-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Enviar a un único destinatario</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Enviando a un solo destinatario</strong></a>
     </div>
     <em>Entra y descubre lo fácil que es enviar un documento para que se firme</em>
     <br>
@@ -64,7 +64,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Enviar a varios destinatarios" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Enviar a varios destinatarios</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Enviando a varios destinatarios</strong></a>
     </div>
     <em>Envía un documento para su firma electrónica a más de una persona exactamente en el orden que desees</em>
     <br>
@@ -86,9 +86,9 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Adición de campos a los documentos" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="adding-fields.md"><strong>Adición de campos a los documentos</strong></a>
+    <a href="adding-fields.md"><strong>Agregando campos a tus documentos</strong></a>
     </div>
-    <em>Aprenda a agregar diferentes tipos de campos a los documentos</em>
+    <em>Aprende a agregar diferentes tipos de campos a tus documentos</em>
     <br>
   </td>
   <td>
@@ -96,7 +96,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Modificación de un documento después de enviarlo" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modificación de un documento después de enviarlo</strong></a>
+    <a href="modify-in-flight.md"><strong>Modificando un documento después de enviarlo</strong></a>
     </div>
     <em>Modificar un documento que ya está en curso</em>
     <br>
@@ -106,9 +106,9 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Sustitución de un firmante" src="../assets/replace-signer.png" />
     </a>
     <div>
-    <a href="replace-signer.md"><strong>Sustitución de un firmante</strong></a>
+    <a href="replace-signer.md"><strong>Reemplazar un firmante</strong></a>
     </div>
-    <em>Obtenga información sobre cómo cambiar el firmante de un documento que ya está en curso</em>
+    <em>Obtener información sobre cómo cambiar el firmante de un documento que ya está en curso</em>
      <br>
   </td>
 </tr>
@@ -118,9 +118,9 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
         <img alt="Establecer fecha de caducidad y recordatorios" src="../assets/Reminders.png" />
       </a>
       <div>
-      <a href="set-deadlines-reminders.md"><strong>Establecer fecha de caducidad y recordatorios</strong></a>
+      <a href="set-deadlines-reminders.md"><strong>Establecer fechas límite y recordatorios</strong></a>
       </div>
-      <em>Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente</em>
+      <em>Aprende a enviar recordatorios y fechas límite regulares por correo electrónico para ayudarte a conseguir que tus documentos se firmen rápidamente</em>
       <br>
     </td> 
   <td>
@@ -152,7 +152,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
     </div>
-    <em>Descubra lo fácil que es firmar un documento que se le envía con Acrobat Sign</em>
+    <em>Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -170,9 +170,9 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Obtención de una firma en persona" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Obtención de una firma en persona</strong></a>
+    <a href="sign-in-person.md"><strong>Obteniendo una firma en persona</strong></a>
     </div>
-    <em>Obtener la firma de otra persona mediante la aplicación móvil de Acrobat Sign</em>
+    <em>Obtener la firma de otra persona usando la aplicación móvil de Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -180,9 +180,9 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Delegar la firma a otra persona" src="../assets/Delegatesigning.png" />
     </a>
     <div>
-    <a href="delegate-signing.md"><strong>Delegar la firma a otra persona</strong></a>
+    <a href="delegate-signing.md"><strong>Delegar firma a otra persona</strong></a>
     </div>
-    <em>Descubra cómo delegar la firma de un documento a otra persona</em>
+    <em>Aprende a delegar la firma de un documento a otra persona</em>
     <br>
   </td>
 </tr>
@@ -204,7 +204,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
     <div>
     <a href="sign-with-a-stamp.md"><strong>Firmar con un sello</strong></a>
     </div>
-    <em>Utilizar sellos para marcar un documento aprobado o completado</em>
+    <em>Usar sellos para marcar un documento aprobado o completado</em>
      <br>
   </td> 
  <td>
@@ -220,7 +220,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
 </tr>  
 </table>
 
-## Gestionar
+## Administrar
 
 <table style="table-layout:fixed">
 <tr>
@@ -231,7 +231,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
     <div>
     <a href="manage-and-track.md"><strong>Administrar y realizar un seguimiento de los acuerdos</strong></a>
     </div>
-    <em>Aprenda a administrar y realizar un seguimiento de los acuerdos enviados para firmar</em>
+    <em>Obtenga información sobre cómo administrar acuerdos enviados para firmar y realizar su seguimiento</em>
     <br>
   </td>
   <td>
@@ -239,7 +239,7 @@ Aprenda a enviar recordatorios y plazos de entrega regulares por correo electró
       <img alt="Creación de una plantilla de documento" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Creación de una plantilla de documento</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Creando una plantilla de documento</strong></a>
     </div>
     <em>Crea una plantilla de documento reutilizable para proporcionar velocidad y coherencia a tu organización</em>
     <br>

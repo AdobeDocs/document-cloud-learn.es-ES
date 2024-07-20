@@ -12,8 +12,8 @@ thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 1%
+source-wordcount: '947'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,11 @@ Obtenga información sobre cómo enviar un recordatorio por correo electrónico 
 
 1. Instale Marketo Salesforce Sync.
 
-   Dispone de información y del plugin más reciente para Salesforce Sync [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   La información y el complemento más reciente para la sincronización de Salesforce están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Instale Acrobat Sign para Salesforce.
 
-   Información sobre este plugin está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   La información sobre este complemento está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Buscar el objeto personalizado
 
@@ -39,13 +39,13 @@ Cuando se completan las configuraciones de Sincronización de Marketo Salesforce
 
 ![Sincronización de objetos](assets/salesforceAdmin.png)
 
-1. Haga clic en **Sincronizar esquema** si esta es tu primera vez. De lo contrario, haga clic en **Actualizar esquema**.
+1. Haga clic en **Sincronizar esquema** si es la primera vez que lo hace. De lo contrario, haga clic en **Actualizar esquema**.
 
    ![Actualizar](assets/refreshSchema1.png)
 
-1. Si se está ejecutando la sincronización global, deshabilite haciendo clic en **Deshabilitar la sincronización global**.
+1. Si se está ejecutando la sincronización global, deshabilítela haciendo clic en **Deshabilitar sincronización global**.
 
-   ![Desactivar](assets/disableGlobal.png)
+   ![Deshabilitar](assets/disableGlobal.png)
 
 1. Haga clic en **Actualizar esquema**.
 
@@ -55,15 +55,15 @@ Cuando se completan las configuraciones de Sincronización de Marketo Salesforce
 
 En el lado derecho, consulte Objetos personalizados basados en clientes potenciales, contactos y cuentas.
 
-**Habilitar sincronización** para los objetos de Candidato si desea enviar un recordatorio cuando un Candidato no ha firmado un acuerdo en Salesforce.
+**Habilite la sincronización** para los objetos en Candidato si desea enviar un recordatorio cuando un Candidato no haya firmado un acuerdo en Salesforce.
 
-**Habilitar sincronización** para los objetos de Contacto si desea enviar un recordatorio cuando un Contacto no ha firmado un acuerdo en Salesforce.
+**Habilite la sincronización** para los objetos en Contacto si desea enviar un recordatorio cuando un contacto no ha firmado un acuerdo en Salesforce.
 
-**Habilitar sincronización** para los objetos de Cuenta si desea enviar un recordatorio cuando una Cuenta no ha firmado un acuerdo en Salesforce.
+**Habilite la sincronización** para los objetos de Cuenta si desea enviar un recordatorio cuando una Cuenta no haya firmado un acuerdo en Salesforce.
 
-1. **Habilitar sincronización** para el **Acuerdo** objeto que se muestra bajo el padre deseado (Candidato, Contacto o Cuenta). Haga esto para cualquier otro objeto personalizado que desee sincronizar.
+1. **Habilite la sincronización** para el objeto **Acuerdo** que se muestra debajo del elemento principal deseado (Candidato, Contacto o Cuenta). Haga esto para cualquier otro objeto personalizado que desee sincronizar.
 
-   ![Objeto Acuerdo](assets/agreementObject.png)
+   ![Objeto de acuerdo](assets/agreementObject.png)
 
 1. Los siguientes activos muestran cómo **Habilitar sincronización**.
 
@@ -75,7 +75,7 @@ En el lado derecho, consulte Objetos personalizados basados en clientes potencia
 
 1. Mientras esté desactivada la sincronización global, seleccione el objeto personalizado del acuerdo para el que habilitó la sincronización y, a continuación, **Editar campos visibles**.
 
-1. Marque el campo &quot;Nombre del acuerdo&quot; en la columna del activador para mostrarlo en los activadores de acciones de campaña. Marque cualquier otro campo por el que desee filtrar y, a continuación, **Guardar**.
+1. Marque el campo &quot;Nombre del acuerdo&quot; en la columna del activador para mostrarlo en los activadores de acciones de campaña. Comprueba cualquier otro campo por el que desees filtrar, después **Guarda**.
 
    ![Editar campos visibles 1](assets/editVisible1.png)
 
@@ -87,25 +87,25 @@ En el lado derecho, consulte Objetos personalizados basados en clientes potencia
 
 ## Crear el programa y el token
 
-1. En la sección Actividades de marketing de Marketo, haga clic con el botón derecho en **Actividades de marketing** en la barra izquierda, seleccione **Nueva carpeta de campaña** y ponle un nombre.
+1. En la sección Actividades de marketing de Marketo, haga clic con el botón derecho en **Actividades de marketing** en la barra izquierda, seleccione **Nueva carpeta de campaña** y asígnele un nombre.
 
    ![Nueva carpeta](assets/newFolder.png)
 
-1. Haga clic con el botón derecho en la carpeta creada y seleccione **Nuevo programa** y ponle un nombre. Deje todo lo demás como predeterminado y haga clic en **Crear**.
+1. Haga clic con el botón derecho en la carpeta creada, seleccione **Nuevo programa** y asígnele un nombre. Deja todo lo demás como predeterminado y luego haz clic en **Crear**.
 
    ![Nuevo programa 1](assets/newProgram1.png)
 
    ![Nuevo programa 2](assets/newProgram2.png)
 
-1. Haga clic en **Mis tokens** y, a continuación, arrastrar  **Script de correo electrónico** en el lienzo.
+1. Haz clic en **Mis tokens** y arrastra **Script de correo electrónico** al lienzo.
 
    ![Script de correo electrónico](assets/emailScript.png)
 
-1. Ponle un nombre y haz clic en **Haga clic para editar**.
+1. Dale un nombre y, a continuación, haz clic en **Clic para editar**.
 
-   ![Nombre y edición](assets/nameAndSave.png)
+   ![Asignar nombre y editar](assets/nameAndSave.png)
 
-1. Expandir **Objetos personalizados** en el lado derecho y, a continuación, expanda el **Acuerdo** objeto. Busque y arrastre Nombre del acuerdo, Estado del acuerdo, Fecha de firma y URL de firma al lienzo.
+1. Expanda **Objetos personalizados** en el lado derecho y, a continuación, expanda el objeto **Acuerdo**. Busque y arrastre Nombre del acuerdo, Estado del acuerdo, Fecha de firma y URL de firma al lienzo.
 
 1. Escriba un script de velocidad usando estos tokens para mostrar la URL de acuerdo de un acuerdo que no se firme durante una semana. A continuación se muestra un ejemplo que compara la fecha actual con la Fecha de envío:
 
@@ -139,19 +139,19 @@ En el lado derecho, consulte Objetos personalizados basados en clientes potencia
 
 Entre los ejemplos de personalización se incluyen: el nombre del firmante, el nombre del acuerdo, un vínculo al acuerdo, etc.
 
-1. Haga clic con el botón derecho en el programa que ha creado y haga clic en **Nuevo activo local** y, a continuación, seleccione **Correo electrónico**.
+1. Haz clic con el botón derecho en el programa que has creado, haz clic en **Nuevo activo local** y selecciona **Correo electrónico**.
 
    ![Nuevo correo electrónico](assets/createNewEmail.png)
 
-1. En la nueva pestaña, introduzca un **Nombre** y **Descripción** para el correo electrónico y seleccione una plantilla en el selector de plantillas. Haga clic en **Crear**.
+1. En la nueva pestaña, introduzca un **Nombre** y una **Descripción** para el correo electrónico y seleccione una plantilla en el selector de plantillas. Haga clic en **Crear**.
 
    ![Selector de plantilla](assets/templatePicker.png)
 
-1. Establezca el **Nombre de origen** y **Dirección de origen**.
+1. Establezca **Nombre de origen** y **Dirección de origen**.
 
-   ![Correo electrónico del recordatorio](assets/reminderEmail.png)
+   ![Correo electrónico de recordatorio](assets/reminderEmail.png)
 
-1. Haga clic en el cuerpo del mensaje para activar el editor. Haga clic en el **Insertar token** , busque el token de URL del acuerdo personalizado que ha creado y, a continuación, haga clic en **Insertar**. Termina de personalizar tu correo electrónico y haz clic en **Guardar**.
+1. Haga clic en el cuerpo del mensaje para activar el editor. Haga clic en el botón **Insertar token**, busque el token de URL de acuerdo personalizado que creó y, a continuación, haga clic en **Insertar**. Termina de personalizar tu correo electrónico y haz clic en **Guardar**.
 
    ![Insertar token](assets/insertToken.png)
 
@@ -161,11 +161,11 @@ Entre los ejemplos de personalización se incluyen: el nombre del firmante, el n
 
 ## Configurar el filtro de Smart Campaign
 
-1. Haga clic con el botón derecho en el programa que creó y, a continuación, haga clic en **Nueva campaña inteligente**.
+1. Haz clic con el botón derecho en el programa que has creado y, a continuación, haz clic en **Nueva campaña inteligente**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Asigne un nombre y, a continuación, haga clic en **Crear**.
+1. Dale el nombre que quieras y, a continuación, haz clic en **Crear**.
 
    ![Smart Campaign 2](assets/smartCampaign2.png)
 
@@ -173,7 +173,7 @@ Entre los ejemplos de personalización se incluyen: el nombre del firmante, el n
 
    ![Tiene acuerdo](assets/hasAgreement.png)
 
-1. Los campos expuestos al activador ahora deben estar disponibles en **Agregar restricción**. Seleccionar **Estado del acuerdo** y cualquier otro campo por el que desee filtrar. Para cada campo añadido, defina los valores por los que filtrar. En este caso, solo se activará cuando el **Estado del acuerdo** está Enviado para firmar y **Fecha de envío** está en el pasado antes de 7 días.
+1. Los campos que expuso al desencadenador ahora deben estar disponibles en **Agregar restricción**. Seleccione **Estado del acuerdo** y cualquier otro campo por el que desee filtrar. Para cada campo añadido, defina los valores por los que filtrar. En este caso, solo se activará cuando el **Estado del acuerdo** esté Enviado para firmar y la **Fecha de envío** esté en el pasado antes de los 7 días.
 
    ![Estado del acuerdo](assets/agreementStatus.png)
 
@@ -183,24 +183,24 @@ Entre los ejemplos de personalización se incluyen: el nombre del firmante, el n
 
 1. Confirma el público de la campaña y comprueba quién cumple los requisitos en la pestaña Programación.
 
-   ![Cualificadores](assets/qualifiers.png)
+   ![Calificadores](assets/qualifiers.png)
 
 ## Configurar el flujo de campaña inteligente
 
-Porque el filtro de campaña **Días sin firmar** , puede utilizar una periodicidad programada para la campaña.
+Dado que se utilizó el filtro de campaña **Días sin firmar**, puede utilizar una periodicidad programada para la campaña.
 
-1. Haga clic en el **Flujo** de la Campaña inteligente. Busque y arrastre el **Enviar correo electrónico** en el lienzo y seleccione el correo electrónico de recordatorio que creó en la sección anterior.
+1. Haz clic en la pestaña **Flujo** en Smart Campaign. Busque y arrastre el flujo **Enviar correo electrónico** al lienzo y seleccione el correo electrónico de recordatorio que creó en la sección anterior.
 
    ![Enviar correo electrónico](assets/sendEmail.png)
 
-1. Haga clic en el **Programación** de la Campaña inteligente. Asegúrese de que el flujo de la campaña esté limitado a ejecutarse solo una vez por persona en el **Configuración inteligente de campañas**. A continuación, haga clic en el **Programar periodicidad** .
+1. Haz clic en la pestaña **Programar** en Smart Campaign. Asegúrese de que el flujo de la campaña esté limitado para ejecutarse solo una vez por persona en **Configuración inteligente de la campaña**. Luego, haz clic en la pestaña **Programar periodicidad**.
 
-   ![Pestaña Programación](assets/scheduleTab.png)
+   ![Ficha Programación](assets/scheduleTab.png)
 
-1. Establezca el **Programación** a Diario, elija un día y una hora de inicio y una fecha de finalización para la campaña si es necesario.
+1. Establece **Schedule** en Daily, elige un día y una hora de inicio y una fecha de finalización para la campaña si es necesario.
 
    ![Configuración de programación](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->Este tutorial forma parte del curso [Agiliza los ciclos de ventas con Acrobat Sign para Salesforce y Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponible de forma gratuita en el Experience League!
+>Este tutorial forma parte del curso [Acelera los ciclos de ventas con Acrobat Sign para Salesforce y Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponible de forma gratuita para los Experience League.

@@ -1,6 +1,6 @@
 ---
-title: Registrarse y firmar con [!DNL Digidentity]
-description: Aprenda a registrarse y utilizar su [!DNL Digidentity] ID digital con Acrobat Sign
+title: Registrar y firmar con  [!DNL Digidentity]
+description: Aprende a registrarte y usar tu  [!DNL Digidentity] ID digital con Acrobat Sign
 feature: Digital ID
 role: User
 level: Beginner
@@ -9,12 +9,12 @@ thumbnail: KT-8670.jpg
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-# Registrarse y firmar con [!DNL Digidentity]
+# Registrar y firmar con [!DNL Digidentity]
 
 Digidentity es un proveedor de servicios de confianza cualificado de la UE (QTSP). El proceso de identificación e incorporación de Digidentity se basa en la aplicación móvil Digidentity y requiere el uso de un documento de identidad con un chip NFC integrado, así como un dispositivo móvil compatible con NFC. El proceso de Digidentity es completamente de autoservicio y está disponible 24/7/365, sin &quot;humano en el bucle&quot;. En la mayoría de los casos, se tarda tan solo 5-10 minutos para completar el registro.
 

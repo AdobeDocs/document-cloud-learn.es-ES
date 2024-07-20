@@ -22,4 +22,4 @@ Utiliza las firmas electrónicas y las conferencias web de forma conjunta para r
 
 Seleccione para descargar o abrir una receta de PDF paso a paso para la solicitud de orden de registro remoto.
 
-[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

@@ -12,24 +12,24 @@ thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 1%
+source-wordcount: '672'
+ht-degree: 0%
 
 ---
 
-# Enviar notificaciones con Acrobat Sign para [!DNL Salesforce] y [!DNL Marketo]
+# Enviar notificaciones mediante Acrobat Sign para [!DNL Salesforce] y [!DNL Marketo]
 
-Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino mediante Acrobat Sign, Acrobat Sign para Salesforce, Marketo y Marketo Salesforce Sync. Para enviar notificaciones desde Marketo, primero debe adquirir o configurar una función de administración de SMS de Marketo. Este tutorial utiliza [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), pero hay otras soluciones SMS de Marketo disponibles.
+Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación push para informar al firmante de que un acuerdo está en camino mediante Acrobat Sign, Acrobat Sign para Salesforce, Marketo y Marketo Salesforce Sync. Para enviar notificaciones desde Marketo, primero debe adquirir o configurar una función de administración de SMS de Marketo. Este tutorial utiliza [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), pero hay disponibles otras soluciones de SMS de Marketo.
 
 ## Requisitos previos
 
 1. Instale Marketo Salesforce Sync.
 
-   Dispone de información y del plugin más reciente para Salesforce Sync [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   La información y el complemento más reciente para la sincronización de Salesforce están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Instale Acrobat Sign para Salesforce.
 
-   Información sobre este plugin está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   La información sobre este complemento está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Buscar el objeto personalizado
 
@@ -39,13 +39,13 @@ Una vez completadas las configuraciones de Sincronización de Marketo Salesforce
 
 ![Sincronización de objetos](assets/salesforceAdmin.png)
 
-1. Haga clic en **Sincronizar esquema** si esta es tu primera vez. De lo contrario, haga clic en **Actualizar esquema**.
+1. Haga clic en **Sincronizar esquema** si es la primera vez que lo hace. De lo contrario, haga clic en **Actualizar esquema**.
 
    ![Actualizar](assets/refreshSchema1.png)
 
-1. Si se está ejecutando la sincronización global, deshabilite haciendo clic en **Deshabilitar la sincronización global**.
+1. Si se está ejecutando la sincronización global, deshabilítela haciendo clic en **Deshabilitar sincronización global**.
 
-   ![Desactivar](assets/disableGlobal.png)
+   ![Deshabilitar](assets/disableGlobal.png)
 
 1. Haga clic en **Actualizar esquema**.
 
@@ -55,13 +55,13 @@ Una vez completadas las configuraciones de Sincronización de Marketo Salesforce
 
 En el lado derecho, consulte Objetos personalizados basados en clientes potenciales, contactos y cuentas.
 
-**Habilitar sincronización** para los objetos en Candidato si desea activar cuando se añade un Candidato a un acuerdo en Salesforce.
+**Habilite la sincronización** para los objetos en Candidato si desea activarla cuando se agregue un Candidato a un acuerdo en Salesforce.
 
-**Habilitar sincronización** para los objetos de Contacto si desea activar cuando se agrega un Contacto a un acuerdo en Salesforce.
+**Habilite la sincronización** para los objetos en Contacto si desea activarla cuando se agregue un contacto a un acuerdo en Salesforce.
 
-**Habilitar sincronización** para los objetos de Account si desea activar cuando se agrega una cuenta a un acuerdo en Salesforce.
+**Habilite la sincronización** para los objetos de Account si desea activarla cuando se agregue una cuenta a un acuerdo en Salesforce.
 
-1. **Habilitar sincronización** para los objetos personalizados mostrados bajo el padre deseado (Candidato, Contacto o Cuenta).
+1. **Habilite la sincronización** para los objetos personalizados que se muestran bajo el elemento principal deseado (Candidato, Contacto o Cuenta).
 
    ![Objetos personalizados](assets/customObjects.png)
 
@@ -77,11 +77,11 @@ En el lado derecho, consulte Objetos personalizados basados en clientes potencia
 
 ## Crear el programa
 
-1. En la sección Actividades de marketing de Marketo, haga clic con el botón derecho en **Actividades de marketing** en la barra izquierda, seleccione **Nueva carpeta de campaña** y ponle un nombre.
+1. En la sección Actividades de marketing de Marketo, haga clic con el botón derecho en **Actividades de marketing** en la barra izquierda, seleccione **Nueva carpeta de campaña** y asígnele un nombre.
 
    ![Nueva carpeta](assets/newFolder.png)
 
-1. Haga clic con el botón derecho en la carpeta creada y seleccione **Nuevo programa** y ponle un nombre. Deje todo lo demás como predeterminado y haga clic en **Crear**.
+1. Haga clic con el botón derecho en la carpeta creada, seleccione **Nuevo programa** y asígnele un nombre. Deja todo lo demás como predeterminado y luego haz clic en **Crear**.
 
    ![Nuevo programa 1](assets/newProgram1.png)
 
@@ -99,25 +99,25 @@ La configuración del webhook Marketo - Twilio SMS requiere tres parámetros de 
 
 Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
-1. Haga clic en **Administrador** en la parte superior derecha.
+1. Haz clic en **Administrador** en la parte superior derecha.
 
    ![Administrador](assets/adminTab.png)
 
-1. Haga clic en **Webhooks**, entonces **Nuevo webhook**.
+1. Haz clic en **Webhooks** y, a continuación, en **New Webhook**.
 
    ![Webhooks](assets/webhooks.png)
 
-1. Introduzca un **Nombre de webhook** y **Descripción**.
+1. Escriba un **Nombre de webhook** y una **Descripción**.
 
-1. Introduzca la siguiente dirección URL y asegúrese de reemplazar la **[ACCOUNT_SID]** y **[AUTH_TOKEN]** con sus credenciales de Twilio.
+1. Introduzca la siguiente URL y asegúrese de reemplazar **[ACCOUNT_SID]** y **[AUTH_TOKEN]** por sus credenciales de Twilio.
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Seleccionar **POST** como su tipo de solicitud.
+1. Selecciona **POST** como tu tipo de solicitud.
 
-1. Introduzca lo siguiente **Plantilla** y asegúrese de reemplazar **[MY_TWILIO_NUMBER]** con tu número de teléfono Twilio y **[YOUR_MESSAGE]** con un mensaje de su elección.
+1. Introduce la siguiente **plantilla** y asegúrate de reemplazar **[MY_TWILIO_NUMBER]** por tu número de teléfono Twilio y **[YOUR_MESSAGE]** por un mensaje de tu elección.
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
@@ -125,15 +125,15 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
 1. Establezca Codificación del token de solicitud en Formulario/URL.
 
-1. Establezca el Tipo de respuesta en JSON y, a continuación, haga clic en **Guardar**.
+1. Establezca el tipo de respuesta en JSON y, a continuación, haga clic en **Guardar**.
 
 ## Configurar el activador inteligente de la campaña
 
-1. En la sección Actividades de marketing, haga clic con el botón derecho en el programa que ha creado y, a continuación, seleccione **Nueva campaña inteligente**.
+1. En la sección Actividades de marketing, haz clic con el botón derecho en el programa que has creado y, a continuación, selecciona **Nueva campaña inteligente**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Asígnele un nombre y haga clic en **Crear**.
+1. Asígnele un nombre y, a continuación, haga clic en **Crear**.
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
@@ -141,11 +141,11 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
 1. Haga clic en Añadir al acuerdo y arrástrelo a la lista inteligente. Añada las restricciones que desee tener en el activador.
 
-   ![Añadido al acuerdo 2](assets/addedToAgreement2.png)
+   ![Agregado al acuerdo 2](assets/addedToAgreement2.png)
 
 ## Configurar el flujo de campaña inteligente
 
-1. Haga clic en el **Flujo** de la Campaña inteligente. Busque y arrastre el **Llamar a webhook** en el lienzo y seleccione el webhook que creó en la sección anterior.
+1. Haz clic en la pestaña **Flujo** en Smart Campaign. Busque y arrastre el flujo **Call Webhook** al lienzo y seleccione el webhook que creó en la sección anterior.
 
    ![Llamar a webhook](assets/callWebhook.png)
 
@@ -153,4 +153,4 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
 
 >[!TIP]
 >
->Este tutorial forma parte del curso [Agiliza los ciclos de ventas con Acrobat Sign para Salesforce y Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) que está disponible de forma gratuita en el Experience League!
+>Este tutorial forma parte del curso [Acelera los ciclos de ventas con Acrobat Sign para Salesforce y Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponible de forma gratuita para los Experience League.

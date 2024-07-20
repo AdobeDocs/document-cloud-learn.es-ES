@@ -22,26 +22,26 @@ Ofrecer las mejores experiencias a los clientes requiere que el contenido se cre
 >
 >Disponible solo en Acrobat Pro.
 
-1. Seleccionar **[!UICONTROL Action Wizard]** de la [!UICONTROL Herramientas] panel central o derecho.
+1. Seleccione **[!UICONTROL Action Wizard]** en el panel central o derecho de [!UICONTROL Herramientas].
 
-   ![Paso 1 del Action Wizard](../assets/ActionWizard_1.png)
+   ![Paso 1](../assets/ActionWizard_1.png) del Action Wizard
 
-   Las acciones predefinidas aparecen en el **Lista de acciones**.
+   Las acciones predefinidas aparecen en la **Lista de acciones**.
 
-1. Seleccionar **[!UICONTROL Nueva acción]** en el menú superior para crear una acción personalizada.
+1. Seleccione **[!UICONTROL Nueva acción]** en el menú superior para crear una acción personalizada.
 
-   ![Paso 2 del Action Wizard](../assets/ActionWizard_2.png)
+   ![Paso 2](../assets/ActionWizard_2.png) del Action Wizard
 
-1. Seleccione una tarea de la lista de la izquierda y, a continuación, seleccione la flecha central para agregarla a la columna derecha de la **[!UICONTROL Crear nueva acción]** del cuadro de diálogo.
+1. Seleccione una tarea de la lista de la izquierda y, a continuación, seleccione la flecha central para agregarla a la columna de la derecha en el cuadro de diálogo **[!UICONTROL Crear nueva acción]**.
 
-   *La configuración de cada tarea está predeterminada en este cuadro de diálogo, o puede solicitar al usuario que tome las decisiones necesarias mientras se ejecuta la acción.*
+   *La configuración de cada tarea está predeterminada en este cuadro de diálogo o puede solicitar al usuario que tome las decisiones necesarias mientras se ejecuta la acción.*
 
-   ![Paso 3 del Action Wizard](../assets/ActionWizard_3.png)
+   ![Paso 3](../assets/ActionWizard_3.png) del Action Wizard
 
-1. Seleccionar **[!UICONTROL Guardar]** y asigne un nombre a la acción para que aparezca en el **[!UICONTROL Lista de acciones]**.
+1. Seleccione **[!UICONTROL Guardar]** y asigne un nombre a la acción para que aparezca en la **[!UICONTROL Lista de acciones]**.
 
 Ahora puede ejecutar la acción personalizada cada vez que necesite realizar esa serie específica de pasos en uno o varios archivos de PDF.
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.

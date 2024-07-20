@@ -9,7 +9,7 @@ thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -45,50 +45,50 @@ Utilice la herramienta Prepare Form para agregar automáticamente campos de form
 
 Para agregar varios tipos de campos de formulario y establecer sus propiedades en un PDF existente.
 
-1. Descargar y abrir *Questionnaire.pdf*.
-1. Seleccionar **Prepare Form** en el Centro de herramientas.
-1. Seleccionar **Inicio**.
-1. Seleccionar **Editar texto e imágenes** en la barra de herramientas para corregir la errata.
-1. Elegir **Seleccionar** en la barra de herramientas para salir del modo de edición.
+1. Descargue y abra *Questionnaire.pdf*.
+1. Seleccione **Prepare Form** en el Centro de herramientas.
+1. Seleccione **Inicio**.
+1. Seleccione **Editar texto e imágenes** en la barra de herramientas para corregir la errata.
+1. Elija **Seleccionar** en la barra de herramientas para salir del modo de edición.
 1. Seleccione y elimine el campo de formulario superior.
-1. Seleccionar **Vista previa** para ver el formulario.
-1. Seleccionar **Editar** para salir del modo de vista previa.
+1. Seleccione **Vista previa** para ver el formulario.
+1. Seleccione **Editar** para salir del modo de vista previa.
 
 Agregar un campo de lista reduce la posibilidad de errores en los datos del formulario.
 
-1. Seleccione y elimine el *Ubicación de HQ* campo de texto.
-1. Seleccionar **Cuadro de lista** en la barra de herramientas y coloque un nuevo campo en la ubicación del campo de texto eliminado.
-1. Tipo *Ubicación de HQ* en el **Nombre del campo:**.
-1. Seleccionar **Todas las propiedades** y elija la **Opciones** .
-1. Añada tres ubicaciones diferentes en el **Elemento:** campo.
-1. Seleccione la ubicación predeterminada en el **Lista de artículos:** campo.
-1. Seleccionar **Cerrar**.
+1. Seleccione y elimine el campo de texto *Ubicación HQ*.
+1. Seleccione **Cuadro de lista** en la barra de herramientas y coloque un nuevo campo en la ubicación del campo de texto eliminado.
+1. Escriba *HQ Location* en **Nombre de campo:**.
+1. Seleccione **Todas las propiedades** y elija la pestaña **Opciones**.
+1. Agregue tres ubicaciones diferentes en el campo **Elemento:**.
+1. Seleccione la ubicación predeterminada en el campo **Lista de elementos:**.
+1. Seleccione **Cerrar**.
 1. Mantenga pulsada la tecla Mayús y seleccione el campo siguiente.
-1. Seleccionar **Coincidir ancho y alto** y **Alinear a la izquierda** en el panel derecho.
+1. Selecciona **Igualar ancho y alto** y **Alinear a la izquierda** en el panel derecho.
 
 Los campos del selector de fecha agregan interactividad y eliminan errores en un formulario.
 
-1. Seleccione y elimine el *Cronología del proyecto* y *FECHA FINAL* campos.
-1. Seleccionar **Campo de fecha** en la barra de herramientas y sitúe el nuevo campo en el *Cronología del proyecto* ubicación del campo.
-1. Tipo *Inicio del proyecto* en el **Nombre del campo:**.
-1. Seleccionar **Todas las propiedades** y elija la **Formato** .
-1. Elija una opción de formato de fecha y seleccione **Cerrar**.
+1. Seleccione y elimine los campos *Cronología del proyecto* y *FECHA DE FINALIZACIÓN*.
+1. Seleccione **Campo de fecha** en la barra de herramientas y coloque el nuevo campo en la ubicación de campo *Cronología del proyecto* eliminada.
+1. Escriba *Inicio del proyecto* en **Nombre del campo:**.
+1. Seleccione **Todas las propiedades** y elija la ficha **Formato**.
+1. Elige una opción de formato de fecha y selecciona **Cerrar**.
 1. Mantenga pulsadas las teclas Ctrl + Mayús (Cmd + Mayús en el Mac) para duplicar el campo.
-1. Haga doble clic en el nuevo campo y seleccione el **General** y cambiar el nombre del campo *Fin del proyecto*.
-1. Seleccionar **Cerrar**.
+1. Haga doble clic en el nuevo campo, seleccione la pestaña **General** y cambie el nombre del campo *Fin del proyecto*.
+1. Seleccione **Cerrar**.
 1. Mantenga pulsada la tecla Mayús y seleccione los tres campos.
-1. Seleccionar **Coincidir ancho y alto** en el panel derecho.
+1. Seleccione **Igualar ancho y alto** en el panel derecho.
 1. Utilice las teclas de flecha para alinear cada campo si es necesario.
 
 Las propiedades Comb se utilizan para distribuir texto uniformemente por el ancho de un campo de texto.
 
-1. Haga doble clic en el *Código de referencia* y seleccione el campo **Opciones** .
-1. Desmarque todas las casillas excepto **Peine de**.
-1. Tipo *5* en el cuadro caracteres.
-1. Seleccione la **Apariencia** y elija cualquier color en la **Color de borde** caja.
-1. Seleccionar **Cerrar**.
-1. Seleccionar **Vista previa** y escriba algunos números para probar el campo combinado.
-1. Seleccionar **Más** > **Borrar formulario** para eliminar los datos en el panel derecho.
+1. Haga doble clic en el campo *Código de referencia* y seleccione la pestaña **Opciones**.
+1. Desmarque todas las casillas excepto **Comb of**.
+1. Escriba *5* en el cuadro de caracteres.
+1. Selecciona la pestaña **Aspecto** y elige cualquier color en el cuadro **Color de borde**.
+1. Seleccione **Cerrar**.
+1. Seleccione **Vista previa** e introduzca algunos números para probar el campo combinado.
+1. Seleccione **Más** > **Borrar formulario** para eliminar los datos en el panel derecho.
 
 ## Aprenda a establecer propiedades para varios campos a la vez, el orden de tabulación y para proteger un formulario
 
@@ -104,23 +104,23 @@ Para establecer las propiedades de varios campos a la vez, el orden de tabulaci�
 
 1. Mantenga pulsada la tecla Mayús y seleccione todos los campos de texto y de lista en el panel derecho.
 1. Haga clic con el botón derecho y seleccione **Propiedades...**.
-1. Seleccionar *12* de la **Tamaño de fuente:** menú desplegable.
-1. Seleccionar **Cerrar**.
+1. Seleccione *12* en el menú desplegable **Tamaño de fuente:**.
+1. Seleccione **Cerrar**.
 
 Establecer el orden de tabulación garantiza que el rellenador del formulario pueda desplazarse fácilmente de un campo a otro mientras rellena un formulario.
 
-1. Tipo *Mayús + N* para mostrar el orden de tabulación.
-1. Mueva el *Ubicación de HQ* en el campo *Número de empleados* en el panel derecho.
-1. Mueva el *Inicio del proyecto* y *Fin del proyecto* campos bajo la *DIRECCIÓN DE CORREO ELECTRÓNICO* en el panel derecho.
+1. Escriba *Mayús + N* para mostrar el orden de tabulación.
+1. Mueva el campo *Ubicación de HQ* debajo del campo *Número de empleados* en el panel derecho.
+1. Mueva los campos *Comienzo del proyecto* y *Fin del proyecto* debajo del campo *DIRECCIÓN DE CORREO ELECTRÓNICO* en el panel derecho.
 
 Proteger un formulario garantiza que no se puedan modificar los campos o el contenido del documento.
 
-1. Tipo *Ctrl + D (Cmd + D en el Mac)* para que aparezca la **Propiedades del documento** diálogo.
-1. Seleccione la **Seguridad** .
-1. Seleccionar **Seguridad de contraseña** en virtud del **Método de seguridad:** menú desplegable.
-1. Comprobar **Restrinja la edición e impresión del documento. Se requerirá una contraseña para cambiar esta configuración de permisos.**
-1. Seleccionar **Alta resolución** de la **Impresión permitida:** menú desplegable.
-1. Seleccionar **Rellenar campos de formulario y firmar los campos de firma existentes** de la **Cambios permitidos:** menú desplegable.
-1. Escriba una contraseña segura en la **Cambiar contraseña de permisos:** campo.
-1. Confirme la contraseña y seleccione **OK**.
-1. Seleccionar **OK** para salir del diálogo.
+1. Escriba *Ctrl + D (Cmd + D en el Mac)* para que aparezca el cuadro de diálogo **Propiedades del documento**.
+1. Seleccione la pestaña **Seguridad**.
+1. Seleccione **Seguridad mediante contraseña** en el menú desplegable **Método de seguridad:**.
+1. Marque **Restringir la edición e impresión del documento. Se requerirá una contraseña para cambiar esta configuración de permisos.**
+1. Seleccione **Alta resolución** en el menú desplegable **Impresión permitida:**.
+1. Seleccione **Rellenar campos de formulario y firmar campos de firma existentes** en el menú desplegable **Cambios permitidos:**.
+1. Escriba una contraseña segura en el campo **Cambiar contraseña de permisos:**.
+1. Confirme la contraseña y seleccione **Aceptar**.
+1. Seleccione **Aceptar** para salir del cuadro de diálogo.

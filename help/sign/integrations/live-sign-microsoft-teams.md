@@ -1,6 +1,6 @@
 ---
-title: Live Sign en Adobe Acrobat Sign para [!DNL Microsoft Teams]
-description: Aprende a crear una experiencia de firma online que se parezca a la firma en persona durante un [!DNL Microsoft Teams] reunión
+title: Live Sign en Adobe Acrobat Sign para  [!DNL Microsoft Teams]
+description: Aprende a crear una experiencia de firma online que se parezca a la firma en persona durante una  [!DNL Microsoft Teams] reunión
 feature: Integrations
 role: User
 topic: Integrations

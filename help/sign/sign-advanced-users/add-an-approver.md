@@ -10,8 +10,8 @@ thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 23%
 
 ---
 
@@ -23,6 +23,6 @@ Aprenda a enviar un documento a través de un proceso de aprobación. En este ej
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) que está disponible de forma gratuita para el Experience League.
 
 

@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Acuerdos de política comercial
 
-Recopila firmas de todos tus empleados de forma eficaz en acuerdos de política, actualizaciones de políticas y mucho más. Aprenda a crear un formulario web en línea que se pueda rellenar **y** firmado sin imprimir ni enviar nada por correo.
+Recopila firmas de todos tus empleados de forma eficaz en acuerdos de política, actualizaciones de políticas y mucho más. Aprende a crear un formulario web en línea que se pueda completar **y** y firmar sin imprimir ni enviar nada por correo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Seleccione esta opción para descargar o abrir una receta de PDF paso a paso para los acuerdos de política.
 
-[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

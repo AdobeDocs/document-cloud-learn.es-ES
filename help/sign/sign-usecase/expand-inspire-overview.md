@@ -26,9 +26,9 @@ Descubre cómo puedes transformar las experiencias de firma electrónica de tu o
       <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
+    <a href="innovation-series.md"><strong>Generador de aptitudes</strong></a>
     </div>
-    <em>Únete a nosotros en un Skill Builder de 30 minutos para aprender a poner a trabajar tus firmas electrónicas, sin añadir nada más a tu día</em>
+    <em>Únete a nosotros en un Skill Builder de 30 minutos para aprender a poner a trabajar tus firmas electrónicas, sin añadir más trabajo a tu día</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Descubre cómo puedes transformar las experiencias de firma electrónica de tu o
     <div>
     <a href="recipes.md"><strong>Casos prácticos</strong></a>
     </div>
-    <em>Descubre cómo varias organizaciones utilizan Acrobat Sign con estos casos prácticos del mundo real</em>
+    <em>Descubre cómo varias organizaciones están usando Acrobat Sign con estos casos prácticos del mundo real</em>
     <br>
   </td>
   <td>

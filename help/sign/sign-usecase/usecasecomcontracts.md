@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Contratos comerciales y formularios de solicitud
 
-Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Más información sobre la [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) para ayudar a agilizar todo el proceso.
+Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Obtén información sobre la herramienta [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) para ayudar a optimizar todo el proceso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Seleccione esta opción para descargar o abrir una receta de PDF paso a paso para los contratos y los formularios de solicitud.
 
-[![Descargar receta de PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Descargar la receta del PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

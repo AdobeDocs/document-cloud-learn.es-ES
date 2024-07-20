@@ -9,7 +9,7 @@ thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,16 +22,16 @@ Si tiene un conjunto de formularios completados y necesita compilar los datos, p
 
    ![Paso 1 de datos de formulario](../assets/FormData_1.png)
 
-1. Abra uno de los archivos de formulario completados y seleccione **[!UICONTROL Prepare Form]** en el centro de herramientas o en el panel derecho.
+1. Abra uno de los archivos de formulario completados y, a continuación, seleccione **[!UICONTROL Prepare Form]** en el Centro de herramientas o en el panel derecho.
 
    ![Paso 2 de datos de formulario](../assets/FormData_2.png)
 
-1. Seleccionar **[!UICONTROL Más]** **>** **[!UICONTROL Combinar archivos de datos en hoja de cálculo]** en el panel derecho.
+1. Seleccione **[!UICONTROL Más]** **>** **[!UICONTROL Combinar archivos de datos en hoja de cálculo]** en el panel derecho.
 
-   ![Paso 3 de datos de formulario](../assets/FormData_3.png)
+   ![Paso 3](../assets/FormData_3.png) de datos de formulario
 
 1. Seleccione la carpeta que creó con los formularios completados.
 
    Acrobat extrae los datos de cada formulario y crea una hoja de cálculo de todos los datos.
 
-   ![Paso 4 de datos de formulario](../assets/FormData_4.png)
+   ![Paso 4](../assets/FormData_4.png) de datos de formulario

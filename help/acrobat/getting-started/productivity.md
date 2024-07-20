@@ -20,12 +20,12 @@ Con el teletrabajo en todas partes, ofrecer contenido con velocidad y escala es 
 
 >[!TIP]
 >
->¿Estás interesado en obtener más información sobre las herramientas de Acrobat a las que puedes acceder desde cualquier lugar? Retirar [Trabaja en cualquier parte con Acrobat web](acrobatweb.md).
+>¿Estás interesado en obtener más información sobre las herramientas de Acrobat a las que puedes acceder desde cualquier lugar? Echa un vistazo a [Trabaja en cualquier parte con Acrobat Web](acrobatweb.md).
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
 
-![código QR](../assets/Acrobatqrcode.jpg)
+![Código QR](../assets/Acrobatqrcode.jpg)
 
 Escanee el código QR para obtener la aplicación.

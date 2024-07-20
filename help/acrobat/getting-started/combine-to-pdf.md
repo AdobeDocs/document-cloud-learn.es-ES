@@ -9,18 +9,18 @@ thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
 # Combinar archivos en un único PDF
 
-Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a combinar sin problemas muchos tipos diferentes de archivos (PDF, Word, Excel, PowerPoint, JPEG, etc.) en un único PDF. [Combinar archivos en un único PDF](https://www.adobe.com/es/acrobat/online/merge-pdf.html){target="_blank"} te permite gestionar y controlar el contenido que envías a los demás, lo que te permite disfrutar de una mejor experiencia.
+Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a combinar sin problemas muchos tipos diferentes de archivos (PDF, Word, Excel, PowerPoint, JPEG, etc.) en un único PDF. [Combinar archivos en un solo PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} te permite administrar y controlar el contenido que envías a los demás, lo que crea una mejor experiencia.
 
 >[!TIP]
 >
->Más información sobre cómo añadir una marca [nueva página personalizada](add-custom-page.md) al combinar archivos.
+>Obtén información sobre cómo agregar una [nueva página personalizada](add-custom-page.md) al combinar archivos.
 
 <br> 
 
@@ -28,4 +28,4 @@ Ofrecer las mejores experiencias a los clientes requiere que el contenido se cre
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.

@@ -1,5 +1,5 @@
 ---
-title: Document Builder para [!DNL Salesforce]
+title: Generador de documentos para  [!DNL Salesforce]
 description: Aprenda a crear una plantilla de documento reutilizable con Document Builder para Salesforce
 feature: Integrations
 role: User, Admin
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Document Builder para [!DNL Salesforce]
+# Generador de documentos para [!DNL Salesforce]
 
 Aprenda a crear una plantilla de documento reutilizable con Document Builder para Salesforce. Las plantillas de documento reutilizables proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar los cambios y las revisiones de los documentos.
 

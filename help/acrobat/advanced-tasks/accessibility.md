@@ -10,7 +10,7 @@ thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Aprenda a comprobar si su PDF es accesible universalmente para personas con disc
 
 ## Comprobación de accesibilidad
 
-1. Seleccionar **[!UICONTROL Accesibilidad]** en el centro de herramientas o en el panel derecho.
+1. Seleccione **[!UICONTROL Accesibilidad]** en el centro de herramientas o en el panel derecho.
 
    ![Paso 1 de accesibilidad](../assets/Accessibility_1.png)
 
-1. Seleccionar **[!UICONTROL Comprobación de accesibilidad]** en el panel derecho.
+1. Seleccione **[!UICONTROL Comprobación de accesibilidad]** en el panel derecho.
 
    ![Paso 2 de accesibilidad](../assets/Accessibility_2.png)
 
@@ -37,15 +37,15 @@ Aprenda a comprobar si su PDF es accesible universalmente para personas con disc
 
    Deje todas las casillas marcadas para obtener un informe completo.
 
-1. Seleccionar **[!UICONTROL Iniciar comprobación]** para iniciar el informe.
+1. Seleccione **[!UICONTROL Iniciar comprobación]** para iniciar el informe.
 
-   ![Paso 3 de accesibilidad](../assets/Accessibility_3.png)
+   ![Paso 3](../assets/Accessibility_3.png) de accesibilidad
 
    El panel de navegación izquierdo se abre para mostrar los resultados del informe. Expanda una sección para ver los detalles.
 
-   ![Paso 4 de accesibilidad](../assets/Accessibility_4.png)
+   ![Paso 4](../assets/Accessibility_4.png) de accesibilidad
 
-También puede utilizar la [!UICONTROL Hacer accesible] acción en el [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) , que recorre un conjunto básico de pasos para crear un PDF accesible.
+También puedes usar la acción [!UICONTROL Hacer accesible] en la herramienta [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html), que recorre un conjunto básico de pasos para crear un PDF accesible.
 
 ## Solucionar problemas de accesibilidad
 

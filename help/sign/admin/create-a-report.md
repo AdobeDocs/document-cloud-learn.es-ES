@@ -9,8 +9,8 @@ thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 18%
 
 ---
 
@@ -26,4 +26,4 @@ Aprende a crear, guardar y gestionar tus propios informes personalizados y expor
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), que está disponible de forma gratuita para los Experience League.

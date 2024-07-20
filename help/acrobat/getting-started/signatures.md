@@ -9,14 +9,14 @@ thumbnail: KT-8257.jpg
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # Obtener firmas
 
-Mantén tu empresa en marcha recopilando documentos legalmente vinculantes [firmas electrónicas](https://www.adobe.com/es/acrobat/online/request-signature.html){target="_blank"} de otras personas, desde cualquier lugar.
+Mantén tu empresa en marcha recopilando [firmas electrónicas](https://www.adobe.com/es/acrobat/online/request-signature.html){target="_blank"} legalmente vinculantes de otras personas, desde cualquier lugar.
 
 >[!IMPORTANT]
 >
@@ -26,4 +26,4 @@ Mantén tu empresa en marcha recopilando documentos legalmente vinculantes [firm
 
 >[!TIP]
 >
->Obtenga información sobre cómo [realizar un seguimiento de documentos](track.md) que se hayan enviado para su firma en una ubicación sencilla.
+>Descubre cómo [realizar el seguimiento de tus documentos](track.md) que se han enviado para firmar en una ubicación sencilla.

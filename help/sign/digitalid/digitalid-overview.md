@@ -25,9 +25,9 @@ Al igual que un pasaporte en formato electrónico, una identidad digital (ID dig
 ## Novedades
 
 * [Registrar y firmar con Digidentity](digidentity-sign.md)
-Aprenda a registrarse y utilizar su [!DNL Digidentity] ID digital con Acrobat Sign
+Aprende a registrarte y usar tu ID digital de [!DNL Digidentity] con Acrobat Sign
 * [Registrar y firmar con D-Trust](d-trust.md)
-Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utilice el [!DNL D-Trust] firma digital en un documento en Acrobat Sign
+Aprende a registrar tu identidad con [!DNL D-Trust] y, a continuación, usa la firma digital de [!DNL D-Trust] en un documento de Acrobat Sign
 
 ## [!DNL Aadhaar]
 
@@ -38,9 +38,9 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
       <img alt="Firmar con [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
     </a>
     <div>
-    <a href="aadhaar-sign.md"><strong>Firmar con [!DNL Aadhaar]</strong></a>
+    <a href="aadhaar-sign.md"><strong>Firmar usando [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Aprende a usar tu [!DNL Aadhaar] ID digital con Acrobat Sign</em>
+    <em>Descubre cómo usar tu ID digital de [!DNL Aadhaar] con Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -67,12 +67,12 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
 <tr>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="Regístrate y firma con una [!DNL Digidentity] ID digital" src="assets/Digidentitysign_1280.png" />
+      <img alt="Registrar y firmar con un id. digital de [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>Registrarse y firmar con [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Registrar y firmar con [!DNL Digidentity]</strong></a>
     </div>
-    <em>Aprenda a registrarse y utilizar su [!DNL Digidentity] ID digital con Acrobat Sign</em>
+    <em>Descubre cómo registrarte y usar tu ID digital de [!DNL Digidentity] con Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
     <div>
     <a href="d-trust.md"><strong>Registrar y firmar con D-Trust</strong></a>
     </div>
-    <em>Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utilice el [!DNL D-Trust] firma digital en un documento en Acrobat Sign</em>
+    <em>Aprende a registrar tu identidad con [!DNL D-Trust] y luego usa la firma digital de [!DNL D-Trust] en un documento de Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -134,19 +134,19 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
       <img alt="Obtener un ID digital de Intesi Group (avanzado)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>Obtener un ID digital de [!DNL Intesi Group] (Avanzado)</strong></a>
+    <a href="intesi-advanced.md"><strong>Obtener un id. digital de [!DNL Intesi Group] (avanzado)</strong></a>
     </div>
-    <em>Obtenga información sobre cómo obtener un certificado de firma digital avanzada de [!DNL Intesi Group]</em>
+    <em>Obtener información sobre cómo obtener un certificado de firma digital avanzada de [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="Obtener un ID digital de [!DNL Intesi Group] (Cualificado)" src="assets/IntesiQualified_1280.png" />
+      <img alt="Obtener un id. digital de [!DNL Intesi Group] (calificado)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Obtener un ID digital de [!DNL Intesi Group] (Cualificado)</strong></a>
+    <a href="intesi-qualified.md"><strong>Obtener un id. digital de [!DNL Intesi Group] (calificado)</strong></a>
     </div>
-    <em>Obtenga información sobre cómo obtener un certificado de firma digital cualificado de [!DNL Intesi Group]</em>
+    <em>Obtener información sobre cómo obtener un certificado de firma digital cualificado de [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -154,9 +154,9 @@ Conozca cómo registrar su identidad con [!DNL D-Trust]y, a continuación, utili
       <img alt="Firmar con Intesi Group" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>Firmar con [!DNL Intesi Group]</strong></a>
+    <a href="intesi-sign.md"><strong>Firmar usando [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Aprende a usar tu [!DNL Intesi Group] ID digital con Acrobat Sign</em>
+    <em>Descubre cómo usar tu ID digital de [!DNL Intesi Group] con Acrobat Sign</em>
     <br>
   </td>
   <td>

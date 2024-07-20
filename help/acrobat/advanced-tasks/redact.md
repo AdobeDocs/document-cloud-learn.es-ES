@@ -22,22 +22,22 @@ Aprenda a utilizar la herramienta Censurar para eliminar de forma permanente inf
 >
 >Disponible solo en Acrobat Pro.
 
-[!BADGE Impacto organizativo]
+[!BADGE Impacto en la organización]
 Protección de datos de clientes, Gestión de riesgos
 
 ## Censurar texto e imágenes
 
-1. Seleccionar **[!UICONTROL Censurar]** de la [!UICONTROL Herramientas] panel central o derecho.
+1. Seleccione **[!UICONTROL Censurar]** en el panel central o derecho de [!UICONTROL Herramientas].
 
    ![Censurar paso 1](../assets/Redact_1.png)
 
-1. Seleccionar **[!UICONTROL Censurar texto e imágenes]** **>** **[!UICONTROL Propiedades]** para personalizar el aspecto de las censuras, incluido el color de los cuadros de censura o la superposición de texto.
+1. Selecciona **[!UICONTROL Censurar texto e imágenes]** **>** **[!UICONTROL propiedades]** para personalizar la apariencia de tus censuras, incluido el color de los cuadros de censura o la superposición de texto.
 
    ![Censurar paso 2](../assets/Redact_2.png)
 
 Para censurar información, marque primero los elementos que desea quitar y, a continuación, aplique las censuras. Puedes censurar páginas enteras o contenido seleccionado.
 
-1. Seleccionar **[!UICONTROL Censurar páginas]**, elija la página o el intervalo de páginas que desee censurar y seleccione **[!UICONTROL OK]**.
+1. Selecciona **[!UICONTROL Censurar páginas]**, elige la página o el intervalo de páginas que quieras censurar y selecciona **[!UICONTROL Aceptar]**.
 
    ![Censurar paso 4](../assets/Redact_3.png)
 
@@ -45,30 +45,30 @@ O bien, utilice el cursor para seleccionar el contenido que censurar. Puede ver 
 
    ![Censurar paso 5a](../assets/Redact_4.png)
 
-1. Seleccionar **[!UICONTROL Censurar texto e imágenes]** **>** **[!UICONTROL Buscar texto y censurar]** para encontrar contenido específico para censurar.
+1. Seleccione **[!UICONTROL Censurar texto e imágenes]** **>** **[!UICONTROL Buscar texto y censurar]** para encontrar contenido específico para censurar.
 
 Utilice el cuadro de búsqueda para buscar una palabra o frase específica.
 
-1. Seleccionar **[!UICONTROL Patrones]** para encontrar ciertos tipos of información, marque las casillas y seleccione **[!UICONTROL Buscar y quitar texto]**.
+1. Seleccione **[!UICONTROL Patrones]** para buscar ciertos tipos of , marque las casillas y seleccione **[!UICONTROL Buscar y quitar texto]**.
 
    ![Censurar paso 5b](../assets/Redact_5.png)
 
-1. Seleccionar **[!UICONTROL Aplicar]** en el [!UICONTROL Censurar] menú superior para aplicar las censuras marcadas y guardar el archivo censurado.
+1. Seleccione **[!UICONTROL Aplicar]** en el menú superior [!UICONTROL Censurar] para aplicar las censuras marcadas y guardar el archivo censurado.
 
    ![Censurar paso 6](../assets/Redact_6.png)
 
 ## Corregir documento
 
-1. Seleccionar **[!UICONTROL Corregir documento]** en el [!UICONTROL Censurar] menú superior.
+1. Seleccione **[!UICONTROL Corregir documento]** en el menú superior [!UICONTROL Censurar].
 
-1. Seleccionar **[!UICONTROL OK]** para confirmar la eliminación de información oculta. O bien, elija **[!UICONTROL Haga clic aquí]** para eliminar selectivamente la información oculta.
+1. Seleccione **[!UICONTROL Aceptar]** para confirmar que se ha quitado la información oculta. O bien, elige **[!UICONTROL Hacer clic aquí]** para eliminar de forma selectiva la información oculta.
 
    ![Corregir paso 2](../assets/Redact_7.png)
 
 >[!TIP]
 >
-Para acelerar el proceso de censura, consulte la [Action Wizard](../advanced-tasks/action.md).
+Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
-Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.

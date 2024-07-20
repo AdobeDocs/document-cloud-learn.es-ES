@@ -20,7 +20,7 @@ Descubre cómo la interfaz de Acrobat facilita el acceso a archivos y herramient
 
 >[!TIP]
 >
->¿Le interesa obtener información sobre la nueva experiencia de espacio de trabajo que puede activar en Acrobat? Retirar [Nueva experiencia de espacio de trabajo](new-workspace.md).
+>¿Le interesa obtener información sobre la nueva experiencia de espacio de trabajo que puede activar en Acrobat? Consulte [Nueva experiencia de área de trabajo](new-workspace.md).
 
 <br> 
 

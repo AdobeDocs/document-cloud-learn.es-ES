@@ -9,7 +9,7 @@ thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Aprenda a administrar y realizar el seguimiento de los documentos enviados para 
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Introducción a Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Introducción a Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1), que está disponible de forma gratuita para los Experience League.

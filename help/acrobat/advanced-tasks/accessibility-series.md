@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Serie de accesibilidad de Acrobat
 
-![Imagen de la serie Accesibilidad de Acrobat](../assets/Hero_Accessibility.png)
+![Imagen de la serie de accesibilidad de Acrobat](../assets/Hero_Accessibility.png)
 
 En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico sobre accesibilidad a profundizar en el etiquetado de archivos de PDF. Cada sesión incluye archivos de práctica para seguir los pasos.
 
@@ -29,7 +29,7 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
     <div>
     <a href="accessibilitysession1.md"><strong>Introducción a la accesibilidad del PDF</strong></a>
     </div>
-    <em>En esta sesión bajo demanda, descubrirás lo que significa hacer que un PDF sea accesible, cómo configurar Acrobat Pro para trabajar con PDF por accesibilidad y el proceso de conversión de un documento de origen a un PDF</em>
+    <em>En esta sesión bajo demanda, descubre lo que significa hacer que un PDF sea accesible, cómo configurar Acrobat Pro para que trabaje con PDF por accesibilidad y el proceso de conversión de un documento de origen a un PDF</em>
     <br>
   </td>
   <td>
@@ -37,9 +37,9 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
       <img alt="Corrección de un PDF inaccesible" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>Corrección de un PDF inaccesible</strong></a>
+    <a href="accessibilitysession2.md"><strong>Remediando un PDF inaccesible</strong></a>
     </div>
-    <em>En esta sesión bajo demanda, aprende el flujo de trabajo para convertir un documento de Word y a solucionar algunos problemas básicos de etiquetado con las herramientas de Acrobat Pro que se muestran en el seminario web de introducción</em>
+    <em>En esta sesión bajo demanda, aprende el flujo de trabajo para convertir un documento de Word y solucionar algunos problemas básicos de etiquetado con las herramientas de Acrobat Pro que se muestran en el seminario web de introducción</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
     <div>
     <a href="accessibilitysession3.md"><strong>Tablas complejas</strong></a>
     </div>
-    <em>Esta sesión bajo demanda aborda uno de los problemas más comunes y complejos relacionados con la corrección de tablas complejas de accesibilidad de un PDF</em>
+    <em>Esta sesión bajo demanda aborda uno de los problemas más comunes y complejos al corregir la accesibilidad de un PDF: tablas complejas</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
     <div>
     <a href="accessibilitysession4.md"><strong>Documentos digitalizados y listas complejas</strong></a>
     </div>
-    <em>Esta sesión bajo demanda aborda los problemas más complejos que suelen encontrarse las personas, como los documentos digitalizados y las listas complejas</em>
+    <em>Esta sesión bajo demanda aborda los problemas más complejos con los que se encuentran las personas, como documentos digitalizados y listas complejas</em>
     <br>
   </td>
   <td>
@@ -69,9 +69,9 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
       <img alt="Adición de campos de formulario a un PDF etiquetado" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>Adición de campos de formulario a un PDF etiquetado</strong></a>
+    <a href="accessibilitysession5.md"><strong>Agregando campos de formulario a un PDF etiquetado</strong></a>
     </div>
-    <em>Esta sesión bajo demanda se centra en añadir campos de formulario a un PDF etiquetado anteriormente</em>
+    <em>Esta sesión bajo demanda se centra en agregar campos de formulario a un PDF etiquetado anteriormente</em>
     <br>
   </td>  
   <td>
@@ -79,9 +79,9 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
       <img alt="Adición de campos de formulario a un PDF sin etiquetas" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>Adición de campos de formulario a un PDF sin etiquetas</strong></a>
+    <a href="accessibilitysession6.md"><strong>Agregando campos de formulario a un PDF sin etiqueta</strong></a>
     </div>
-    <em>Esta sesión bajo demanda profundiza en la creación de campos de formulario manuales y propiedades de campos de formulario adicionales</em>
+    <em>Esta sesión a petición profundiza en la creación de campos de formulario manuales y propiedades adicionales de campos de formulario</em>
     <br>
   </td> 
 </tr>

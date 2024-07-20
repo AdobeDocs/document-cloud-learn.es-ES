@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Edición de texto en un PDF
 
-Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. Editar texto directamente en Acrobat le permite actualizar el contenido de forma precisa y profesional sin tener que cambiar de una aplicación a otra. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
+Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. Editar texto directamente en Acrobat le permite actualizar el contenido de forma precisa y profesional sin tener que cambiar de una aplicación a otra. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
 
 >[!TIP]
 >
@@ -28,4 +28,4 @@ Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. Editar t
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.

@@ -21,13 +21,13 @@ Descubre cómo varias organizaciones están utilizando Acrobat Sign para transfo
 
 ## Novedades
 
-* [Flujo de trabajo personalizado para el proceso IEP educativo](usecase-edu-iep.md)
-Obtenga información sobre cómo se utiliza el Diseñador de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)
+* [Flujo de trabajo personalizado para el proceso IEP del sector educativo](usecase-edu-iep.md)
+Obtenga información sobre cómo se utiliza el Designer de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)
 * [Aplicación de prácticas de formularios web educativos](usecase-edu-intern.md)
 Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
 * [Crear una aplicación de prácticas de formularios web educativos](usecase-edu-intern-create.md)
 Aprende a crear un formulario web de prácticas
-* [Solicitud de préstamo del gobierno con varios firmantes desconocidos](webform-multiple-signers.md)
+* [Aplicación de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
 Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
 
 ## Casos prácticos del gobierno
@@ -39,9 +39,9 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
       <img alt="Solicitud de préstamo del gobierno con varios firmantes desconocidos" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>Solicitud de préstamo del gobierno con varios firmantes desconocidos</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Aplicación de préstamo gubernamental con varios firmantes desconocidos</strong></a>
     </div>
-    <em>Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos</em>
+    <em>Descubre cómo se usa un formulario web para un flujo de trabajo complejo de solicitud de préstamos del gobierno en el que participan varios participantes desconocidos</em>
     <br>
   </td> 
   <td>
@@ -49,9 +49,9 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
       <img alt="Subvenciones y préstamos empresariales" src="../assets/UC_Business.png" />
     </a>
     <div>
-    <a href="usecasegovgrants.md"><strong>Subvenciones y préstamos empresariales</strong></a>
+    <a href="usecasegovgrants.md"><strong>Préstamos y subsidios para empresas</strong></a>
     </div>
-    <em>Proporcionar asistencia rápida a las empresas al proporcionar acceso de autoservicio a los formularios de solicitud de subvención, préstamo y aplazamiento de impuestos</em>
+    <em>Proporciona asistencia rápida a las empresas al proporcionar acceso de autoservicio a los formularios de solicitud de concesión, préstamo y aplazamiento de impuestos</em>
     <br>
   </td> 
   <td>
@@ -61,7 +61,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasegovtelework.md"><strong>Acuerdo de teletrabajo</strong></a>
     </div>
-    <em>Recopila firmas de forma eficaz de todos tus empleados en acuerdos de teletrabajo, actualizaciones de políticas y mucho más</em>
+    <em>Recopila firmas de todos tus empleados de manera eficiente en acuerdos de teletrabajo, actualizaciones de políticas y mucho más</em>
     <br>
   </td>
   <td>
@@ -71,7 +71,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasegovcontracts.md"><strong>Contratos y formularios de solicitud</strong></a>
     </div>
-    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con las normativas, y completa con informes de auditoría</em>
+    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplan con las normativas y completa con informes de auditoría</em>
     <br>
   </td>
 </tr>
@@ -83,7 +83,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasegovreemployment.md"><strong>Asistencia para el reempleo</strong></a>
     </div>
-    <em>Ayuda a los ciudadanos a obtener la ayuda que necesitan sin alinearse con los formularios de solicitud completamente digitales que pueden activarse en cuestión de días</em>
+    <em>Ayuda a los ciudadanos a obtener la ayuda que necesitan sin tener que estar de acuerdo con los formularios de solicitud completamente digitales que pueden publicarse en cuestión de días</em>
     <br>
   </td>
   <td>
@@ -91,9 +91,9 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
       <img alt="Protección de cheque" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Protección de cheque</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Protección de cheque de pago</strong></a>
     </div>
-    <em>Descubre cómo puedes usar Acrobat Sign para convertir el formulario del Programa de protección de pagos en un formulario interactivo online</em>
+    <em>Descubre cómo puedes usar Acrobat Sign para convertir el formulario del Programa de protección de pagos en un formulario interactivo en línea</em>
     <br>
   </td>
   <td>
@@ -103,7 +103,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasegovremote.md"><strong>Solicitud de orden remota</strong></a>
     </div>
-    <em>Utiliza las firmas electrónicas y las conferencias web de forma conjunta para reducir el tiempo que se tarda en solicitar y garantizar las garantías de los jueces</em>
+    <em>Utiliza firmas electrónicas y conferencias web de forma conjunta para reducir el tiempo que se tarda en solicitar y garantizar las garantías de los jueces</em>
     <br>
   </td>
   <td>
@@ -125,7 +125,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecasecomcontracts.md"><strong>Contratos y formularios de solicitud</strong></a>
     </div>
-    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con las normativas, y completa con informes de auditoría</em>
+    <em>Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplan con las normativas y completa con informes de auditoría</em>
     <br>
   </td> 
   <td>
@@ -133,9 +133,9 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
       <img alt="Acuerdos de política" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>Acuerdos de política</strong></a>
+    <a href="usecasecompolicy.md"><strong>Acuerdos de directivas</strong></a>
     </div>
-    <em>Recopila firmas de todos tus empleados de forma eficaz en acuerdos y actualizaciones de políticas</em>
+    <em>Recopila firmas de todos tus empleados de manera eficiente sobre acuerdos y actualizaciones de políticas</em>
     <br>
   </td>
   <td>
@@ -167,7 +167,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecase-edu-intern.md"><strong>Aplicación de prácticas de formularios web educativos</strong></a>
     </div>
-    <em>Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios</em>
+    <em>Descubre cómo se usan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios</em>
     <br>
   </td> 
   <td>
@@ -177,7 +177,7 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
     <div>
     <a href="usecase-edu-intern-create.md"><strong>Crear una aplicación de prácticas de formularios web educativos</strong></a>
     </div>
-    <em>Aprende a crear un formulario web de prácticas</em>
+    <em>Obtener información sobre cómo crear un formulario web de prácticas</em>
     <br>
   </td> 
   <td>
@@ -185,9 +185,9 @@ Obtenga información sobre cómo se utiliza un formulario web para un flujo de t
       <img alt="Flujo de trabajo personalizado para el proceso IEP educativo" src="../assets/Workflow-iep.png" />
     </a>
     <div>
-    <a href="usecase-edu-iep.md"><strong>Flujo de trabajo personalizado para el proceso IEP educativo</strong></a>
+    <a href="usecase-edu-iep.md"><strong>Flujo de trabajo personalizado para el proceso IEP del sector educativo</strong></a>
     </div>
-    <em>Obtenga información sobre cómo se utiliza el Diseñador de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)</em>
+    <em>Obtenga información sobre cómo se usa el Designer de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)</em>
     <br>
   </td>
   <td>

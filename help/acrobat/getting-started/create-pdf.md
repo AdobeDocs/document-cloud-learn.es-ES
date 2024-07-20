@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Crear un PDF
 
-Obtenga información sobre cómo [crear PDF a partir de todos los tipos de documentos](https://www.adobe.com/es/acrobat/online/convert-pdf.html). Empieza con un archivo creado en Microsoft Office o una aplicación de Creative Cloud, o utiliza una imagen, una digitalización o incluso un sitio web. Convertir el contenido en PDF proporciona una forma cómoda y fiable de compartir, conservar y proteger documentos al tiempo que se mantiene el formato original. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
+Aprende a [crear PDF a partir de todos los diferentes tipos de documentos](https://www.adobe.com/es/acrobat/online/convert-pdf.html). Empieza con un archivo creado en Microsoft Office o una aplicación de Creative Cloud, o utiliza una imagen, una digitalización o incluso un sitio web. Convertir el contenido en PDF proporciona una forma cómoda y fiable de compartir, conservar y proteger documentos al tiempo que se mantiene el formato original. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
 
 >[!TIP]
 >
->¿Utiliza Microsoft Office todo el tiempo? Echa un vistazo a estos [integraciones](../integrate/integrate-overview.md#microsoft) que le permiten crear PDF directamente dentro de sus aplicaciones de Office favoritas.
+>¿Utiliza Microsoft Office todo el tiempo? Echa un vistazo a estas [integraciones](../integrate/integrate-overview.md#microsoft) que te permiten crear PDF directamente dentro de tus aplicaciones favoritas de Office.
 
 <br> 
 

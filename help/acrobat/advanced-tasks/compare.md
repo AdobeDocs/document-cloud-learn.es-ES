@@ -21,14 +21,14 @@ No cometa nunca el error de trabajar con la versión incorrecta de un archivo. D
 [!BADGE Casos prácticos]
 Solicitudes, Garantías reales, Hojas informativas, Manuales, Políticas, Informes, Solicitudes de compra (PdP)
 
-[!BADGE Impacto organizativo]
+[!BADGE Impacto en la organización]
 Ahorro de costes, eficiencia organizativa, ahorro de tiempo, garantía de calidad
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.
 
 >[!NOTE]
 >

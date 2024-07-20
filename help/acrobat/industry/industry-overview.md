@@ -27,9 +27,9 @@ Descubre cómo puedes transformar las experiencias de los clientes y empleados e
       <img alt="Tutoriales para la administración pública" src="../assets/Government.png" />
     </a>
     <div>
-    <a href="gov/gov-overview.md"><strong>Tutoriales para la administración pública</strong></a>
+    <a href="gov/gov-overview.md"><strong>Tutoriales de administración pública</strong></a>
     </div>
-    <em>Explora nuestros tutoriales de Acrobat diseñados específicamente para la administración federal, estatal y local</em>
+    <em>Descubre nuestros tutoriales de Acrobat diseñados específicamente para la administración federal, estatal y local</em>
     <br>
   </td>
   <td>

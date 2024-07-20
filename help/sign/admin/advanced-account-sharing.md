@@ -10,12 +10,12 @@ thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
-# Uso compartido avanzado de la cuenta
+# Uso compartido avanzado de cuentas
 
 Aprenda a configurar el uso compartido avanzado de cuentas, lo que permite a los administradores y usuarios delegar sus permisos de envío, modificación y visualización. El uso compartido de cuentas es perfecto para situaciones en las que un usuario se va de vacaciones o se va de ausencia. O bien, puede crear una cuenta de usuario virtual, como una cuenta de usuario de gestión de RR. HH. y, a continuación, conceder permiso a varios usuarios del grupo de RR. HH. que puedan actuar en nombre del usuario virtual.
 
@@ -27,4 +27,4 @@ Aprenda a configurar el uso compartido avanzado de cuentas, lo que permite a los
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Tareas avanzadas para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Tareas avanzadas para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) que está disponible de forma gratuita para el Experience League.

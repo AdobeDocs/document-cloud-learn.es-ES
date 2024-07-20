@@ -1,6 +1,6 @@
 ---
-title: Firmar con [!DNL Intesi Group]
-description: Aprende a usar tu [!DNL Intesi Group] ID digital con Acrobat Sign
+title: Firmar usando  [!DNL Intesi Group]
+description: Aprende a usar tu  [!DNL Intesi Group] ID digital con Acrobat Sign
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Firmar con [!DNL Intesi Group]
+# Firmar usando [!DNL Intesi Group]
 
-Aprende a usar tu [!DNL Intesi Group] ID digital para autenticar su identidad y autorizar una firma digital remota (firma en la nube) en un documento.
+Aprende a usar tu ID digital de [!DNL Intesi Group] para autenticar tu identidad y autorizar una firma digital remota (firma en la nube) en un documento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)

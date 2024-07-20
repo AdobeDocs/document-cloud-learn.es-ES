@@ -1,6 +1,6 @@
 ---
-title: Crear PDF en [!DNL Office] para la Web
-description: Aprende a crear archivos de PDF sin tener que salir de tu [!DNL Microsoft Office] para aplicaciones web
+title: Crear PDF en  [!DNL Office] para el Web
+description: Aprende a crear archivos de PDF sin tener que salir de tu  [!DNL Microsoft Office] aplicación para la web
 feature: Integrations, Create PDF
 role: User
 topic: Integrations
@@ -11,14 +11,14 @@ thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# Crear PDF en [!DNL Office] para la web
+# Crear PDF en [!DNL Office] para la Web
 
-Aprende a crear archivos de PDF sin tener que salir de tu [!DNL Microsoft Office] para aplicaciones web. Este complemento requiere una suscripción a Acrobat para equipos o Acrobat para empresas.
+Aprende a crear archivos de PDF sin tener que salir de [!DNL Microsoft Office] para aplicaciones web. Este complemento requiere una suscripción a Acrobat para equipos o Acrobat para empresas.
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Aprende a crear archivos de PDF sin tener que salir de tu [!DNL Microsoft Office
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible de forma gratuita en el Experience League!
+>Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.

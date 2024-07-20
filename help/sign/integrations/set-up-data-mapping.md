@@ -1,6 +1,6 @@
 ---
 title: Configuración de la asignación de datos
-description: Aprenda a configurar una asignación de datos para Acrobat Sign en [!DNL Salesforce]
+description: Obtenga información sobre cómo configurar una asignación de datos para Acrobat Sign en  [!DNL Salesforce]
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Configuración de la asignación de datos en [!DNL Salesforce]
+# Configurando la asignación de datos en [!DNL Salesforce]
 
-Aprenda a configurar la asignación de datos para Acrobat Sign en [!DNL Salesforce]. La asignación de datos te permite extraer datos _parte posterior_ en [!DNL Salesforce] después de la firma de un acuerdo.
+Obtenga información sobre cómo configurar la asignación de datos para Acrobat Sign en [!DNL Salesforce]. La asignación de datos te permite extraer los datos _de_ a [!DNL Salesforce] después de firmar un acuerdo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

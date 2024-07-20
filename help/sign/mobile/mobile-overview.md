@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -28,7 +28,7 @@ Envía documentos para su firma, realiza un seguimiento del progreso de la firma
     <div>
     <a href="sign-mobile.md"><strong>Firma documentos sobre la marcha</strong></a>
     </div>
-    <em>Aprenda a firmar documentos con la aplicación móvil de Acrobat Sign</em>
+    <em>Aprende a firmar documentos con la aplicación móvil de Acrobat Sign</em>
     <br>
   </td>
   <td>

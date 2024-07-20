@@ -9,7 +9,7 @@ thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ En este seminario web grabado (no es necesario registrarse), aprenda a crear cam
 
 >[!TIP]
 >
->Este vídeo forma parte de la [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) y [Tareas avanzadas para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) cursos disponibles de forma gratuita para Experience League.
+>Este vídeo forma parte de los cursos [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) y [Tareas avanzadas para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) que están disponibles de forma gratuita para el Experience League.

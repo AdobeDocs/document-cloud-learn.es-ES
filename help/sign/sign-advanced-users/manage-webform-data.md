@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Administración de datos de formulario web
 
-Aprenda a realizar el seguimiento, administrar y exportar datos desde un [formulario web](webform.md). Este tutorial muestra un flujo de trabajo de formulario web participante adicional y cómo consolidar varias entradas de datos en un único archivo .csv para su visualización y análisis.
+Aprende a rastrear, administrar y exportar datos de un [formulario web](webform.md). Este tutorial muestra un flujo de trabajo de formulario web participante adicional y cómo consolidar varias entradas de datos en un único archivo .csv para su visualización y análisis.
 
 >[!NOTE]
 >

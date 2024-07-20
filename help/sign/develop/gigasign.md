@@ -21,13 +21,13 @@ Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos pa
 
 >[!IMPORTANT]
 >
->GigaSign ya no se actualiza a la última versión de Java o Acrobat Sign y solo tendrá compatibilidad limitada. Las funciones de GigaSign se añaden al producto en el [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) funcionalidad. Utilice Enviar en bloque para todos los casos de uso que no requieran explícitamente el uso de GigaSign.
+>GigaSign ya no se actualiza a la última versión de Java o Acrobat Sign y solo tendrá compatibilidad limitada. Las funciones de GigaSign se están agregando al producto con la funcionalidad [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Utilice Enviar en bloque para todos los casos de uso que no requieran explícitamente el uso de GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Descargar e instalar la aplicación GigaSign
 
-[Descargar archivo Zip de GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
+[Descargar archivo .zip de GigaSign](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Vínculo de descarga de Java 1.8 (solo si es necesario)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -37,7 +37,7 @@ Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos pa
 
 1. Inicie sesión en su cuenta de Acrobat Sign.
 
-1. Haga clic en **[!UICONTROL Grupo]** o **[!UICONTROL Cuenta]**, lo que se vea en la parte superior.
+1. Haga clic en **[!UICONTROL Grupo]** o **[!UICONTROL Cuenta]**, lo que se muestre en la parte superior.
 
 1. Escriba &quot;Tokens de acceso&quot; en el campo de búsqueda en la parte izquierda de la pantalla.
 
@@ -49,7 +49,7 @@ Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos pa
 
 1. Abra GigaSign.
 
-1. Haga clic en **[!UICONTROL Configuración]** en la parte superior derecha.
+1. Haga clic en el icono **[!UICONTROL Configuración]** en la parte superior derecha.
 
 1. Pegue la clave de integración en la primera línea.
 

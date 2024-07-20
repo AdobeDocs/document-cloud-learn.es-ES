@@ -10,7 +10,7 @@ kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ En este tutorial detallado se tratan los siguientes temas:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Iniciar sesión</strong></a>
          <br>
-        <em>Empezar a las 0:00</em>
+        <em>Comienza a las 0:00</em>
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
@@ -43,9 +43,9 @@ En este tutorial detallado se tratan los siguientes temas:
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>Página de inicio</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>Página principal</strong></a>
          <br>
-        <em>Empezar a las 0:56</em>
+        <em>Comienza a las 0:56</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
@@ -53,9 +53,9 @@ En este tutorial detallado se tratan los siguientes temas:
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>Configurar su perfil</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>Configura tu perfil</strong></a>
         <br>
-        <em>Empezar a las 2:33</em>
+        <em>Comienza a las 2:33</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
@@ -65,7 +65,7 @@ En este tutorial detallado se tratan los siguientes temas:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>Configuración de envío</strong></a>
         <br>
-        <em>Empezar a las 4:32</em>
+        <em>Comienza a las 4:32</em>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ En este tutorial detallado se tratan los siguientes temas:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>Agregar campos rellenables</strong></a>
          <br>
-        <em>Empezar a las 9:11</em>
+        <em>Comienza a las 9:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
@@ -87,7 +87,7 @@ En este tutorial detallado se tratan los siguientes temas:
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>Experiencia de firma</strong></a>
         <br>
-        <em>Empezar a las 11:59</em>
+        <em>Comienza a las 11:59</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
@@ -95,9 +95,9 @@ En este tutorial detallado se tratan los siguientes temas:
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Gestión y seguimiento de documentos</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Administrar y realizar el seguimiento de documentos</strong></a>
         <br>
-        <em>Empezar a las 12:54</em>
+        <em>Comienza a las 12:54</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
@@ -107,7 +107,7 @@ En este tutorial detallado se tratan los siguientes temas:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>Asistencia y recursos</strong></a>
         <br>
-        <em>Empezar a las 14:58</em>
+        <em>Comienza a las 14:58</em>
     </td>
   </tr>
   </table>

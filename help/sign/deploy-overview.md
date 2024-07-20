@@ -9,8 +9,8 @@ thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
@@ -25,9 +25,9 @@ Artículos de prácticas recomendadas con información valiosa sobre la implemen
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Administración de Acrobat Sign en el Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Administrar Acrobat Sign en el Admin Console</strong></a>
     </div>
-    <em>Aprenda a administrar usuarios y licencias de Acrobat Sign en la plataforma empresarial de Adobe a través de Adobe Admin Console</em>
+    <em>Aprende a administrar usuarios y licencias de Acrobat Sign en la plataforma empresarial de Adobe en Adobe Admin Console</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ Artículos de prácticas recomendadas con información valiosa sobre la implemen
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centro de confianza de Adobe</strong></a>
     </div>
-    <em>Descubre nuestros esfuerzos continuos en seguridad, legalidad y estándares para Acrobat Sign</em>
+    <em>Más información sobre nuestros esfuerzos en seguridad, legalidad y estándares para Acrobat Sign</em>
     <br>
   </td>
   <td>

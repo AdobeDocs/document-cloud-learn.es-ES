@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Ajustar diseño automáticamente
 
-Obtenga más información sobre el nuevo modo de edición que reajusta el contenido y ajusta automáticamente el diseño en todas las páginas de su PDF. Este tutorial de vídeo utiliza la [nueva experiencia de espacio de trabajo](new-workspace.md).
+Obtenga más información sobre el nuevo modo de edición que reajusta el contenido y ajusta automáticamente el diseño en todas las páginas de su PDF. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
 
 >[!NOTE]
 >

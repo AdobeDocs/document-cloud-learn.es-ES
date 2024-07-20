@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Liquid Mode en Acrobat Sign
 
-Descubre cómo Liquid Mode mejora la experiencia de firma móvil. Se acabaron los pellizcos y las ampliaciones al intentar leer y firmar documentos. En este tutorial se explica cómo enviar un _formulario de HTML_ enviados para firmar y crear automáticamente una experiencia de firma mejorada para usuarios móviles.
+Descubre cómo Liquid Mode mejora la experiencia de firma móvil. Se acabaron los pellizcos y las ampliaciones al intentar leer y firmar documentos. Este tutorial explica cómo puedes enviar un _formulario de HTML_ para que se firme y crear automáticamente una experiencia de firma mejorada para los usuarios móviles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
