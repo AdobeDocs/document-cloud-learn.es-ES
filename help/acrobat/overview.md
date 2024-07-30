@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 40960e4931e5491275f63775590e7029ff698c49
+source-git-commit: 6756af6adb638285d01f16a8340dd3d1c8dfe782
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -29,25 +29,56 @@ Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a que las tareas no 
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+ <td>
     <a href="getting-started/getting-started-overview.md">
       <img alt="Introducción" src="assets/start.png" />
     </a>
+    <div>
+    <a href="getting-started/getting-started-overview.md"><strong>Introducción</strong></a>
+    </div>
+    Obtén información actualizada sobre cómo crear, editar, convertir, proteger y mucho más con archivos de PDF
+    <br>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
       <img alt="Tareas avanzadas" src="assets/advanced-tasks.png" />
     </a>
+    <div>
+    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Tareas avanzadas</strong></a>
+    </div>
+    Ve más allá de lo básico con tareas específicas y automatización
+    <br>
   </td>
   <td>
     <a href="60-second/60-second-overview.md">
       <img alt="Acrobat de 60 segundos" src="assets/60-sec.png" />
     </a>
+  <div>
+    <a href="60-second/60-second-overview.md"><strong>Acrobat de 60 segundos</strong></a>
+    </div>
+    Tutoriales del tamaño de una mordida para ayudarte a aprender un nuevo truco en Acrobat en un minuto o menos
+    <br>
   </td>
+</tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="Integraciones" src="assets/integrations.png" />
     </a>
+    <div>
+    <a href="integrate/integrate-overview.md"><strong>Integraciones</strong></a>
+    </div>
+    Añada Acrobat a aplicaciones existentes como Microsoft, Google Drive, Dropbox y Box
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>

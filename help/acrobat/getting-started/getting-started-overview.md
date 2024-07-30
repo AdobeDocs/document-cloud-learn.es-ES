@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
+source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 4%
+source-wordcount: '582'
+ht-degree: 2%
 
 ---
 
@@ -35,36 +35,73 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <a href="new-workspace.md">
       <img alt="Nueva experiencia de espacio de trabajo" src="../assets/new-workspace.png" />
     </a>
+    <div>
+    <a href="new-workspace.md"><strong>Nueva experiencia de área de trabajo</strong></a>
+    </div>
+    Obtenga más información sobre el nuevo espacio de trabajo de Acrobat
+    <br>
   </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Conceptos básicos del área de trabajo" src="../assets/workspace-basics.png" />
     </a>
+    <div>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del área de trabajo</strong></a>
+    </div>
+    Aprende a acceder a archivos y herramientas en el escritorio, la web y dispositivos móviles
+    <br>
   </td>
   <td>
     <a href="ai-assistant.md">
       <img alt="Descubre información de PDF con el asistente de inteligencia artificial" src="../assets/ai-assistant.png" />
     </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Descubre información de PDF con el Asistente de IA</strong></a>
+    </div>
+    Aprende a obtener información de los archivos de PDF con el Asistente de IA
+    <br>
   </td>
   <td>
     <a href="acrobatweb.md">
       <img alt="Trabaja en cualquier parte con Acrobat web" src="../assets/acrobat-web.png" />
     </a>
+    <div>
+    <a href="acrobatweb.md"><strong>Trabaja en cualquier parte con la web de Acrobat</strong></a>
+    </div>
+    Aprende a tramitar las solicitudes de documentos empresariales desde cualquier lugar
+    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="productivity.md">
       <img alt="Productividad sobre la marcha" src="../assets/productivity.png" />
+    </a>
+    <div>
+    <a href="productivity.md"><strong>Productividad en cualquier parte</strong></a>
+    </div>
+    Aprende a hacer más directamente desde tu tableta o teléfono móvil
+    <br>
   </td>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Trabajar con Microsoft 365" src="../assets/microsoft-365.png" />
+      </a>
+      <div>
+      <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabajar con Microsoft 365</strong></a>
+      </div>
+      Descubre cómo trabajar sin problemas con archivos de PDF desde Microsoft 365
+      <br> 
     </td>
     <td>
       <a href="where-do-pdfs-come-from.md">
         <img alt="¿De dónde vienen los PDF?" src="../assets/where-pdfs.png" />
       </a>
+      <div>
+      <a href="where-do-pdfs-come-from.md"><strong>De dónde vienen los PDF?</strong></a>
+      </div>
+      Descubre de dónde vienen los PDF y cómo puedes utilizarlos en flujos de trabajo digitales
+      <br>
     </td>
     <td>
     <img alt="Separador" src="../assets/Grayspacer.png" />
@@ -82,20 +119,41 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <a href="create-pdf.md">
         <img alt="Crear archivos de PDF" src="../assets/create.png" />
       </a>
+      <div>
+      <a href="create-pdf.md"><strong>Creación de archivos PDF</strong></a>
+      </div>
+      Aprenda a crear PDF a partir de todos los diferentes tipos de documentos
+      <br>
     </td>
     <td>
       <a href="combine-to-pdf.md">
-        <img alt="COMBINE FILES a PDF" src="../assets/combine.png" />
+        <img alt="Combinar archivos en un único PDF" src="../assets/combine.png" />
+      </a>
+      <div>
+      <a href="combine-to-pdf.md"><strong>Combinar archivos en un solo PDF</strong></a>
+      </div>
+      Aprenda a combinar sin problemas muchos tipos diferentes de archivos en un solo PDF
+      <br>
     </td>
     <td>
       <a href="organize.md">
         <img alt="Organizar páginas" src="../assets/organize-pages.png" />
       </a>
+      <div>
+      <a href="organize.md"><strong>Organizar páginas</strong></a>
+      </div>
+      Descubre cómo reorganizar las páginas justo como quieras
+      <br>
     </td>
     <td>
       <a href="add-custom-page.md">
         <img alt="Adición de una página personalizada" src="../assets/custom.png" />
       </a>
+      <div>
+      <a href="add-custom-page.md"><strong>Agregar página personalizada</strong></a>
+      </div>
+      Aprende a añadir páginas personalizadas a tu PDF
+      <br>
     </td>
   </tr>
   </table>
@@ -108,27 +166,52 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <a href="edit-pdf.md">
         <img alt="Edición de texto en un PDF" src="../assets/edit-text.png" />
       </a>
+      <div>
+      <a href="edit-pdf.md"><strong>Editar texto en un PDF</strong></a>
+      </div>
+      Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
+      <br>
     </td>
     <td>
       <a href="edit-graphics.md">
         <img alt="Edición de gráficos en un PDF" src="../assets/edit-graphics.png" />
       </a>
+      <div>
+      <a href="edit-graphics.md"><strong>Editar gráficos en un PDF</strong></a>
+      </div>
+      Aprenda a crear, editar y mejorar gráficos en el PDF
+      <br>
     </td>
     <td>
       <a href="stylize-this-PDF.md">
         <img alt="Estilizar este PDF" src="../assets/stylize-pdf.png" />
       </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Estilizar este PDF</strong></a>
+      </div>
+      Aprende a crear PDF con un aspecto profesional
+      <br>
     </td>
    <td>
       <a href="auto-adjust-layout.md">
         <img alt="Ajustar diseño automáticamente" src="../assets/auto-adjust.png" />
       </a>
+      <div>
+      <a href="auto-adjust-layout.md"><strong>Ajustar diseño automáticamente</strong></a>
+      </div>
+      Obtenga más información sobre el nuevo modo de edición que reorganiza el contenido
+      <br>
     </td>
   </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Convertir PDF a diferentes formatos de archivo" src="../assets/convert.png" />
       </a>
+      <div>
+      <a href="export-pdf.md"><strong>Convertir PDF a diferentes formatos de archivo</strong></a>
+      </div>
+      Aprenda a convertir los archivos de PDF a diferentes formatos de archivo
+      <br>
     </td>
     <td>
    <img alt="Separador" src="../assets/Grayspacer.png" />
@@ -156,11 +239,20 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <a href="collaborate.md">
         <img alt="Colabora en tiempo real" src="../assets/collaborate.png" />
       </a>
+      <div>
+      <a href="collaborate.md"><strong>Colabora en tiempo real</strong></a>
+      </div>
+      Impulsa tus proyectos colaborando en tiempo real
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
         <img alt="Comentar en un PDF" src="../assets/comment.png" />
       </a>
+      <div>
+      <a href="comment-on-pdf-files.md"><strong>Comentar en un PDF</strong></a>
+      </div>
+      Aprenda a añadir comentarios a un archivo de PDF y, a continuación, comparta el archivo con otros usuarios
+      <br>
     </td>
     <td>
     <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -183,21 +275,41 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <a href="create-fillable-forms.md">
       <img alt="Crear formularios rellenables" src="../assets/fillable-forms.png" />
     </a>
+    <div>
+      <a href="create-fillable-forms.md"><strong>Crear formularios rellenables</strong></a>
+      </div>
+      Convierte un documento escaneado en un formulario que se puede rellenar
+      <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Rellenar y firmar un formulario de PDF" src="../assets/fill-sign.png" />
+      <img alt="Formulario de Fill &amp; Sign como PDF" src="../assets/fill-sign.png" />
     </a>
+    <div>
+    <a href="fill-and-sign.md"><strong>Fill &amp; Sign es un formulario de PDF</strong></a>
+    </div>
+    Aprenda a rellenar y firmar un formulario de PDF de forma rápida y sencilla
+    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Digitalización y OCR" src="../assets/scan.png" />
     </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>Digitalizar y OCR</strong></a>
+    </div>
+    Convertir digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas
+    <br>
   </td>
   <td>
     <a href="password-protect.md">
       <img alt="Protect crea un archivo de PDF con una contraseña" src="../assets/protect.png" />
     </a>
+    <div>
+    <a href="password-protect.md"><strong>Protect crea un archivo de PDF con una contraseña</strong></a>
+    </div>
+    Obtenga información sobre cómo agregar una contraseña a su PDF
+    <br>
   </td>
 </tr>
 <tr>
@@ -205,11 +317,21 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <a href="signatures.md">
       <img alt="Obtener firmas" src="../assets/signatures.png" />
     </a>
+    <div>
+    <a href="signatures.md"><strong>Obtener firmas</strong></a>
+    </div>
+    Que las tareas no se detengan recopilando firmas electrónicas legalmente vinculantes
+    <br>
   </td>
   <td>
     <a href="track.md">
       <img alt="Realizar un seguimiento de documentos" src="../assets/track.png" />
     </a>
+    <div>
+    <a href="track.md"><strong>Realizar un seguimiento de los documentos</strong></a>
+    </div>
+    Aprende a rastrear y administrar tus documentos de firma electrónica
+    <br>
   </td>
   <td>
    <img alt="Separador" src="../assets/Grayspacer.png" />
