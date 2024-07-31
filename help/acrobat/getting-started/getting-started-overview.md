@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Conceptos básicos del área de trabajo</strong></a>
     </div>
-    Aprende a acceder a archivos y herramientas en el escritorio, la web y dispositivos móviles
+    Aprenda los conceptos básicos del espacio de trabajo de Acrobat
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="ai-assistant.md"><strong>Descubre información de PDF con el Asistente de IA</strong></a>
     </div>
-    Aprende a obtener información de los archivos de PDF con el Asistente de IA
+    Obtén información de los archivos de PDF con el Asistente de IA
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="acrobatweb.md"><strong>Trabaja en cualquier parte con la web de Acrobat</strong></a>
     </div>
-    Aprende a tramitar las solicitudes de documentos empresariales desde cualquier lugar
+    Aprende a trabajar desde cualquier parte
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="productivity.md"><strong>Productividad en cualquier parte</strong></a>
     </div>
-    Aprende a hacer más directamente desde tu tableta o teléfono móvil
+    Aprende a hacer más con tu tablet o teléfono móvil
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Trabajar con Microsoft 365</strong></a>
       </div>
-      Descubre cómo trabajar sin problemas con archivos de PDF desde Microsoft 365
+      Trabaja sin problemas con archivos de PDF, desde Microsoft 365
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>De dónde vienen los PDF?</strong></a>
       </div>
-      Descubre de dónde vienen los PDF y cómo puedes utilizarlos en flujos de trabajo digitales
+      Conozca de dónde vienen los PDF y cómo puede usarlos
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="create-pdf.md"><strong>Creación de archivos PDF</strong></a>
       </div>
-      Aprenda a crear PDF a partir de todos los diferentes tipos de documentos
+      Crear PDF a partir de todos los tipos de documentos
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="combine-to-pdf.md"><strong>Combinar archivos en un solo PDF</strong></a>
       </div>
-      Aprenda a combinar sin problemas muchos tipos diferentes de archivos en un solo PDF
+      Combine a la perfección muchos tipos diferentes de archivos en un solo PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="edit-pdf.md"><strong>Editar texto en un PDF</strong></a>
       </div>
-      Aprende a editar palabras, frases o incluso páginas enteras en tu PDF
+      Edita palabras, frases o incluso páginas enteras en tu PDF
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="export-pdf.md"><strong>Convertir PDF a diferentes formatos de archivo</strong></a>
       </div>
-      Aprenda a convertir los archivos de PDF a diferentes formatos de archivo
+      Convertir los archivos de PDF a otros formatos de archivo
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
       <div>
       <a href="comment-on-pdf-files.md"><strong>Comentar en un PDF</strong></a>
       </div>
-      Aprenda a añadir comentarios a un archivo de PDF y, a continuación, comparta el archivo con otros usuarios
+      Añada comentarios y, a continuación, comparta su PDF con otros
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="scan-and-ocr.md"><strong>Digitalizar y OCR</strong></a>
     </div>
-    Convertir digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas
+    Convertir digitalizaciones o imágenes en archivos de PDF editables y en los que se pueden realizar búsquedas
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="signatures.md"><strong>Obtener firmas</strong></a>
     </div>
-    Que las tareas no se detengan recopilando firmas electrónicas legalmente vinculantes
+    Descubre cómo recopilar firmas electrónicas legalmente vinculantes
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA
     <div>
     <a href="track.md"><strong>Realizar un seguimiento de los documentos</strong></a>
     </div>
-    Aprende a rastrear y administrar tus documentos de firma electrónica
+    Realiza el seguimiento y gestiona tus documentos de firma electrónica
     <br>
   </td>
   <td>
