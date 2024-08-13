@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 ## Novedades
 
+* [Informes de auditoría](audit-reports.md)
+Aprende a acceder, utilizar y configurar informes de auditoría para adaptarlos a las necesidades de tu organización
 * [Enviar en bloque](../sign-advanced-users/megasign.md)
 Aprende a recopilar miles de firmas a la vez para cualquier documento en solo unos pasos
 * [Opciones de informe](report-options.md)
 Aprenda a configurar las opciones de informes para los usuarios
-* [Agregando usuarios](add-users-to-your-account.md)
-Aprenda a añadir y administrar usuarios para Acrobat Sign
 
 ## Introducción
 
@@ -169,8 +169,13 @@ Aprenda a añadir y administrar usuarios para Acrobat Sign
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="Informes de auditoría" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>Informes de auditoría</strong></a>
+    </div>
+    <em>Aprende a acceder, utilizar y configurar informes de auditoría</em>
     <br>
   </td>
   <td>
