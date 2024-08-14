@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 ## Novedades
 
+* [Cómo configurar los administradores de privacidad](privacy.md)
+Aprenda a configurar y usar administradores de privacidad
+* [Herramienta de descarga masiva](bulk-download-tool.md)
+Aprenda a utilizar la herramienta de descarga en bloque para descargar rápidamente todos los acuerdos firmados
 * [Informes de auditoría](audit-reports.md)
 Aprende a acceder, utilizar y configurar informes de auditoría para adaptarlos a las necesidades de tu organización
-* [Enviar en bloque](../sign-advanced-users/megasign.md)
-Aprende a recopilar miles de firmas a la vez para cualquier documento en solo unos pasos
-* [Opciones de informe](report-options.md)
-Aprenda a configurar las opciones de informes para los usuarios
+
 
 ## Introducción
 
@@ -225,13 +226,13 @@ Aprenda a configurar las opciones de informes para los usuarios
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Uso de la configuración de biofarmacéutica" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Herramienta de descarga masiva" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Usar configuración de biofarmacéutica</strong></a>
+    <a href="bulk-download-tool.md"><strong>Herramienta de descarga masiva</strong></a>
     </div>
-    <em>Configurar opciones de biofarmacéutica que le permitan cumplir con los requisitos de la FDA 21 CFR Parte 11</em>
+    <em>Aprende a usar la herramienta de descarga masiva para descargar rápidamente todos tus acuerdos firmados</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ Aprenda a configurar las opciones de informes para los usuarios
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Uso de la configuración de biofarmacéutica" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Usar configuración de biofarmacéutica</strong></a>
+    </div>
+    <em>Configurar opciones de biofarmacéutica que le permitan cumplir con los requisitos de la FDA 21 CFR Parte 11</em>
     <br>
   </td>
   <td>
-    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="Cómo configurar el administrador de privacidad" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>Cómo configurar los administradores de privacidad</strong></a>
+    </div>
+    <em>Obtener información sobre cómo configurar y usar administradores de privacidad</em>
     <br>
   </td>
   <td>
