@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Puede utilizar Acrobat Sign dentro de otras aplicaciones que su organización ya
 
 ## Novedades
 
+* [Configurar asignaciones de inserción y archivos grandes](salesforce-large-files.md)
+Aprenda a configurar documentos grandes y enviar servicios de acuerdos en Salesforce
+* [Configurar actualizaciones automáticas](salesforce-automatic-updates.md)
+Aprenda a vincular fácilmente su cuenta a Salesforce para obtener actualizaciones automáticas
 * [Integración de la pestaña Documentos para  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Aprende a enviar documentos para su firma directamente desde la pestaña Documentos en [!DNL Microsoft Teams]
-* [Live Sign en Adobe Acrobat Sign para  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Aprende a crear una experiencia de firma online que se parezca a la firma en persona durante una reunión de [!DNL Microsoft Teams]
-* [Crear un flujo de trabajo avanzado con [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Obtenga información sobre cómo crear un flujo de trabajo avanzado con conectores de [!DNL Power Automate]
 
 ## Tutoriales de integraciones de Microsoft
 
@@ -275,6 +275,38 @@ Obtenga información sobre cómo crear un flujo de trabajo avanzado con conector
     </div>
     <em>Crear un botón personalizado que inicie el proceso de envío y rellene automáticamente un acuerdo dentro de Salesforce</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="Configurar actualizaciones automáticas" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>Configurar actualizaciones automáticas</strong></a>
+    </div>
+    <em>Descubre cómo vincular fácilmente tu cuenta a Salesforce para obtener actualizaciones automáticas</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="Configurar asignaciones de inserción y archivos grandes" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>Configurar asignaciones de inserción y archivos grandes</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo configurar documentos grandes y insertar servicios de acuerdo en Salesforce</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Separador" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Separador" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>

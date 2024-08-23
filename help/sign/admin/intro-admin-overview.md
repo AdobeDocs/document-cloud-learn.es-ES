@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ Aprende a acceder, utilizar y configurar informes de auditoría para adaptarlos 
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="Creación de un gráfico de informe" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="Uso de informes y transacciones" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Creando un gráfico de informe</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>Uso de informes y transacciones</strong></a>
     </div>
-    <em>Aprende a crear, guardar y administrar tus propios informes personalizados y exportaciones de datos</em>
+    <em>Obtener información sobre cómo generar informes y realizar un seguimiento del uso de transacciones</em>
     <br>
   </td>
 </tr>

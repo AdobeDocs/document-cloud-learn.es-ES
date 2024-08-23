@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '424'
 ht-degree: 2%
 
 ---
@@ -152,12 +152,12 @@ Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Creación de un informe" src="../assets/Report.png" />
+      <img alt="Uso de informes y transacciones" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Creando un informe</strong></a>
+    <a href="creating-a-report.md"><strong>Uso de informes y transacciones</strong></a>
     </div>
-    <em>Aprende a crear tus propios informes para obtener visibilidad del proceso de firma de documentos</em>
+    <em>Obtener información sobre cómo generar informes y realizar un seguimiento del uso de transacciones</em>
     <br>
   </td>
   <td>

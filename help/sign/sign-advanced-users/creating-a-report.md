@@ -1,22 +1,22 @@
 ---
-title: Creación de un informe
-description: Aprende a crear tus propios informes para ganar visibilidad en el proceso de firma de documentos
+title: Uso de informes y transacciones
+description: Aprenda a generar informes y a realizar un seguimiento del uso de transacciones
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Creación de un informe
+# Uso de informes y transacciones
 
-Aprende a crear tus propios informes para ganar visibilidad en tu proceso de firma de documentos o descubre cómo lo están haciendo los grupos o usuarios individuales.
+Aprenda a generar informes y a realizar un seguimiento del uso de las transacciones. Estos informes pueden incluir información como el porcentaje de acuerdos que se han firmado o el tiempo medio que se tarda en firmar. La generación de informes y el seguimiento del uso le proporcionan visibilidad de los procesos de firma de documentos.
 
 >[!NOTE]
 >
