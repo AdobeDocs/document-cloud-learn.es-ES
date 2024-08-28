@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91017fe122eae4de793037372f249aba9308350b
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
    + [Trabajar con campos de formulario](advanced-tasks/workforms.md)
    + [Mejorar su PDF](advanced-tasks/enhance.md)
    + [Detectar diferencias entre dos PDF](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [Acciones guiadas](advanced-tasks/action.md)
    + [Censurar y Corregir](advanced-tasks/redact.md)
    + [Reducir el tamaño del archivo y optimizar](advanced-tasks/reduce.md)
    + [Trabajar con datos de formulario](advanced-tasks/formdata.md)
