@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,8 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
 
 ## Novedades
 
+* [Diseñar una nueva página](add-custom-page.md)
+Aprenda a crear una nueva página de aspecto profesional en el PDF mediante Adobe Express
 * [Editar gráficos en un PDF](edit-graphics.md)
 Aprenda a crear, editar y mejorar gráficos en el PDF
 * [Nueva experiencia de área de trabajo](new-workspace.md)
