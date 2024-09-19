@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ Descubre cómo varias organizaciones están utilizando Acrobat Sign para transfo
 
 ## Novedades
 
-* [Flujo de trabajo personalizado para el proceso IEP del sector educativo](usecase-edu-iep.md)
-Obtenga información sobre cómo se utiliza el Designer de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP)
-* [Aplicación de prácticas de formularios web educativos](usecase-edu-intern.md)
-Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
-* [Crear una aplicación de prácticas de formularios web educativos](usecase-edu-intern-create.md)
-Aprende a crear un formulario web de prácticas
-* [Aplicación de préstamo gubernamental con varios firmantes desconocidos](webform-multiple-signers.md)
-Obtenga información sobre cómo se utiliza un formulario web para un flujo de trabajo complejo de solicitud de préstamo gubernamental que implica a varios participantes desconocidos
+>[!BEGINTABS]
+
+>[!TAB Flujo de trabajo personalizado para el proceso IEP del sector educativo]
+
+Descubre cómo se usa el [Designer de flujos de trabajo personalizados](usecase-edu-iep.md) para digitalizar un proceso del Programa de educación individualizada (IEP).
+
+>[!TAB Aplicación de prácticas de formularios web educativos]
+
+Descubre cómo se usan [los formularios web](usecase-edu-intern.md) para mejorar el acceso de los estudiantes a los formularios necesarios.
+
+>[!TAB Crear una aplicación de prácticas de formularios web educativos]
+
+Aprende a crear un [formulario web](usecase-edu-intern-create.md) de prácticas.
+
+>[!TAB Aplicación de préstamo gubernamental con varios firmantes desconocidos]
+
+Descubre cómo se usa un [formulario web](webform-multiple-signers.md) para un flujo de trabajo complejo de solicitud de préstamos del gobierno en el que participan varios participantes desconocidos.
+
+>[!ENDTABS]
 
 ## Casos prácticos del gobierno
 

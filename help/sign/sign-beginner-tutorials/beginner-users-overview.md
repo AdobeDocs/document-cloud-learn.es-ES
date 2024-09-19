@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 
 ## Novedades
 
-* [Introducción a Acrobat Sign](new-sender.md)
-¿Es nuevo en el uso de Acrobat Sign? Este tutorial es un buen punto de partida.
-* [Establecer fechas límite y recordatorios](set-deadlines-reminders.md)
-Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente
+>[!BEGINTABS]
+
+>[!TAB Introducción a Acrobat Sign]
+
+¿Es nuevo en el uso de Acrobat Sign? Este [tutorial](new-sender.md)) es un buen punto de partida.
+
+>[!TAB Establecer fechas límite y recordatorios]
+
+Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite](set-deadlines-reminders.md) para ayudarte a conseguir que tus documentos se firmen rápidamente.
+
+>[!ENDTABS]
 
 ## Enviar
 

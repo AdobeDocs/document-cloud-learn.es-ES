@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 ## Novedades
 
-* [Cómo promover un usuario a una función de administrador](promote-admin.md)
-Obtenga información sobre cómo ascender a un usuario a la función de administrador de Acrobat Sign mediante el Admin Console
-* [Cómo usar varios perfiles](multiple-profiles.md)
-Aprenda a utilizar el selector de perfil para trabajar con varias cuentas de Acrobat Sign
-* [Cómo configurar los administradores de privacidad](privacy.md)
-Aprenda a configurar y usar administradores de privacidad
-* [Herramienta de descarga masiva](bulk-download-tool.md)
-Aprenda a utilizar la herramienta de descarga en bloque para descargar rápidamente todos los acuerdos firmados
+>[!BEGINTABS]
+
+>[!TAB Cómo promover un usuario a una función de administrador]
+
+Obtenga información sobre cómo [ascender a un usuario](promote-admin.md) a una función de administrador de Acrobat Sign mediante el Admin Console.
+
+>[!TAB Cómo usar varios perfiles]
+
+Aprende a usar [selector de perfil](multiple-profiles.md) para trabajar con varias cuentas de Acrobat Sign.
+
+>[!TAB Cómo configurar los administradores de privacidad]
+
+Obtenga información sobre cómo configurar y usar [administradores de privacidad](privacy.md).
+
+>[!TAB Herramienta de descarga masiva]
+
+Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para descargar rápidamente todos tus acuerdos firmados.
+
+>[!ENDTABS]
 
 ## Introducción
 

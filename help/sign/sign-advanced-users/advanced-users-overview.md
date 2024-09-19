@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ Aprende a enviar un documento para que se firme a cientos de destinatarios a la 
 
 ## Novedades
 
-* [Enviar en bloque](megasign.md)
-Aprende a recopilar miles de firmas a la vez para cualquier documento en solo unos pasos
-* [Métodos de autenticación en Acrobat Sign](authentication-methods.md)
-Obtenga más información sobre el rango de métodos disponibles en Acrobat Sign para autenticar la identidad de alguien que firma un documento
+>[!BEGINTABS]
+
+>[!TAB Enviar en bloque]
+
+Aprende a [recopilar miles](megasign.md) de firmas a la vez para cualquier documento en solo unos pasos.
+
+>[!TAB Métodos de autenticación en Acrobat Sign]
+
+Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para [autenticar](authentication-methods.md) la identidad de alguien que firma un documento.
+
+>[!ENDTABS]
 
 ## Enviar
 
