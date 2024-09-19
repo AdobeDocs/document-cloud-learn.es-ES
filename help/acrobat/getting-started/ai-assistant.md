@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 0e3211081b328901ae0949b95fc557d9725060fa
+source-git-commit: 30fa0d2120860b78e5ea674d50512bede5b6346d
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -23,19 +23,19 @@ Aprende a obtener información de los archivos de PDF con el Asistente de IA par
 
 >[!TAB Haz una presentación impactante]
 
-Usa las instrucciones de voz para buscar información en informes del sector y de clientes sobre la marcha. Vea [vídeo](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true).
+Usa las instrucciones de voz para buscar información en informes del sector y de clientes sobre la marcha. Vea [vídeo](https://video.tv.adobe.com/v/3428811?quality=5&learn=on&hidetitle=true).
 
 >[!TAB Comparte los resultados de la investigación más rápido]
 
-Resume los informes del sector, obtén información más detallada y redacta resúmenes para tu equipo en apenas tiempo. Vea [vídeo](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true).
+Resume los informes del sector, obtén información más detallada y redacta resúmenes para tu equipo en apenas tiempo. Vea [vídeo](https://video.tv.adobe.com/v/3427286?quality=5&learn=on&hidetitle=true).
 
 >[!TAB Crear propuestas rápidamente]
 
-Acelera las respuestas de las solicitudes de propuestas extrayendo la información clave del documento y eliminando las revisiones que consumen tiempo. Vea [vídeo](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true).
+Acelera las respuestas de las solicitudes de propuestas extrayendo la información clave del documento y eliminando las revisiones que consumen tiempo. Vea [vídeo](https://video.tv.adobe.com/v/3428639?quality=5&learn=on&hidetitle=true).
 
 >[!TAB Enviar un resumen rápido de reunión]
 
-Revisa las transcripciones de las reuniones y ayuda a redactar un resumen por correo electrónico con los puntos clave. Vea [vídeo](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true).
+Revisa las transcripciones de las reuniones y ayuda a redactar un resumen por correo electrónico con los puntos clave. Vea [vídeo](https://video.tv.adobe.com/v/3427292?quality=5&learn=on&hidetitle=true).
 
 >[!ENDTABS]
 
