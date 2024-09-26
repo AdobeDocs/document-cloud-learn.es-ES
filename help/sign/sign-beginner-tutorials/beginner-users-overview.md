@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="quick-tour.md"><strong>Conceptos básicos del área de trabajo</strong></a>
     </div>
-    <em>Date una vuelta rápida por el área de trabajo de Acrobat Sign para empezar a trabajar</em>
+    Date una vuelta rápida por el espacio de trabajo de Acrobat Sign para empezar a trabajar
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="new-sender.md"><strong>Introducción a Acrobat Sign</strong></a>
     </div>
-    <em>Este completo tutorial es un buen punto de partida para los nuevos remitentes en Acrobat Sign</em>
+    Este completo tutorial es un buen punto de partida para los nuevos remitentes en Acrobat Sign
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviando a un solo destinatario</strong></a>
     </div>
-    <em>Entra y descubre lo fácil que es enviar un documento para que se firme</em>
+    Entra y descubre lo fácil que es enviar un documento para que se firme
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Enviando a varios destinatarios</strong></a>
     </div>
-    <em>Envía un documento para su firma electrónica a más de una persona exactamente en el orden que desees</em>
+    Envía un documento para su firma electrónica a más de una persona exactamente en el orden que desees
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="sending-options.md"><strong>Configurar opciones de envío</strong></a>
     </div>
-    <em>Obtenga información sobre cómo configurar varias opciones al enviar un documento para su firma</em>
+    Obtenga información sobre cómo configurar varias opciones al enviar un documento para su firma
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="adding-fields.md"><strong>Agregando campos a tus documentos</strong></a>
     </div>
-    <em>Aprende a agregar diferentes tipos de campos a tus documentos</em>
+    Aprenda a agregar diferentes tipos de campos a los documentos
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="modify-in-flight.md"><strong>Modificando un documento después de enviarlo</strong></a>
     </div>
-    <em>Modificar un documento que ya está en curso</em>
+    Modificar un documento que ya está en curso
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="replace-signer.md"><strong>Reemplazar un firmante</strong></a>
     </div>
-    <em>Obtener información sobre cómo cambiar el firmante de un documento que ya está en curso</em>
+    Obtenga información sobre cómo cambiar el firmante de un documento que ya está en curso
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
       <div>
       <a href="set-deadlines-reminders.md"><strong>Establecer fechas límite y recordatorios</strong></a>
       </div>
-      <em>Aprende a enviar recordatorios y fechas límite regulares por correo electrónico para ayudarte a conseguir que tus documentos se firmen rápidamente</em>
+      Aprenda a enviar recordatorios y plazos de entrega regulares por correo electrónico para ayudarle a firmar sus documentos rápidamente
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
     </div>
-    <em>Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign</em>
+    Descubra lo fácil que es firmar un documento que se le envía con Acrobat Sign
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="fill-and-sign.md"><strong>Rellenar y firmar un documento</strong></a>
     </div>
-    <em>Rellena formularios y añade tu firma electrónica a los documentos</em>
+    Rellena formularios y añade tu firma electrónica a los documentos
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="sign-in-person.md"><strong>Obteniendo una firma en persona</strong></a>
     </div>
-    <em>Obtener la firma de otra persona usando la aplicación móvil de Acrobat Sign</em>
+    Obtener la firma de otra persona mediante la aplicación móvil de Acrobat Sign
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="delegate-signing.md"><strong>Delegar firma a otra persona</strong></a>
     </div>
-    <em>Aprende a delegar la firma de un documento a otra persona</em>
+    Descubra cómo delegar la firma de un documento a otra persona
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Qué es una firma digital</strong></a>
     </div>
-    <em>Más información sobre las firmas digitales basadas en certificados</em>
+    Más información sobre las firmas digitales basadas en certificados
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="sign-with-a-stamp.md"><strong>Firmar con un sello</strong></a>
     </div>
-    <em>Usar sellos para marcar un documento aprobado o completado</em>
+    Utilizar sellos para marcar un documento aprobado o completado
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="manage-and-track.md"><strong>Administrar y realizar un seguimiento de los acuerdos</strong></a>
     </div>
-    <em>Obtenga información sobre cómo administrar acuerdos enviados para firmar y realizar su seguimiento</em>
+    Aprenda a administrar y realizar un seguimiento de los acuerdos enviados para firmar
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creando una plantilla de documento</strong></a>
     </div>
-    <em>Crea una plantilla de documento reutilizable para proporcionar velocidad y coherencia a tu organización</em>
+    Crea una plantilla de documento reutilizable para proporcionar velocidad y coherencia a tu organización
     <br>
   </td>
   <td>
