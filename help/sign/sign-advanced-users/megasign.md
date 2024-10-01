@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 3%
@@ -29,4 +29,4 @@ Aprende a enviar y recopilar cientos de firmas (hasta 1000 destinatarios con cad
 
 >[!TIP]
 >
-Este vídeo forma parte de los cursos [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) y [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), que están disponibles de forma gratuita para los Experience League.
+Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) y [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), que están disponibles de forma gratuita para el Experience League.

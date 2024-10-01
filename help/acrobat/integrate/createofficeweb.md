@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-8497
 thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Aprende a crear archivos de PDF sin tener que salir de [!DNL Microsoft Office] p
 
 >[!TIP]
 >
->Este vídeo forma parte del curso [Trabaja de forma más inteligente con Acrobat DC y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), disponible de forma gratuita para Experience League.
+>Este video es parte de la lista de reproducción [Integrar Acrobat y Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) que está disponible gratis para el Experience League!

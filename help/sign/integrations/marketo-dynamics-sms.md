@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -152,6 +152,3 @@ Recupere estos parámetros de su cuenta y abra su instancia de Marketo.
    ![Llamar a webhook](assets/callWebhook.png)
 
 1. La campaña de avisos por SMS para clientes potenciales añadidos a un acuerdo ya está configurada.
->[!TIP]
->
->Este tutorial forma parte del curso [Acelera los ciclos de ventas con Acrobat Sign para Microsoft Dynamics y Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponible de forma gratuita para Experience League.

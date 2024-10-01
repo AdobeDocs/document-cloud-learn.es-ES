@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -204,7 +204,3 @@ Dado que se utilizó el filtro de campaña **Días hasta que caduque**, puede ut
 1. Establezca **Schedule** en _Daily_. Elija un día y una hora de inicio y una fecha de finalización para la campaña, si es necesario.
 
    ![Configuración de programación](assets/scheduleSettings.png)
-
->[!TIP]
->
->Este tutorial forma parte del curso [Acelera los ciclos de ventas con Acrobat Sign para Microsoft Dynamics y Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), que está disponible de forma gratuita para Experience League.
