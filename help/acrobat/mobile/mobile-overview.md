@@ -8,9 +8,9 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,9 @@ Crea, rellena y [firma PDF](https://www.adobe.com/es/acrobat/online/sign-pdf.htm
     <a href="../getting-started/productivity.md">
       <img alt="Productividad sobre la marcha" src="../assets/productivity.png" />
     </a>
+    </div>
+    <em>Aprende a hacer más directamente desde tu tableta o teléfono móvil con la aplicación móvil de Acrobat Reader</em>
+    <br>
   </td>
   <td>
    <img alt="Separador" src="../assets/Whitespacer.png" />
