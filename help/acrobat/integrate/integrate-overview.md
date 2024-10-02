@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
     <div>
     <a href="createofficeweb.md"><strong>Crear PDF en [!DNL Office] para la web</strong></a>
     </div>
-    Aprende a crear archivos de PDF sofisticados y sólidos directamente desde Microsoft Word
+    Aprende a crear archivos de PDF sin tener que salir de [!DNL Microsoft Office] para aplicaciones web
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
     <div>
     <a href="acrobatandteams.md"><strong>Colaboración de PDF en [!DNL Microsoft Teams]</strong></a>
     </div>
-    Colabora y trabaja con tus compañeros viendo, anotando y revisando PDF sin salir de [!DNL Microsoft Teams]
+    Colaborar y revisar PDF sin salir de [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>PDF de Protect que usan [!DNL Microsoft Purview Information] etiquetas de sensibilidad</strong></a>
     </div>
-    Aprenda a proteger a los PDF añadiendo, editando, personalizando y eliminando etiquetas de confidencialidad de la información de Microsoft Purview directamente en Acrobat
+    Aprenda a proteger a los PDF con etiquetas de sensibilidad de Microsoft Purview Information directamente en Acrobat
     <br>
   </td>
   <td>
