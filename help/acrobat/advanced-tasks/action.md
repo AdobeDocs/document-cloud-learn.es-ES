@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 4d3b553d12b569f13282a137fdfef3cd475a0d91
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Acciones guiadas
 
-Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a utilizar las acciones guiadas para ejecutar uno o más comandos en numerosos documentos con un solo clic, lo que le ahorrará tiempo y pulsaciones de teclas.
+Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a utilizar las acciones guiadas para ejecutar uno o más comandos en numerosos documentos con un solo clic, lo que le ahorrará tiempo y pulsaciones de teclas. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >

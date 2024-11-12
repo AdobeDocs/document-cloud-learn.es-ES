@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10836
 thumbnail: KT-10836.jpg
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
+source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a crear una nueva página de aspecto profesional en su PDF mediante Adobe Express. El diseño de una nueva página te ofrece la capacidad de crear contenido personalizado de aspecto profesional según la marca en cuestión de minutos, algo que realmente destaca. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)
