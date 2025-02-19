@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 934c602b0339ff016379a06a734b3dbbaf01ecb4
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 3%
    + [Información general](getting-started/getting-started-overview.md)
    + [Nueva experiencia de espacio de trabajo](getting-started/new-workspace.md)
    + [Conceptos básicos del área de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Descubre información de PDF con el asistente de inteligencia artificial](getting-started/ai-assistant.md)
+   + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
    + [Productividad sobre la marcha](getting-started/productivity.md)
    + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

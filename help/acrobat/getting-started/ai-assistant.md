@@ -1,21 +1,21 @@
 ---
-title: Descubre datos de PDF con el asistente de inteligencia artificial
-description: Aprende a obtener información de los archivos de PDF con el Asistente de IA
+title: Descubre información de PDF con AI Assistant
+description: Aprende a obtener información de los archivos de PDF con AI Assistant
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Descubre información de PDF con el asistente de inteligencia artificial
+# Descubre información de PDF con AI Assistant
 
-Aprende a obtener información de los archivos de PDF con el Asistente de IA para crear contenido impactante rápidamente. El Asistente de inteligencia artificial es un motor de conversación seguro que mejora los flujos de trabajo de los documentos y analiza datos complejos de los documentos. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
+Aprende a obtener información de los archivos de PDF con el Asistente de IA para crear contenido impactante con rapidez. AI Assistant es un motor de conversación seguro que mejora los flujos de trabajo de los documentos y analiza datos complejos de los documentos. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
 
 ## Casos prácticos
 
