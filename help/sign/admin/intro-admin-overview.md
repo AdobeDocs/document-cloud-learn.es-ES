@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 >[!TAB Agregar un nuevo usuario]
 
-Obtenga información sobre cómo [agregar y administrar usuarios para Acrobat Sign](add-users-to-your-account.md).
+Obtenga información sobre cómo [agregar nuevos usuarios a Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Cómo configurar los administradores de privacidad]
 
@@ -72,6 +72,18 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Añadir un nuevo usuario" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Agregar un nuevo usuario</strong></a>
+    </div>
+    <em>Obtener información sobre cómo agregar nuevos usuarios a Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Agregar un nuevo administrador de cuentas" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
     <a href="add-admin.md"><strong>Agregar un nuevo administrador de cuentas</strong></a>
     </div>
     <em>Aprenda a crear un nuevo usuario o a ascender a un usuario existente a la función de administrador de Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Creación y gestión de grupos" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Creación y administración de grupos</strong></a>
-    </div>
-    <em>Crear grupos, agregar usuarios a grupos y modificar la configuración de los grupos</em>
     <br>
   </td>
   <td>
