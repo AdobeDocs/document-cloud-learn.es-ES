@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 2%
+source-wordcount: '593'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ Obtenga más información sobre cómo añadir usuarios a su cuenta, configurar g
 
 >[!BEGINTABS]
 
->[!TAB Cómo promover un usuario a una función de administrador]
+>[!TAB Agregar un nuevo usuario]
 
-Obtenga información sobre cómo [ascender a un usuario](promote-admin.md) a una función de administrador de Acrobat Sign mediante el Admin Console.
+Obtenga información sobre cómo [agregar y administrar usuarios para Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Cómo configurar los administradores de privacidad]
 
@@ -73,10 +73,10 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Agregación de usuarios" src="../assets/Adding-Users.png" />
+      <img alt="Añadir un nuevo usuario" src="../assets/Add-a-new-user.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>Agregando usuarios</strong></a>
+    <a href="add-users-to-your-account.md"><strong>Agregar un nuevo usuario</strong></a>
     </div>
     <em>Agregar y administrar usuarios para Acrobat Sign</em>
     <br>
