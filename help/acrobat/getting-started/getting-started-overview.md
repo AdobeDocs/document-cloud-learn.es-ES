@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '852'
 ht-degree: 1%
 
 ---
@@ -34,9 +34,9 @@ Aprende a [diseñar una nueva página con aspecto profesional](add-custom-page.m
 
 Aprende a [crear, editar y mejorar gráficos](edit-graphics.md) en tu PDF.
 
->[!TAB Nueva experiencia de área de trabajo]
+>[!TAB nueva experiencia de Acrobat]
 
-Obtén información sobre el [nuevo espacio de trabajo](new-workspace.md) en Acrobat que te ayuda a descubrir rápidamente las herramientas y a completar las tareas de los PDF de manera eficaz.
+Obtén información sobre la [nueva experiencia de Acrobat](new-workspace.md), que te ayuda a descubrir rápidamente las herramientas y a completar tus tareas de PDF de manera eficiente.
 
 >[!ENDTABS]
 
@@ -44,12 +44,12 @@ Obtén información sobre el [nuevo espacio de trabajo](new-workspace.md) en Acr
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="Nueva experiencia de espacio de trabajo" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nueva experiencia de espacio de trabajo"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="nueva experiencia de Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="nueva experiencia de Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,9 +57,9 @@ Obtén información sobre el [nuevo espacio de trabajo](new-workspace.md) en Acr
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="Nueva experiencia de espacio de trabajo">Nueva experiencia de área de trabajo</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="nueva experiencia de Acrobat">Nueva experiencia de Acrobat</a>
                     </p>
-                    <p class="is-size-6">Obtenga más información sobre el nuevo espacio de trabajo de Acrobat</p>
+                    <p class="is-size-6">Más información sobre la nueva experiencia de Acrobat</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>

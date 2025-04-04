@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Descubre información de PDF con AI Assistant
 
-Aprende a obtener información de los archivos de PDF con el Asistente de IA para crear contenido impactante con rapidez. AI Assistant es un motor de conversación seguro que mejora los flujos de trabajo de los documentos y analiza datos complejos de los documentos. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
+Aprende a obtener información de los archivos de PDF con el Asistente de IA para crear contenido impactante con rapidez. AI Assistant es un motor de conversación seguro que mejora los flujos de trabajo de los documentos y analiza datos complejos de los documentos. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-workspace.md).
 
 ## Casos prácticos
 

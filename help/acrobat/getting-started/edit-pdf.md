@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: d27fb8609e412632424cb88dd1b8239e665964f9
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Edición de texto en un PDF
 
-Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. Editar texto directamente en Acrobat le permite actualizar el contenido de forma precisa y profesional sin tener que cambiar de una aplicación a otra. Este tutorial de vídeo utiliza la [nueva experiencia de área de trabajo](new-workspace.md).
+Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. Editar texto directamente en Acrobat le permite actualizar el contenido de forma precisa y profesional sin tener que cambiar de una aplicación a otra. Este tutorial de vídeo utiliza la [experiencia Mew Acrobat](new-workspace.md).
 
 >[!TIP]
 >
