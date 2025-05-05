@@ -26,4 +26,4 @@ Conoce las siete áreas clave en las que los administradores deben centrarse par
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/es/playlists/acrobat-sign-get-started-administrators), disponible de forma gratuita para el Experience League.

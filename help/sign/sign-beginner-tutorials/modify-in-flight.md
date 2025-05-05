@@ -31,4 +31,4 @@ Aprende a modificar un documento que ya se ha enviado para firmar, como cuando s
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/es/playlists/acrobat-sign-perform-advanced-tasks-business-users), que está disponible de forma gratuita para el Experience League.

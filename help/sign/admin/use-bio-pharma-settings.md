@@ -22,4 +22,4 @@ Obtenga información sobre la configuración de biofarmacéutica que le permite 
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Tareas avanzadas para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Tareas avanzadas para administradores](https://experienceleague.adobe.com/es/playlists/acrobat-sign-perform-advanced-tasks-administrators) que está disponible de forma gratuita para el Experience League.

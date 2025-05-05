@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Obtención de una firma en persona
 
-Aprende a obtener la firma de otra persona usando la [aplicación móvil de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Aprende a obtener la firma de otra persona usando la [aplicación móvil de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

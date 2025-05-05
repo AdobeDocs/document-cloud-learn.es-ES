@@ -22,4 +22,4 @@ En este tutorial en vídeo de 60 segundos, aprende a convertir un archivo adjunt
 
 >[!TIP]
 >
->Este video es parte de la lista de reproducción [Integrar Acrobat y Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) que está disponible gratis para el Experience League!
+>Este video es parte de la lista de reproducción [Integrar Acrobat y Microsoft 365](https://experienceleague.adobe.com/?lang=es&recommended=Acrobat-U-1-2021.microsoft365) que está disponible gratis para el Experience League!

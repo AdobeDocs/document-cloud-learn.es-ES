@@ -25,7 +25,7 @@ Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación
 
 1. Instale Marketo Salesforce Sync.
 
-   La información y el complemento más reciente para la sincronización de Salesforce están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   La información y el complemento más reciente para la sincronización de Salesforce están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=es)
 
 1. Instale Acrobat Sign para Salesforce.
 

@@ -71,4 +71,4 @@ Utilice el cuadro de búsqueda para buscar una palabra o frase específica.
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.

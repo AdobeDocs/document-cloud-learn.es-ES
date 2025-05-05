@@ -24,4 +24,4 @@ Aprende a simplificar los flujos de trabajo de los documentos enviando un docume
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Uso de Acrobat Sign en aplicaciones de Microsoft](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Uso de Acrobat Sign en aplicaciones de Microsoft](https://experienceleague.adobe.com/es/playlists/acrobat-sign-integrate-microsoft-apps), que está disponible de forma gratuita para el Experience League.

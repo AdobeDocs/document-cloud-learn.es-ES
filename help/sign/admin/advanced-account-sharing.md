@@ -27,4 +27,4 @@ Aprenda a configurar el uso compartido avanzado de cuentas, lo que permite a los
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Tareas avanzadas para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Tareas avanzadas para administradores](https://experienceleague.adobe.com/es/playlists/acrobat-sign-perform-advanced-tasks-administrators) que está disponible de forma gratuita para el Experience League.

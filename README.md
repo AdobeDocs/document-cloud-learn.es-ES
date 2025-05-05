@@ -15,13 +15,13 @@ Este proyecto ha adoptado el [Código de Conducta de Código Abierto de Adobe](c
 
 ## Acerca de tus contribuciones al contenido de Adobe
 
-Consulte la [Guía de Colaboradores de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía de Colaboradores de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html).
 
 La forma en que contribuyas depende de quién seas y del tipo de cambios que te gustaría aportar:
 
 ### Cambios menores
 
-Si está contribuyendo a actualizaciones menores de la bondad de su corazón, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub para el artículo. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [guía general de colaborador de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Si está contribuyendo a actualizaciones menores de la bondad de su corazón, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub para el artículo. A continuación, utilice la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [guía general de colaborador de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html) para obtener más información.
 
 Las correcciones o aclaraciones menores que envíe para obtener documentación y ejemplos de código en esta cesión temporal están cubiertas por las condiciones de uso del Adobe.
 
@@ -43,7 +43,7 @@ Si es un escritor técnico, administrador de programas o desarrollador del equip
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para realizar tareas básicas de edición o realizar aportaciones importantes.
 
-Consulte la [Guía de Colaboradores de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Consulte la [Guía de Colaboradores de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html) para obtener más información.
 
 ## Cómo utilizar la marca para dar formato al tema
 

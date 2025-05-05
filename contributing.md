@@ -19,7 +19,7 @@ se espera que mantenga este código. Informe de comportamientos inaceptables a
 
 ## Documentación de la Guía del Colaborador
 
-Consulte la [Guía de Colaboradores](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía de Colaboradores](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html).
 
 ## ¿Tienes Alguna Pregunta?
 
@@ -57,4 +57,4 @@ siéntase libre de contactar con los ya existentes para tener una conversación 
 
 ## Problemas de seguridad
 
-Los problemas de seguridad no deben notificarse en este rastreador de problemas. En su lugar, [presente un problema a nuestros expertos en seguridad](https://helpx.adobe.com/security/alertus.html)
+Los problemas de seguridad no deben notificarse en este rastreador de problemas. En su lugar, [presente un problema a nuestros expertos en seguridad](https://helpx.adobe.com/es/security/alertus.html)

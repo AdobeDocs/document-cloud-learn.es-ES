@@ -30,4 +30,4 @@ Aprende a convertir páginas web en PDF sobre la marcha con la extensión Adobe 
 
 >[!TIP]
 >
->Este video es parte de la lista de reproducción [Integrar Acrobat y Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) que está disponible gratis para el Experience League!
+>Este video es parte de la lista de reproducción [Integrar Acrobat y Microsoft 365](https://experienceleague.adobe.com/es/playlists/acrobat-integrate-microsoft-365) que está disponible gratis para el Experience League!

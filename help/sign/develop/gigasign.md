@@ -21,7 +21,7 @@ Gigasign le permite enviar, recopilar y realizar el seguimiento de documentos pa
 
 >[!IMPORTANT]
 >
->GigaSign ya no se actualiza a la última versión de Java o Acrobat Sign y solo tendrá compatibilidad limitada. Las funciones de GigaSign se están agregando al producto con la funcionalidad [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Utilice Enviar en bloque para todos los casos de uso que no requieran explícitamente el uso de GigaSign.
+>GigaSign ya no se actualiza a la última versión de Java o Acrobat Sign y solo tendrá compatibilidad limitada. Las funciones de GigaSign se están agregando al producto con la funcionalidad [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=es&). Utilice Enviar en bloque para todos los casos de uso que no requieran explícitamente el uso de GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 

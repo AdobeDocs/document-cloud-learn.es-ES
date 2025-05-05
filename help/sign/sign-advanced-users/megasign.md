@@ -20,13 +20,13 @@ Aprende a enviar y recopilar cientos de firmas (hasta 1000 destinatarios con cad
 
 [!BADGE Casos prácticos]
 
-* [Acuerdo de teletrabajo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [Acuerdo de directiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [Acuerdo de teletrabajo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=es)
+* [Acuerdo de directiva](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=es)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Descargar archivo CSV de muestra en formato ZIP](../assets/sendInBulkSample.zip). Obtén información sobre todos los valores que puedes establecer en tu archivo CSV [aquí](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[Descargar archivo CSV de muestra en formato ZIP](../assets/sendInBulkSample.zip). Obtén información sobre todos los valores que puedes establecer en tu archivo CSV [aquí](https://helpx.adobe.com/es/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
->Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) y [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), que están disponibles de forma gratuita para el Experience League.
+>Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/es/playlists/acrobat-sign-perform-advanced-tasks-business-users) y [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/es/playlists/acrobat-sign-get-started-administrators), que están disponibles de forma gratuita para el Experience League.

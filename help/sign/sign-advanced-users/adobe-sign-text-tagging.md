@@ -24,4 +24,4 @@ En este seminario web grabado (no es necesario registrarse), aprenda a crear cam
 
 >[!TIP]
 >
->Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) y [Tareas avanzadas para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators), que están disponibles de forma gratuita para el Experience League.
+>Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/es/playlists/acrobat-sign-get-started-business-users) y [Tareas avanzadas para administradores](https://experienceleague.adobe.com/es/playlists/acrobat-sign-perform-advanced-tasks-administrators), que están disponibles de forma gratuita para el Experience League.
