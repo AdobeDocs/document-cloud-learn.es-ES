@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Aprende a vincular fácilmente tu cuenta a [!DNL Salesforce] para obtener actualizaciones automáticas, lo que agiliza las operaciones y la precisión.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439595?quality=12&learn=on&hidetitle=true&captions=spa)

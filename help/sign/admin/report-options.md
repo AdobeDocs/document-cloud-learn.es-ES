@@ -21,4 +21,4 @@ Como administrador de Acrobat Sign, obtenga información sobre cómo configurar 
 >
 >Los informes solo están disponibles para los planes de nivel Business y Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437147?quality=12&learn=on&hidetitle=true&captions=spa)

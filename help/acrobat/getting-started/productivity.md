@@ -24,7 +24,7 @@ Con el teletrabajo en todas partes, ofrecer contenido con velocidad y escala es 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347145?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ![Código QR](../assets/Acrobatqrcode.jpg)
 

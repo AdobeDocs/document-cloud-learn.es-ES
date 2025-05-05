@@ -22,4 +22,4 @@ Aprenda a mejorar la eficiencia del flujo de trabajo de documentos mediante el u
 >
 >Los comandos personalizados solo están disponibles en Acrobat Pro.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347068?quality=12&learn=on&hidetitle=true&captions=spa)

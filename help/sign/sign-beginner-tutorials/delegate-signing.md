@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo delegar la firma de un documento a otra persona.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411241?quality=12&learn=on&hidetitle=true&captions=spa)

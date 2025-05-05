@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprende a abrir, crear, editar, firmar y guardar cambios en tus archivos de [!DNL Dropbox] desde Acrobat. Conectar la cuenta de Dropbox a Acrobat te permite ahorrar mucho tiempo y tener todos los archivos al alcance de la mano.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414442?quality=12&learn=on&hidetitle=true&captions=spa)

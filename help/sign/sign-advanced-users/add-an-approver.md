@@ -19,7 +19,7 @@ ht-degree: 23%
 
 Aprenda a enviar un documento a través de un proceso de aprobación. En este ejemplo, consulte cómo enviar un contrato de contratación a través de HR, un empleado potencial y el responsable de contratación. La función de aprobador resulta útil en situaciones en las que se debe “aprobar” un documento antes de enviarlo al firmante.
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411217?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

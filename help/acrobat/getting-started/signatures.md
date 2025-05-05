@@ -22,7 +22,7 @@ Mantén tu empresa en marcha recopilando [firmas electrónicas](https://www.adob
 >
 >Además de la suscripción a Acrobat Enterprise, debe tener derechos de Acrobat Sign Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347161?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo enviar documentos para su firma directamente desde la ficha Documentos de [!DNL Microsoft Teams].
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439651?quality=12&learn=on&hidetitle=true&captions=spa)

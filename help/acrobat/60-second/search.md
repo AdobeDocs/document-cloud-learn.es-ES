@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprende a iniciar una búsqueda en un archivo de PDF, luego abre la búsqueda avanzada y busca en toda una carpeta de archivos de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409469?quality=12&learn=on&hidetitle=true&captions=spa)

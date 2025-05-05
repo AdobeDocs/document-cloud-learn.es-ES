@@ -18,7 +18,7 @@ ht-degree: 0%
 
 El flujo de trabajo más común en Acrobat Sign: enviar un documento para su firma. Aprende a cargar un documento, añadir campos de formulario y enviarlo a alguien para que lo firme.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425268?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

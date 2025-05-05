@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a utilizar sellos para marcar un documento aprobado o completado.
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411253?quality=12&learn=on&hidetitle=true&captions=spa)

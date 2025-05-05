@@ -22,4 +22,4 @@ Aprenda a crear grupos, añadir usuarios a grupos y editar la configuración de 
 >
 >Los grupos solo están disponibles para los planes de nivel Business y Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/344682?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411247?quality=12&learn=on&hidetitle=true&captions=spa)

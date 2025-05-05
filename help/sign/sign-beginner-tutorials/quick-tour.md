@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Haga un breve recorrido en vídeo por el espacio de trabajo de Acrobat Sign para empezar a trabajar.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425253?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

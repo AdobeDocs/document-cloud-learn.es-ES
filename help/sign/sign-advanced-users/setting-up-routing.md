@@ -22,4 +22,4 @@ Obtenga información sobre cómo configurar el orden de firma para varios firman
 >
 >El enrutamiento híbrido solo está disponible para planes de nivel empresarial. Es posible que el administrador de Acrobat Sign deba habilitar estas funciones en la sección Configuración de envío de Configuración de la cuenta.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410714?quality=12&learn=on&hidetitle=true&captions=spa)

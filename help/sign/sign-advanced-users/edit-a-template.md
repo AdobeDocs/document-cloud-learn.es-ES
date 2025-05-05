@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aprenda a editar o eliminar una plantilla en la biblioteca.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411199?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

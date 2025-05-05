@@ -18,4 +18,4 @@ ht-degree: 2%
 
 Descubre cómo [rellenar y firmar un formulario de PDF](https://www.adobe.com/es/acrobat/online/sign-pdf.html){target="_blank"} de forma rápida y sencilla. No es necesario realizar una impresión o digitalización complicadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409627?quality=12&learn=on&hidetitle=true&captions=spa)

@@ -23,4 +23,4 @@ Aprende a asignar los datos recopilados de un formulario web a una lista de [!DN
 >
 >La asignación de campos entre formularios web de Acrobat Sign y listas [!DNL SharePoint] solo está disponible para las instalaciones en línea y no para las instalaciones locales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423566?quality=12&learn=on&hidetitle=true&captions=spa)

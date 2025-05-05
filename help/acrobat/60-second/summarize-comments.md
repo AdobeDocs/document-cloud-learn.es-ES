@@ -17,4 +17,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a crear un resumen de todos los comentarios y marcas del archivo de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436970?quality=12&learn=on&hidetitle=true&captions=spa)

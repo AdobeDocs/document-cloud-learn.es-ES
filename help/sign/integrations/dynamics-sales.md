@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Descubre cómo se usan Acrobat Sign y [!DNL Microsoft Dynamics 365] para ventas para automatizar el proceso de firma de presupuestos de ventas. En este ejemplo, [!DNL Microsoft Dynamics 365] for Sales ayuda al equipo de ventas de Contoso a cerrar acuerdos más rápido y a aprovechar mejor las oportunidades con una única vista del cliente y un proceso de firma integrado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423404?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447190?quality=12&learn=on&hidetitle=true&captions=spa)

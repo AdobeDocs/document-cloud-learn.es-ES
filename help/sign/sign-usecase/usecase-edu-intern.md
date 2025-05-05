@@ -19,4 +19,4 @@ Descubre cómo se utilizan los formularios web para mejorar el acceso de los est
 
 Consulta [Crear una aplicación de prácticas de formularios web educativos](usecase-edu-intern-create.md) para aprender a crear este formulario web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430541?quality=12&learn=on&hidetitle=true&captions=spa)

@@ -22,5 +22,5 @@ Aprenda a enviar recordatorios y fechas límite regulares por correo electrónic
 >
 >Los planes para empresas y negocios pueden exponer selectivamente la opción Recordatorio durante el proceso de envío o habilitar la automatización en toda la cuenta o grupo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425312?quality=12&learn=on&hidetitle=true&captions=spa)
 

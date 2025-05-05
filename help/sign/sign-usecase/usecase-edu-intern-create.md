@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprende a crear un formulario web de prácticas para mejorar el acceso de los estudiantes a los formularios necesarios que se pueden enviar desde cualquier dispositivo y cualquier ubicación. En este ejemplo, el flujo de trabajo de cada alumno es único en función de su curso de estudio, ya que cada alumno debe añadir su propio supervisor de facultad y jefe de departamento para su aprobación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423380?quality=12&learn=on&hidetitle=true&captions=spa)

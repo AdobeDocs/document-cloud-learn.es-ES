@@ -17,4 +17,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a colaborar en tiempo real en un archivo de PDF en Microsoft Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437476?quality=12&learn=on&hidetitle=true&captions=spa)

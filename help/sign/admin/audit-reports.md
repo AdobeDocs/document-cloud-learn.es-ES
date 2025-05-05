@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprende a acceder, utilizar y configurar informes de auditoría para adaptarlos a las necesidades de tu organización. Cada documento de Acrobat Sign pasa por una serie de &quot;hitos&quot; de eventos que definen el progreso de una transacción. Estos hitos se documentan detalladamente en un informe de auditoría para cada transacción.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448548?quality=12&learn=on&hidetitle=true&captions=spa)

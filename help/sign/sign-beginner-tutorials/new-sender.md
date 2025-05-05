@@ -28,88 +28,88 @@ En este tutorial detallado se tratan los siguientes temas:
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>Iniciar sesión</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&captions=spa"><strong>Iniciar sesión</strong></a>
          <br>
         <em>Comienza a las 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=56&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>Página principal</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=56&captions=spa"><strong>Página principal</strong></a>
          <br>
         <em>Comienza a las 0:56</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=153&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>Configura tu perfil</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386/?quality=12&learn=on&hidetitle=true&t=153&captions=spa"><strong>Configura tu perfil</strong></a>
         <br>
         <em>Comienza a las 2:33</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=272&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>Configuración de envío</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=272&captions=spa"><strong>Configuración de envío</strong></a>
         <br>
         <em>Comienza a las 4:32</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=551&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>Agregar campos rellenables</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=551&captions=spa"><strong>Agregar campos rellenables</strong></a>
          <br>
         <em>Comienza a las 9:11</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=719&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>Experiencia de firma</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=719&captions=spa"><strong>Experiencia de firma</strong></a>
         <br>
         <em>Comienza a las 11:59</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=774&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>Administrar y realizar el seguimiento de documentos</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=774&captions=spa"><strong>Administrar y realizar el seguimiento de documentos</strong></a>
         <br>
         <em>Comienza a las 12:54</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
+    <a href="https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&t=898&captions=spa">
       <img alt="Imagen de avance rápido" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>Asistencia y recursos</strong></a>
+     <a href="https://video.tv.adobe.com/v/3454386/?quality=12&learn=on&hidetitle=true&t=898&captions=spa"><strong>Asistencia y recursos</strong></a>
         <br>
         <em>Comienza a las 14:58</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&captions=spa)

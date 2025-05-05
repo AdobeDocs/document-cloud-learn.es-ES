@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Reemplaza rápidamente el procesamiento de papel con flujos de trabajo digitales que cumplen con la normativa, que se completan con informes de auditoría. Aprenda a utilizar la herramienta Designer de flujos de trabajo de Acrobat Sign para ayudar a optimizar todo el proceso.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448053?quality=12&learn=on&hidetitle=true&captions=spa)
 
 Seleccione esta opción para descargar o abrir una receta de PDF paso a paso para los contratos y los formularios de solicitud.
 

@@ -22,4 +22,4 @@ Tanto si el documento proviene de una cámara o un escáner, aprenda a mejorar e
 >
 >Si tiene Acrobat Pro, ejecute Optimizar documentos digitalizados en la herramienta Action Wizard para automatizar este proceso.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347062?quality=12&learn=on&hidetitle=true&captions=spa)

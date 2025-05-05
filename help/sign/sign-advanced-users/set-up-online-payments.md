@@ -18,4 +18,4 @@ ht-degree: 8%
 
 Conozca cómo configurar y aceptar pagos en línea en sus documentos. El servicio de pago en línea de Acrobat Sign integra [!DNL Braintree] como pasarela de pago vinculada al proceso de firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414430?quality=12&learn=on&hidetitle=true&captions=spa)

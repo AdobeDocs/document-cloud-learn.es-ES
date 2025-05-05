@@ -19,4 +19,4 @@ ht-degree: 0%
 Descubre cómo los miembros no técnicos de tu organización pueden crear flujos de trabajo sencillos que se conectan a otros sistemas mediante los conectores de [!DNL Microsoft Power Automate] prediseñados que se incluyen de forma gratuita con Acrobat Sign. Estos flujos de trabajo automatizados de documentos ayudan a impulsar la velocidad y la eficiencia de los procesos comunes, reducen el tiempo dedicado a las tareas repetitivas y minimizan los errores y las repeticiones.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424251?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437912?quality=12&learn=on&hidetitle=true&captions=spa)

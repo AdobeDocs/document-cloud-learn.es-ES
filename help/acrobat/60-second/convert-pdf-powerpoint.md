@@ -17,4 +17,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a convertir un archivo de PDF en un documento de Microsoft PowerPoint totalmente editable.
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437335?quality=12&learn=on&hidetitle=true&captions=spa)

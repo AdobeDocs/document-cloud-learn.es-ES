@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo obtener un certificado de firma digital cualificado de [!DNL Intesi Group]. Una vez registrado y verificada su identidad, [!DNL Intesi Group] le emite un ID digital que se utiliza para aplicar una firma en la nube de Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449031?quality=12&learn=on&hidetitle=true&captions=spa)
 
 <br> 
 

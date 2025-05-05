@@ -22,4 +22,4 @@ Descubre cómo reemplazar a un firmante, como cuando se ha utilizado un correo e
 >
 >La configuración predeterminada para Reemplazar destinatario es reemplazar completamente el destinatario actual por un nuevo destinatario. Los planes de nivel Business y Enterprise tienen opciones adicionales disponibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425301?quality=12&learn=on&hidetitle=true&captions=spa)

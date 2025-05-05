@@ -22,7 +22,7 @@ Conoce las siete áreas clave en las que los administradores deben centrarse par
 >
 >Los informes solo están disponibles para los planes de nivel Business y Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411235?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

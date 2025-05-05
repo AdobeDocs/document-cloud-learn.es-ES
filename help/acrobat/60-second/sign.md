@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a utilizar Adobe Scan para firmar un formulario impreso. Solo tienes que escanearlo, firmarlo y enviarlo como PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347123?quality=12&learn=on&hidetitle=true&captions=spa)

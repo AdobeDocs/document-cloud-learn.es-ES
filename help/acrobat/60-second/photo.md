@@ -18,4 +18,4 @@ ht-degree: 1%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a arrastrar y soltar un grupo de JPG en el icono de Acrobat. Haga clic en Sí para crear un PDF de varias páginas. Después, solo tienes que arrastrar más archivos JPG PDF al panel Páginas para [añadir páginas adicionales al ](https://www.adobe.com/es/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409558?quality=12&learn=on&hidetitle=true&captions=spa)

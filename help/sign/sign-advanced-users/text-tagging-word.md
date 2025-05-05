@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a crear una plantilla de documento reutilizable agregando etiquetas de texto de Acrobat Sign en [!DNL Microsoft Word]. Las etiquetas de texto crean automáticamente campos de formulario en el documento cuando se envía para su firma; no es necesaria la colocación manual de los campos. Este proceso reduce significativamente el tiempo que se tarda en realizar revisiones y cambios en los documentos de [!DNL Microsoft Word] que envíe para su firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414443?quality=12&learn=on&hidetitle=true&captions=spa)

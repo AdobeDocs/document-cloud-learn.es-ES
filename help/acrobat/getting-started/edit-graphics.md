@@ -19,4 +19,4 @@ Aprenda a crear, editar y mejorar gráficos en el PDF. La edición de gráficos 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446932?enablevpops&quality=12&learn=on&hidetitle=true&captions=spa)

@@ -31,7 +31,7 @@ Archivos de práctica del tutorial (ZIP, 342 KB)
 
 Usa la [herramienta Editar PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} para agregar gráficos de fondo a tu PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443820?hidetitle=true&captions=spa)
 
 <br> 
 
@@ -51,7 +51,7 @@ Escribe del 2 al 26 en la sección **Páginas de** y luego selecciona **Aceptar*
 
 Utilice la herramienta Editar para agregar un nuevo pie de página al PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437734?hidetitle=true&captions=spa)
 
 <br> 
 

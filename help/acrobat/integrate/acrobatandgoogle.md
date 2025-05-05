@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Aprende a obtener acceso a herramientas de PDF que te permiten ahorrar tiempo y flujos de trabajo de firma electrónica directamente dentro de la aplicación [!DNL Google Drive].
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409669?quality=12&learn=on&hidetitle=true&captions=spa)

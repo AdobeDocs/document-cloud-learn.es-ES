@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo registrar su identidad con [!DNL D-Trust] y, a continuación, usar la firma digital [!DNL D-Trust] en un documento de Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449147?quality=12&learn=on&hidetitle=true&captions=spa)

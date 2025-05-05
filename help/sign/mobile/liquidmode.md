@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Descubre cómo Liquid Mode mejora la experiencia de firma móvil. Se acabaron los pellizcos y las ampliaciones al intentar leer y firmar documentos. Este tutorial explica cómo puedes enviar un _formulario de HTML_ para que se firme y crear automáticamente una experiencia de firma mejorada para los usuarios móviles.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409663?quality=12&learn=on&hidetitle=true&captions=spa)

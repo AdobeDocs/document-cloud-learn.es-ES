@@ -24,4 +24,4 @@ Obtenga más información sobre el nuevo modo de edición que reajusta el conten
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441223?quality=12&learn=on&hidetitle=true&captions=spa)

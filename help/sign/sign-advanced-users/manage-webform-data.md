@@ -22,4 +22,4 @@ Aprende a rastrear, administrar y exportar datos de un [formulario web](webform.
 >
 >Solo los planes para empresas y grandes empresas tienen la opción de configurar el acceso a formularios web y las opciones del firmante. El acceso a los formularios web y las opciones del firmante se habilitan o deshabilitan en el nivel de cuenta o de grupo en Cuenta > Configuración de cuenta > Configuración global > Formularios web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417072?quality=12&learn=on&hidetitle=true&captions=spa)

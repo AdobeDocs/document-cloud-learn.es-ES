@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Aprende a optimizar los flujos de trabajo de los documentos rellenando y firmando un formulario directamente en [!DNL Microsoft Outlook].
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443455?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

@@ -22,7 +22,7 @@ Aprenda a utilizar la función de delegador para enviar un documento a un interm
 >
 >La función de delegador solo está disponible para los planes de nivel empresarial. Es posible que el administrador de Acrobat Sign deba habilitar **Permitir a los remitentes marcar a algunos destinatarios como delegadores** en la configuración **Configuración de envío** de **Configuración de cuenta** para usar esta función.
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414429?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

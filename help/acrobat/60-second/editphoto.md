@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a realizar ediciones avanzadas en una foto de su PDF con Photoshop. Desde la herramienta Editar PDF hasta Photoshop, y de nuevo, el proceso es impecable y te permite hacer tu trabajo de forma rápida y sencilla.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409124?quality=12&learn=on&hidetitle=true&captions=spa)

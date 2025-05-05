@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo se utiliza el Designer de flujos de trabajo personalizados para digitalizar un proceso del Programa de educación individualizada (IEP) para un centro de enseñanza primaria y secundaria. Los IEP son planes educativos escritos diseñados para satisfacer las necesidades de un estudiante y requieren firmas de varios miembros del equipo del IEP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423335?quality=12&learn=on&hidetitle=true&captions=spa)

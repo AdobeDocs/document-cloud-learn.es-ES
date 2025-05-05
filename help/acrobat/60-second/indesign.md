@@ -18,4 +18,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a volver a cargar los comentarios del PDF en InDesign después de una revisión compartida de Acrobat. Este flujo de trabajo digital le ayuda a completar las revisiones en un tiempo récord.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409451?quality=12&learn=on&hidetitle=true&captions=spa)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo enviar acuerdos para su firma, comprobar su estado y enviar recordatorios desde [!DNL Microsoft Teams]. En este ejemplo, se muestra cómo un agente hipotecario envía una solicitud de préstamo para que se firme directamente en Teams. Esta estrecha integración acelera el proceso de los préstamos hipotecarios, incluso cuando se trabaja con solicitantes de préstamos hipotecarios en un entorno de trabajo remoto.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446196?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >

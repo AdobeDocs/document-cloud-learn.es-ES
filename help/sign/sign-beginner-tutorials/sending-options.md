@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a configurar varias opciones al enviar un documento para su firma. Descubre cómo puedes configurar los mensajes del documento, los formatos de archivo, la frecuencia de recordatorio y la caducidad del documento.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414433?quality=12&learn=on&hidetitle=true&captions=spa)

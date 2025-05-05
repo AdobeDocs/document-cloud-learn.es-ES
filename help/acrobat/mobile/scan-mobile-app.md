@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aprende a convertir cualquier documento en papel en un PDF con la aplicación móvil gratuita de Adobe Scan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414435?quality=12&learn=on&hidetitle=true&captions=spa)
 
 ![Código QR](../assets/Scanqrcode.jpg)
 
