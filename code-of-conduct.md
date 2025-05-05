@@ -75,4 +75,4 @@ miembros de la dirección del proyecto.
 ## Atribución
 
 Este Código de Conducta se adapta a la versión 1.4 del Pacto para los Colaboradores.
-disponible en [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)[](https://contributor-covenant.org)
+disponible en [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/) [&#128279;](https://contributor-covenant.org)

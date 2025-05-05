@@ -67,8 +67,8 @@ Utilice el cuadro de búsqueda para buscar una palabra o frase específica.
 
 >[!TIP]
 >
-Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md).
+>Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
-Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.

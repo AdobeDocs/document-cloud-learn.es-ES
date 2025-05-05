@@ -29,4 +29,4 @@ Aprende a enviar y recopilar cientos de firmas (hasta 1000 destinatarios con cad
 
 >[!TIP]
 >
-Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) y [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), que están disponibles de forma gratuita para el Experience League.
+>Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) y [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), que están disponibles de forma gratuita para el Experience League.

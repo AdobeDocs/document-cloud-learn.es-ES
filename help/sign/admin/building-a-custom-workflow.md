@@ -27,10 +27,10 @@ Obtenga información sobre cómo se utiliza el Designer de flujos de trabajo per
 
 >[!NOTE]
 >
-Los administradores de grupo pueden asignar flujos de trabajo a cualquier grupo que administren (no solo a su grupo principal). Los administradores de grupo también pueden editar cualquier flujo de trabajo asignado a cualquier grupo que administren.
+>Los administradores de grupo pueden asignar flujos de trabajo a cualquier grupo que administren (no solo a su grupo principal). Los administradores de grupo también pueden editar cualquier flujo de trabajo asignado a cualquier grupo que administren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Este vídeo forma parte de la lista de reproducción [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Introducción a Acrobat Sign para administradores](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), disponible de forma gratuita para el Experience League.
