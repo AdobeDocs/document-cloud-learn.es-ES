@@ -25,7 +25,7 @@ Obtenga información sobre cómo enviar un recordatorio por correo electrónico 
 
 1. Instale Marketo Microsoft Dynamics Sync.
 
-   La información y el complemento más reciente para Microsoft Dynamics Sync están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   La información y el complemento más reciente para Microsoft Dynamics Sync están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=es)
 
 1. Instale [Acrobat Sign para Microsoft Dynamics](https://appsource.microsoft.com/es-es/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 

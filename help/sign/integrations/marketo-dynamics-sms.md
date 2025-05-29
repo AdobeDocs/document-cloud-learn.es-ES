@@ -25,7 +25,7 @@ Aprenda a enviar un mensaje de texto, un correo electrónico o una notificación
 
 1. Instale Marketo Microsoft Dynamics Sync.
 
-   La información y el complemento más reciente para Microsoft Dynamics Sync están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   La información y el complemento más reciente para Microsoft Dynamics Sync están disponibles [aquí.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=es)
 
 1. Instale Acrobat Sign para Microsoft Dynamics.
 
