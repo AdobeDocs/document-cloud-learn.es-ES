@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Enviar a un único destinatario" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Enviar a un único destinatario" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviando a un solo destinatario</strong></a>
@@ -68,7 +68,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Enviar a varios destinatarios" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Enviar a varios destinatarios" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Enviando a varios destinatarios</strong></a>
@@ -80,7 +80,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Configurar opciones de envío" src="../assets/Sendingoptions.png" />
+      <img alt="Configurar opciones de envío" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>Configurar opciones de envío</strong></a>
@@ -90,7 +90,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Adición de campos a los documentos" src="../assets/AddingFields.png" />
+      <img alt="Adición de campos a los documentos" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>Agregando campos a tus documentos</strong></a>
@@ -100,7 +100,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modificación de un documento después de enviarlo" src="../assets/Modifying-sending.png" />
+      <img alt="Modificación de un documento después de enviarlo" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>Modificando un documento después de enviarlo</strong></a>
@@ -110,7 +110,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Sustitución de un firmante" src="../assets/replace-signer.png" />
+      <img alt="Sustitución de un firmante" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>Reemplazar un firmante</strong></a>
@@ -122,7 +122,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Establecer fecha de caducidad y recordatorios" src="../assets/Reminders.png" />
+        <img alt="Establecer fecha de caducidad y recordatorios" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Establecer fechas límite y recordatorios</strong></a>
@@ -154,7 +154,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Firmar electrónicamente un documento" src="../assets/Electronically-sign.png" />
+      <img alt="Firmar electrónicamente un documento" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
@@ -164,7 +164,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Rellenar y firmar un documento" src="../assets/FillandSign.png" />
+      <img alt="Rellenar y firmar un documento" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Rellenar y firmar un documento</strong></a>
@@ -174,7 +174,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Obtención de una firma en persona" src="../assets/In-person.png" />
+      <img alt="Obtención de una firma en persona" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Obteniendo una firma en persona</strong></a>
@@ -184,7 +184,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Delegar la firma a otra persona" src="../assets/Delegatesigning.png" />
+      <img alt="Delegar la firma a otra persona" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>Delegar firma a otra persona</strong></a>
@@ -196,7 +196,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Qué es una firma digital" src="../assets/whatisdigsig.png" />
+      <img alt="Qué es una firma digital" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Qué es una firma digital</strong></a>
@@ -206,7 +206,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Firmar con un sello" src="../assets/Stamp.png" />
+      <img alt="Firmar con un sello" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Firmar con un sello</strong></a>
@@ -233,7 +233,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Administrar y realizar un seguimiento de los acuerdos" src="../assets/Manage.png" />
+      <img alt="Administrar y realizar un seguimiento de los acuerdos" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Administrar y realizar un seguimiento de los acuerdos</strong></a>
@@ -243,7 +243,7 @@ Aprende a enviar correos electrónicos regulares [recordatorios y fechas límite
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creación de una plantilla de documento" src="../assets/Template.png" />
+      <img alt="Creación de una plantilla de documento" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Creando una plantilla de documento</strong></a>
