@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Configuración del pedido de firma" src="../assets/Routing.png">
+      <img alt="Configuración del pedido de firma" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Configurando orden de firma</strong></a>
@@ -48,7 +48,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Delegar en otra persona" src="../assets/Delegating.png" />
+      <img alt="Delegar en otra persona" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Uso del rol de delegador</strong></a>
@@ -58,7 +58,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Uso de la función de aprobador" src="../assets/Approver.png" />
+      <img alt="Uso de la función de aprobador" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Usar el rol de aprobador</strong></a>
@@ -90,7 +90,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Configuración de pagos en línea" src="../assets/Payments.png" />
+      <img alt="Configuración de pagos en línea" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>Configurar pagos en línea</strong></a>
@@ -110,7 +110,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Creación de un formulario web" src="../assets/Webform.png" />
+        <img alt="Creación de un formulario web" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Creando un formulario web</strong></a>
@@ -122,7 +122,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/Text-Tagging.png" />
+        <img alt="Etiquetado de texto de Acrobat Sign" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
@@ -132,7 +132,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Uso del etiquetado de texto en [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Uso del etiquetado de texto en [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>Uso del etiquetado de texto en [!DNL Microsoft Word]</strong></a>
@@ -169,7 +169,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Administrar plantillas de documento" src="../assets/ManageTemplate.png" />
+      <img alt="Administrar plantillas de documento" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>Administrar plantillas de documentos</strong></a>
@@ -179,7 +179,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Modificar un formulario web existente" src="../assets/Modifywebform.png" />
+      <img alt="Modificar un formulario web existente" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>Modificar un formulario web existente</strong></a>
@@ -189,7 +189,7 @@ Obtenga información sobre el rango de métodos disponibles en Acrobat Sign para
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Administración de datos de formulario web" src="../assets/Managewebform.png" />
+      <img alt="Administración de datos de formulario web" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Administrar datos de formulario web</strong></a>
