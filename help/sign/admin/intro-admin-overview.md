@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Primeros pasos para nuevos administradores" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Primeros pasos para nuevos administradores" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Introducción para nuevos administradores</strong></a>
@@ -53,7 +53,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="En marcha para administradores" src="../assets/Up-Running.png" />
+      <img alt="En marcha para administradores" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Activo y en ejecución para administradores</strong></a>
@@ -63,7 +63,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuración de alertas y eventos compartidos" src="../assets/Notifications_1280.png" />
+      <img alt="Configuración de alertas y eventos compartidos" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificaciones de eventos y alertas</strong></a>
@@ -73,7 +73,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Añadir un nuevo usuario" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Añadir un nuevo usuario" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Agregar un nuevo usuario</strong></a>
@@ -85,7 +85,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Agregar un nuevo administrador de cuentas" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Agregar un nuevo administrador de cuentas" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>Agregar un nuevo administrador de cuentas</strong></a>
@@ -95,7 +95,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Creación y gestión de grupos" src="../assets/Creating-Groups.png" />
+      <img alt="Creación y gestión de grupos" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Creación y administración de grupos</strong></a>
@@ -105,7 +105,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configuración de un archivo externo" src="../assets/ExternalArchive.png" />
+      <img alt="Configuración de un archivo externo" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Configurando un archivo externo</strong></a>
@@ -179,7 +179,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Configuración de un flujo de trabajo" src="../assets/BuildingWorkflow.png" />
+      <img alt="Configuración de un flujo de trabajo" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>Configurando un flujo de trabajo</strong></a>
@@ -189,7 +189,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Informes de auditoría" src="../assets/audit-reports-configure.png" />
+      <img alt="Informes de auditoría" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Informes de auditoría</strong></a>
@@ -199,7 +199,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Asignar funciones de administrador de productos y asistencia técnica" src="../assets/admin-roles.jpg" />
+      <img alt="Asignar funciones de administrador de productos y asistencia técnica" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>Asignar funciones de administrador de productos y asistencia</strong></a>
@@ -216,7 +216,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Configuración global" src="../assets/GlobalSettings_1280.png">
+      <img alt="Configuración global" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>Configuración global</strong></a>
@@ -226,7 +226,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Acceso a la cuenta compartida" src="../assets/SharingAccess.png" />
+      <img alt="Acceso a la cuenta compartida" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>Acceso compartido a la cuenta</strong></a>
@@ -236,7 +236,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Uso compartido avanzado de cuentas" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Uso compartido avanzado de cuentas" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>Uso compartido avanzado de la cuenta</strong></a>
@@ -246,7 +246,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Herramienta de descarga masiva" src="../assets/bulk-download-tool.png" />
+      <img alt="Herramienta de descarga masiva" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>Herramienta de descarga masiva</strong></a>
@@ -268,7 +268,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Uso de la configuración de biofarmacéutica" src="../assets/Bio_1280.png" />
+      <img alt="Uso de la configuración de biofarmacéutica" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Usar configuración de biofarmacéutica</strong></a>
@@ -278,7 +278,7 @@ Aprende a usar la [herramienta de descarga masiva](bulk-download-tool.md) para d
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="Cómo configurar el administrador de privacidad" src="../assets/privacy.png" />
+      <img alt="Cómo configurar el administrador de privacidad" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>Cómo configurar los administradores de privacidad</strong></a>
