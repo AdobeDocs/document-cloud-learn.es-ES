@@ -2,29 +2,29 @@
 user-guide-title: Tutorials de Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/es/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/es/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/es/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 6%
+source-wordcount: '553'
+ht-degree: 10%
 
 ---
 
 
 # Tutorials de Acrobat Sign {#sign-learning-hub}
 
-+ [Información general](overview.md)
-+ Introducción a {#getting-started}
-   + [Información general](sign-beginner-tutorials/beginner-users-overview.md)
++ [Overview](overview.md)
++ Introducción {#getting-started}
+   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
    + Enviar {#getting-started-sending}
       + [Conceptos básicos del área de trabajo](sign-beginner-tutorials/quick-tour.md)
       + [Introducción a Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -44,9 +44,9 @@ ht-degree: 6%
       + [Firmar con un sello](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Administrar {#getting-started-managing}
       + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
-      + [Creando una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=es)
+      + [Creando una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tareas avanzadas {#advanced-tasks}
-   + [Información general](sign-advanced-users/advanced-users-overview.md)
+   + [Overview](sign-advanced-users/advanced-users-overview.md)
    + Enviar {#advanced-tasks-sending}
       + [Configuración del pedido de firma](sign-advanced-users/setting-up-routing.md)
       + [Uso de la función del delegador](sign-advanced-users/delegate-signature.md)
@@ -54,9 +54,9 @@ ht-degree: 6%
       + [Métodos de autenticación en Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Administrar datos de formulario](sign-advanced-users/manage-form-data.md)
       + [Configuración de pagos en línea](sign-advanced-users/set-up-online-payments.md)
-      + [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=es)
-      + [Creando un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=es)
-      + [Etiquetado de texto de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=es)
+      + [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Creando un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Etiquetado de texto de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Usar el etiquetado de texto en  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Administrar {#advanced-tasks-managing}
       + [Uso de informes y transacciones](sign-advanced-users/creating-a-report.md)
@@ -64,20 +64,21 @@ ht-degree: 6%
       + [Modificar un formulario web existente](sign-advanced-users/modify-webform.md)
       + [Administración de datos de formulario web](sign-advanced-users/manage-webform-data.md)
 + Administrar {#admin-set-up}
-   + [Información general](admin/intro-admin-overview.md)
-   + Introducción a {#getting-started-admin}
+   + [Overview](admin/intro-admin-overview.md)
+   + Introducción {#getting-started-admin}
       + [Primeros pasos para nuevos administradores](admin/get-started-admin.md)
       + [En marcha para administradores](admin/up-and-running-admin.md)
-      + [Configurar notificaciones de eventos y alertas](admin/set-up-shared-events-and-alert.md)
+      + [Migrar plantillas de DocumentSign](admin/docusign-templates.md)
       + [Añadir un nuevo usuario](admin/add-users-to-your-account.md)
       + [Agregar un nuevo administrador de cuentas](admin/add-admin.md)
+      + [Configurar notificaciones de eventos y alertas](admin/set-up-shared-events-and-alert.md)
       + [Creación y gestión de grupos](admin/create-and-manage-groups.md)
       + [Configuración de un archivo externo](admin/set-up-your-external-archive.md)
       + [Creación de una plantilla](sign-advanced-users/create-a-template.md)
-      + [Uso de informes y transacciones](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Uso de informes y transacciones](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Opciones de informes para usuarios](admin/report-options.md)
       + [Creación de un formulario web](sign-advanced-users/webform.md)
-      + [Modificar un formulario web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=es)
+      + [Modificar un formulario web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Enviar en bloque](sign-advanced-users/megasign.md)
       + [Creación de un flujo de trabajo personalizado](admin/building-a-custom-workflow.md)
       + [Informes de auditoría](admin/audit-reports.md)
@@ -90,20 +91,20 @@ ht-degree: 6%
       + [Etiquetado de texto de Acrobat Sign](sign-advanced-users/adobe-sign-text-tagging.md)
       + [Usar configuración de biofarmacéutica](admin/use-bio-pharma-settings.md)
       + [Cómo configurar los administradores de privacidad](admin/privacy.md)
-+ Id. digital {#digital-id}
-   + [Información general](digitalid/digitalid-overview.md)
++ ID digital {#digital-id}
+   + [Overview](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Firmar con Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
       + [Registrar y firmar con  [!DNL Digidentity]](digitalid/digidentity-sign.md)
-   + Confianza en D {#dtrust}
+   + D-Trust {#dtrust}
       + [Registrar y firmar con [!DNL D-Trust]](digitalid/d-trust.md)
-   + Grupo Intesi {#intesi}
+   + Intesi Group {#intesi}
       + [Obtener un ID digital de Intesi Group (avanzado)](digitalid/intesi-advanced.md)
       + [Obtener un ID digital de Intesi Group (cualificado)](digitalid/intesi-qualified.md)
       + [Firmar con Intesi Group](digitalid/intesi-sign.md)
 + Integraciones {#integrations}
-   + [Información general](integrations/integrations-overview.md)
+   + [Overview](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Rellenar y firmar en  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Enviar para firmar en  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
@@ -139,12 +140,12 @@ ht-degree: 6%
       + [Envía notificaciones con Acrobat Sign para  [!DNL Microsoft Dynamics]  y Marketo](integrations/marketo-dynamics-sms.md)
       + [Envía recordatorios con Acrobat Sign para  [!DNL Microsoft Dynamics 365]  y Marketo](integrations/marketo-dynamics-reminder.md)
 + Sectores y departamentos {#expand}
-   + [Información general](sign-usecase/expand-inspire-overview.md)
-   + Generador de aptitudes {#innovation}
+   + [Overview](sign-usecase/expand-inspire-overview.md)
+   + Skill Builder {#innovation}
       + [Seminarios web](sign-usecase/innovation-series.md)
    + Casos prácticos {#recipes}
-      + [Información general](sign-usecase/recipes.md)
-      + Gobierno {#gov}
+      + [Overview](sign-usecase/recipes.md)
+      + Organismos públicos {#gov}
          + [Solicitud de préstamo del gobierno con varios firmantes desconocidos](sign-usecase/webform-multiple-signers.md)
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
          + [Acuerdo de teletrabajo](sign-usecase/usecasegovtelework.md)
@@ -162,16 +163,16 @@ ht-degree: 6%
          + [Flujo de trabajo personalizado para el proceso IEP educativo](sign-usecase/usecase-edu-iep.md)
    + Caso práctico {#use-case}
       + [Exposición](sign-usecase/use-case-showcase.md)
-+ Desarrollar {#develop}
-   + [Información general](develop/develop-overview.md)
++ Revelar {#develop}
+   + [Overview](develop/develop-overview.md)
    + API y webhooks {#custom}
       + [Recopilación de documentos de gran volumen mediante GigaSign](develop/gigasign.md)
       + [Crea firmas electrónicas incrustadas y experiencias con documentos](develop/embeddedesignature.md)
       + [Cómo configurar webhooks](develop/webhooks.md)
-+ Implementar {#deploy}
-   + [Información general](deploy-overview.md)
++ Implementación {#deploy}
+   + [Overview](deploy-overview.md)
 + Móvil {#mobile}
-   + [Información general](mobile/mobile-overview.md)
-   + Tutoriales móviles {#mobile-tutorials}
+   + [Overview](mobile/mobile-overview.md)
+   + Tutoriales para móviles {#mobile-tutorials}
       + [Firma documentos sobre la marcha](mobile/sign-mobile.md)
       + [Liquid Mode en Acrobat Sign](mobile/liquidmode.md)
