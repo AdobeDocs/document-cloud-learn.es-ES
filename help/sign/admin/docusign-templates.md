@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprenda a migrar sin problemas plantillas y flujos de trabajo de Document Sign a Acrobat Sign en tres sencillos pasos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465277?quality=12&learn=on&hidetitle=true&captions=spa)
