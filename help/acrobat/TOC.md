@@ -6,25 +6,25 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 3%
+source-wordcount: '512'
+ht-degree: 5%
 
 ---
 
 
 # Tutorials de Acrobat {#acrobat-learning}
 
-+ [Información general](overview.md)
-+ Introducción a {#getting-started}
-   + [Información general](getting-started/getting-started-overview.md)
++ [Overview](overview.md)
++ Introducción {#getting-started}
+   + [Overview](getting-started/getting-started-overview.md)
    + [Nueva experiencia de Acrobat](getting-started/new-workspace.md)
    + [Conceptos básicos del área de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
    + [Productividad sobre la marcha](getting-started/productivity.md)
-   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Crear un PDF](getting-started/create-pdf.md)
    + [Combinar archivos para crear un único PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
@@ -44,7 +44,7 @@ ht-degree: 3%
    + [Realizar un seguimiento de documentos](getting-started/track.md)
    + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
 + Tareas avanzadas {#advanced-tasks}
-   + [Información general](advanced-tasks/advanced-tasks-overview.md)
+   + [Overview](advanced-tasks/advanced-tasks-overview.md)
    + [Adición de marcadores e hipervínculos](advanced-tasks/bookmarks.md)
    + [Optimizar documentos digitalizados](advanced-tasks/optimizescan.md)
    + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
@@ -58,16 +58,22 @@ ht-degree: 3%
    + [Reducir el tamaño del archivo y optimizar](advanced-tasks/reduce.md)
    + [Trabajar con datos de formulario](advanced-tasks/formdata.md)
    + [Comprobar Accesibilidad Del PDF](advanced-tasks/accessibility.md)
-   + Serie de accesibilidad de Acrobat {#accessibility-series}
-      + [Información general](advanced-tasks/accessibility-series.md)
+   + Seminarios web de accesibilidad de Acrobat {#accessibility-series}
+      + [Overview](advanced-tasks/accessibility-series.md)
       + [Introducción a la accesibilidad del PDF](advanced-tasks/accessibilitysession1.md)
       + [Corrección de un PDF inaccesible](advanced-tasks/accessibilitysession2.md)
       + [Tablas complejas](advanced-tasks/accessibilitysession3.md)
       + [Documentos digitalizados y listas complejas](advanced-tasks/accessibilitysession4.md)
       + [Adición de campos de formulario a un PDF etiquetado](advanced-tasks/accessibilitysession5.md)
       + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
++ Serie de accesibilidad {#accessibility-tutorials}
+   + [Overview](accessibility-series/accessibility-overview.md)
+   + [El cómo y el por qué de los archivos de PDF accesibles](accessibility-series/how-why-accessible-pdf.md)
+   + [Configuración del espacio de trabajo](accessibility-series/set-up-workspace.md)
+   + [Crear un PDF accesible desde Word](accessibility-series/create-accessible-from-word.md)
+   + [Crear formularios accesibles](accessibility-series/create-accessible-forms.md)
 + Acrobat de 60 segundos {#60-second}
-   + [Información general](60-second/60-second-overview.md)
+   + [Overview](60-second/60-second-overview.md)
    + [Editar PDF con Acrobat Web](60-second/edit.md)
    + [Reconocer texto en un archivo de PDF digitalizado](60-second/textrecognition.md)
    + [Combinar archivos en un solo PDF](60-second/combine-to-one-pdf.md)
@@ -95,10 +101,10 @@ ht-degree: 3%
    + [Conformar un PDF a un formato estándar](60-second/conform.md)
    + [Encuentra las diferencias con PDF Compare](60-second/compare.md)
    + [Buscar varios archivos de PDF a la vez](60-second/search.md)
-+ Creadores de aptitudes {#skill-builders}
++ Creadores de habilidades {#skill-builders}
    + [Seminarios web](skill-builder/skill-builder-webinars.md)
 + Integraciones {#integrations}
-   + [Información general](integrate/integrate-overview.md)
+   + [Overview](integrate/integrate-overview.md)
    + [Crear PDF desde  [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Crear PDF en  [!DNL Office] para la Web](integrate/createofficeweb.md)
    + [Colaboración de PDF en  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -109,10 +115,10 @@ ht-degree: 3%
    + [Adobe Acrobat para  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Trabajar con archivos de  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Sectores y departamentos {#by-industry}
-   + [Información general](industry/industry-overview.md)
-   + Gobierno {#gov}
-      + [Información general](industry/gov/gov-overview.md)
-      + Cinco sugerencias para trabajar en cualquier lugar con Acrobat {#tips}
+   + [Overview](industry/industry-overview.md)
+   + Organismos públicos {#gov}
+      + [Overview](industry/gov/gov-overview.md)
+      + Cinco consejos para trabajar con Acrobat desde cualquier parte {#tips}
          + [5 consejos para trabajar en cualquier parte con Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Consejo n.º 1: Consigue tus herramientas](industry/gov/get-your-tools.md)
          + [Consejo n.º 2 - Colaborar en documentos](industry/gov/collaborate-on-documents.md)
@@ -125,12 +131,12 @@ ht-degree: 3%
          + [#2 - Creación en Word](industry/gov/authoring-in-word.md)
          + [#3 - Acabado en Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Hacer más accesibles las papeletas de los PDF](industry/gov/making-pdf-ballots-accessible.md)
-+ Desarrollar {#develop}
-   + [Información general](develop/develop-overview.md)
-+ Implementar {#deploy}
-   + [Información general](deploy/deploy-overview.md)
++ Revelar {#develop}
+   + [Overview](develop/develop-overview.md)
++ Implementación {#deploy}
+   + [Overview](deploy/deploy-overview.md)
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
-   + [Información general](mobile/mobile-overview.md)
-   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=es)
+   + [Overview](mobile/mobile-overview.md)
+   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
