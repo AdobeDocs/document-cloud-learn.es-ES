@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
    + [Productividad sobre la marcha](getting-started/productivity.md)
-   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Crear un PDF](getting-started/create-pdf.md)
    + [Combinar archivos para crear un único PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
@@ -68,7 +68,7 @@ ht-degree: 5%
       + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
 + Serie de accesibilidad {#accessibility-tutorials}
    + [Overview](accessibility-series/accessibility-overview.md)
-   + [El cómo y el por qué de los archivos de PDF accesibles](accessibility-series/how-why-accessible-pdf.md)
+   + [El qué y el por qué de los archivos de PDF accesibles](accessibility-series/what-why-accessible-pdf.md)
    + [Configuración del espacio de trabajo](accessibility-series/set-up-workspace.md)
    + [Crear un PDF accesible desde Word](accessibility-series/create-accessible-from-word.md)
    + [Crear formularios accesibles](accessibility-series/create-accessible-forms.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=es)
+   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
