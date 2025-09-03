@@ -30,4 +30,4 @@ En este tutorial se tratan los siguientes temas:
 * Gestión y seguimiento de acuerdos
 * Acceso a asistencia y recursos
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454386?quality=12&learn=on&hidetitle=true&captions=spa)
