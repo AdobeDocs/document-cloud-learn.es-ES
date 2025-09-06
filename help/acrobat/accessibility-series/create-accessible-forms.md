@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprenda a hacer que los formularios sean accesibles en Acrobat. El seguimiento de estos siete pasos puede ayudar a acelerar el procesamiento y hacer que el PDF tenga acceso a campos de formulario interactivos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471665?quality=12&learn=on&hidetitle=true&captions=spa)

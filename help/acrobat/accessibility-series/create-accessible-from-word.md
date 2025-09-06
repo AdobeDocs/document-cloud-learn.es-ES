@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Aprenda a crear un archivo de PDF accesible desde Microsoft Word. Comenzar con un archivo de Word bien estructurado puede suponer una gran diferencia a la hora de crear un PDF accesible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471654?quality=12&learn=on&hidetitle=true&captions=spa)
