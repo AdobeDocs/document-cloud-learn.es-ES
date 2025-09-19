@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
+source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 5%
    + [Conceptos básicos del área de trabajo](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
-   + [Productividad sobre la marcha](getting-started/productivity.md)
-   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+   + [¿Qué es Acrobat Studio?](getting-started/acrobat-studio.md)
+   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Crear un PDF](getting-started/create-pdf.md)
    + [Combinar archivos para crear un único PDF](getting-started/combine-to-pdf.md)
    + [Organizar páginas](getting-started/organize.md)
@@ -42,6 +42,7 @@ ht-degree: 5%
    + [Protect crea un archivo de PDF con una contraseña](getting-started/password-protect.md)
    + [Obtener firmas](getting-started/signatures.md)
    + [Realizar un seguimiento de documentos](getting-started/track.md)
+   + [Productividad sobre la marcha](getting-started/productivity.md)
    + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
 + Tareas avanzadas {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
@@ -138,5 +139,5 @@ ht-degree: 5%
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=es)
+   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
