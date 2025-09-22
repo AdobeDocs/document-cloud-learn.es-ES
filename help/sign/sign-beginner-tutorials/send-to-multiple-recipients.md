@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ¿Tiene más de una persona que debe firmar el documento? Aprende a enviar un documento para que se firme electrónicamente a más de una persona exactamente en el orden que desees.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425279?quality=12&learn=on&hidetitle=true&captions=spa)
 
 >[!TIP]
 >
