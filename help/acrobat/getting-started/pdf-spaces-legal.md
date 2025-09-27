@@ -18,4 +18,4 @@ Convierte colecciones de archivos y sitios web en centros de conocimientos conve
 
 Los espacios de PDF están disponibles para los usuarios que compren Acrobat Studio o el complemento Asistente para inteligencia artificial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475135?quality=12&learn=on&hidetitle=true&captions=spa)
