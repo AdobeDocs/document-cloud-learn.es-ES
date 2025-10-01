@@ -22,4 +22,4 @@ Aprenda a personalizar los detalles del acuerdo, adjuntar archivos y configurar 
 >
 >Es posible que el administrador haya personalizado las opciones de envío, por lo que las opciones que ve podrían diferir de las que se muestran en este tutorial.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414433?quality=12&learn=on&hidetitle=true&captions=spa)
