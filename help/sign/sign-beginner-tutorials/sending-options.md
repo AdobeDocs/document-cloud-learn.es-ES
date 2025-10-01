@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Aprenda a personalizar los detalles del acuerdo, adjuntar archivos y configurar 
 
 >[!NOTE]
 >
->El administrador puede configurar las opciones de envío, por lo que es posible que no vea exactamente las mismas opciones que se indican en este tutorial.
+>Es posible que el administrador haya personalizado las opciones de envío, por lo que las opciones que ve podrían diferir de las que se muestran en este tutorial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3414433?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
