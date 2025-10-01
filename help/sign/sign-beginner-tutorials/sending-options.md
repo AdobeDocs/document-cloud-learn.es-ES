@@ -7,15 +7,19 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Configurar opciones de envío
 
-Aprenda a configurar varias opciones al enviar un documento para su firma. Descubre cómo puedes configurar los mensajes del documento, los formatos de archivo, la frecuencia de recordatorio y la caducidad del documento.
+Aprenda a personalizar los detalles del acuerdo, adjuntar archivos y configurar opciones adicionales como recordatorios, caducidad e idioma del destinatario al enviar un documento para su firma.
 
->[!VIDEO](https://video.tv.adobe.com/v/3414433?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!NOTE]
+>
+>El administrador puede configurar las opciones de envío, por lo que es posible que no vea exactamente las mismas opciones que se indican en este tutorial.
+
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)

@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '511'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Configurar opciones de envío]
+
+Obtenga información sobre cómo [configurar varias opciones](sending-options.md) al enviar un documento para su firma.
 
 >[!TAB Enviar a varios firmantes]
 
