@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
+source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Crear una plantilla reutilizable]
+
+Obtenga información sobre cómo crear una [plantilla de documento reutilizable](../sign-advanced-users/create-a-template.md).
 
 >[!TAB Configurar opciones de envío]
 
