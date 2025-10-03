@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Los creadores de habilidades de Acrobat Sign son sesiones de 30 minutos diseñadas para poner tus firmas electrónicas a trabajar, sin añadir más trabajo a tu día. Cada mes se resalta un nuevo tema.
 
-Consulta todos los seminarios web bajo demanda [aquí](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
+Consulta todos los seminarios web bajo demanda [aquí](https://experienceleague.adobe.com/es/docs/events/acrobat-sign-webinars/overview).
