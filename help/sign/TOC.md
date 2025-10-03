@@ -2,19 +2,19 @@
 user-guide-title: Tutorials de Acrobat Sign
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/es/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/es/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/es/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials de Acrobat Sign
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '557'
 ht-degree: 9%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 9%
       + [Modificación de un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
       + [Sustitución de un firmante](sign-beginner-tutorials/replace-signer.md)
       + [Establecer fecha de caducidad y recordatorios](sign-beginner-tutorials/set-deadlines-reminders.md)
+      + [Crear una plantilla reutilizable](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
    + Firmar {#getting-started-signing}
       + [Firmar electrónicamente un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Rellenar y firmar un documento](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +45,6 @@ ht-degree: 9%
       + [Firmar con un sello](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Administrar {#getting-started-managing}
       + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
-      + [Creando una plantilla de documento](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=es)
 + Tareas avanzadas {#advanced-tasks}
    + [Overview](sign-advanced-users/advanced-users-overview.md)
    + Enviar {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 9%
       + [Métodos de autenticación en Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Administrar datos de formulario](sign-advanced-users/manage-form-data.md)
       + [Configuración de pagos en línea](sign-advanced-users/set-up-online-payments.md)
-      + [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=es)
-      + [Creando un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=es)
-      + [Etiquetado de texto de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=es)
+      + [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Creando un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Etiquetado de texto de Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Usar el etiquetado de texto en  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Administrar {#advanced-tasks-managing}
       + [Uso de informes y transacciones](sign-advanced-users/creating-a-report.md)
@@ -75,11 +75,11 @@ ht-degree: 9%
       + [Asignar funciones de administrador de productos y asistencia técnica](admin/promote-admin.md)
       + [Creación y gestión de grupos](admin/create-and-manage-groups.md)
       + [Configuración de un archivo externo](admin/set-up-your-external-archive.md)
-      + [Creación de una plantilla](sign-advanced-users/create-a-template.md)
-      + [Uso de informes y transacciones](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Crear una plantilla reutilizable](sign-advanced-users/create-a-template.md)
+      + [Uso de informes y transacciones](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Opciones de informes para usuarios](admin/report-options.md)
       + [Creación de un formulario web](sign-advanced-users/webform.md)
-      + [Modificar un formulario web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=es)
+      + [Modificar un formulario web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Enviar en bloque](sign-advanced-users/megasign.md)
       + [Creación de un flujo de trabajo personalizado](admin/building-a-custom-workflow.md)
       + [Informes de auditoría](admin/audit-reports.md)
@@ -162,8 +162,6 @@ ht-degree: 9%
          + [Aplicación de prácticas de formularios web educativos](sign-usecase/usecase-edu-intern.md)
          + [Crear una aplicación de prácticas de formularios web educativos](sign-usecase/usecase-edu-intern-create.md)
          + [Flujo de trabajo personalizado para el proceso IEP educativo](sign-usecase/usecase-edu-iep.md)
-   + Caso práctico {#use-case}
-      + [Exposición](sign-usecase/use-case-showcase.md)
 + Revelar {#develop}
    + [Overview](develop/develop-overview.md)
    + API y webhooks {#custom}

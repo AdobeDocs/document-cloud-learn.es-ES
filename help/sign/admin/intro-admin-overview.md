@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -137,10 +137,10 @@ Obtenga información sobre cómo [agregar nuevos usuarios a Acrobat Sign](add-us
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Creación de una plantilla de documento" src="../assets/create-template.png" />
+      <img alt="Crear una plantilla reutilizable" src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Creando una plantilla de documento</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Crear una plantilla reutilizable</strong></a>
     </div>
     <em>Crea una plantilla de documento reutilizable para agilizar y mantener la coherencia</em>
     <br>
