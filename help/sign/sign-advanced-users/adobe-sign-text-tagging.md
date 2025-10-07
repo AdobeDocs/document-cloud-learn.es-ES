@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ Aprenda a crear campos de formulario de Acrobat Sign con el etiquetado de texto.
 
 ## Introducción
 
-Las etiquetas de texto son fragmentos de texto con formato único colocados en cualquier parte de un documento que
-se reconocen automáticamente como campos cuando se cargan en Acrobat Sign.
+Las etiquetas de texto son fragmentos de texto con formato único colocados en cualquier parte de un documento que se reconocen automáticamente como campos cuando se cargan en Acrobat Sign.
 
-    [Sintaxis de etiqueta de texto](../assets/syntax.png)
+![Sintaxis de la etiqueta de texto](../assets/syntax.png)
 
-Las etiquetas de texto se pueden añadir directamente a herramientas de creación como Microsoft Word, Adobe InDesign o
-tienes un PDF: Acrobat. Las etiquetas de texto reducen significativamente el esfuerzo de preparación
-documentos utilizados en Acrobat Sign.
+Las etiquetas de texto se pueden añadir directamente a herramientas de creación como Microsoft Word, Adobe InDesign o, si tiene un PDF, Acrobat. Las etiquetas de texto reducen significativamente el esfuerzo que supone preparar documentos utilizados en Acrobat Sign.
 
-## Agregar etiquetas en Microsoft Word
+### Agregar etiquetas en Microsoft Word
 
 Para añadir etiquetas de texto a un documento de Microsoft Word, echa un vistazo a este [tutorial de vídeo](text-tagging-word.md).
 
-## Añadir etiquetas en Acrobat
+### Añadir etiquetas en Acrobat
 
 Adobe Acrobat cuenta con un sólido entorno de creación de formularios de arrastrar y soltar. La aplicación de etiquetas de texto en Acrobat le permite aprovechar las funciones adicionales disponibles en Acrobat Sign.
 
@@ -69,7 +66,7 @@ Adobe Acrobat cuenta con un sólido entorno de creación de formularios de arras
 
 1. Cargue el archivo en Acrobat Sign y cree una plantilla reutilizable como se describe en la sección siguiente.
 
-## Crear una plantilla reutilizable
+### Crear una plantilla reutilizable
 
 Después de crear un documento etiquetado, configúrelo como una plantilla reutilizable, lo que elimina la necesidad de que cualquier persona añada campos a sus documentos.
 
