@@ -1,27 +1,76 @@
 ---
 title: Etiquetado de texto de Acrobat Sign
-description: Aprenda a crear campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat
+description: Aprenda a crear campos de formulario de Acrobat Sign mediante el etiquetado de texto
 feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 03197d1b968dd53c3e92183ae3fa321e3b03b01c
+source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '402'
+ht-degree: 2%
 
 ---
 
 # Etiquetado de texto de Acrobat Sign
 
-En este seminario web grabado (no es necesario registrarse), aprenda a crear campos de formulario de Acrobat Sign con etiquetado de texto mediante Adobe Acrobat. El etiquetado de texto reduce significativamente el tiempo que se tarda en crear y revisar documentos con muchos campos de formulario. Los remitentes de documentos no necesitan colocar campos individuales en cada documento, lo que supone un importante ahorro de tiempo. Otras ventajas incluyen la validación de campos de formulario (recopilación de datos precisa y sin errores) y la coherencia de diseño de formularios profesional. No dudes en enviarnos tus preguntas durante el seminario web a través del pod de preguntas y respuestas. Haga clic en la imagen de abajo para comenzar a ver la grabación.
+Aprenda a crear campos de formulario de Acrobat Sign con el etiquetado de texto. Las etiquetas de texto se pueden añadir directamente a herramientas de creación como Microsoft Word, Adobe InDesign o, si tienes un PDF, en Acrobat. Pueden reducir significativamente el esfuerzo que supone la preparación de documentos utilizados en Acrobat Sign. Después de cargar un documento etiquetado en Acrobat Sign, se puede configurar como una plantilla, lo que elimina la necesidad de que cualquier persona añada campos a sus documentos.
 
-[![Sesión de inspección](../assets/tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+## Introducción
 
-[Ver el seminario web grabado de etiquetado de texto de Acrobat Sign](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+Las etiquetas de texto son fragmentos de texto con formato único colocados en cualquier parte de un documento que
+se reconocen automáticamente como campos cuando se cargan en Acrobat Sign.
 
->[!TIP]
->
->Este vídeo forma parte de las listas de reproducción de [Tareas avanzadas para usuarios](https://experienceleague.adobe.com/es/playlists/acrobat-sign-get-started-business-users) y [Tareas avanzadas para administradores](https://experienceleague.adobe.com/es/playlists/acrobat-sign-perform-advanced-tasks-administrators), que están disponibles de forma gratuita para el Experience League.
+    [Sintaxis de etiqueta de texto](../assets/syntax.png)
+
+Las etiquetas de texto se pueden añadir directamente a herramientas de creación como Microsoft Word, Adobe InDesign o
+tienes un PDF: Acrobat. Las etiquetas de texto reducen significativamente el esfuerzo de preparación
+documentos utilizados en Acrobat Sign.
+
+## Agregar etiquetas en Microsoft Word
+
+Para añadir etiquetas de texto a un documento de Microsoft Word, echa un vistazo a este [tutorial de vídeo](text-tagging-word.md).
+
+## Añadir etiquetas en Acrobat
+
+Adobe Acrobat cuenta con un sólido entorno de creación de formularios de arrastrar y soltar. La aplicación de etiquetas de texto en Acrobat le permite aprovechar las funciones adicionales disponibles en Acrobat Sign.
+
+1. Abra el formulario en Acrobat.
+
+1. Seleccione **[!UICONTROL Preparar un formulario]** en el panel **[!UICONTROL Todas las herramientas]**.
+
+1. Seleccione **[!UICONTROL Crear formulario]**.
+
+1. Seleccione **[!UICONTROL Preparar formulario para firma electrónica]** en el menú desplegable del panel **[!UICONTROL Opciones]**.
+
+   ![Preparar formulario para la firma electrónica](../assets/tag-prepare-e-signing.png)
+
+1. Seleccione **[!UICONTROL Siguiente]** para confirmar.
+
+   ![Confirmar la conversión de campos](../assets/tag-confirm.png)
+
+1. Haga doble clic en un campo para que aparezca el cuadro de diálogo **[!UICONTROL Propiedades]**.
+
+   Utilice la sintaxis detallada en [Acrobat Sign Text Tag Guide](https://helpx.adobe.com/es/sign/using/text-tag.html) para cambiar el nombre del campo de formulario.
+
+1. Por ejemplo, puede escribir *OInt_es_:signer1:optinitials* en el nombre del campo para que un campo inicial sea opcional.
+
+   ![Cambiar nombre de campo](../assets/tag-opt-initials.png)
+
+   Las etiquetas de texto se agregan al nombre del campo de formulario y, a diferencia de la sintaxis que se utilizaría en Microsoft Word (u otras herramientas de creación), no se incluyen las llaves.
+
+   Las etiquetas de texto también se pueden añadir en el panel Campos con solo cambiar el nombre del campo de formulario.
+
+   ![Cambiar nombre en el panel de campos](../assets/tag-rename.png)
+
+1. Guarde el archivo y ciérrelo.
+
+1. Cargue el archivo en Acrobat Sign y cree una plantilla reutilizable como se describe en la sección siguiente.
+
+## Crear una plantilla reutilizable
+
+Después de crear un documento etiquetado, configúrelo como una plantilla reutilizable, lo que elimina la necesidad de que cualquier persona añada campos a sus documentos.
+
+Para crear una plantilla reutilizable, echa un vistazo a este [tutorial de vídeo](../sign-advanced-users/create-a-template.md).
