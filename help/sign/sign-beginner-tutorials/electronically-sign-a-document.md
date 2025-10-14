@@ -16,6 +16,6 @@ ht-degree: 3%
 
 # Firmar electrónicamente un documento
 
-Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign. Echa un vistazo a este [tutorial](../mobile/sign-mobile.md) para descubrir cómo firmar documentos con la aplicación móvil de Acrobat Sign para [iOS](https://apps.apple.com/es/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=es).
+Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign. Echa un vistazo a este [tutorial](../mobile/sign-mobile.md) para descubrir cómo firmar documentos con la aplicación móvil de Acrobat Sign para [iOS](https://apps.apple.com/es/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411229?quality=12&learn=on&hidetitle=true&captions=spa)

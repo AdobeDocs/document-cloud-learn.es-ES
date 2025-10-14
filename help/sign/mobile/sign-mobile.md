@@ -15,6 +15,6 @@ ht-degree: 5%
 
 # Firma documentos sobre la marcha
 
-Aprende a firmar documentos con la aplicación móvil de Acrobat Sign para [iOS](https://apps.apple.com/es/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=es).
+Aprende a firmar documentos con la aplicación móvil de Acrobat Sign para [iOS](https://apps.apple.com/es/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=es).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439035?quality=12&learn=on&hidetitle=true&captions=spa)
