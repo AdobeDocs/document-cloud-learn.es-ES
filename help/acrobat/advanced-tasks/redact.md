@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ Protección de datos de clientes, Gestión de riesgos
 
 1. Seleccione **[!UICONTROL Censurar texto e imágenes]** y use el cursor para seleccionar el contenido que censurar.
 
-   ![Censurar paso 4](../assets/Redact_3.png)
+   ![Censurar paso 3](../assets/Redact_3.png)
 
    Puede ver una vista previa de la censura al pasar el cursor sobre el contenido seleccionado.
 
-   ![Censurar paso 5a](../assets/Redact_4.png)
-
 1. Seleccione **[!UICONTROL Buscar texto y censurar]** para buscar una palabra o frase específica, o busque un motivo para encontrar ciertos tipos de información. Establezca su búsqueda y seleccione Buscar y quitar texto.
+
+![Censurar paso 4](../assets/Redact_4.png)
 
 1. En el cuadro de diálogo de resultados de búsqueda, marque las casillas situadas junto a los elementos y seleccione **[!UICONTROL Marcar resultados comprobados para censura]**.
 
-   ![Censurar paso 5b](../assets/Redact_5.png)
+   ![Censurar paso 5](../assets/Redact_5.png)
 
 1. Selecciona **[!UICONTROL Censurar páginas]** para marcar páginas enteras para censura.
 
@@ -56,13 +56,15 @@ Protección de datos de clientes, Gestión de riesgos
 
 1. Selecciona tus páginas y elige **[!UICONTROL Aceptar]**.
 
+   ![Censurar paso 7](../assets/Redact_7.png)
+
 1. Seleccione **[!UICONTROL Aplicar]** en el panel Censurar un PDF para aplicar las censuras marcadas.
 
-   ![Censurar paso 6](../assets/Redact_7.png)
+   ![Censurar paso 8](../assets/Redact_8.png)
 
 1. Seleccione **[!UICONTROL Continuar]** para corregir y quitar información oculta.
 
-   ![Censurar paso 6](../assets/Redact_8.png)
+   ![Censurar paso 9](../assets/Redact_9.png)
 
 Una vez confirmada, las censuras y la información oculta se eliminan de forma permanente y se guardan en un nuevo archivo.
 
