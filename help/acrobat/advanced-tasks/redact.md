@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Protección de datos de clientes, Gestión de riesgos
 
 1. Seleccione **[!UICONTROL Buscar texto y censurar]** para buscar una palabra o frase específica, o busque un motivo para encontrar ciertos tipos de información. Establezca su búsqueda y seleccione Buscar y quitar texto.
 
-![Censurar paso 4](../assets/Redact_4.png)
+   ![Censurar paso 4](../assets/Redact_4.png)
 
 1. En el cuadro de diálogo de resultados de búsqueda, marque las casillas situadas junto a los elementos y seleccione **[!UICONTROL Marcar resultados comprobados para censura]**.
 
