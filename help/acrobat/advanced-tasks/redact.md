@@ -1,5 +1,5 @@
 ---
-title: Censurar y Corregir
+title: Quitar información confidencial
 description: Obtenga información sobre cómo quitar permanentemente información privada o confidencial del PDF
 feature: Security
 role: User
@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Censurar y Corregir
+# Quitar información confidencial
 
-Aprenda a utilizar la herramienta Censurar para eliminar de forma permanente información privada o confidencial del PDF. Utilice la herramienta Corregir para quitar información que no está visible en el archivo, como comentarios, metadatos o capas ocultas.
+Aprenda a utilizar la herramienta Censurar para eliminar de forma permanente información privada o confidencial de un PDF y, a continuación, corregir el documento para quitar información que no está visible en el archivo, como comentarios, metadatos o capas ocultas. La eliminación permanente de contenido confidencial y datos ocultos es importante para que la información no se comparta al publicar el PDF. Este tutorial utiliza la [nueva experiencia de Acrobat](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
@@ -25,50 +25,47 @@ Aprenda a utilizar la herramienta Censurar para eliminar de forma permanente inf
 [!BADGE Impacto en la organización]
 Protección de datos de clientes, Gestión de riesgos
 
-## Censurar texto e imágenes
+## Cómo censurar información en Acrobat para equipos de escritorio
 
-1. Seleccione **[!UICONTROL Censurar]** en el panel central o derecho de [!UICONTROL Herramientas].
-
+1. Abra un archivo y seleccione **[!UICONTROL Todas las herramientas]** en la barra de herramientas y, a continuación, elija **[!UICONTROL Censurar un PDF]**.
    ![Censurar paso 1](../assets/Redact_1.png)
 
-1. Selecciona **[!UICONTROL Censurar texto e imágenes]** **>** **[!UICONTROL propiedades]** para personalizar la apariencia de tus censuras, incluido el color de los cuadros de censura o la superposición de texto.
+1. Seleccione **[!UICONTROL Definir propiedades]** para personalizar el aspecto de las censuras, incluido el color de los cuadros de censura o la superposición de texto.
 
    ![Censurar paso 2](../assets/Redact_2.png)
 
-Para censurar información, marque primero los elementos que desea quitar y, a continuación, aplique las censuras. Puedes censurar páginas enteras o contenido seleccionado.
+   Para censurar información, marque primero los elementos que desea quitar y, a continuación, aplique las censuras. Puedes censurar páginas enteras o contenido seleccionado.
 
-1. Selecciona **[!UICONTROL Censurar páginas]**, elige la página o el intervalo de páginas que quieras censurar y selecciona **[!UICONTROL Aceptar]**.
+1. Seleccione **[!UICONTROL Censurar texto e imágenes]** y use el cursor para seleccionar el contenido que censurar.
 
    ![Censurar paso 4](../assets/Redact_3.png)
 
-O bien, utilice el cursor para seleccionar el contenido que censurar. Puede ver una vista previa de la censura al pasar el cursor sobre el contenido seleccionado.
+   Puede ver una vista previa de la censura al pasar el cursor sobre el contenido seleccionado.
 
    ![Censurar paso 5a](../assets/Redact_4.png)
 
-1. Seleccione **[!UICONTROL Censurar texto e imágenes]** **>** **[!UICONTROL Buscar texto y censurar]** para encontrar contenido específico para censurar.
+1. Seleccione **[!UICONTROL Buscar texto y censurar]** para buscar una palabra o frase específica, o busque un motivo para encontrar ciertos tipos de información. Establezca su búsqueda y seleccione Buscar y quitar texto.
 
-Utilice el cuadro de búsqueda para buscar una palabra o frase específica.
-
-1. Seleccione **[!UICONTROL Patrones]** para buscar ciertos tipos of , marque las casillas y seleccione **[!UICONTROL Buscar y quitar texto]**.
+1. En el cuadro de diálogo de resultados de búsqueda, marque las casillas situadas junto a los elementos y seleccione **[!UICONTROL Marcar resultados comprobados para censura]**.
 
    ![Censurar paso 5b](../assets/Redact_5.png)
 
-1. Seleccione **[!UICONTROL Aplicar]** en el menú superior [!UICONTROL Censurar] para aplicar las censuras marcadas y guardar el archivo censurado.
+1. Selecciona **[!UICONTROL Censurar páginas]** para marcar páginas enteras para censura.
 
    ![Censurar paso 6](../assets/Redact_6.png)
 
-## Corregir documento
+1. Selecciona tus páginas y elige **[!UICONTROL Aceptar]**.
 
-1. Seleccione **[!UICONTROL Corregir documento]** en el menú superior [!UICONTROL Censurar].
+1. Seleccione **[!UICONTROL Aplicar]** en el panel Censurar un PDF para aplicar las censuras marcadas.
 
-1. Seleccione **[!UICONTROL Aceptar]** para confirmar que se ha quitado la información oculta. O bien, elige **[!UICONTROL Hacer clic aquí]** para eliminar de forma selectiva la información oculta.
+   ![Censurar paso 6](../assets/Redact_7.png)
 
-   ![Corregir paso 2](../assets/Redact_7.png)
+1. Seleccione **[!UICONTROL Continuar]** para corregir y quitar información oculta.
+
+   ![Censurar paso 6](../assets/Redact_8.png)
+
+Una vez confirmada, las censuras y la información oculta se eliminan de forma permanente y se guardan en un nuevo archivo.
 
 >[!TIP]
 >
 >Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md).
-
->[!TIP]
->
->Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.
