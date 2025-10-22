@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Aprenda a comprimir y optimizar el tamaño de un archivo de PDF. Al comprimir un
 
    ![Reducir paso 1](../assets/Reduce_1.png)
 
-1. Seleccione **[!UICONTROL Archivos individuales]** o **[!UICONTROL Varios archivos]** en el panel **[!UICONTROL Comprimir un PDF]**.
+1. Seleccione **[!UICONTROL Un solo archivo]** o **[!UICONTROL Varios archivos]** en el panel **[!UICONTROL Comprimir un PDF]**.
 
    ![Reducir paso 2](../assets/Reduce_2.png)
 
@@ -65,15 +65,13 @@ Aprenda a comprimir y optimizar el tamaño de un archivo de PDF. Al comprimir un
 
    ![Optimizar Paso 1](../assets/Optimize_1.png)
 
-   De forma predeterminada, **Estándar** está seleccionado en el menú **Configuración**. Si cambia alguna configuración en el cuadro de diálogo Optimizador de PDF, el menú **Configuración** cambia automáticamente a **Personalizado**.
-
 1. En el menú desplegable **Hacer compatible con**, elige **Conservar existente** para mantener la versión actual del PDF, o elige una versión de Acrobat. Seleccione la casilla de verificación junto a un panel (por ejemplo, Imágenes, Fuentes o Transparencia) y, a continuación, seleccione las opciones de ese panel, elija **[!UICONTROL Aceptar]** y guarde el archivo.
 
    ![Optimizar paso 2](../assets/Optimize_2.png)
 
-   Para evitar que todas las opciones de un panel se ejecuten durante la optimización, anule la selección de la casilla de ese panel.
+   De forma predeterminada, **Estándar** está seleccionado en el menú **Configuración**. Si cambia alguna configuración en el cuadro de diálogo Optimizador de PDF, el menú **Configuración** cambia automáticamente a **Personalizado**. Para evitar que todas las opciones de un panel se ejecuten durante la optimización, anule la selección de la casilla de ese panel.
 
-1. (Opcional) Para guardar su configuración personalizada, seleccione **[!UICONTROL Guardar]** y asigne un nombre a la configuración. Para eliminar una configuración guardada, elíjala en el menú **Configuración** y selecciona **[!UICONTROL Eliminar]**.
+1. (Opcional) Para guardar su configuración personalizada, seleccione **[!UICONTROL Guardar]** y asigne un nombre a la configuración. Para eliminar una configuración guardada, elíjala en el menú desplegable **Configuración** y selecciona **[!UICONTROL Eliminar]**.
 
    ![Optimizar Paso 3](../assets/Optimize_3.png)
 
