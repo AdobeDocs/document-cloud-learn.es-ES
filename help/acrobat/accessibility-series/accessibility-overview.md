@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Obtenga más información sobre cómo crear archivos de PDF accesibles. Los Tuto
 
 >[!BEGINTABS]
 
->[!TAB Qué y por qué de los archivos de PDF accesibles]
+>[!TAB Documentos digitalizados]
 
-Aprende [qué es un archivo de PDF accesible y por qué es importante](what-why-accessible-pdf.md).
+Obtenga información sobre cómo hacer que un [documento digitalizado](scanned-documents.md) sea accesible.
 
 >[!TAB Configurar el área de trabajo]
 
@@ -74,14 +74,41 @@ Obtenga información sobre cómo hacer que [formularios sean accesibles](create-
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Documentos escaneados" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Documentos digitalizados</strong></a>
+    </div>
+    <em>Obtener información sobre cómo hacer que los documentos digitalizados sean accesibles en Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Crear formularios accesibles" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Crear formularios accesibles</strong></a>
     </div>
-    <em>Obtener información sobre cómo hacer que los formularios sean accesibles en Acrobat</em>
+    <em>Obtener información sobre cómo hacer que los formularios sean accesibles en Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Separador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Separador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Separador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
