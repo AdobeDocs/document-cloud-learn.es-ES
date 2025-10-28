@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # De papel a PDF
 
-Aprende a escanear (o tomar una foto) un documento en papel y convertirlo en un [archivo de PDF editable](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} inteligente, en el que se puedan realizar búsquedas. Convertir documentos impresos en PDF aumenta tu capacidad de encontrar información rápidamente y hacerla accesible a las personas discapacitadas. Además, puede compartir y colaborar fácilmente con otros usuarios de forma electrónica convirtiendo papel en PDF.
+Aprende a escanear (o tomar una foto) un documento en papel y convertirlo en un [archivo de PDF editable](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} en el que se puedan realizar búsquedas. Convertir documentos impresos en PDF aumenta tu capacidad de encontrar información rápidamente y hacerla accesible a las personas discapacitadas.
 
 ## Cómo convertir el papel en un PDF en Acrobat para escritorio
 
@@ -50,7 +50,7 @@ El archivo es ahora un archivo de PDF editable y en el que se pueden realizar b�
 
    ![Paso de análisis 5](../assets/Scan_5.png)
 
-1. Elige **[!UICONTROL Seleccionar archivos]**, selecciona tu archivo y elige **[!UICONTROL Abrir]**.
+1. Elige **[!UICONTROL Seleccionar archivos]**, elige tu archivo y selecciona **[!UICONTROL Abrir]**.
 
    ![Paso de análisis 6](../assets/Scan_6.png)
 
