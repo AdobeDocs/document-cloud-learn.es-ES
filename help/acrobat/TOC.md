@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '558'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Aumenta la eficacia del equipo con Espacios PDF](getting-started/pdf-spaces-legal.md)
    + [¿Qué es Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
    + [Crear un PDF](getting-started/create-pdf.md)
    + [Combinar archivos para crear un único PDF](getting-started/combine-to-pdf.md)
@@ -39,7 +39,7 @@ ht-degree: 5%
    + [Comentar en un PDF](getting-started/comment-on-pdf-files.md)
    + [Crear formularios rellenables](getting-started/create-fillable-forms.md)
    + [PDF forms de Fill &amp; Sign](getting-started/fill-and-sign.md)
-   + [Digitalización y OCR](getting-started/scan-and-ocr.md)
+   + [De papel a PDF](getting-started/scan-and-ocr.md)
    + [Protect crea un archivo de PDF con una contraseña](getting-started/password-protect.md)
    + [Obtener firmas](getting-started/signatures.md)
    + [Realizar un seguimiento de documentos](getting-started/track.md)
@@ -77,11 +77,11 @@ ht-degree: 5%
       + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
 + Con tecnología de IA {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [Descubre información de PDF con el Asistente de IA](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Editar gráficos en un PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Estilizar este PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Descubre información de PDF con el Asistente de IA](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [Editar gráficos en un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [Estilizar este PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + Acrobat de 60 segundos {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [Editar PDF con Acrobat Web](60-second/edit.md)
@@ -148,5 +148,5 @@ ht-degree: 5%
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=es)
+   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)

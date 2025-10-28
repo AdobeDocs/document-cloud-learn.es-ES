@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: f16755624a532246818d05d28fb76c6607790460
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -70,4 +70,4 @@ Una vez confirmada, las censuras y la información oculta se eliminan de forma p
 
 >[!TIP]
 >
->Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md).
+>Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md) de Acrobat Pro en el escritorio.

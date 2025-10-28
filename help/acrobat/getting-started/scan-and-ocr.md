@@ -1,51 +1,108 @@
 ---
-title: Digitalización y OCR
-description: Convierte las digitalizaciones o imágenes de documentos en archivos de PDF editables y en los que se pueden realizar búsquedas, y ajusta la calidad del archivo resultante
+title: De papel a PDF
+description: Aprende a convertir un documento de papel en un archivo de PDF inteligente, editable y con capacidad de búsqueda
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# Digitalización y OCR
+# De papel a PDF
 
-Mantén tu empresa en marcha convirtiendo digitalizaciones o imágenes de documentos en [archivos de PDF editables](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} en los que se puedan realizar búsquedas.
+Aprende a escanear (o tomar una foto) un documento en papel y convertirlo en un [archivo de PDF editable](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} inteligente, en el que se puedan realizar búsquedas. Convertir documentos impresos en PDF aumenta tu capacidad de encontrar información rápidamente y hacerla accesible a las personas discapacitadas. Además, puede compartir y colaborar fácilmente con otros usuarios de forma electrónica convirtiendo papel en PDF.
 
->[!TIP]
->
->Para OCR con varios archivos de PDF, pruebe a utilizar [Action Wizard](../advanced-tasks/action.md).
+## Cómo convertir el papel en un PDF en Acrobat para escritorio
 
-1. Seleccione **[!UICONTROL Digitalizar y OCR]** en el panel central o derecho de [!UICONTROL Herramientas].
+1. Abra una fotografía o una imagen digitalizada de un documento. También puedes crear un archivo nuevo usando un escáner conectado o usar la [aplicación móvil Adobe Scan](https://adobescan.app.link/GpBqG8Bkoeb) gratuita.
+
+1. Seleccione **[!UICONTROL Todas las herramientas]** en la barra de herramientas y elija **[!UICONTROL Digitalizar y OCR]** en el panel izquierdo.
 
    ![Paso de análisis 1](../assets/Scan_1.png)
 
-1. Seleccione un archivo.
-
-   Este archivo podría ser una foto de un documento o un archivo ya digitalizado creado mediante un escáner o la aplicación móvil de Adobe Scan. O bien, puede digitalizar un documento para crear un nuevo archivo mediante un escáner conectado.
+1. Elige **[!UICONTROL Mejorar imagen escaneada]** o **[!UICONTROL Mejorar imagen de cámara]** según tu tipo de archivo.
 
    ![Paso de análisis 2](../assets/Scan_2.png)
 
-1. Elija **[!UICONTROL Documento digitalizado]** o **[!UICONTROL Imagen de cámara]** para mejorar el documento.
-
-1. Seleccione **[!UICONTROL Mejora]** para limpiar la imagen.
+1. Arrastre los controladores para ajustar los bordes de página y seleccione **[!UICONTROL Mejorar]**.
 
    ![Paso de análisis 3](../assets/Scan_3.png)
 
-   Acrobat reconoce automáticamente el texto de los documentos digitalizados.
+   Acrobat limpia y endereza la imagen automáticamente.
 
-1. Seleccione **[!UICONTROL Reconocer texto]** para reconocer manualmente el texto de los archivos de imagen.
+1. Selecciona **[!UICONTROL En este archivo]** y elige **[!UICONTROL Reconocer texto]** para que el texto se pueda buscar y editar.
 
    ![Paso de análisis 4](../assets/Scan_4.png)
 
 El archivo es ahora un archivo de PDF editable y en el que se pueden realizar búsquedas.
 
+## Cómo convertir el papel en un PDF en la web de Acrobat
+
+1. Inicie sesión en [acrobat.adobe.com](https://acrobat.adobe.com/es/es) en un explorador.
+
+1. Seleccione **[!UICONTROL Convertir > Reconocer texto con OCR]** en el menú superior.
+
+   ![Paso de análisis 5](../assets/Scan_5.png)
+
+1. Elige **[!UICONTROL Seleccionar archivos]**, selecciona tu archivo y elige **[!UICONTROL Abrir]**.
+
+   ![Paso de análisis 6](../assets/Scan_6.png)
+
+1. Seleccione **[!UICONTROL Reconocer texto]**.
+
+   ![Paso de análisis 7](../assets/Scan_7.png)
+
+   El texto del archivo ahora se puede buscar y editar.
+
+1. Para quitar el fondo, selecciona la imagen y elige **[!UICONTROL Editar imagen]**.
+
+   ![Paso de análisis 8](../assets/Scan_8.png)
+
+1. Seleccione **[!UICONTROL Quitar fondo]** en el editor de Adobes Express.
+
+   ![Paso de análisis 9](../assets/Scan_9.png)
+
+1. Arrastre los controladores para ajustar los bordes de página y seleccione **[!UICONTROL Aplicar]**.
+
+   ![Paso de análisis 10](../assets/Scan_10.png)
+
+
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.
+>Para OCR con varios archivos de PDF, prueba a usar [Action Wizard](../advanced-tasks/action.md) en Acrobat Pro en el escritorio.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-and-ocr.md">
+      <img alt="De papel a PDF" src="../assets/scan.png" />
+    </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>Papel para el PDF</strong></a>
+    </div>
+    <em>Aprende a convertir un documento de papel en una característica de archivo de PDF inteligente, editable y con capacidad de búsqueda</em>
+    <br>
+  </td>
+  <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Separador" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+</tr>
+</table>
