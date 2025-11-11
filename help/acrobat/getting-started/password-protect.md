@@ -7,26 +7,19 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 01b037690e249731ec29ff294cc8adce4378bacc
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 2%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
 # Protect crea un archivo de PDF con una contraseña
 
-Aprende a [agregar una contraseña a tu PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar que otros abran o [editen el archivo del PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}.
+Aprende a [añadir una contraseña a tu PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar que otros abran o [editen el archivo del PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >
 >Para proteger con contraseña varios archivos de PDF, prueba a usar [Action Wizard](../advanced-tasks/action.md).
 
-[!BADGE Impacto en la organización]
-Protección de la información, Gestión de riesgos
-
->[!VIDEO](https://video.tv.adobe.com/v/3409645?quality=12&learn=on&hidetitle=true&captions=spa)
-
->[!TIP]
->
->Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.
+>[!SLIDE](protect-pdfs)
