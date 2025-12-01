@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Firmar electrónicamente un documento]
+
+Descubre lo fácil que es [firmar](../sign-beginner-tutorials/electronically-sign-a-document.md) un documento que te han enviado con Acrobat Sign.
 
 >[!TAB Crear una plantilla reutilizable]
 
@@ -34,14 +38,6 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
 
 Aprende a enviar un documento para que lo firmen electrónicamente a [más de una persona](send-to-multiple-recipients.md) en el orden que desees.
 
->[!TAB Enviar un documento a un único firmante]
-
-Entra y descubre lo fácil que es [enviar un documento para su firma](send-to-single-recipient.md).
-
->[!TAB Introducción a Acrobat Sign]
-
-¿Es nuevo en el uso de Acrobat Sign? Este [tutorial](new-sender.md) es un buen punto de partida.
-
 >[!ENDTABS]
 
 ## Enviar
@@ -50,7 +46,7 @@ Entra y descubre lo fácil que es [enviar un documento para su firma](send-to-si
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Introducción a Acrobat Sign" src="../assets/gettingstartednew.png" />
+      <img alt="Comienza a usar Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>Introducción a Acrobat Sign</strong></a>
@@ -70,7 +66,7 @@ Entra y descubre lo fácil que es [enviar un documento para su firma](send-to-si
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Enviar un documento a un único firmante" src="../assets/send-single-recipient.png" />
+      <img alt="Envía un documento a un único firmante" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviar un documento a un único firmante</strong></a>
@@ -250,7 +246,7 @@ Entra y descubre lo fácil que es [enviar un documento para su firma](send-to-si
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Administrar y realizar un seguimiento de los acuerdos" src="../assets/manage-track.png" />
+      <img alt="Gestionar y hacer seguimiento de tus acuerdos" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Administrar y realizar un seguimiento de los acuerdos</strong></a>
