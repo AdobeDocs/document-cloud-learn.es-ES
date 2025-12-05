@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
     <div>
     <a href="accessibilitysession1.md"><strong>Introducción a la accesibilidad del PDF</strong></a>
     </div>
-    <em>En esta sesión bajo demanda, descubre lo que significa hacer que un PDF sea accesible, cómo configurar Acrobat Pro para que trabaje con PDF por accesibilidad y el proceso de conversión de un documento de origen a un PDF</em>
+    <em>En esta sesión bajo demanda, descubre lo que significa hacer que un PDF sea accesible, cómo configurar Acrobat Pro (Premium o Studio) para trabajar con PDF por accesibilidad y el proceso de conversión de un documento de origen a un PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ En esta serie de seminarios web bajo demanda de seis partes, pasa de lo básico 
     <div>
     <a href="accessibilitysession2.md"><strong>Remediando un PDF inaccesible</strong></a>
     </div>
-    <em>En esta sesión bajo demanda, aprende el flujo de trabajo para convertir un documento de Word y solucionar algunos problemas básicos de etiquetado con las herramientas de Acrobat Pro que se muestran en el seminario web de introducción</em>
+    <em>En esta sesión bajo demanda, aprende el flujo de trabajo para convertir un documento de Word y solucionar algunos problemas básicos de etiquetado con las herramientas de Acrobat Pro (Premium o Studio) que se muestran en el seminario web de introducción</em>
     <br>
   </td>  
   <td>

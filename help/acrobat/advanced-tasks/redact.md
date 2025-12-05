@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Aprenda a utilizar la herramienta Censurar para eliminar de forma permanente inf
 
 >[!NOTE]
 >
->Disponible solo en Acrobat Pro.
+>Disponible solo en Acrobat Pro, Premium o Studio.
 
 [!BADGE Impacto en la organización]
 Protección de datos de clientes, Gestión de riesgos
@@ -70,4 +70,4 @@ Una vez confirmada, las censuras y la información oculta se eliminan de forma p
 
 >[!TIP]
 >
->Para acelerar el proceso de censura, echa un vistazo al [Action Wizard](../advanced-tasks/action.md) de Acrobat Pro en el escritorio.
+>Para acelerar el proceso de censura, echa un vistazo a [Action Wizard](../advanced-tasks/action.md) en Acrobat Pro, Premium o Studio en el escritorio.

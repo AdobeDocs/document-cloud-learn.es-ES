@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasificación de los motores de búsqueda en la web.
 
-## 1. Crear contenido único
+## &#x200B;1. Crear contenido único
 
 Crear contenido de PDF que sea diferente de la información de las páginas web.
 
@@ -31,7 +31,7 @@ El contenido del PDF debe ser único y estar estructurado de la siguiente manera
 * Utilizar párrafos cortos que contengan palabras clave y listas
 * Añadir hipervínculos internos y externos (contenido de su sitio web u otros sitios web)
 * Agregar una tabla de contenido con hipervínculos para documentos de más de 25 páginas
-* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=es) en todos los documentos digitalizados
+* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) en todos los documentos digitalizados
 * Crea PDF compatibles con dispositivos móviles
 Para comprobar la experiencia de visualización móvil de tu PDF, abre el archivo en la [aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y activa el Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
 
@@ -41,7 +41,7 @@ Para comprobar la experiencia de visualización móvil de tu PDF, abre el archiv
 
 <br> 
 
-## 2. Añadir propiedades del documento
+## &#x200B;2. Añadir propiedades del documento
 
 Los archivos de PDF tienen un título y una meta descripción, como una página web.
 
@@ -62,9 +62,9 @@ Prueba a empezar el resumen usando un verbo de acción como Aprender, Descubrir,
 
 <br> 
 
-## 3. Etiquetar el PDF
+## &#x200B;3. Etiquetar el PDF
 
-El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=es) para las personas discapacitadas, sino que también mejora el SEO.
+El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) para las personas discapacitadas, sino que también mejora el SEO.
 
 +++Ver detalles sobre cómo etiquetar a un PDF
 
@@ -82,15 +82,15 @@ Etiquete un PDF de la siguiente manera:
 
 >[!NOTE]
 >
->Disponible solo en Acrobat Pro.
+>Disponible solo en Acrobat Pro, Premium o Studio.
 
 <br> 
 
-## 4. Prepárate para la web
+## &#x200B;4. Prepárate para la web
 
-Optimiza la experiencia de interactuar con tu PDF preparándolo para la visualización web y [reduciendo el tamaño del archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimiza la experiencia de interactuar con tu PDF preparándolo para la visualización en la web y [reduciendo el tamaño del archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target="_blank"}.
 
-+++Ver detalles sobre cómo preparar al PDF para la Web
++++Consulta los detalles sobre cómo preparar a tu PDF para la web
 
 Prepare a su PDF para la Web de la siguiente manera:
 
@@ -104,13 +104,13 @@ Este paso reduce el tamaño del archivo y habilita la **Vista rápida en Web** e
 
 >[!TIP]
 >
->Si tiene Acrobat Pro, ejecute Optimizar para Web y dispositivos móviles en la herramienta Action Wizard. Esta acción convierte los colores en sRGB e incrusta las fuentes para una visualización coherente de los PDF en los navegadores y dispositivos móviles.
+>Si tiene Acrobat Pro (Premium o Studio), ejecute Optimizar para Web y dispositivos móviles en la herramienta Action Wizard. Esta acción convierte los colores en sRGB e incrusta las fuentes para una visualización coherente de los PDF en los navegadores y dispositivos móviles.
 
 +++
 
 <br> 
 
-## 5. Cree un nombre de archivo de palabra clave
+## &#x200B;5. Cree un nombre de archivo de palabra clave
 
 +++Ver detalles sobre cómo crear un nombre de archivo de palabra clave
 
@@ -122,7 +122,7 @@ El nombre de archivo pasa a formar parte de la dirección URL cuando se publica 
 
 <br> 
 
-## 6. Proteja su PDF
+## &#x200B;6. Proteja su PDF
 
 El último paso es [proteger al PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar cambios no autorizados.
 
