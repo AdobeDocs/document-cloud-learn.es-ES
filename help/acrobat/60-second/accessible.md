@@ -22,4 +22,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a comprobar si se puede acceder a un PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347083?captions=spa&quality=12&learn=on&hidetitle=true)

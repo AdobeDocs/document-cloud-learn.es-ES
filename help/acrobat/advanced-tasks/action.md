@@ -22,7 +22,7 @@ Ofrecer las mejores experiencias a los clientes requiere que el contenido se cre
 >
 >Disponible solo en Acrobat Pro, Premium o Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444878?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
