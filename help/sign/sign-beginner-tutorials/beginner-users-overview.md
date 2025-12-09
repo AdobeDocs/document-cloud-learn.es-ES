@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Administrar y hacer un seguimiento de los acuerdos]
+
+Obtenga información sobre cómo [administrar acuerdos](../sign-beginner-tutorials/manage-and-track.md) enviados para firmar y realizar su seguimiento.
 
 >[!TAB Firmar electrónicamente un documento]
 
@@ -33,10 +37,6 @@ Obtenga información sobre cómo crear una [plantilla de documento reutilizable]
 >[!TAB Configurar opciones de envío]
 
 Obtenga información sobre cómo [configurar varias opciones](sending-options.md) al enviar un documento para su firma.
-
->[!TAB Enviar a varios firmantes]
-
-Aprende a enviar un documento para que lo firmen electrónicamente a [más de una persona](send-to-multiple-recipients.md) en el orden que desees.
 
 >[!ENDTABS]
 
@@ -249,7 +249,7 @@ Aprende a enviar un documento para que lo firmen electrónicamente a [más de un
       <img alt="Gestionar y hacer seguimiento de tus acuerdos" src="../assets/manage-track.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Administrar y realizar un seguimiento de los acuerdos</strong></a>
+    <a href="manage-and-track.md"><strong>Administrar y hacer un seguimiento de los acuerdos</strong></a>
     </div>
     Aprenda a administrar y realizar un seguimiento de los acuerdos enviados para firmar
     <br>
