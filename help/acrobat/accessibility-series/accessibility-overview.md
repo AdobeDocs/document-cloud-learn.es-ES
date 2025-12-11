@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ Obtenga más información sobre cómo crear archivos de PDF accesibles. Los Tuto
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Listas complejas]
+
+Obtenga información sobre cómo etiquetar [listas complejas](complex-lists.md) para la accesibilidad en Acrobat.
 
 >[!TAB Documentos digitalizados]
 
@@ -32,10 +36,6 @@ Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a 
 >[!TAB Crear un PDF accesible desde Word]
 
 Obtenga información sobre cómo [crear un archivo de PDF accesible desde Microsoft Word](create-accessible-from-word.md).
-
->[!TAB Crear formularios accesibles]
-
-Obtenga información sobre cómo hacer que [formularios sean accesibles](create-accessible-forms.md) en Acrobat.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Obtenga información sobre cómo hacer que [formularios sean accesibles](create-
     <br>
   </td>
   <td>
-        <img alt="Separador" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Listas complejas" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>Listas complejas</strong></a>
+    </div>
+    <em>Aprende a etiquetar listas complejas para accesibilidad en Acrobat</em>
+    <br>
   </td>
   <td>
         <img alt="Separador" src="../assets/Grayspacer.png" />
