@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Obtenga más información sobre cómo crear archivos de PDF accesibles. Los Tuto
 
 >[!BEGINTABS]
 
+>[!TAB Conceptos básicos del etiquetado]
+
+Aprende los fundamentos de cómo [etiquetar un archivo de PDF](basics-tagging.md) para que sea accesible.
+
 >[!TAB Listas complejas]
 
 Obtenga información sobre cómo etiquetar [listas complejas](complex-lists.md) para la accesibilidad en Acrobat.
@@ -32,10 +36,6 @@ Obtenga información sobre cómo hacer que un [documento digitalizado](scanned-d
 >[!TAB Configurar el área de trabajo]
 
 Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a optimizar la creación de archivos de PDF accesibles.
-
->[!TAB Crear un PDF accesible desde Word]
-
-Obtenga información sobre cómo [crear un archivo de PDF accesible desde Microsoft Word](create-accessible-from-word.md).
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Obtenga información sobre cómo [crear un archivo de PDF accesible desde Micros
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="Conceptos básicos del etiquetado" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>Conceptos básicos del etiquetado"</strong></a>
+    </div>
+    <em>Descubre los aspectos básicos de cómo etiquetar un archivo de PDF para que sea accesible</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="Documentos escaneados" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ Obtenga información sobre cómo [crear un archivo de PDF accesible desde Micros
     <em>Obtener información sobre cómo hacer que los documentos digitalizados sean accesibles en Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="Crear formularios accesibles" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ Obtenga información sobre cómo [crear un archivo de PDF accesible desde Micros
     <em>Obtener información sobre cómo hacer que los formularios sean accesibles en Acrobat</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="Listas complejas" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ Obtenga información sobre cómo [crear un archivo de PDF accesible desde Micros
     </div>
     <em>Aprende a etiquetar listas complejas para accesibilidad en Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Separador" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="Separador" src="../assets/Grayspacer.png" />
