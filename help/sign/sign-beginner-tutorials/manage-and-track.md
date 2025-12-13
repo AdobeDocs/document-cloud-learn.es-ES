@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aprenda a administrar y realizar el seguimiento de los documentos enviados para firmar en Acrobat Sign. Recibe actualizaciones de estado y notificaciones en tiempo real de todos los documentos que firmas o envías para firmar.
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436621?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
