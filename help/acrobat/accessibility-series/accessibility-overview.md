@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Obtenga más información sobre cómo crear archivos de PDF accesibles. Los Tuto
 
 >[!BEGINTABS]
 
+>[!TAB Crear un PDF accesible en Acrobat]
+
+Aprenda a crear un PDF [accesible a partir de Acrobat](accessible-acrobat.md).
+
 >[!TAB Conceptos básicos del etiquetado]
 
 Aprende los fundamentos de cómo [etiquetar un archivo de PDF](basics-tagging.md) para que sea accesible.
@@ -32,10 +36,6 @@ Obtenga información sobre cómo etiquetar [listas complejas](complex-lists.md) 
 >[!TAB Documentos digitalizados]
 
 Obtenga información sobre cómo hacer que un [documento digitalizado](scanned-documents.md) sea accesible.
-
->[!TAB Configurar el área de trabajo]
-
-Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a optimizar la creación de archivos de PDF accesibles.
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a 
     <br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Crear un PDF accesible en Acrobat" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Crear un PDF accesible en Acrobat</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo crear un PDF accesible a partir de Acrobat</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="Conceptos básicos del etiquetado" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a 
     <em>Descubre los aspectos básicos de cómo etiquetar un archivo de PDF para que sea accesible</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="Documentos escaneados" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a 
     <em>Obtener información sobre cómo hacer que los formularios sean accesibles en Acrobat</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="Listas complejas" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Aprende a [configurar tu espacio de trabajo](set-up-workspace.md) para ayudar a 
     </div>
     <em>Aprende a etiquetar listas complejas para accesibilidad en Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Separador" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
