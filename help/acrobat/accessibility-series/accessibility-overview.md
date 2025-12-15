@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ Obtenga más información sobre cómo crear archivos de PDF accesibles. Los Tuto
 
 >[!BEGINTABS]
 
+>[!TAB Tablas complejas]
+
+Obtenga información sobre cómo [etiquetar tablas](complex-tables.md) para la accesibilidad en Acrobat.
+
+>[!TAB Hacer accesible la acción guiada]
+
+Obtenga información sobre cómo usar la [acción guiada Hacer accesible](make-accessible-action.md).
+
 >[!TAB Crear un PDF accesible en Acrobat]
 
 Aprenda a crear un PDF [accesible a partir de Acrobat](accessible-acrobat.md).
@@ -28,14 +36,6 @@ Aprenda a crear un PDF [accesible a partir de Acrobat](accessible-acrobat.md).
 >[!TAB Conceptos básicos del etiquetado]
 
 Aprende los fundamentos de cómo [etiquetar un archivo de PDF](basics-tagging.md) para que sea accesible.
-
->[!TAB Listas complejas]
-
-Obtenga información sobre cómo etiquetar [listas complejas](complex-lists.md) para la accesibilidad en Acrobat.
-
->[!TAB Documentos digitalizados]
-
-Obtenga información sobre cómo hacer que un [documento digitalizado](scanned-documents.md) sea accesible.
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Obtenga información sobre cómo hacer que un [documento digitalizado](scanned-d
     <em>Aprende a etiquetar listas complejas para accesibilidad en Acrobat</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Tablas complejas" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Tablas complejas</strong></a>
+    </div>
+    <em>Aprenda a etiquetar tablas para accesibilidad en Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Acción guiada Hacer accesible" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Hacer accesible la acción guiada</strong></a>
+    </div>
+    <em>Obtenga información sobre cómo usar la acción guiada Hacer accesible</em>
+    <br>
+  </td>
+   <td>
+        <img alt="Separador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Separador" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
