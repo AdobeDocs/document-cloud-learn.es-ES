@@ -29,7 +29,7 @@ Obtenga información sobre cómo se utiliza el Designer de flujos de trabajo per
 >
 >Los administradores de grupo pueden asignar flujos de trabajo a cualquier grupo que administren (no solo a su grupo principal). Los administradores de grupo también pueden editar cualquier flujo de trabajo asignado a cualquier grupo que administren.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414436?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
