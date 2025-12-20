@@ -20,4 +20,4 @@ Obtenga información sobre cómo utilizar la acción guiada Hacer accesible para
 >
 >Solo disponible en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477966?captions=spa&quality=12&learn=on&hidetitle=true)

@@ -20,4 +20,4 @@ Aprenda a etiquetar tablas para la accesibilidad en Acrobat. Entre los temas tra
 >
 >Solo disponible en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477955?captions=spa&quality=12&learn=on&hidetitle=true)

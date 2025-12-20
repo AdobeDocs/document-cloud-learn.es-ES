@@ -21,4 +21,4 @@ Aprenda a crear un PDF accesible a partir de Acrobat. Los temas tratados incluye
 >
 >Algunas funciones de este tutorial solo están disponibles en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477928?captions=spa&quality=12&learn=on&hidetitle=true)
