@@ -1,20 +1,20 @@
 ---
 title: Crear vista compatible con dispositivos móviles
-description: Aprenda a crear una vista del documento compatible con dispositivos móviles con el modo "Enfoque móvil"
+description: Aprende a generar un documento compatible con dispositivos móviles sin problemas y sin asistencia técnica por parte de los desarrolladores
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Crear vista compatible con dispositivos móviles
 
-Aprende a crear una vista del documento compatible con dispositivos móviles con el modo &quot;Enfoque móvil&quot;. Los remitentes ahora pueden generar un formulario compatible con dispositivos móviles sin problemas, sin asistencia técnica por parte de los desarrolladores.
+Aprende a generar un documento compatible con dispositivos móviles sin problemas y sin asistencia técnica por parte de los desarrolladores.
 
 Con Mobile Focus, los remitentes se benefician de lo siguiente:
 
