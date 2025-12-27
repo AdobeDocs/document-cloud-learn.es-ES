@@ -22,4 +22,4 @@ Con &quot;Mobile Focus&quot;, Acrobat Sign facilita más que nunca que nadie rel
 * Precisión mejorada: reduce los errores y garantiza la captura de toda la información necesaria
 * Continuidad: los usuarios pueden iniciar y volver al formulario compatible con dispositivos móviles en cualquier momento, sin perder el progreso
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478389?captions=spa&quality=12&learn=on&hidetitle=true)
