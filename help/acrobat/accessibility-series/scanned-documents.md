@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Aprenda a hacer que los documentos digitalizados sean accesibles en Acrobat. Los
 >
 >Algunas funciones de este tutorial solo están disponibles en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476237?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.

@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Aprende los aspectos básicos de cómo etiquetar un archivo de PDF para que sea 
 >
 >Algunas funciones de este tutorial solo están disponibles en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477885?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.

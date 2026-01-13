@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 jira: KT-18733
 exl-id: 2ba77a77-6dd0-4e05-8a7a-690542569061
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,8 @@ Aprenda a hacer que los formularios sean accesibles en Acrobat. El seguimiento d
 >
 >Algunas funciones de este tutorial solo están disponibles en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471665?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.

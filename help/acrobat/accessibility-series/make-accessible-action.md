@@ -5,9 +5,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18734
-source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,8 @@ Obtenga información sobre cómo utilizar la acción guiada Hacer accesible para
 >
 >Solo disponible en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477966?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.
