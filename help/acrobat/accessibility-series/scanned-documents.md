@@ -21,7 +21,7 @@ Aprenda a hacer que los documentos digitalizados sean accesibles en Acrobat. Los
 >
 >Algunas funciones de este tutorial solo están disponibles en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476237?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

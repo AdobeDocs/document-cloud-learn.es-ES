@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Conozca qué es un archivo de PDF accesible y por qué es importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471632?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
