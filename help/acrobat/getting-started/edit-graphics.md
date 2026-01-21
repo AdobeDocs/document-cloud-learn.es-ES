@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
+source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,24 +17,24 @@ ht-degree: 1%
 
 Aprenda a utilizar el modo de edición en Acrobat para añadir, reemplazar, recortar, cambiar el tamaño, rotar y organizar imágenes directamente en un PDF en el escritorio y la web. El tutorial también muestra cómo generar y ajustar imágenes a partir de mensajes de texto mediante el generador de imágenes integrado en la aplicación con tecnología de Adobe Express. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446932?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por rol]
 
 ## Cómo ayuda el modo de edición a los diferentes equipos
 
-* Legal y cumplimiento normativo
+* **Legal y cumplimiento normativo**
 
   Los equipos jurídicos utilizan el modo de edición para actualizar gráficos y elementos visuales en los contratos, las políticas y la orientación sin tener que volver a crear archivos, lo que ayuda a mantener los documentos precisos y actualizados durante las revisiones o los cambios normativos.
 
-* Recursos humanos
+* **Recursos Humanos**
 
   Los equipos de RR. HH. utilizan el modo de edición para revisar las imágenes y los diseños de los documentos de políticas, los materiales de incorporación y los PDF en formación, de forma que se puedan realizar actualizaciones rápidamente sin tener que volver a los archivos de diseño de origen.
 
-* Ventas
+* **Ventas**
 
   Los equipos de ventas utilizan el modo de edición para reemplazar imágenes, ajustar diseños y actualizar elementos visuales en propuestas y materiales de ventas para adaptar documentos a clientes u oportunidades específicas.
 
-* Marketing y comunicaciones
+* **Marketing y comunicaciones**
 
   Los equipos de marketing utilizan el modo de edición para perfeccionar las imágenes y el contenido visual en los PDF, lo que garantiza que los materiales se mantengan pulidos y alineados con las actualizaciones de la marca o los cambios de la campaña.
