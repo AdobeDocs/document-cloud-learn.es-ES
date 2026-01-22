@@ -24,7 +24,7 @@ ht-degree: 4%
    + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
    + [Aumenta la eficacia del equipo con Espacios PDF](getting-started/pdf-spaces-legal.md)
    + [¿Qué es Acrobat Studio?](getting-started/acrobat-studio.md)
-   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
    + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
    + [Crear un PDF](getting-started/create-pdf.md)
    + [Combinar archivos para crear un único PDF](getting-started/combine-to-pdf.md)
@@ -81,11 +81,11 @@ ht-degree: 4%
       + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
 + Con tecnología de IA {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
-   + [Descubre información de PDF con el Asistente de IA](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Editar gráficos en un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Estilizar este PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Descubre información de PDF con el Asistente de IA](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [Editar gráficos en un PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [Estilizar este PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + Acrobat de 60 segundos {#60-second}
    + [Overview](60-second/60-second-overview.md)
    + [Editar PDF con Acrobat Web](60-second/edit.md)
@@ -152,5 +152,5 @@ ht-degree: 4%
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
    + [Overview](mobile/mobile-overview.md)
-   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Productividad en cualquier parte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=es)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
