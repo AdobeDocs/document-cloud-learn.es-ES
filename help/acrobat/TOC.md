@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Conozca los conceptos básicos {#basics}
       + [Conceptos básicos del área de trabajo](getting-started/workspace-basics.md)
       + [Nueva experiencia de Acrobat](getting-started/new-experience.md)
-      + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+      + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
       + [Productividad sobre la marcha](getting-started/productivity.md)
       + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -141,12 +141,6 @@ ht-degree: 5%
          + [Sugerencia n.º 3: Documentos digitales de Protect](industry/gov/protect-digital-documents.md)
          + [Consejo n.º 4: Trabaja con formularios y firmas](industry/gov/work-with-forms-and-signatures.md)
          + [Consejo n.º 5: Escanea y edita en dispositivos móviles](industry/gov/scan-and-edit-on-mobile.md)
-      + Accesibilidad {#pdfs}
-         + [Creación de PDF accesibles](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Comprensión de la accesibilidad](industry/gov/understanding-accessibility.md)
-         + [#2 - Creación en Word](industry/gov/authoring-in-word.md)
-         + [#3 - Acabado en Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Hacer más accesibles las papeletas de los PDF](industry/gov/making-pdf-ballots-accessible.md)
 + Revelar {#develop}
    + [Overview](develop/develop-overview.md)
 + Implementación {#deploy}
