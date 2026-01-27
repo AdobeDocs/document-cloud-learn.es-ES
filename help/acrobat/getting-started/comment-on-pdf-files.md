@@ -20,4 +20,4 @@ Aprenda a añadir comentarios en un PDF compartido utilizando un solo navegador 
 
 Para aprender a compartir un PDF, echa un vistazo al tutorial de [Colaborar en tiempo real](collaborate.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409183?captions=spa&quality=12&learn=on&hidetitle=true)
