@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 # Acciones guiadas
 
-Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a utilizar las acciones guiadas para ejecutar uno o más comandos en numerosos documentos con un solo clic, lo que le ahorrará tiempo y pulsaciones de teclas. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](../getting-started/new-workspace.md).
+Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a utilizar las acciones guiadas para ejecutar uno o más comandos en numerosos documentos con un solo clic, lo que le ahorrará tiempo y pulsaciones de teclas. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](../getting-started/new-experience.md).
 
 >[!NOTE]
 >
 >Disponible solo en Acrobat Pro, Premium o Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444878?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Realizar tareas avanzadas en Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), que está disponible de forma gratuita para el Experience League.

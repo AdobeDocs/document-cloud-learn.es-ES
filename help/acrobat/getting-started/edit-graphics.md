@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Edición de gráficos en un PDF
 
-Aprenda a utilizar el modo de edición en Acrobat para añadir, reemplazar, recortar, cambiar el tamaño, rotar y organizar imágenes directamente en un PDF en el escritorio y la web. El tutorial también muestra cómo generar y ajustar imágenes a partir de mensajes de texto mediante el generador de imágenes integrado en la aplicación con tecnología de Adobe Express. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-workspace.md).
+Aprenda a utilizar el modo de edición en Acrobat para añadir, reemplazar, recortar, cambiar el tamaño, rotar y organizar imágenes directamente en un PDF en el escritorio y la web. El tutorial también muestra cómo generar y ajustar imágenes a partir de mensajes de texto mediante el generador de imágenes integrado en la aplicación con tecnología de Adobe Express. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446932?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Por rol]
 
