@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Conozca los conceptos básicos {#basics}
       + [Conceptos básicos del área de trabajo](getting-started/workspace-basics.md)
       + [Nueva experiencia de Acrobat](getting-started/new-experience.md)
-      + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+      + [Trabajar con [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
       + [Productividad sobre la marcha](getting-started/productivity.md)
       + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [Acción guiada Hacer accesible](accessibility-series/make-accessible-action.md)
 + Tareas avanzadas {#advanced-tasks}
    + [Overview](advanced-tasks/advanced-tasks-overview.md)
-   + [Adición de marcadores e hipervínculos](advanced-tasks/bookmarks.md)
-   + [Optimizar documentos digitalizados](advanced-tasks/optimizescan.md)
-   + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
-   + [Campos de formulario avanzados](advanced-tasks/advancedforms.md)
-   + [Optimize PDF para SEO](advanced-tasks/optimizeseo.md)
-   + [Trabajar con campos de formulario](advanced-tasks/workforms.md)
-   + [Mejorar su PDF](advanced-tasks/enhance.md)
-   + [Detectar diferencias entre dos PDF](advanced-tasks/compare.md)
-   + [Acciones guiadas](advanced-tasks/action.md)
-   + [Quitar información confidencial](advanced-tasks/redact.md)
-   + [Comprimir y optimizar un PDF](advanced-tasks/reduce.md)
-   + [Trabajar con datos de formulario](advanced-tasks/formdata.md)
-   + Seminarios web de accesibilidad de Acrobat {#accessibility-series}
-      + [Overview](advanced-tasks/accessibility-series.md)
-      + [Introducción a la accesibilidad del PDF](advanced-tasks/accessibilitysession1.md)
-      + [Corrección de un PDF inaccesible](advanced-tasks/accessibilitysession2.md)
-      + [Tablas complejas](advanced-tasks/accessibilitysession3.md)
-      + [Documentos digitalizados y listas complejas](advanced-tasks/accessibilitysession4.md)
-      + [Adición de campos de formulario a un PDF etiquetado](advanced-tasks/accessibilitysession5.md)
-      + [Adición de campos de formulario a un PDF sin etiquetas](advanced-tasks/accessibilitysession6.md)
+   + Preparar y mejorar {#prepare}
+      + [Comprimir y optimizar un PDF](advanced-tasks/reduce.md)
+      + [Optimizar documentos digitalizados](advanced-tasks/optimizescan.md)
+      + [Optimize PDF para SEO](advanced-tasks/optimizeseo.md)
+      + [Adición de marcadores e hipervínculos](advanced-tasks/bookmarks.md)
+      + [Detectar diferencias entre dos PDF](advanced-tasks/compare.md)
+      + [Mejorar su PDF](advanced-tasks/enhance.md)
+   + Crear y administrar formularios {#forms}
+      + [Trabajar con campos de formulario](advanced-tasks/workforms.md)
+      + [Campos de formulario avanzados](advanced-tasks/advancedforms.md)
+      + [Trabajar con datos de formulario](advanced-tasks/formdata.md)
+   + Proteger {#protect}
+      + [Quitar información confidencial](advanced-tasks/redact.md)
+   + Automatizar y escalar flujos de trabajo {#automate}
+      + [Acciones guiadas](advanced-tasks/action.md)
+      + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
 + Con tecnología de IA {#ai-powered}
    + [Overview](ai-powered/ai-overview.md)
    + [Descubre información de PDF con el Asistente de IA](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
