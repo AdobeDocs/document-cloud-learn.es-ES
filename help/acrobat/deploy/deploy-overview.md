@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Artículos sobre implementación y prácticas recomendadas con información y conocimientos valiosos adquiridos al trabajar con clientes.
 
-* Aprende a [implementar Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} si usas Adobe® Creative Cloud™ para equipos o empresas.
+* Aprende a [implementar Adobe Acrobat](https://helpx.adobe.com/es/enterprise/using/deploying-acrobat.html){target="_blank"} si usas Adobe® Creative Cloud™ para equipos o empresas.
 
 * Obtén información sobre [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/es/devnet-docs/acrobatetk/index.html){target="_blank"} para implementar productos personalizados en toda tu organización, configurar instalaciones virtualizadas y crear flujos de trabajo de PDF empresariales.
 

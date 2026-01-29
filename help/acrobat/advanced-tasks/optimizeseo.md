@@ -31,7 +31,7 @@ El contenido del PDF debe ser único y estar estructurado de la siguiente manera
 * Utilizar párrafos cortos que contengan palabras clave y listas
 * Añadir contenido interno y externo a su sitio web u otros sitios web con hipervínculos
 * Agregar una tabla de contenido con hipervínculos para documentos de más de 25 páginas
-* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) en todos los documentos digitalizados
+* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) en todos los documentos digitalizados
 * Crea PDF compatibles con dispositivos móviles
 Para comprobar la experiencia de visualización móvil de tu PDF, abre el archivo en la [aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y activa el Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
 
@@ -64,7 +64,7 @@ Prueba a empezar el resumen usando un verbo de acción como Aprender, Descubrir,
 
 ## &#x200B;3. Etiquetar el PDF
 
-El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para las personas discapacitadas, sino que también mejora el SEO.
+El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para las personas discapacitadas, sino que también mejora el SEO.
 
 +++Ver detalles sobre cómo etiquetar a un PDF
 
