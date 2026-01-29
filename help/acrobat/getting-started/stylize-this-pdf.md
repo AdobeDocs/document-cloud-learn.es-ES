@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Aprenda a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplicando recomendaciones de fuentes, temas de color, imágenes y elementos de diseño mediante herramientas integradas con la tecnología del Adobe Express [Adobe Express](https://express.adobe.com). El tutorial también muestra cómo perfeccionar diseños, añadir imágenes generadas por Adobe Stock o IA y personalizar el estilo del texto para crear documentos de aspecto profesional y de gran calidad. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445544?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 

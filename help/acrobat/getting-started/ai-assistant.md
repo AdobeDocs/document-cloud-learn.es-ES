@@ -19,7 +19,7 @@ Aprende a obtener información de los archivos de PDF con AI Assistant. AI Assis
 
 El Asistente para inteligencia artificial está disponible para los usuarios que adquieran Acrobat Studio o el complemento Asistente para inteligencia artificial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445825?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 
