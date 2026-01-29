@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Estilizar este PDF
 
-Aprenda a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplicando recomendaciones de fuentes, temas de color, imágenes y elementos de diseño mediante herramientas integradas con la tecnología del Adobe Express [Adobe Express](https://express.adobe.com). El tutorial también muestra cómo perfeccionar diseños, añadir imágenes generadas por Adobe Stock o IA y personalizar el estilo del texto para crear documentos de aspecto profesional y de gran calidad. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
+Aprende a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplicando recomendaciones de fuentes, temas de color, imágenes y elementos de diseño mediante herramientas integradas con la tecnología de [Adobe Express](https://express.adobe.com). El tutorial también muestra cómo perfeccionar diseños, añadir imágenes generadas por Adobe Stock o IA y personalizar el estilo del texto para crear documentos de aspecto profesional y de gran calidad. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445544?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 
@@ -25,11 +25,11 @@ Aprenda a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplic
 
 * **Legal**
 
-  Los equipos jurídicos utilizan Estilizar este PDF para aplicar formatos, tipografías y elementos visuales coherentes a las políticas y los documentos orientativos para que parezcan profesionales y fáciles de leer, a la vez que cumplen con las normativas y carecen de significado.
+  Los equipos jurídicos utilizan Estilizar este PDF para aplicar formatos y elementos visuales coherentes para que las políticas y los documentos orientativos tengan un aspecto profesional y sigan siendo claros y precisos.
 
 * **Ventas**
 
-  Los equipos de ventas utilizan Estilizar este PDF para pulir rápidamente propuestas y presentaciones aplicando fuentes, colores e imágenes de marca, lo que ayuda a entregar documentos listos para usar en el cliente sin tener que volver a las herramientas de diseño.
+  Los equipos de ventas usan Estilizar este PDF para perfeccionar propuestas y presentaciones rápidamente aplicando fuentes, colores e imágenes de marca, lo que ayuda a distribuir documentos listos para usar con el cliente sin tener que volver a las herramientas de diseño.
 
 * **HR**
 
@@ -37,7 +37,7 @@ Aprenda a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplic
 
 * **Finanzas**
 
-  Los equipos financieros pueden usar Estilizar este PDF para aplicar al instante estilos visuales uniformes y de gran calidad a los informes y presentaciones, lo que hace que los documentos financieros sean más profesionales y fáciles de compartir con los directivos y las partes interesadas.
+  Los equipos de finanzas usan Estilizar este PDF para perfeccionar y agregar estilos visuales a los informes y presentaciones al instante.
 
 * **Adquisiciones**
 

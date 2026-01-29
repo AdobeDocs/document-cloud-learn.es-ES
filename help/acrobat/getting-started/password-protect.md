@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Aprende a [añadir una contraseña a tu PDF](https://www.adobe.com/es/acrobat/on
 
 >[!TIP]
 >
->Para proteger con contraseña varios archivos de PDF, prueba a usar [Action Wizard](../advanced-tasks/action.md).
+>Use [Action Wizard](../advanced-tasks/action.md) para proteger con contraseña varios archivos de PDF.
 
 [!BADGE Específico del equipo]
 
@@ -30,7 +30,7 @@ Aprende a [añadir una contraseña a tu PDF](https://www.adobe.com/es/acrobat/on
 
 * **Legal**
 
-  La protección de los PDF garantiza que los contratos confidenciales, los expedientes de los casos y las comunicaciones con los clientes solo puedan acceder a ellos las partes autorizadas, lo que reduce los riesgos de cumplimiento normativo y privacidad.
+  La protección de los PDF garantiza que los contratos confidenciales, los expedientes de los casos y las comunicaciones con los clientes solo sean accesibles a las partes autorizadas, lo que reduce los riesgos de cumplimiento y privacidad.
 
 * **Ventas**
 

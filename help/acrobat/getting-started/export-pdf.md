@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Aprende a convertir tus archivos de PDF a diferentes formatos de archivo, como [
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409651?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
@@ -32,4 +32,4 @@ Aprende a convertir tus archivos de PDF a diferentes formatos de archivo, como [
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.

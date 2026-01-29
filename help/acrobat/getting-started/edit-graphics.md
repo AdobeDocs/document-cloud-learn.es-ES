@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Edición de gráficos en un PDF
 
-Aprenda a utilizar el modo de edición en Acrobat para añadir, reemplazar, recortar, cambiar el tamaño, rotar y organizar imágenes directamente en un PDF en el escritorio y la web. El tutorial también muestra cómo generar y ajustar imágenes a partir de mensajes de texto mediante el generador de imágenes integrado en la aplicación con tecnología de Adobe Express. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
+Aprenda a utilizar el modo de edición en Acrobat para añadir, reemplazar, recortar, cambiar el tamaño, rotar y organizar imágenes directamente en un PDF en el escritorio y la web. El tutorial también muestra cómo generar y perfeccionar imágenes a partir de mensajes de texto con el generador de imágenes integrado en la aplicación con tecnología de Adobe Express. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446932?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 
@@ -37,8 +37,8 @@ Aprenda a utilizar el modo de edición en Acrobat para añadir, reemplazar, reco
 
 * **Finanzas**
 
-  Los equipos financieros pueden utilizar el modo de edición para actualizar rápidamente los gráficos y elementos visuales de los PDF financieros, manteniendo la precisión y claridad de los informes sin tener que volver al archivo de origen.
+  Los equipos financieros pueden utilizar el modo de edición para actualizar gráficos y elementos visuales rápidamente en los PDF financieros, manteniendo la precisión y claridad de los informes sin tener que volver al archivo de origen.
 
 * **Adquisiciones**
 
-  Los equipos de compras pueden utilizar el modo Editar para actualizar rápidamente los gráficos de proveedores, las imágenes de productos y los detalles visuales en las propuestas o contratos de proveedores, manteniendo la precisión de los documentos de abastecimiento y la preparación para la presentación sin necesidad de los archivos originales.
+  Los equipos de compras pueden utilizar el modo de edición para actualizar rápidamente gráficos de proveedores, imágenes de productos y detalles visuales en las propuestas o contratos de proveedores, sin necesidad de los archivos originales.

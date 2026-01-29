@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # De papel a PDF
 
-Aprende a escanear (o tomar una foto) un documento en papel y convertirlo en un [archivo de PDF editable](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} en el que se puedan realizar búsquedas. Convertir documentos impresos en PDF aumenta tu capacidad de encontrar información rápidamente y hacerla accesible a las personas discapacitadas. Este tutorial muestra la [nueva experiencia de Acrobat](new-experience.md).
+Aprende a escanear (o tomar una foto) un documento en papel y convertirlo en un [archivo de PDF editable](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} en el que se puedan realizar búsquedas. Convertir documentos impresos en PDF aumenta tu capacidad para encontrar información rápidamente y hacerla accesible a las personas discapacitadas. Este tutorial muestra la [nueva experiencia de Acrobat](new-experience.md).
 
 
 ## Cómo convertir el papel en un PDF en Acrobat para escritorio

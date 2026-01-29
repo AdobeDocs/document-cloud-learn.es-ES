@@ -1,15 +1,15 @@
 ---
 title: Actualizaciones importantes de productos de Acrobat DC para clientes ETLA
-description: Conozca los cambios importantes en los derechos de Acrobat DC incluidos en las ofertas de ETLA (Enterprise Term License Agreement) desde agosto de 2020 hasta el 20 de noviembre de 2020
+description: Conozca los cambios importantes en los derechos de Acrobat DC incluidos en las ofertas de ETLA (Enterprise Term License Agreement) que comienzan en agosto de 2020 hasta el 20 de noviembre de 2020
 feature: Deploy
 role: Admin
 level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Si no ha actualizado Acrobat DC a la versión más reciente, es posible que la h
 
 ## ¿Por qué estamos desaprovisionando esto?
 
-[En octubre de 2018, lanzamos un nuevo Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Esta última versión incluye nuevas herramientas y funcionalidades para trabajar mejor con PDF de dispositivos móviles, la web y equipos de escritorio, además de las nuevas herramientas de colaboración. Como suscriptor de Acrobat DC, ya deberías tener disponibles estas fantásticas funciones. Otra actualización importante que lanzamos fue nuestra solución de firma electrónica Adobe Sign.
+[En octubre de 2018, lanzamos un nuevo Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Esta última versión incluye nuevas herramientas y funcionalidades para trabajar mejor con PDF de dispositivos móviles, la web y equipos de escritorio, además de las nuevas herramientas de colaboración. Como suscriptor de Acrobat DC, ya deberías tener disponibles estas fantásticas funciones. Otra actualización importante publicada fue nuestra solución de firma electrónica Adobe Sign.
 
 Antes de la versión de octubre de 2018, los usuarios de Acrobat DC podían enviar documentos para firmarlos electrónicamente mediante herramientas de Acrobat con la etiqueta &quot;Fill &amp; Sign&quot; (o &quot;Adobe Sign&quot; o &quot;Send for Signature&quot;) a las que se les había concedido derechos de [!DNL Adobe Sign Individual].
 
@@ -53,11 +53,11 @@ Póngase en contacto con su contacto de Adobe para analizar cómo puede seguir p
 
 ## Acceso a los acuerdos existentes
 
-Los usuarios podrán seguir accediendo a cualquier acuerdo enviado antes de esta acción a través de Adobe Document Cloud iniciando sesión con su Adobe ID en https://documentcloud.adobe.com. Si se ha programado la migración de este usuario a Sign Enterprise, deberá seguir estas [instrucciones](https://helpx.adobe.com/es/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+Los usuarios podrán seguir accediendo a cualquier acuerdo enviado antes de esta acción a través de Adobe Document Cloud iniciando sesión con su Adobe ID en https://documentcloud.adobe.com. Si este usuario está programado para la migración a Sign Enterprise, debe seguir estas [instrucciones](https://helpx.adobe.com/es/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Experiencia de Acrobat DC sin derechos de [!DNL Sign Individual]
 
-Los usuarios que tengan derechos de Adobe Sign Enterprise podrán enviar acuerdos dentro de Acrobat utilizando la herramienta Adobe Sign o [!UICONTROL Fill &amp; Sign] (Solicitar firmas).
+Los usuarios que tengan derechos de Adobe Sign Enterprise pueden enviar acuerdos dentro de Acrobat utilizando Adobe Sign o la herramienta [!UICONTROL Fill &amp; Sign] (Solicitar firmas).
 Los usuarios que no tengan derechos de Adobe Sign Enterprise no podrán enviar nuevos acuerdos y recibirán un mensaje de error. En el gráfico siguiente se describen los posibles resultados.
 
 ![Mensaje de error para la experiencia de Acrobat DC](../assets/Deploy_SignEntitle2.png)
@@ -70,8 +70,8 @@ Los usuarios podrán iniciar sesión en https://documentcloud.adobe.com/ para ac
 
 ## Para obtener más información, visite las siguientes páginas:
 
-* [Iniciar sesión en Adobe Document Cloud](https://helpx.adobe.com/es/document-cloud/help/sign-in.html)
-* [Administrar archivos (¿Dónde están mis archivos?)](https://helpx.adobe.com/es/document-cloud/help/manage-files.html)
+* [Iniciar sesión en Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [Administrar archivos (¿Dónde están mis archivos?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [Usando [!UICONTROL Acrobat Customization Wizard] para la configuración](https://www.adobe.com/es/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Información general del [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
 * [Administrando Adobe Sign en el [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html)

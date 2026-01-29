@@ -5,22 +5,22 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Tablas complejas
 
-Aprenda a etiquetar tablas para la accesibilidad en Acrobat. Entre los temas tratados se incluyen: definir las opciones del editor de tablas, identificar el tipo de celda (TD o TH), definir el ámbito y el tamaño del encabezado, crear un resumen de tabla, generar identificadores de celdas de encabezado, asociar celdas de datos con identificadores de celdas de encabezado y modificar una fila de encabezado de repetición.
+Aprenda a etiquetar tablas para la accesibilidad en Acrobat. Entre los temas tratados se incluyen la configuración de las opciones del editor de tablas, la identificación del tipo de celda (TD o TH), la configuración del ámbito y el alcance del encabezado y la creación de un resumen de tabla. El tutorial también aborda la generación de identificadores de celdas de encabezado, la asociación de celdas de datos con identificadores de celdas de encabezado y la modificación de una fila de encabezado de repetición.
 
 >[!NOTE]
 >
 >Solo disponible en Acrobat Pro, Premium y Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477955?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6862
 thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Introducción a la implementación
 
-Artículos sobre implementación y prácticas recomendadas con información y conocimientos valiosos adquiridos al trabajar con nuestros clientes.
+Artículos sobre implementación y prácticas recomendadas con información y conocimientos valiosos adquiridos al trabajar con clientes.
 
-* Aprende a [implementar Adobe Acrobat](https://helpx.adobe.com/es/enterprise/using/deploying-acrobat.html){target="_blank"} si usas Adobe® Creative Cloud™ para equipos o empresas.
+* Aprende a [implementar Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} si usas Adobe® Creative Cloud™ para equipos o empresas.
 
 * Obtén información sobre [Enterprise Toolkit for Acrobat Products](https://www.adobe.com/es/devnet-docs/acrobatetk/index.html){target="_blank"} para implementar productos personalizados en toda tu organización, configurar instalaciones virtualizadas y crear flujos de trabajo de PDF empresariales.
 
-* Descubre los cambios importantes en las ofertas de [derechos de Acrobat DC incluidos en ETLA](signentitlementchanges.md){target="_blank"} (Contrato de licencias de duración determinada para empresas) desde agosto de 2020 hasta el 20 de noviembre de 2020.
+* Obtenga información sobre los cambios importantes en las ofertas de [derechos de Acrobat DC incluidos en ETLA](signentitlementchanges.md){target="_blank"} (Contrato de licencias de duración determinada para empresas) desde agosto de 2020 hasta el 20 de noviembre de 2020.

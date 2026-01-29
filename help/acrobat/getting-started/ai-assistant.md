@@ -6,20 +6,20 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
 # Descubre información de PDF con AI Assistant
 
-Aprende a obtener información de los archivos de PDF con AI Assistant. AI Assistant analiza a un PDF para generar resúmenes, responder preguntas y extraer información con atribuciones claras al contenido de origen, lo que reduce la necesidad de leer manualmente documentos largos. Las respuestas generadas por IA se verifican vinculándolas directamente a las ubicaciones exactas del documento, lo que permite tomar decisiones más rápidas y fiables. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
+Aprende a obtener información de los archivos de PDF con AI Assistant. AI Assistant analiza a un PDF para generar resúmenes, responder preguntas y extraer información con atribuciones claras en el contenido de origen, lo que reduce la necesidad de leer manualmente documentos largos. Las respuestas generadas por IA se verifican vinculándolas directamente a las ubicaciones exactas del documento, lo que permite tomar decisiones más rápidas y fiables. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
 El Asistente para inteligencia artificial está disponible para los usuarios que adquieran Acrobat Studio o el complemento Asistente para inteligencia artificial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445825?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 
@@ -27,7 +27,7 @@ El Asistente para inteligencia artificial está disponible para los usuarios que
 
 * **Legal**
 
-  Los equipos jurídicos utilizan AI Assistant para resumir contratos largos, políticas y documentos normativos, identificar rápidamente cláusulas o cambios relevantes y verificar la información mediante citas directas al texto de origen. Esto acelera la revisión, al tiempo que mantiene la confianza y la trazabilidad.
+  Los equipos jurídicos utilizan AI Assistant para resumir contratos largos, políticas y documentos normativos, identificar rápidamente cláusulas o cambios relevantes y verificar la información mediante citas directas al texto de origen.
 
 * **Ventas**
 

@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Combinar archivos en un único PDF
 
-Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprenda a combinar sin problemas muchos tipos diferentes de archivos (PDF, Word, Excel, PowerPoint, JPEG, etc.) en un único PDF. [Combinar archivos en un solo PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} te permite administrar y controlar el contenido que envías a los demás, lo que crea una mejor experiencia.
+Ofrecer las mejores experiencias a los clientes requiere que el contenido se cree más rápido que nunca. Aprende a combinar a la perfección muchos tipos diferentes de archivos (PDF, Word, Excel, PowerPoint, JPEG, etc.) en un solo PDF. [Combinar archivos en un solo PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} te permite administrar y controlar el contenido que envías a los demás, lo que crea una mejor experiencia.
 
 >[!TIP]
 >
@@ -24,8 +24,8 @@ Ofrecer las mejores experiencias a los clientes requiere que el contenido se cre
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409565?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.

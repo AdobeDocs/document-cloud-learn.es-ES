@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Utilice la herramienta Prepare Form para agregar automáticamente campos de form
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448514?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -80,7 +80,7 @@ Los campos del selector de fecha agregan interactividad y eliminan errores en un
 1. Seleccione **Igualar ancho y alto** en el panel derecho.
 1. Utilice las teclas de flecha para alinear cada campo si es necesario.
 
-Las propiedades Comb se utilizan para distribuir texto uniformemente por el ancho de un campo de texto.
+Las propiedades Comb se utilizan para distribuir texto de forma uniforme a lo largo del ancho de un campo de texto.
 
 1. Haga doble clic en el campo *Código de referencia* y seleccione la pestaña **Opciones**.
 1. Desmarque todas las casillas excepto **Comb of**.
@@ -94,7 +94,7 @@ Las propiedades Comb se utilizan para distribuir texto uniformemente por el anch
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439895?hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -118,7 +118,7 @@ Proteger un formulario garantiza que no se puedan modificar los campos o el cont
 1. Escriba *Ctrl + D (Cmd + D en el Mac)* para que aparezca el cuadro de diálogo **Propiedades del documento**.
 1. Seleccione la pestaña **Seguridad**.
 1. Seleccione **Seguridad mediante contraseña** en el menú desplegable **Método de seguridad:**.
-1. Marque **Restringir la edición e impresión del documento. Se requerirá una contraseña para cambiar esta configuración de permisos.**
+1. Marque **Restringir la edición e impresión del documento. Se requiere una contraseña para cambiar esta configuración de permisos.**
 1. Seleccione **Alta resolución** en el menú desplegable **Impresión permitida:**.
 1. Seleccione **Rellenar campos de formulario y firmar campos de firma existentes** en el menú desplegable **Cambios permitidos:**.
 1. Escriba una contraseña segura en el campo **Cambiar contraseña de permisos:**.

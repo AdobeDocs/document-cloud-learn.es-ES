@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Aprenda a optimizar un PDF para mejorar la capacidad de detección y la clasific
 
 ## &#x200B;1. Crear contenido único
 
-Crear contenido de PDF que sea diferente de la información de las páginas web.
+Cree contenido de PDF que sea diferente de la información de las páginas web.
 
 +++Ver detalles sobre cómo crear contenido único
 
@@ -29,9 +29,9 @@ El contenido del PDF debe ser único y estar estructurado de la siguiente manera
 * Utilizar un único título o encabezado principal que empiece por una palabra clave
 * Usar subencabezados de palabras clave organizados en una estructura jerárquica
 * Utilizar párrafos cortos que contengan palabras clave y listas
-* Añadir hipervínculos internos y externos (contenido de su sitio web u otros sitios web)
+* Añadir contenido interno y externo a su sitio web u otros sitios web con hipervínculos
 * Agregar una tabla de contenido con hipervínculos para documentos de más de 25 páginas
-* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=es) en todos los documentos digitalizados
+* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) en todos los documentos digitalizados
 * Crea PDF compatibles con dispositivos móviles
 Para comprobar la experiencia de visualización móvil de tu PDF, abre el archivo en la [aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y activa el Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
 
@@ -64,7 +64,7 @@ Prueba a empezar el resumen usando un verbo de acción como Aprender, Descubrir,
 
 ## &#x200B;3. Etiquetar el PDF
 
-El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=es) para las personas discapacitadas, sino que también mejora el SEO.
+El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para las personas discapacitadas, sino que también mejora el SEO.
 
 +++Ver detalles sobre cómo etiquetar a un PDF
 
@@ -88,7 +88,7 @@ Etiquete un PDF de la siguiente manera:
 
 ## &#x200B;4. Prepárate para la web
 
-Optimiza la experiencia de interactuar con tu PDF preparándolo para la visualización en la web y [reduciendo el tamaño del archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimiza tu PDF preparándolo para la visualización en la web y [reduciendo el tamaño del archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Consulta los detalles sobre cómo preparar a tu PDF para la web
 
@@ -131,7 +131,7 @@ El último paso es [proteger al PDF](https://www.adobe.com/es/acrobat/online/pas
 Proteja un PDF de la siguiente manera:
 
 1. Abra **[!UICONTROL Propiedades del documento]** (*Ctrl + D* en Windows o *Cmd + D* en Mac) y seleccione la pestaña **[!UICONTROL Seguridad]**.
-1. Marque **[!UICONTROL Imprimir ediciones e impresión del documento. Se requerirá una contraseña para cambiar esta configuración.]**
+1. Marque **[!UICONTROL Imprimir ediciones e impresión del documento. Se requiere una contraseña para cambiar esta configuración.]**
 1. En **[!UICONTROL Cambios permitidos:]**, seleccione **[!UICONTROL Ninguno]**.
 1. Marque **[!UICONTROL Habilitar acceso de texto para dispositivos lectores de pantalla para personas con problemas de visión.]**
 1. Introduzca y confirme una contraseña segura.
@@ -141,4 +141,4 @@ Proteja un PDF de la siguiente manera:
 
 +++
 
-Ahora tu PDF está listo para publicarse en la web, con un potencial óptimo de clasificación de palabras clave e interacción con el usuario final.
+Ahora, tu PDF está listo para publicarse en la web, con un potencial óptimo de clasificación de palabras clave e interacción con el usuario final.
