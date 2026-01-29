@@ -37,7 +37,7 @@ Utilice la herramienta Prepare Form para agregar automáticamente campos de form
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448514?captions=spa&quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ Las propiedades Comb se utilizan para distribuir texto de forma uniforme a lo la
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439895?captions=spa&hidetitle=true)
 
 <br> 
 

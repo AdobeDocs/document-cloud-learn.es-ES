@@ -24,7 +24,7 @@ Aprende a editar palabras, frases o incluso páginas enteras en tu PDF. La edici
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409176?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

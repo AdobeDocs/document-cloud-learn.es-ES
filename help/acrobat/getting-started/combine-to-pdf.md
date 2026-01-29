@@ -24,7 +24,7 @@ Ofrecer las mejores experiencias a los clientes requiere que el contenido se cre
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409565?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

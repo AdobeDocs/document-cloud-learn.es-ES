@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Con el teletrabajo en todas partes, una colaboración fluida es fundamental para ofrecer contenido con velocidad y escala. Mantén los proyectos en marcha recopilando comentarios, colaborando en tiempo real y realizando el seguimiento del progreso desde cualquier lugar. Aprende a crear un proceso de revisión de documentos que no solo mejore la eficacia, sino que también mejore la calidad del contenido. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409197?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

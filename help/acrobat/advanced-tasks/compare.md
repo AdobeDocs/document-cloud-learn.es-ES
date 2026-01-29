@@ -24,7 +24,7 @@ Solicitudes, Garantías reales, Hojas informativas, Manuales, Políticas, Inform
 [!BADGE Impacto en la organización]
 Ahorro de costes, eficiencia organizativa, ahorro de tiempo, garantía de calidad
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409323?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
