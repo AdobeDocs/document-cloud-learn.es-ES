@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,37 +19,29 @@ Aprende a obtener información de los archivos de PDF con AI Assistant. AI Assis
 
 El Asistente para inteligencia artificial está disponible para los usuarios que adquieran Acrobat Studio o el complemento Asistente para inteligencia artificial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445825?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE Por rol]
+[!BADGE Específico del equipo]
 
 ## Cómo ayuda el asistente de inteligencia artificial a los distintos equipos
 
-* **Legal y cumplimiento normativo**
+* **Legal**
 
   Los equipos jurídicos utilizan AI Assistant para resumir contratos largos, políticas y documentos normativos, identificar rápidamente cláusulas o cambios relevantes y verificar la información mediante citas directas al texto de origen. Esto acelera la revisión, al tiempo que mantiene la confianza y la trazabilidad.
-
-* **Recursos Humanos**
-
-  Los equipos de RR. HH. utilizan AI Assistant para extraer puntos clave de los documentos de políticas, los materiales de formación y los manuales de los empleados, lo que les permite crear resúmenes claros y preguntas frecuentes sin tener que leer o volver a escribir manualmente contenido prolongado.
 
 * **Ventas**
 
   Los equipos de ventas utilizan el Asistente de IA para escanear propuestas, solicitudes de propuestas y documentación del cliente, obtener rápidamente respuestas relevantes o puntos de discusión y generar resúmenes concisos que admitan respuestas más rápidas y preparación de acuerdos.
 
-* **Marketing y comunicaciones**
+* **HR**
 
-  Los equipos de marketing utilizan AI Assistant para analizar informes y documentos de investigación, extraer información y generar resúmenes bien estructurados que se puedan reutilizar en presentaciones, resúmenes y planificación de contenido.
+  Los equipos de RR. HH. utilizan AI Assistant para extraer puntos clave de los documentos de políticas, los materiales de formación y los manuales de los empleados, lo que les permite crear resúmenes claros y preguntas frecuentes sin tener que leer o volver a escribir manualmente contenido prolongado.
 
 * **Finanzas**
 
   Los equipos financieros utilizan el Asistente de IA para revisar los informes financieros y los documentos complementarios, resumir las tendencias o las desviaciones, y obtener la información necesaria para los informes de nivel ejecutivo sin leer manualmente archivos completos.
 
-* **Administración de operaciones y programas**
+* **Adquisiciones**
 
-  Los equipos de operaciones utilizan el Asistente de IA para analizar los procedimientos operativos estándar, la documentación del proyecto y las actualizaciones, así como para comprender rápidamente lo que importa y generar resúmenes para mantener alineados a los responsables de departamento.
-
-* **Ejecutivos y líderes**
-
-  Los ejecutivos usan AI Assistant para obtener resúmenes de alto nivel y respuestas directas de documentos complejos, con citas que les permiten validar la información sin revisar los materiales de origen completos.
+  Los equipos de compras analizan los contratos, resumen las propuestas de los proveedores, extraen las condiciones clave y generan información a partir de los documentos de los grandes PDF, lo que permite agilizar las decisiones de abastecimiento, reducir el tiempo de revisión manual y garantizar que las partes interesadas dispongan de información precisa y accesible.
 

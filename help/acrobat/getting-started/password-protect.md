@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 9eff21212e67567d2fda1ac595af3b661adc1b39
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 2%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
@@ -23,3 +23,28 @@ Aprende a [añadir una contraseña a tu PDF](https://www.adobe.com/es/acrobat/on
 >[!TIP]
 >
 >Para proteger con contraseña varios archivos de PDF, prueba a usar [Action Wizard](../advanced-tasks/action.md).
+
+[!BADGE Específico del equipo]
+
+## Cómo proteger a los PDF ayuda a los diferentes equipos
+
+* **Legal**
+
+  La protección de los PDF garantiza que los contratos confidenciales, los expedientes de los casos y las comunicaciones con los clientes solo puedan acceder a ellos las partes autorizadas, lo que reduce los riesgos de cumplimiento normativo y privacidad.
+
+* **Ventas**
+
+  La protección de las propuestas, las hojas de precios y los acuerdos de socios garantiza que los competidores o las partes interesadas no autorizadas no puedan acceder a la información estratégica.
+
+* **HR**
+
+  La protección de los PDF protege los registros de los empleados, las revisiones de rendimiento y los documentos de contratación, lo que ayuda a mantener la privacidad y a cumplir los requisitos normativos.
+
+* **Finanzas**
+
+  La protección con contraseña mantiene seguros los informes financieros, las previsiones y los datos de los clientes confidenciales, lo que ayuda a evitar el acceso no autorizado y el posible fraude.
+
+* **Adquisiciones**
+
+  La protección por contraseña de los PDF garantiza la seguridad de los contratos, las pujas y los documentos de precios de los proveedores, lo que garantiza que solo las partes interesadas puedan acceder a información confidencial de negociación y abastecimiento.
+

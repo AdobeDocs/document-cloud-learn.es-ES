@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -17,24 +17,28 @@ ht-degree: 0%
 
 Aprenda a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplicando recomendaciones de fuentes, temas de color, imágenes y elementos de diseño mediante herramientas integradas con la tecnología del Adobe Express [Adobe Express](https://express.adobe.com). El tutorial también muestra cómo perfeccionar diseños, añadir imágenes generadas por Adobe Stock o IA y personalizar el estilo del texto para crear documentos de aspecto profesional y de gran calidad. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445544?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE Por rol]
+[!BADGE Específico del equipo]
 
 ## Cómo estilizar este PDF ayuda a los diferentes equipos
 
-* **Legal y cumplimiento normativo**
+* **Legal**
 
   Los equipos jurídicos utilizan Estilizar este PDF para aplicar formatos, tipografías y elementos visuales coherentes a las políticas y los documentos orientativos para que parezcan profesionales y fáciles de leer, a la vez que cumplen con las normativas y carecen de significado.
-
-* **Recursos Humanos**
-
-  Los equipos de RR. HH. usan Estiliza este PDF para transformar los documentos de las políticas, los materiales de incorporación y los recursos de formación en PDF visualmente claros y accesibles que mejoren la comprensión y la participación de los empleados.
 
 * **Ventas**
 
   Los equipos de ventas utilizan Estilizar este PDF para pulir rápidamente propuestas y presentaciones aplicando fuentes, colores e imágenes de marca, lo que ayuda a entregar documentos listos para usar en el cliente sin tener que volver a las herramientas de diseño.
 
-* **Marketing y comunicaciones**
+* **HR**
 
-  Los equipos de marketing usan Estilizar este PDF para alinear a los PDF con los estándares de la marca perfeccionando los diseños, aplicando temas visuales e incorporando imágenes, lo que garantiza que los materiales sean visualmente coherentes en todas las campañas.
+  Los equipos de RR. HH. usan Estiliza este PDF para transformar los documentos de las políticas, los materiales de incorporación y los recursos de formación en PDF visualmente claros y accesibles que mejoren la comprensión y la participación de los empleados.
+
+* **Finanzas**
+
+  Los equipos financieros pueden usar Estilizar este PDF para aplicar al instante estilos visuales uniformes y de gran calidad a los informes y presentaciones, lo que hace que los documentos financieros sean más profesionales y fáciles de compartir con los directivos y las partes interesadas.
+
+* **Adquisiciones**
+
+  Los equipos de adquisiciones pueden utilizar Estilizar este PDF para mejorar las propuestas de proveedores, los resúmenes de abastecimiento y los paquetes de contratos con un formato limpio y coherente, lo que mejora la legibilidad y crea resultados más profesionales para los responsables de la toma de decisiones internos.
