@@ -25,4 +25,4 @@ Aprende los aspectos básicos de cómo etiquetar un archivo de PDF para que sea 
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.
+>Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/es/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.

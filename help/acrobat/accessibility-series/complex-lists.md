@@ -25,4 +25,4 @@ Aprenda a etiquetar listas complejas para la accesibilidad en Acrobat. Las lista
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.
+>Este vídeo forma parte de la lista de reproducción [PDF Accessibility series](https://experienceleague.adobe.com/es/playlists/acrobat-pdf-accessibility) que está disponible de forma gratuita para Experience League.
