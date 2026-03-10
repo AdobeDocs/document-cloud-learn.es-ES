@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
+source-git-commit: 3343ab883acf6e350814ccbf3eceb49eb33c6d5e
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # ¿Qué es Acrobat Studio?
 
-Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con Acrobat Studio, de forma que tu equipo pueda moverse más rápido. Acrobat Studio es una solución integral que incluye Acrobat Pro, AI Assistant, PDF Spaces y Adobe Express Premium. Explora las opciones interactivas de *Pruébalo ahora* que aparecen a continuación para descubrir cómo Acrobat Studio simplifica el trabajo de tu equipo.
+Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con Acrobat Studio, de forma que tu equipo pueda moverse más rápido. Acrobat Studio es una solución integral que incluye Acrobat Pro, AI Assistant, PDF Spaces y Adobe Express Premium. Explora las opciones interactivas de **Pruébalo ahora** que aparecen a continuación para descubrir cómo Acrobat Studio simplifica el trabajo de tu equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475059?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 
@@ -41,4 +41,4 @@ Aprende a crear contenido seguro para la marca, extraer información y agilizar 
 
 * **Finanzas**
 
-  Descubre cómo los equipos de finanzas pueden moverse más rápido mediante los informes financieros, sin comprometer la precisión, la confianza ni el control. [Pruébelo ahora]https://w.adobedemo.com/s/31LpAI.
+  Descubre cómo los equipos de finanzas pueden moverse más rápido mediante los informes financieros, sin comprometer la precisión, la confianza ni el control. [Pruébalo ahora](https://w.adobedemo.com/s/31LpAI.)
