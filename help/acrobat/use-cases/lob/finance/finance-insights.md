@@ -6,32 +6,36 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 57155812d67c812370d0b5d93f03211b5e1c25f7
+source-git-commit: f2e1f0be291ffebda877db7e99e8f5371aafbb99
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Prepara documentos financieros listos para el ejecutivo desde la información hasta la entrega
 
-Descubre la forma en la que los equipos financieros utilizan Acrobat Studio para pasar del análisis a la entrega mediante la consolidación de documentos financieros, la colaboración segura con las partes interesadas y la creación de informes y presentaciones listos para el ejecutivo. Este flujo de trabajo integral muestra cómo impulsar la información, gestionar las revisiones, aplicar un diseño coherente con la marca y ofrecer materiales financieros seguros y listos para auditar para los informes de la junta directiva y los directivos. Este caso de uso está diseñado para completarse secuencialmente. Cada vídeo se basa en el paso anterior del flujo de trabajo.
+Descubre cómo los equipos financieros utilizan Acrobat para gestionar documentos financieros, desde la información hasta la entrega. Este caso práctico recorre un flujo de trabajo integral para analizar información, colaborar con las partes interesadas y crear materiales financieros listos para su uso ejecutivo. Este caso de uso está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
 
-## &#x200B;1. Comprender el rendimiento financiero
+La mejor opción para: líderes financieros, equipos de PyA, analistas y cualquier persona que prepare materiales para la revisión ejecutiva o del consejo.
+
+## Paso 1. Comprender el rendimiento financiero
 
 Empieza por consolidar los documentos financieros y sacar a la luz información clave para preparar la información para la revisión ejecutiva.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;2. Colaborar en informes financieros
+## Paso 2. Colaborar en informes financieros
 
-Reúne a las partes interesadas para revisar los materiales financieros, compartir comentarios y perfeccionar la información en un espacio de trabajo seguro.
+La información ya está lista para la revisión del equipo. Reúne a las partes interesadas para revisar los materiales financieros, compartir comentarios y perfeccionar la información en un espacio de trabajo seguro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## &#x200B;3. Crea presentaciones listas para ejecutivos
+## Paso 3. Crea presentaciones listas para ejecutivos
 
-Convierte la información validada en presentaciones de gran calidad y fieles a la marca, así como productos financieros seguros para el liderazgo.
+Los comentarios están completos y el contenido está listo para distribuirse. Convierte la información validada en presentaciones de gran calidad y fieles a la marca, así como productos financieros seguros para el liderazgo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
+
+Ahora dispone de un proceso repetible para analizar, revisar y entregar documentos financieros listos para ser ejecutados mediante Acrobat.
 
