@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3a947947f9eaac8e369a2236b5795fb5a74fb01b
+source-git-commit: a6bfbb75a89221e4ac63e3922f8763326f85bdca
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '646'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
    + Conozca los conceptos básicos {#basics}
       + [Conceptos básicos del área de trabajo](getting-started/workspace-basics.md)
       + [Nueva experiencia de Acrobat](getting-started/new-experience.md)
-      + [Trabajar con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+      + [Trabajar con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
       + [Productividad sobre la marcha](getting-started/productivity.md)
       + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -71,29 +71,33 @@ ht-degree: 4%
       + [Optimize PDF para SEO](advanced-tasks/optimizeseo.md)
       + [Adición de marcadores e hipervínculos](advanced-tasks/bookmarks.md)
       + [Detectar diferencias entre dos PDF](advanced-tasks/compare.md)
-      + [Mejorar su PDF](advanced-tasks/enhance.md)
+      + [Mejora tu PDF](advanced-tasks/enhance.md)
    + Crear y administrar formularios {#forms}
       + [Trabajar con campos de formulario](advanced-tasks/workforms.md)
       + [Campos de formulario avanzados](advanced-tasks/advancedforms.md)
       + [Trabajar con datos de formulario](advanced-tasks/formdata.md)
    + Proteger {#protect}
-      + [Quitar información confidencial](advanced-tasks/redact.md)
+      + [Eliminar información confidencial](advanced-tasks/redact.md)
    + Automatizar y escalar flujos de trabajo {#automate}
       + [Acciones guiadas](advanced-tasks/action.md)
       + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
-+ Con tecnología de IA {#ai-powered}
++ de IA {#ai-powered}
    + [Información general](ai-powered/ai-overview.md)
-   + [Descubre información de PDF con AI Assistant](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Edición de gráficos en un PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Estilizar este PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
-+ Casos prácticos {#use-cases}
+   + [Descubra las ideas de PDF con AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Aumentar la eficiencia del equipo con espacios PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Editar gráficos en un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Estilizar este PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Casos de uso {#use-cases}
    + [Información general](use-cases/use-cases-overview.md)
+   + Línea de negocio {#lob}
+      + [Información general](use-cases/lob/finance/finance-overview.md)
+      + Finanzas {#finance}
+         + [Convierte los informes financieros en información para los ejecutivos](use-cases/lob/finance/finance-insights.md)
    + Organismos públicos {#gov}
       + [Información general](use-cases/gov/gov-overview.md)
-      + Cinco consejos para trabajar con Acrobat desde cualquier parte {#tips}
-         + [5 consejos para trabajar en cualquier parte con Acrobat](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + 5 consejos para trabajar en cualquier lugar con Acrobat {#tips}
+         + [5 consejos para trabajar en cualquier lugar con Acrobat](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Consejo n.º 1: Consigue tus herramientas](use-cases/gov/get-your-tools.md)
          + [Consejo n.º 2 - Colaborar en documentos](use-cases/gov/collaborate-on-documents.md)
          + [Sugerencia n.º 3: Documentos digitales de Protect](use-cases/gov/protect-digital-documents.md)
@@ -148,5 +152,5 @@ ht-degree: 4%
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
    + [Información general](mobile/mobile-overview.md)
-   + [Productividad sobre la marcha](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Productividad sobre la marcha](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
