@@ -60,8 +60,8 @@ Descubra cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para el gobierno" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para el gobierno"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat para el gobierno" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat para el gobierno"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,11 +69,11 @@ Descubra cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat para el gobierno">Acrobat for Government</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat para el gobierno">Acrobat for Government</a>
                     </p>
                     <p class="is-size-6">Explore nuestros tutoriales de Acrobat diseñados específicamente para el gobierno federal, estatal y local</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorar tutoriales</span>
                 </a>
             </div>
