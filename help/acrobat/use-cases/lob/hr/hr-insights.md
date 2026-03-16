@@ -1,22 +1,23 @@
 ---
-title: 'De la información al impacto: agiliza los flujos de trabajo de RR. HH.'
+title: 'De la información al impacto: agiliza los flujos de trabajo de incorporación'
 description: Descubre cómo los equipos de RR. HH. utilizan Acrobat Studio para agilizar la incorporación de empleados de principio a fin
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# De la información al impacto: agiliza los flujos de trabajo de RR. HH.
+# Desde la información hasta el impacto: agiliza los flujos de trabajo de incorporación
 
 Descubre cómo los equipos de RR. HH. utilizan Acrobat Studio para agilizar la incorporación de empleados de principio a fin. Aprende a convertir documentos de contratación complejos en información clara, colaborar con partes implicadas en espacios compartidos para PDF y crear contenido de gran calidad y fiel a la marca que esté listo para compartirse con los nuevos empleados, de forma más rápida, coherente y fiable. Este caso de uso está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
 
-**Ideal para:** líderes de RR. HH., partners empresariales y de operaciones de RR. HH., equipos de iniciación y experiencia de los empleados, y cualquier persona responsable de revisar, colaborar o crear materiales de RR. HH. orientados a los empleados.
+**Ideal para:** líderes de RR. HH., partners empresariales y de operaciones de RR. HH., equipos de iniciación y experiencia de los empleados, y cualquier persona que prepare materiales de RR. HH. para empleados o directivos.
 
 ## Paso 1. Convierte los documentos de bienvenida en información clara
 
@@ -37,4 +38,3 @@ Los comentarios están completos y el contenido está listo para distribuirse. D
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Ahora dispone de un proceso repetible para analizar, revisar y distribuir documentos de los empleados listos para su incorporación a través de Acrobat Studio.
-
