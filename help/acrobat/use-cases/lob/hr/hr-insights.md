@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ La información ya está lista para la revisión del equipo. Descubre cómo PDF 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Paso 3. Crea presentaciones listas para ejecutivos
+## Paso 3. Crear contenido de incorporación atractivo para los nuevos empleados
 
 Los comentarios están completos y el contenido está listo para distribuirse. Descubre cómo Acrobat Studio utiliza la IA y las plantillas de marca para crear rápidamente presentaciones y materiales listos para los empleados que son fáciles de compartir y actualizar.
 

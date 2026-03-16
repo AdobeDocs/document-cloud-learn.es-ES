@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20534
 exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Descubre cómo los equipos de RR. HH. utilizan Acrobat para gestionar documentos
 
 >[!BEGINTABS]
 
->[!TAB Desde la información hasta el impacto: optimiza los flujos de trabajo de RR. HH.]
+>[!TAB Desde la información hasta el impacto: optimiza los flujos de trabajo de incorporación]
 
 Descubre cómo los equipos de RR. HH. utilizan Acrobat Studio para optimizar el contenido de incorporación de empleados desde la [información, colaboración y entrega dentro de la marca](hr-insights.md).
 
