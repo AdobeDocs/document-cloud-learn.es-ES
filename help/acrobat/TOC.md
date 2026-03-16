@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8c7b6e8e80f89e5f2c5f6a1d957657096bccd9c2
+source-git-commit: 6d1049437e47a684478d5d2c513f935afbcc20fc
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 4%
+source-wordcount: '657'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
    + Conozca los conceptos básicos {#basics}
       + [Conceptos básicos del área de trabajo](getting-started/workspace-basics.md)
       + [Nueva experiencia de Acrobat](getting-started/new-experience.md)
-      + [Trabajar con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+      + [Trabajar con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
       + [Productividad sobre la marcha](getting-started/productivity.md)
       + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -83,17 +83,20 @@ ht-degree: 4%
       + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
 + Con tecnología de IA {#ai-powered}
    + [Información general](ai-powered/ai-overview.md)
-   + [Descubre información de PDF con AI Assistant](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Edición de gráficos en un PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Estilizar este PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Descubre información de PDF con AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Edición de gráficos en un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Estilizar este PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Casos prácticos {#use-cases}
    + [Información general](use-cases/use-cases-overview.md)
    + Línea de negocio {#lob}
-      + [Información general](use-cases/lob/finance/finance-overview.md)
       + Finanzas {#finance}
+         + [Información general](use-cases/lob/finance/finance-overview.md)
          + [Prepara documentos financieros listos para el ejecutivo desde la información hasta la entrega](use-cases/lob/finance/finance-insights.md)
+      + RR. HH. {#hr}
+         + [Información general](use-cases/lob/hr/hr-overview.md)
+         + [De la información al impacto: agiliza los flujos de trabajo de RR. HH.](use-cases/lob/hr/hr-insights.md)
    + Organismos públicos {#gov}
       + [Información general](use-cases/gov/gov-overview.md)
       + Cinco consejos para trabajar con Acrobat desde cualquier parte {#tips}
@@ -152,5 +155,5 @@ ht-degree: 4%
    + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
    + [Información general](mobile/mobile-overview.md)
-   + [Productividad sobre la marcha](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Productividad sobre la marcha](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
