@@ -23,18 +23,18 @@ Descubre cómo los equipos de RR. HH. utilizan Acrobat Studio para agilizar la i
 
 Empieza aprendiendo cómo la información de incorporación impulsada por IA puede destacar la información clave, mostrar los pasos siguientes y ayudar a garantizar que los nuevos empleados obtengan la información correcta en el momento adecuado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481487?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Paso 2. Revisar y alinear los materiales de incorporación
 
 La información ya está lista para la revisión del equipo. Descubre cómo PDF Spaces mantiene organizados los comentarios, las opiniones y las actualizaciones para que los responsables de departamento se mantengan alineados, y cómo la incorporación avanza sin cadenas de correo electrónico ni confusión de versiones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481524?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Paso 3. Crear contenido de incorporación atractivo para los nuevos empleados
 
 Los comentarios están completos y el contenido está listo para distribuirse. Descubre cómo Acrobat Studio utiliza la IA y las plantillas de marca para crear rápidamente presentaciones y materiales listos para los empleados que son fáciles de compartir y actualizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481535?captions=spa&quality=12&learn=on&hidetitle=true)
 
 Ahora dispone de un proceso repetible para analizar, revisar y distribuir documentos de los empleados listos para su incorporación a través de Acrobat Studio.
