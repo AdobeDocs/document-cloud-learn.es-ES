@@ -15,13 +15,13 @@ Este proyecto ha adoptado el [Código de código de conducta de código abierto 
 
 ## Acerca de las aportaciones al contenido de Adobe
 
-Consulte la [Guía de colaboradores de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía de colaboradores de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html).
 
 La forma en que contribuya depende de quién sea y del tipo de cambios que le gustaría aportar:
 
 ### Cambios menores
 
-Si desea contribuir a pequeñas actualizaciones por voluntad propia, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub para el artículo. Luego, solo tiene que utilizar la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [Guía de colaboradores de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Si desea contribuir a pequeñas actualizaciones por voluntad propia, visite el artículo y haga clic en el vínculo **Editar** del artículo que va a la fuente de GitHub para el artículo. Luego, solo tiene que utilizar la interfaz de usuario de GitHub para realizar sus actualizaciones. Consulte la [Guía de colaboradores de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html) para obtener más información.
 
 Las correcciones o aclaraciones menores que envíe para la documentación y los ejemplos de código en este repositorio están cubiertos por las condiciones de uso del Adobe.
 
@@ -43,7 +43,7 @@ Si es un escritor técnico, administrador de programas o desarrollador del equip
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub para realizar tareas básicas de edición o bifurcar el repositorio para realizar aportaciones importantes.
 
-Consulte la [Guía de colaboradores de Adobe Docs](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) para obtener más información.
+Consulte la [Guía de colaboradores de Adobe Docs](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html) para obtener más información.
 
 ## Cómo utilizar el marcado para dar formato al tema
 
