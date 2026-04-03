@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # ARCHIVADO
 
-Este repositorio se ha migrado a <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en>.
+Este repositorio se ha migrado a <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.es-ES>.
