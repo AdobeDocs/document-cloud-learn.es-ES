@@ -1,5 +1,5 @@
 ---
-title: Modificación de un documento tras su envío
+title: Modificar un documento después de enviarlo
 description: Obtenga información sobre cómo modificar el flujo de trabajo de un documento que ya está en curso
 feature: Workflow, Sign
 role: User
@@ -7,27 +7,26 @@ level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# Modificación de un documento después de enviarlo
+# Modificar un documento después de enviarlo
 
-Aprende a modificar un documento que ya se ha enviado para firmar, como cuando se envía un documento incorrecto por error. La modificación de acuerdos solo se puede utilizar en documentos que cumplan los siguientes criterios:
+Aprende a modificar un documento que ya se ha enviado para firmar, como cuando se envía por error un documento incorrecto. Utilice Modificar acuerdo cuando necesite:
 
-* El documento no se ha firmado, aprobado ni delegado
-* El documento no incluye una firma digital ni escrita
-* El documento no se ha iniciado desde un flujo de trabajo personalizado
-
+* Reemplazar o actualizar un documento
+* Corregir campos de formulario o valores de prerrellenado
+* Eliminar un destinatario que no ha completado su acción
 
 >[!NOTE]
 >
 >La modificación de un documento después de su envío solo está disponible para los planes de nivel Enterprise. El administrador de Acrobat Sign debe habilitar **Modificar acuerdos** en la sección **Configuración de envío** de **Configuración de cuenta** para usar esta característica.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410733?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3410733?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

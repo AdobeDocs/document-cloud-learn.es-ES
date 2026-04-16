@@ -12,19 +12,19 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 14%
+source-wordcount: '683'
+ht-degree: 13%
 
 ---
 
 
 # Tutorials de Acrobat Sign {#sign-learning-hub}
 
-+ [Overview](overview.md)
++ [Información general](overview.md)
 + Introducción {#getting-started}
-   + [Overview](sign-beginner-tutorials/beginner-users-overview.md)
+   + [Información general](sign-beginner-tutorials/beginner-users-overview.md)
    + Enviar {#getting-started-sending}
       + [Conceptos básicos del área de trabajo](sign-beginner-tutorials/quick-tour.md)
       + [Comienza a usar Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -32,7 +32,7 @@ ht-degree: 14%
       + [Enviar a varios firmantes](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Adición de campos a los documentos](sign-beginner-tutorials/adding-fields.md)
       + [Configurar opciones de envío](sign-beginner-tutorials/sending-options.md)
-      + [Modificación de un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
+      + [Modificar un documento después de enviarlo](sign-beginner-tutorials/modify-in-flight.md)
       + [Sustitución de un firmante](sign-beginner-tutorials/replace-signer.md)
       + [Establecer fecha de caducidad y recordatorios](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [Crear una plantilla reutilizable](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=es)
@@ -46,13 +46,13 @@ ht-degree: 14%
    + Administrar {#getting-started-managing}
       + [Administrar y realizar un seguimiento de los acuerdos](sign-beginner-tutorials/manage-and-track.md)
 + Tareas avanzadas {#advanced-tasks}
-   + [Overview](sign-advanced-users/advanced-users-overview.md)
+   + [Información general](sign-advanced-users/advanced-users-overview.md)
    + Enviar {#advanced-tasks-sending}
       + [Asignar un orden de firma](sign-advanced-users/setting-up-routing.md)
       + [Uso de la función del delegador](sign-advanced-users/delegate-signature.md)
       + [Uso de la función de aprobador](sign-advanced-users/add-an-approver.md)
       + [Enviar en bloque](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=es)
-      + [Creando un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=es)
+      + [Creación de un formulario web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=es)
       + [Crear un flujo de trabajo personalizado](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Configuración de pagos en línea](sign-advanced-users/set-up-online-payments.md)
       + [Métodos de autenticación en Acrobat Sign](sign-advanced-users/authentication-methods.md)
@@ -65,7 +65,7 @@ ht-degree: 14%
       + [Administración de datos de formulario web](sign-advanced-users/manage-webform-data.md)
       + [Administrar datos de formulario](sign-advanced-users/manage-form-data.md)
 + Administrar {#admin-set-up}
-   + [Overview](admin/intro-admin-overview.md)
+   + [Información general](admin/intro-admin-overview.md)
    + Introducción {#getting-started-admin}
       + [Introducción para nuevos administradores](admin/get-started-admin.md)
       + [En marcha para administradores](admin/up-and-running-admin.md)
@@ -77,7 +77,7 @@ ht-degree: 14%
       + [Creación y gestión de grupos](admin/create-and-manage-groups.md)
       + [Configuración de un archivo externo](admin/set-up-your-external-archive.md)
       + [Crear una plantilla reutilizable](sign-advanced-users/create-a-template.md)
-      + [Uso de informes y transacciones](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Informes y uso de transacciones](https://experienceleague.adobe.com/es/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Opciones de informes para usuarios](admin/report-options.md)
       + [Creación de un formulario web](sign-advanced-users/webform.md)
       + [Modificar un formulario web existente](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=es)
@@ -94,7 +94,7 @@ ht-degree: 14%
       + [Usar configuración de biofarmacéutica](admin/use-bio-pharma-settings.md)
       + [Cómo configurar los administradores de privacidad](admin/privacy.md)
 + ID digital {#digital-id}
-   + [Overview](digitalid/digitalid-overview.md)
+   + [Información general](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Firmar con Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
@@ -106,7 +106,7 @@ ht-degree: 14%
       + [Obtener un ID digital de Intesi Group (cualificado)](digitalid/intesi-qualified.md)
       + [Firmar con Intesi Group](digitalid/intesi-sign.md)
 + Integraciones {#integrations}
-   + [Overview](integrations/integrations-overview.md)
+   + [Información general](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Rellenar y firmar en  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Enviar para firmar en  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
@@ -142,11 +142,11 @@ ht-degree: 14%
       + [Envía notificaciones con Acrobat Sign para  [!DNL Microsoft Dynamics]  y Marketo](integrations/marketo-dynamics-sms.md)
       + [Envía recordatorios con Acrobat Sign para  [!DNL Microsoft Dynamics 365]  y Marketo](integrations/marketo-dynamics-reminder.md)
 + Sectores y departamentos {#expand}
-   + [Overview](sign-usecase/expand-inspire-overview.md)
+   + [Información general](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Seminarios web](sign-usecase/innovation-series.md)
    + Casos prácticos {#recipes}
-      + [Overview](sign-usecase/recipes.md)
+      + [Información general](sign-usecase/recipes.md)
       + Organismos públicos {#gov}
          + [Solicitud de préstamo del gobierno con varios firmantes desconocidos](sign-usecase/webform-multiple-signers.md)
          + [Subvenciones y préstamos empresariales](sign-usecase/usecasegovgrants.md)
@@ -164,15 +164,15 @@ ht-degree: 14%
          + [Crear una aplicación de prácticas de formularios web educativos](sign-usecase/usecase-edu-intern-create.md)
          + [Flujo de trabajo personalizado para el proceso IEP educativo](sign-usecase/usecase-edu-iep.md)
 + Revelar {#develop}
-   + [Overview](develop/develop-overview.md)
+   + [Información general](develop/develop-overview.md)
    + API y webhooks {#custom}
       + [Recopilación de documentos de gran volumen mediante GigaSign](develop/gigasign.md)
       + [Crea firmas electrónicas incrustadas y experiencias con documentos](develop/embeddedesignature.md)
       + [Cómo configurar webhooks](develop/webhooks.md)
 + Implementación {#deploy}
-   + [Overview](deploy-overview.md)
+   + [Información general](deploy-overview.md)
 + Móvil {#mobile}
-   + [Overview](mobile/mobile-overview.md)
+   + [Información general](mobile/mobile-overview.md)
    + Tutoriales para móviles {#mobile-tutorials}
       + [Firma documentos sobre la marcha](mobile/sign-mobile.md)
       + [Vista compatible con dispositivos móviles](mobile/mobile-friendly.md)

@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 7%
+source-wordcount: '510'
+ht-degree: 26%
 
 ---
 
@@ -21,6 +21,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Modificar un documento después de enviarlo]
+
+Aprende a [modificar un documento](../sign-beginner-tutorials/manage-and-track.md) que ya se ha enviado para firmar.
 
 >[!TAB Administrar y hacer un seguimiento de los acuerdos]
 
@@ -33,10 +37,6 @@ Descubre lo fácil que es [firmar](../sign-beginner-tutorials/electronically-sig
 >[!TAB Crear una plantilla reutilizable]
 
 Obtenga información sobre cómo crear una [plantilla de documento reutilizable](../sign-advanced-users/create-a-template.md).
-
->[!TAB Configurar opciones de envío]
-
-Obtenga información sobre cómo [configurar varias opciones](sending-options.md) al enviar un documento para su firma.
 
 >[!ENDTABS]
 
@@ -51,7 +51,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="new-sender.md"><strong>Introducción a Acrobat Sign</strong></a>
     </div>
-    Este tutorial es un buen punto de partida para nuevos usuarios en Acrobat Sign
+    Este tutorial es un gran punto de partida para nuevos usuarios de Acrobat Sign
     <br>
   </td>
  <td>
@@ -71,7 +71,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="send-to-single-recipient.md"><strong>Enviar un documento a un único firmante</strong></a>
     </div>
-    Entra y descubre lo fácil que es enviar un documento para que se firme
+    Descubre lo fácil que es enviar un documento para que alguien lo firme
     <br>
   </td>
   <td>
@@ -81,7 +81,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Enviar a varios firmantes</strong></a>
     </div>
-    Envía un documento para su firma electrónica a más de una persona exactamente en el orden que desees
+    Envía un documento para firma electrónica a varias personas en el orden que desees
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="sending-options.md"><strong>Configurar opciones de envío</strong></a>
     </div>
-    Obtenga información sobre cómo configurar varias opciones al enviar un documento para su firma
+    Descubre cómo configurar distintas opciones al enviar un documento para que alguien lo firme
     <br>
   </td>
   <td>
@@ -108,12 +108,12 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Modificación de un documento después de enviarlo" src="../assets/modify.png" />
+      <img alt="Modificar un documento después de enviarlo" src="../assets/modify.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modificando un documento después de enviarlo</strong></a>
+    <a href="modify-in-flight.md"><strong>Modificar un documento después de enviarlo</strong></a>
     </div>
-    Modificar un documento que ya está en curso
+    Obtenga información sobre cómo modificar un documento que ya está en curso
     <br>
   </td>
   <td>
@@ -145,7 +145,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Crear una plantilla reutilizable</strong></a>
     </div>
-    Crea una plantilla de documento reutilizable para proporcionar velocidad y coherencia a tu organización
+    Crea una plantilla de documentos reutilizable que proporcione velocidad y coherencia a tu organización
     <br>
   </td>
     <td>
@@ -172,7 +172,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="electronically-sign-a-document.md"><strong>Firmar electrónicamente un documento</strong></a>
     </div>
-    Descubra lo fácil que es firmar un documento que se le envía con Acrobat Sign
+    Descubre lo fácil que es firmar un documento enviado con Acrobat Sign
     <br>
   </td>
   <td>
@@ -251,7 +251,7 @@ Obtenga información sobre cómo [configurar varias opciones](sending-options.md
     <div>
     <a href="manage-and-track.md"><strong>Administrar y hacer un seguimiento de los acuerdos</strong></a>
     </div>
-    Aprenda a administrar y realizar un seguimiento de los acuerdos enviados para firmar
+    Descubre cómo administrar los acuerdos que envías para que alguien los firme y cómo hacer su seguimiento
     <br>
   </td>
   <td>
