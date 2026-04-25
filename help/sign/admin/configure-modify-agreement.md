@@ -23,4 +23,4 @@ Lo que aprenderás:
 * Cómo protege el modo de revisión la integridad del acuerdo
 * Qué cambios se registran en el informe de auditoría
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483694?captions=spa&quality=12&learn=on&hidetitle=true)
