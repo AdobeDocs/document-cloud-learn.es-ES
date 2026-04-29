@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 3%
 Descubre cómo los equipos financieros utilizan Acrobat para gestionar documentos financieros, desde la información hasta la entrega. Este caso práctico recorre un flujo de trabajo integral para analizar información, colaborar con las partes interesadas y crear materiales financieros listos para su uso ejecutivo. Este caso de uso está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
 
 **Ideal para:** Líderes financieros, equipos de PDA&amp;A, analistas y cualquier persona que prepare materiales para la revisión ejecutiva o del consejo.
+
+**Pruébalo:** Explora este flujo de trabajo de informes financieros [práctico](https://w.adobedemo.com/s/31LpAI){target="_blank"} ahora mismo.
 
 ## Paso 1. Comprender el rendimiento financiero
 

@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
+exl-id: 4fdb38c6-e742-41c9-8b14-1491532f1d4b
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
@@ -17,6 +18,9 @@ ht-degree: 2%
 Descubre cómo los equipos de ventas pueden recopilar información de los clientes, colaborar en un espacio de trabajo compartido y convertir la inteligencia validada en presentaciones y propuestas dentro de la marca, de forma más rápida y con mayor confianza. Este caso de uso está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
 
 **Ideal para:** ejecutivos de cuentas, gerentes de ventas, equipos de tratos y cualquiera que prepare materiales de ventas orientados al cliente para reuniones, presentaciones o propuestas.
+
+
+**Pruébalo:** Explora este flujo de trabajo de ventas [práctico](https://w.adobedemo.com/s/HEEljN){target="_blank"} ahora mismo.
 
 ## Paso 1. Conoce a tus clientes con información impulsada por IA
 

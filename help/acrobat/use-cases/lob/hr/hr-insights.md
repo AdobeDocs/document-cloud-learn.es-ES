@@ -6,18 +6,20 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
 
-# Desde la información hasta el impacto: agiliza los flujos de trabajo de incorporación
+# De la información al impacto: Agiliza los flujos de trabajo de incorporación
 
 Descubre cómo los equipos de RR. HH. utilizan Acrobat Studio para agilizar la incorporación de empleados de principio a fin. Aprende a convertir documentos de contratación complejos en información clara, colaborar con partes implicadas en espacios compartidos para PDF y crear contenido de gran calidad y fiel a la marca que esté listo para compartirse con los nuevos empleados, de forma más rápida, coherente y fiable. Este caso de uso está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
 
 **Ideal para:** líderes de RR. HH., partners empresariales y de operaciones de RR. HH., equipos de iniciación y experiencia de los empleados, y cualquier persona que prepare materiales de RR. HH. para empleados o directivos.
+
+**Pruébalo:** Explora este flujo de trabajo de incorporación de RR. HH. [práctico](https://w.adobedemo.com/s/NvvfVm){target="_blank"} ahora mismo.
 
 ## Paso 1. Convierte los documentos de bienvenida en información clara
 
