@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -19,17 +19,19 @@ Descubre cómo los equipos financieros utilizan Acrobat para gestionar documento
 
 **Ideal para:** Líderes financieros, equipos de PDA&amp;A, analistas y cualquier persona que prepare materiales para la revisión ejecutiva o del consejo.
 
+**Pruébalo:** Explora este flujo de trabajo de informes financieros [práctico](https://w.adobedemo.com/s/31LpAI){target="_blank"} ahora mismo.
+
 ## Paso 1. Comprender el rendimiento financiero
 
 Empieza por consolidar los documentos financieros y sacar a la luz información clave para preparar la información para la revisión ejecutiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481426?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
 ## Paso 2. Colaborar en informes financieros
 
 La información ya está lista para la revisión del equipo. Reúne a las partes interesadas para revisar los materiales financieros, compartir comentarios y perfeccionar la información en un espacio de trabajo seguro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481439?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
 ## Paso 3. Crea presentaciones listas para ejecutivos
 
