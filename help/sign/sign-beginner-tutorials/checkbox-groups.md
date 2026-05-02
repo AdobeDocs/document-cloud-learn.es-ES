@@ -22,4 +22,4 @@ Descubra cómo se agrupan las casillas:
 * Guía a los firmantes con comentarios claros y en línea
 * Mejorar la precisión de la información recopilada en los formularios
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484163?captions=spa&quality=12&learn=on&hidetitle=true)
