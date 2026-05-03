@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 # Quitar información confidencial
 
 Aprenda a utilizar la herramienta Censurar para eliminar de forma permanente información privada o confidencial de un PDF. El tutorial también aborda cómo inicializar el documento para quitar información que no está visible en el archivo, como comentarios, metadatos o capas ocultas. La eliminación permanente de contenido confidencial y datos ocultos es importante para que la información no se comparta al publicar el PDF. Este tutorial utiliza la [nueva experiencia de Acrobat](../getting-started/new-experience.md).
+
+**Pruébalo:** Descubre cómo censurar [prácticas](https://w.adobedemo.com/s/7MUInu){target="_blank"} ahora mismo.
 
 >[!NOTE]
 >
