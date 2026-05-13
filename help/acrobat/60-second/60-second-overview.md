@@ -7,9 +7,20 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: b859d10ca3f8761285fba430515d0333a3814e93
+TQID: https://experienceleague.adobe.com/g7kIts-xIbw-vS6n1IgMP35mQEp5Lnxg9VlaR0cFlOQ
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '1110'
+source-wordcount: 2060
 ht-degree: 0%
 
 ---
@@ -470,8 +481,8 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/redaction" title="Censura: la forma correcta" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/media_157cf46d9edc5dd644ff1bef8f186a240b931fb37.png?width=400&format=webply&optimize=medium" alt="Censura: la forma correcta"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/redaction" title="Censura: La forma correcta" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/media_157cf46d9edc5dd644ff1bef8f186a240b931fb37.png?width=400&format=webply&optimize=medium" alt="Censura: La forma correcta"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -479,7 +490,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/redaction" target="_self" rel="referrer" title="Censura: la forma correcta">Censura: De la forma correcta</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/redaction" target="_self" rel="referrer" title="Censura: La forma correcta">Censura: De la forma correcta</a>
                     </p>
                     <p class="is-size-6">Aprende a censurar información confidencial en tu PDF de la forma correcta</p>
                 </div>
@@ -524,7 +535,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams" title="Compartir y comentar archivos de PDF en Teams" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/media_1720a3899d776d3ac481b80fee706cbdf3858bbf7.png?width=400&format=webply&optimize=medium" alt="Compartir y comentar archivos de PDF en Teams"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1720a3899d776d3ac481b80fee706cbdf3858bbf7.png?width=400&format=webply&optimize=medium" alt="Compartir y comentar archivos de PDF en Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -570,7 +581,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/indesign" title="Cargar comentarios del PDF en InDesign" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/media_12b5fbc41158aa6c29b27d55f48da2e555340bb74.png?width=400&format=webply&optimize=medium" alt="Cargar comentarios del PDF en InDesign"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_12b5fbc41158aa6c29b27d55f48da2e555340bb74.png?width=400&format=webply&optimize=medium" alt="Cargar comentarios del PDF en InDesign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

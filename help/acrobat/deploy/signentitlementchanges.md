@@ -7,10 +7,21 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -73,7 +84,7 @@ Los usuarios podrán iniciar sesión en https://documentcloud.adobe.com/ para ac
 * [Iniciar sesión en Adobe Document Cloud](https://helpx.adobe.com/es/document-cloud/help/sign-in.html)
 * [Administrar archivos (¿Dónde están mis archivos?)](https://helpx.adobe.com/es/document-cloud/help/manage-files.html)
 * [Usando [!UICONTROL Acrobat Customization Wizard] para la configuración](https://www.adobe.com/es/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Información general del [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
-* [Administrando Adobe Sign en el [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html)
+* [Información general de [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
+* [Administrar Adobe Sign en [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html)
 
-**Revisiones** 20 de mayo de 2020; publicación original: agosto de 2019
+**Revisiones** 20 de mayo de 2020; original post - agosto 2019

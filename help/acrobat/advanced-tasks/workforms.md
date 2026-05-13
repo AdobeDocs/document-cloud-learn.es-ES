@@ -7,10 +7,19 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/e6UxLIxTmzvuzAqZ8gId67CWtOzEuMFM8aHnjlmu3cs
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 0%
+source-wordcount: 737
+ht-degree: 1%
 
 ---
 
@@ -41,7 +50,7 @@ Utilice la herramienta Prepare Form para agregar automáticamente campos de form
 
 <br> 
 
-## En este vídeo has aprendido a trabajar con campos de formulario.
+## En este vídeo has aprendido: Para trabajar con campos de formulario
 
 Para agregar varios tipos de campos de formulario y establecer sus propiedades en un PDF existente.
 
@@ -98,7 +107,7 @@ Las propiedades Comb se utilizan para distribuir texto de forma uniforme a lo la
 
 <br> 
 
-## En este vídeo has aprendido a configurar propiedades para varios campos a la vez, el orden de tabulación y a proteger un formulario.
+## En este vídeo has aprendido: Para establecer propiedades para varios campos a la vez, el orden de tabulación y para proteger un formulario
 
 Para establecer las propiedades de varios campos a la vez, el orden de tabulación y para proteger un formulario. Establecer todas las propiedades de los campos de texto ahorra tiempo y da coherencia visual a un formulario.
 

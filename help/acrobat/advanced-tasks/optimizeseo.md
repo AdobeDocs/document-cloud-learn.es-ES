@@ -7,10 +7,20 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -41,7 +51,7 @@ Para comprobar la experiencia de visualización móvil de tu PDF, abre el archiv
 
 <br> 
 
-## &#x200B;2. Añadir propiedades del documento
+## &#x200B;2. Agregar propiedades de documento
 
 Los archivos de PDF tienen un título y una meta descripción, como una página web.
 
@@ -86,7 +96,7 @@ Etiquete un PDF de la siguiente manera:
 
 <br> 
 
-## &#x200B;4. Prepárate para la web
+## &#x200B;4. Prepararse para la Web
 
 Optimiza tu PDF preparándolo para la visualización en la web y [reduciendo el tamaño del archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target="_blank"}.
 
@@ -110,7 +120,7 @@ Este paso reduce el tamaño del archivo y habilita la **Vista rápida en Web** e
 
 <br> 
 
-## &#x200B;5. Cree un nombre de archivo de palabra clave
+## &#x200B;5. Crear un nombre de archivo de palabra clave
 
 +++Ver detalles sobre cómo crear un nombre de archivo de palabra clave
 
@@ -122,7 +132,7 @@ El nombre de archivo pasa a formar parte de la dirección URL cuando se publica 
 
 <br> 
 
-## &#x200B;6. Proteja su PDF
+## &#x200B;6. Protege tu PDF
 
 El último paso es [proteger al PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar cambios no autorizados.
 

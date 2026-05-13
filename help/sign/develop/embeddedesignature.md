@@ -9,10 +9,21 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
+TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 0%
+source-wordcount: 917
+ht-degree: 1%
 
 ---
 
@@ -28,7 +39,7 @@ En la parte 1, aprenda a empezar con todo lo que necesita para las partes 2-4. V
 
 * [Cuenta de desarrollador de Acrobat Sign](https://www.adobe.com/acrobat/business/developer-form.html)
 * [Código de inicio](https://github.com/benvanderberg/adobe-sign-api-tutorial)
-* [Código VS (o editor de su elección)](https://code.visualstudio.com)
+* [VS Code (o editor de su elección)](https://code.visualstudio.com)
 * Python 3.x
    * Mac: Homebrew
    * Linux: instalador incorporado
@@ -120,11 +131,11 @@ El código es bastante sencillo; utiliza un documento de biblioteca (plantilla) 
 
 +++
 
-## Parte 4: Incorpora la experiencia de firma, las redirecciones y mucho más
+## Parte 4: Incrusta la experiencia de firma, las redirecciones y mucho más
 
 En muchos casos, es posible que desee permitir que el participante que realiza la activación firme inmediatamente un acuerdo. Esto resulta útil para aplicaciones y quioscos orientados al cliente.
 
-+++Ver detalles sobre cómo incrustar la experiencia de firma
++++Ver detalles sobre cómo integrar la experiencia de firma
 
 Si no desea que se active el primer envío de correo electrónico, una forma sencilla es administrar el comportamiento mediante una modificación de la llamada de la API.
 
@@ -155,7 +166,7 @@ Cuando todo se junta, la solución es bastante sencilla. Está realizando un acu
    * [API REST](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
    * [Webhooks en Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Reactivar correos electrónicos de solicitud (con eventos)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
-* [Reemplazar tiempo de espera con un reintento](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
+* [Reemplazar el tiempo de espera con un reintento](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * Recordatorios personalizados
    * Con la creación inicial
 
