@@ -1,14 +1,16 @@
 ---
 user-guide-title: Tutorials de Acrobat
 solution: Acrobat
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
 breadcrumb-title: Tutorials de Acrobat
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 2d052a576516811a855318bc0eff2fc9e355a3e0
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: 674
 ht-degree: 5%
 
 ---
@@ -96,7 +98,7 @@ ht-degree: 5%
          + [Prepara documentos financieros listos para el ejecutivo desde la información hasta la entrega](use-cases/lob/finance/finance-insights.md)
       + RR. HH. {#hr}
          + [Información general](use-cases/lob/hr/hr-overview.md)
-         + [Desde la información hasta el impacto: agiliza los flujos de trabajo de incorporación](use-cases/lob/hr/hr-insights.md)
+         + [De la información al impacto: Agiliza los flujos de trabajo de incorporación](use-cases/lob/hr/hr-insights.md)
       + Legal {#legal}
          + [Información general](use-cases/lob/legal/legal-overview.md)
          + [Convierte la información legal en orientación procesable](use-cases/lob/legal/legal-insights.md)
@@ -132,7 +134,7 @@ ht-degree: 5%
    + [Crea archivos de PDF más eficaces en un instante](60-second/optimize.md)
    + [Firmar electrónicamente un documento en papel](60-second/sign.md)
    + [Protect almacena los archivos de PDF con una contraseña](60-second/protect.md)
-   + [Censura: la forma correcta](60-second/redaction.md)
+   + [Censura: La forma correcta](60-second/redaction.md)
    + [Compartir para comentar](60-second/share-comment.md)
    + [Compartir y comentar archivos de PDF en Teams](60-second/share-comment-teams.md)
    + [Discutir comentarios del PDF con Resumir](60-second/summarize-comments.md)
