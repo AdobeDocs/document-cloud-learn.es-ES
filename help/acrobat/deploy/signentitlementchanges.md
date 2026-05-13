@@ -81,8 +81,8 @@ Los usuarios podrán iniciar sesión en https://documentcloud.adobe.com/ para ac
 
 ## Para obtener más información, visite las siguientes páginas:
 
-* [Iniciar sesión en Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [Administrar archivos (¿Dónde están mis archivos?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Iniciar sesión en Adobe Document Cloud](https://helpx.adobe.com/es/document-cloud/help/sign-in.html)
+* [Administrar archivos (¿Dónde están mis archivos?)](https://helpx.adobe.com/es/document-cloud/help/manage-files.html)
 * [Usando [!UICONTROL Acrobat Customization Wizard] para la configuración](https://www.adobe.com/es/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Información general de [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
 * [Administrar Adobe Sign en [!UICONTROL Admin Console]](https://helpx.adobe.com/es/enterprise/using/adobe-sign-for-enterprise.html)
