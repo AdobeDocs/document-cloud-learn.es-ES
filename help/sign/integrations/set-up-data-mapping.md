@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo configurar la asignación de datos para Acrobat Sign en [!DNL Salesforce]. La asignación de datos te permite extraer los datos _de_ a [!DNL Salesforce] después de firmar un acuerdo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414438?captions=spa&quality=12&learn=on&hidetitle=true)

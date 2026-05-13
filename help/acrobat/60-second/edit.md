@@ -25,7 +25,7 @@ ht-degree: 7%
 
 En este tutorial en vídeo de 60 segundos, aprende a realizar [ediciones sencillas del PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} en texto e imágenes sin siquiera descargar el PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409463?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

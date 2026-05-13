@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo archivar automáticamente documentos firmados en una biblioteca [!DNL SharePoint] mediante [!DNL Power Automate].
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414439?captions=spa&quality=12&learn=on&hidetitle=true)

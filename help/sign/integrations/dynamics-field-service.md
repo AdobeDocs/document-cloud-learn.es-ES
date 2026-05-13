@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Obtenga información sobre cómo un técnico y un responsable de asignación de servicios de campo utilizan Acrobat Sign, [!DNL Power Automate] y [!DNL Dynamics 365] para agilizar las interacciones de servicios de campo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447301?captions=spa&quality=12&learn=on&hidetitle=true)

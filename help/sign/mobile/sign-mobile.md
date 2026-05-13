@@ -26,4 +26,4 @@ ht-degree: 30%
 
 Aprende a firmar documentos con la aplicación móvil de Acrobat Sign para [iOS](https://apps.apple.com/es/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/3423957?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439035?captions=spa&quality=12&learn=on&hidetitle=true)

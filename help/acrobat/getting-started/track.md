@@ -31,4 +31,4 @@ Conoce siempre qué archivos están esperando firmas y cuáles se han firmado.
 >
 >Además de la suscripción a Acrobat Enterprise, debe tener derechos de Acrobat Sign Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347152?captions=spa&quality=12&learn=on&hidetitle=true)

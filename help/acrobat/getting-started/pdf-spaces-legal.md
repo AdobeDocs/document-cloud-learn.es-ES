@@ -31,7 +31,7 @@ Los espacios de PDF están disponibles para los usuarios que compren Acrobat Stu
 
 **Pruébalo:** Explora Espacios de PDF [prácticos](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"} ahora mismo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475135?captions=spa&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 

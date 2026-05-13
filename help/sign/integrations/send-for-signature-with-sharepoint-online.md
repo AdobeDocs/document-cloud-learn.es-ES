@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprende a simplificar los flujos de trabajo de los documentos enviando un documento para su firma directamente en [!DNL Microsoft Sharepoint Online].
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409577?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

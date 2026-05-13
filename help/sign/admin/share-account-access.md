@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Aprenda a configurar el acceso de solo lectura a las transacciones en la cuenta de otro usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411193?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

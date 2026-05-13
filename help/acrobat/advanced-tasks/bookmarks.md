@@ -25,5 +25,5 @@ ht-degree: 0%
 
 Aprenda a agregar marcadores e hipervínculos para una mejor navegación e interacción con los archivos de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347056?captions=spa&quality=12&learn=on&hidetitle=true)
 

@@ -25,7 +25,7 @@ ht-degree: 6%
 
 En este tutorial en vídeo de 60 segundos, aprende a convertir un archivo adjunto de correo electrónico de [PowerPoint en PDF](https://www.adobe.com/es/acrobat/online/ppt-to-pdf.html){target="_blank"} en tu teléfono. Cuando el archivo vuelva, visualízalo y toca compartir para enviárselo a tu equipo; todo ello sin tener PowerPoint en tu teléfono.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409204?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

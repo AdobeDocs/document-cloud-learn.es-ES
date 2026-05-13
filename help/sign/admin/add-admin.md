@@ -32,4 +32,4 @@ ht-degree: 3%
 
 Aprende a crear un nuevo usuario o a ascender a un usuario existente a la función de administrador de Acrobat Sign en [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453172?captions=spa&quality=12&learn=on&hidetitle=true)

@@ -33,7 +33,7 @@ Optimiza los flujos de trabajo de los documentos con [!DNL SharePoint] y Acrobat
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409687?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

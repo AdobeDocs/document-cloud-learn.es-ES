@@ -32,4 +32,4 @@ ht-degree: 6%
 
 Obtenga información sobre cómo agregar nuevos usuarios a Acrobat Sign en [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453158?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453183?captions=spa&quality=12&learn=on&hidetitle=true)

@@ -33,7 +33,7 @@ ht-degree: 30%
 
 La sección Configuración global de la ficha Cuenta es una de las secciones que incluye más opciones, y todas ellas son específicas para determinados casos de uso. Aprenda a editar la configuración globalmente para toda su organización o para grupos específicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452105?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

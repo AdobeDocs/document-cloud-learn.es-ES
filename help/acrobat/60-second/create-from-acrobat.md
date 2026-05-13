@@ -24,4 +24,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a crear PDF a partir de archivos de Microsoft 365 directamente dentro de la aplicación de escritorio de Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437208?captions=spa&quality=12&learn=on&hidetitle=true)

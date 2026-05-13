@@ -27,4 +27,4 @@ ht-degree: 42%
 
 Descubre lo fácil que es firmar un documento que te han enviado con Acrobat Sign. Echa un vistazo a este [tutorial](../mobile/sign-mobile.md) para descubrir cómo firmar documentos con la aplicación móvil de Acrobat Sign para [iOS](https://apps.apple.com/es/app/adobe-sign/id481082197) o [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=es).
 
->[!VIDEO](https://video.tv.adobe.com/v/344217?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411229?captions=spa&quality=12&learn=on&hidetitle=true)

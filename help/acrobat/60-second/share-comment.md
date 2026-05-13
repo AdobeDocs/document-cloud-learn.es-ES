@@ -24,4 +24,4 @@ ht-degree: 0%
 
 En este tutorial en vídeo de 60 segundos, aprenderá a compartir un PDF para recopilar rápidamente los comentarios de varias personas en un solo archivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437191?captions=spa&quality=12&learn=on&hidetitle=true)

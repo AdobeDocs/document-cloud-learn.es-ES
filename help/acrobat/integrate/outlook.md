@@ -33,7 +33,7 @@ Obtenga información sobre cómo archivar mensajes de correo electrónico y dato
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/336859?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409317?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

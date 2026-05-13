@@ -31,7 +31,7 @@ Con el teletrabajo en todas partes, ofrecer contenido con velocidad y escala es 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443533?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

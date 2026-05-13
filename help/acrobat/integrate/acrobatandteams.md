@@ -39,7 +39,7 @@ Adobe Acrobat para equipos permite a los usuarios colaborar y trabajar con compa
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409681?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -31,4 +31,4 @@ ht-degree: 4%
 
 Aprenda a asignar una función de administrador de productos y administrador de asistencia de usuario de Acrobat Sign en [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453161?captions=spa&quality=12&learn=on&hidetitle=true)

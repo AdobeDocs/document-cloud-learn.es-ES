@@ -48,5 +48,5 @@ Obtenga información sobre cómo enviar un recordatorio de correo electrónico d
 
    La información sobre este complemento está disponible [aquí.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410389?captions=spa&quality=12&learn=on&hidetitle=true)
 

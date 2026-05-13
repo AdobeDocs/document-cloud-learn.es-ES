@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Aprenda a proteger a los PDF agregando, editando, personalizando y eliminando etiquetas de confidencialidad de [Información de Microsoft Purview](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) directamente en Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444301?captions=spa&quality=12&learn=on&hidetitle=true)
