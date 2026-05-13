@@ -5,10 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
+exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
+TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: 203
+ht-degree: 0%
 
 ---
 
@@ -24,9 +30,9 @@ Descubre cómo la IA puede transformar tus flujos de trabajo de PDF. Descubre la
 
 Convierte colecciones de archivos y sitios web en [centros de conocimientos conversacionales que se pueden compartir](../getting-started/pdf-spaces-legal.md) con asistentes de inteligencia artificial personalizados.
 
->[!TAB ¿Qué es Acrobat Studio?]
+>[!TAB Qué es Acrobat Studio?]
 
-Aprende a crear contenido seguro para la marca, extraer información y perfeccionar el trabajo complejo con [Acrobat Studio](../getting-started/acrobat-studio.md).
+Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con [Acrobat Studio](../getting-started/acrobat-studio.md).
 
 >[!TAB Descubre información de PDF con el Asistente de IA]
 
@@ -63,9 +69,9 @@ Aprende a [descubrir información del PDF](../getting-started/ai-assistant.md) e
       <img alt="¿Qué es Acrobat Studio?" src="../assets/acrobat-studio.png" />
     </a>
     <div>
-    <a href="../getting-started/acrobat-studio.md"><strong>¿Qué es Acrobat Studio?</strong></a>
+    <a href="../getting-started/acrobat-studio.md"><strong>Qué es Acrobat Studio?</strong></a>
     </div>
-    <em>Aprende a crear contenido seguro para la marca, extraer información y optimizar el trabajo complejo con Acrobat Studio</em>
+    <em>Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con Acrobat Studio</em>
     <br>
   </td>
   <td>

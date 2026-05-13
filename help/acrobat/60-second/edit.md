@@ -7,10 +7,14 @@ level: Beginner
 jira: KT-8573
 thumbnail: KT-8573.jpg
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/8W4KUYP1IEtfzljVy2Ps0fW5yXn8sAzpm6aa5WwhWaE
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 1%
+source-wordcount: 79
+ht-degree: 7%
 
 ---
 
@@ -18,8 +22,8 @@ ht-degree: 1%
 
 En este tutorial en vídeo de 60 segundos, aprende a realizar [ediciones sencillas del PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} en texto e imágenes sin siquiera descargar el PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409463?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.
+>Este vídeo forma parte de la lista de reproducción [Introducción a Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), que está disponible de forma gratuita para el Experience League.

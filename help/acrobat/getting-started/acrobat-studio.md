@@ -6,9 +6,14 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: 7540d070cd8efe97535a1d25f3c49bd46a7bcd44
+TQID: https://experienceleague.adobe.com/YY1KnKoaUlehTZXs8Z3xtzqkD-D4k6BrDTSv4cQ-OtI
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 227
 ht-degree: 0%
 
 ---
@@ -17,7 +22,7 @@ ht-degree: 0%
 
 Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con Acrobat Studio, de forma que tu equipo pueda moverse más rápido. Acrobat Studio es una solución integral que incluye Acrobat Pro, AI Assistant, PDF Spaces y Adobe Express Premium. Explora las opciones interactivas de **Pruébalo ahora** que aparecen a continuación para descubrir cómo Acrobat Studio simplifica el trabajo de tu equipo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475059?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 
@@ -25,15 +30,15 @@ Aprende a crear contenido seguro para la marca, extraer información y agilizar 
 
 * **Legal y cumplimiento normativo**
 
-  Centraliza las políticas, los contratos y la orientación normativa en un espacio de trabajo; a continuación, utiliza el Asistente de IA para detectar cambios, identificar riesgos y generar actualizaciones conformes con citas verificables. **[Pruébelo ahora](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
+  Centraliza las políticas, los contratos y la orientación normativa en un espacio de trabajo; a continuación, utiliza el Asistente de IA para detectar cambios, identificar riesgos y generar actualizaciones conformes con citas verificables. **[Pruébalo ahora](https://w.adobedemo.com/s/ujZN1y){target="_blank"}.**
 
 * **Recursos Humanos**
 
-  Convierte los documentos de políticas complejos en resúmenes claros, preguntas frecuentes y materiales listos para los empleados al tiempo que mantienes la coherencia y el cumplimiento normativo de los mensajes. **[Pruébelo ahora](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
+  Convierte los documentos de políticas complejos en resúmenes claros, preguntas frecuentes y materiales listos para los empleados al tiempo que mantienes la coherencia y el cumplimiento normativo de los mensajes. **[Pruébalo ahora](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.**
 
 * **Ventas**
 
-  Agrupa rápidamente propuestas y respuestas de solicitudes de propuestas extrayendo contenido aprobado de documentos existentes y convirtiéndolo en archivos de gran calidad y listos para usar en el cliente. **[Pruébelo ahora](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
+  Agrupa rápidamente propuestas y respuestas de solicitudes de propuestas extrayendo contenido aprobado de documentos existentes y convirtiéndolo en archivos de gran calidad y listos para usar en el cliente. **[Pruébalo ahora](https://w.adobedemo.com/s/HEEljN){target="_blank"}.**
 
 * **Marketing y comunicaciones**
 
@@ -41,4 +46,4 @@ Aprende a crear contenido seguro para la marca, extraer información y agilizar 
 
 * **Finanzas**
 
-  Descubre cómo los equipos de finanzas pueden moverse más rápido mediante los informes financieros, sin comprometer la precisión, la confianza ni el control. **[Pruébelo ahora](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
+  Descubre cómo los equipos de finanzas pueden moverse más rápido mediante los informes financieros, sin comprometer la precisión, la confianza ni el control. **[Pruébalo ahora](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**

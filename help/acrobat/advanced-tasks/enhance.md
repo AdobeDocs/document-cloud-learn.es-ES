@@ -7,10 +7,14 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+TQID: https://experienceleague.adobe.com/PD7GJ1JxUbczgXIgvxf1roU0P0qIpNsK-6P9AS-okqw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: 337
+ht-degree: 1%
 
 ---
 
@@ -31,11 +35,11 @@ Archivos de práctica del tutorial (ZIP, 342 KB)
 
 Usa la [herramienta Editar PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"} para agregar gráficos de fondo a tu PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443820?hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
 <br> 
 
-## En este vídeo has aprendido a añadir gráficos de fondo a tu PDF.
+## En este vídeo has aprendido: Para agregar gráficos de fondo al PDF
 
 La adición de fondos le permite agregar elementos visuales al PDF sin tener que volver al archivo de origen o a la aplicación.
 
@@ -51,11 +55,11 @@ Escribe del 2 al 26 en la sección **Páginas de** y luego selecciona **Aceptar*
 
 Utilice la herramienta Editar para agregar un nuevo pie de página al PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437734?hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
 <br> 
 
-## En este vídeo has aprendido a añadir un nuevo pie de página al PDF.
+## En este vídeo has aprendido: Para agregar un nuevo pie de página al PDF
 
 La adición de nuevos encabezados o pies de página permite crear archivos de PDF uniformes para mejorar la experiencia de visualización.
 

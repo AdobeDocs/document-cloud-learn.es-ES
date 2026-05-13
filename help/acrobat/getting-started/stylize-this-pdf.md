@@ -6,9 +6,13 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/ghF2hPA1znrNeTBohH01rW5-bYhJRM5JMBTBfOTMldQ
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: 232
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Aprende a usar Estilizar este PDF para mejorar el aspecto visual de un PDF aplicando recomendaciones de fuentes, temas de color, imágenes y elementos de diseño mediante herramientas integradas con la tecnología de [Adobe Express](https://express.adobe.com). El tutorial también muestra cómo perfeccionar diseños, añadir imágenes generadas por Adobe Stock o IA y personalizar el estilo del texto para crear documentos de aspecto profesional y de gran calidad. Este tutorial de vídeo utiliza la [nueva experiencia de Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445544?captions=spa&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Específico del equipo]
 

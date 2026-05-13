@@ -7,10 +7,14 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -31,7 +35,7 @@ El contenido del PDF debe ser único y estar estructurado de la siguiente manera
 * Utilizar párrafos cortos que contengan palabras clave y listas
 * Añadir contenido interno y externo a su sitio web u otros sitios web con hipervínculos
 * Agregar una tabla de contenido con hipervínculos para documentos de más de 25 páginas
-* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) en todos los documentos digitalizados
+* Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) en todos los documentos digitalizados
 * Crea PDF compatibles con dispositivos móviles
 Para comprobar la experiencia de visualización móvil de tu PDF, abre el archivo en la [aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y activa el Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
 
@@ -41,7 +45,7 @@ Para comprobar la experiencia de visualización móvil de tu PDF, abre el archiv
 
 <br> 
 
-## &#x200B;2. Añadir propiedades del documento
+## &#x200B;2. Agregar propiedades de documento
 
 Los archivos de PDF tienen un título y una meta descripción, como una página web.
 
@@ -64,7 +68,7 @@ Prueba a empezar el resumen usando un verbo de acción como Aprender, Descubrir,
 
 ## &#x200B;3. Etiquetar el PDF
 
-El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para las personas discapacitadas, sino que también mejora el SEO.
+El etiquetado de contenido en tu PDF no solo hace que tu archivo [sea accesible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) para las personas discapacitadas, sino que también mejora el SEO.
 
 +++Ver detalles sobre cómo etiquetar a un PDF
 
@@ -86,7 +90,7 @@ Etiquete un PDF de la siguiente manera:
 
 <br> 
 
-## &#x200B;4. Prepárate para la web
+## &#x200B;4. Prepararse para la Web
 
 Optimiza tu PDF preparándolo para la visualización en la web y [reduciendo el tamaño del archivo del PDF](https://www.adobe.com/es/acrobat/online/compress-pdf.html){target="_blank"}.
 
@@ -110,7 +114,7 @@ Este paso reduce el tamaño del archivo y habilita la **Vista rápida en Web** e
 
 <br> 
 
-## &#x200B;5. Cree un nombre de archivo de palabra clave
+## &#x200B;5. Crear un nombre de archivo de palabra clave
 
 +++Ver detalles sobre cómo crear un nombre de archivo de palabra clave
 
@@ -122,7 +126,7 @@ El nombre de archivo pasa a formar parte de la dirección URL cuando se publica 
 
 <br> 
 
-## &#x200B;6. Proteja su PDF
+## &#x200B;6. Protege tu PDF
 
 El último paso es [proteger al PDF](https://www.adobe.com/es/acrobat/online/password-protect-pdf.html){target="_blank"} para evitar cambios no autorizados.
 
