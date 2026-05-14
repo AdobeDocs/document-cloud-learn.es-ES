@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: 6d5130128ab9c5084b6476ee5bd5c04869a3f0a9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Descubre cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
     <em>Descubre cómo los equipos de marketing agilizan la colaboración, aceleran las aprobaciones y comercializan nuevas ideas más rápido</em>
     <br>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Casos prácticos de ventas" src="../assets/use-case-sales.png" />
@@ -75,6 +75,21 @@ Descubre cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
     </div>
     <em>Descubre cómo los equipos de ventas pasan de la información al impacto con una colaboración más inteligente y una creación de contenido más rápida</em>
     <br>
+  </td>
+  <td>
+        <img alt="Separador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Separador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Separador" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
