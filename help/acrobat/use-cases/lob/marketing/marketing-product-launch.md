@@ -19,5 +19,5 @@ En este tutorial, sigue a un responsable de marketing mientras usa un espacio de
 
 **Ideal para:** jefes y jefes de marketing, jefes de proyecto y programa, y equipos de comunicaciones y capacitación
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491110?captions=spa&quality=12&learn=on&hidetitle=true)
 
