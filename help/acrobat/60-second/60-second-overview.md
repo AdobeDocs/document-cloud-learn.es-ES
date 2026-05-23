@@ -535,7 +535,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams" title="Compartir y comentar archivos de PDF en Teams" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1720a3899d776d3ac481b80fee706cbdf3858bbf7.png?width=400&format=webply&optimize=medium" alt="Compartir y comentar archivos de PDF en Teams"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/media_1720a3899d776d3ac481b80fee706cbdf3858bbf7.png?width=400&format=webply&optimize=medium" alt="Compartir y comentar archivos de PDF en Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -581,7 +581,7 @@ La versión de 60 segundos de Acrobat te ofrece tutoriales de gran tamaño para 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/indesign" title="Cargar comentarios del PDF en InDesign" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_12b5fbc41158aa6c29b27d55f48da2e555340bb74.png?width=400&format=webply&optimize=medium" alt="Cargar comentarios del PDF en InDesign"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/60-second/media_12b5fbc41158aa6c29b27d55f48da2e555340bb74.png?width=400&format=webply&optimize=medium" alt="Cargar comentarios del PDF en InDesign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
