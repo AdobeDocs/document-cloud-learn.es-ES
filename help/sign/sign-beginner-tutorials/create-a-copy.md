@@ -26,4 +26,4 @@ Ya ha enviado un acuerdo, pero ha caducado, se ha cancelado o necesita enviarlo 
 >
 >Crear una copia está disponible para los planes de nivel empresarial.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491375?captions=spa&quality=12&learn=on&hidetitle=true)
