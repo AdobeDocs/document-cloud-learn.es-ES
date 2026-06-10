@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 00f1d9b37a4e9d2a76b7585bf97bd56b7b647f68
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,16 @@ Descubre cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
       <br>
     </td>
     <td>
+      <a href="lob/it/it-overview.md">
+        <img alt="Casos prácticos de TI" src="../assets/use-case-it.png" />
+      </a>
+      <div>
+      <a href="lob/it/it-overview.md"><strong>Casos prácticos de TI</strong></a>
+      </div>
+      <em>Descubre la forma en la que los equipos de TI usan Acrobat Studio para agilizar los flujos de trabajo con documentos, reforzar la seguridad y el cumplimiento normativo, y escalar los programas de control en toda la organización</em>
+      <br>
+    </td>
+    <td>
       <a href="lob/legal/legal-overview.md">
         <img alt="Casos de uso legal" src="../assets/use-case-legal.png" />
       </a>
@@ -54,6 +64,8 @@ Descubre cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
       <em>Descubre cómo los equipos legales entienden rápidamente los documentos complejos y hacen visibles los riesgos y cambios críticos</em>
       <br>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="lob/marketing/marketing-overview.md">
         <img alt="Casos prácticos de marketing" src="../assets/use-case-marketing.png" />
@@ -64,8 +76,6 @@ Descubre cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
       <em>Descubre cómo los equipos de marketing agilizan la colaboración, aceleran las aprobaciones y comercializan nuevas ideas más rápido</em>
       <br>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="lob/sales/sales-overview.md">
         <img alt="Casos prácticos de ventas" src="../assets/use-case-sales.png" />
@@ -75,11 +85,6 @@ Descubre cómo los equipos de diferentes líneas de negocio utilizan Acrobat par
       </div>
       <em>Descubre cómo los equipos de ventas pasan de la información al impacto con una colaboración más inteligente y una creación de contenido más rápida</em>
       <br>
-    </td>
-    <td>
-          <img alt="Separador" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
     </td>
     <td>
           <img alt="Separador" src="../assets/Grayspacer.png" />
