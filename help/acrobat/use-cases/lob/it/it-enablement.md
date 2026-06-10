@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Habilitación de TI sin cuellos de botella
 
-En este tutorial, sigue a un miembro del equipo de TI de SecurFinancial a través de tres flujos de trabajo reales. Eliminar la PII y generar un resumen ejecutivo a partir de un informe de incidentes. Analizar un contrato de proveedor en relación con sus estándares de seguridad interna y elaborar un cuestionario de seguimiento. Después, toma documentos de políticas estáticos y conviértelos en un recurso de gobernanza interactivo para toda la organización al que los empleados puedan acceder y consultar en cualquier dispositivo. Cada tutorial utiliza el Asistente de IA, PDF Spaces y el Adobe Express de Acrobat Studio para reducir a minutos las horas de trabajo manual, al tiempo que mantiene el equipo de TI al mando de cada paso.Este caso de uso está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
+En este tutorial, sigue a un miembro del equipo de TI de SecurFinancial a través de tres flujos de trabajo reales. Eliminar la PII y generar un resumen ejecutivo a partir de un informe de incidentes. Analizar un contrato de proveedor en relación con sus estándares de seguridad interna y elaborar un cuestionario de seguimiento. Después, toma documentos de políticas estáticos y conviértelos en un recurso de gobernanza interactivo para toda la organización al que los empleados puedan acceder y consultar en cualquier dispositivo. En cada tutorial se utiliza el Asistente de IA, PDF Spaces y Adobe Express de Acrobat Studio para reducir a minutos las horas de trabajo manual, al tiempo que se mantiene el equipo de TI al tanto de cada paso. Este caso práctico está diseñado para completarse en secuencia, con cada creación de vídeo en el paso anterior.
 
 **Ideal para:** equipos de directores de TI, seguridad y operaciones
 
