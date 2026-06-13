@@ -22,19 +22,19 @@ En este tutorial, sigue a un miembro del equipo de TI de SecurFinancial a travé
 
 Empieza eliminando información confidencial de un informe de incidentes, protege y comparte el documento, y genera una presentación lista para ejecutivos; todo ello sin salir de Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492188?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Paso 2. Analizar un contrato de proveedor y actuar en consecuencia
 
 Basándose en el informe de incidentes protegidos de la Parte 1, aprenda a analizar un contrato de proveedor en relación con los estándares de seguridad de su organización, a detectar brechas de alineación al instante y a generar un cuestionario de seguimiento, todo ello desde un único espacio de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492197?captions=spa&quality=12&learn=on&hidetitle=true)
 
 ## Paso 3. Desarrollo e implementación de una política de gobernanza de IA
 
 Aprende a transformar documentos de políticas estáticas en un espacio de trabajo interactivo y controlado; a continuación, impleméntalo como un recurso de autoservicio al que toda la organización puede acceder y realizar consultas en cualquier dispositivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492206?captions=spa&quality=12&learn=on&hidetitle=true)
 
 Has protegido y resumido un informe de incidentes, analizado un contrato de proveedores en relación con tus estándares de seguridad internos y transformado documentos de políticas estáticas en un recurso de autoservicio y controlado para toda tu organización: tres flujos de trabajo, una plataforma y ningún cambio de herramientas.
 
