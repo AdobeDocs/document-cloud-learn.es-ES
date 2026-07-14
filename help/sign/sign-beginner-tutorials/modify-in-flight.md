@@ -36,7 +36,7 @@ Aprende a modificar un documento que ya se ha enviado para firmar, como cuando s
 >
 >La modificación de un documento después de su envío solo está disponible para los planes de nivel Enterprise. El administrador de Acrobat Sign debe habilitar **Modificar acuerdos** en la sección **Configuración de envío** de **Configuración de cuenta** para usar esta característica.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410733?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
