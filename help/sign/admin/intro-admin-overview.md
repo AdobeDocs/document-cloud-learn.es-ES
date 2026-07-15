@@ -24,12 +24,13 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
 workflow-type: tm+mt
 source-wordcount: 719
 ht-degree: 3%
 
 ---
+
 
 # Introducción a Administradores
 
@@ -69,7 +70,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="get-started-admin.md"><strong>Introducción para nuevos administradores</strong></a>
     </div>
     <em>En esta completa guía de vídeo, aprende todas las herramientas necesarias para poner en marcha tu organización con Acrobat Sign</em>
-    <br>
+    
   </td>
   <td>
     <a href="up-and-running-admin.md">
@@ -79,7 +80,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="up-and-running-admin.md"><strong>Activo y en ejecución para administradores</strong></a>
     </div>
     <em>Descripción general de 7 áreas clave para que los administradores se pongan en marcha rápidamente en Acrobat Sign</em>
-    <br>
+    
   </td>
   <td>
     <a href="docusign-templates.md">
@@ -89,7 +90,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="docusign-templates.md"><strong>Migrar plantillas de Document Sign</strong></a>
     </div>
     <em>Aprenda a migrar sin problemas plantillas y flujos de trabajo de DocumentSign</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -99,7 +100,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="add-users-to-your-account.md"><strong>Agregar un nuevo usuario</strong></a>
     </div>
     <em>Obtener información sobre cómo agregar nuevos usuarios a Acrobat Sign</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -111,7 +112,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="automatic-assignment-rules.md"><strong>Habilitar reglas automáticas de asignación de usuarios</strong></a>
     </div>
     <em>Obtenga información sobre cómo configurar reglas de asignación automáticas que concedan a los usuarios acceso a Acrobat Sign en el Admin Console</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-admin.md">
@@ -121,7 +122,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="add-admin.md"><strong>Agregar un nuevo administrador de cuentas</strong></a>
     </div>
     <em>Aprenda a crear un nuevo usuario o a ascender a un usuario existente a la función de administrador de Acrobat Sign</em>
-    <br>
+    
   </td>
     <td>
       <a href="promote-admin.md">
@@ -131,7 +132,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
       <a href="promote-admin.md"><strong>Asignar funciones de administrador de productos y asistencia</strong></a>
       </div>
       <em>Aprenda a asignar una función de administrador de productos y administrador de asistencia de usuario de Acrobat Sign en el Admin Console</em>
-      <br>
+      
     </td>
     <td>
       <a href="create-and-manage-groups.md">
@@ -141,7 +142,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
       <a href="create-and-manage-groups.md"><strong>Creación y administración de grupos</strong></a>
       </div>
       <em>Crear grupos, agregar usuarios a grupos y modificar la configuración de los grupos</em>
-      <br>
+      
     </td>
 </tr>
 <tr>
@@ -153,7 +154,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
       <a href="set-up-your-external-archive.md"><strong>Configurando un archivo externo</strong></a>
       </div>
       <em>Crear un archivo externo para copias de seguridad de los acuerdos firmados</em>
-      <br>
+      
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -163,7 +164,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="../sign-advanced-users/create-a-template.md"><strong>Crear una plantilla reutilizable</strong></a>
     </div>
     <em>Crea una plantilla de documento reutilizable para agilizar y mantener la coherencia</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
@@ -173,7 +174,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Uso de informes y transacciones</strong></a>
     </div>
     <em>Obtener información sobre cómo generar informes y realizar un seguimiento del uso de transacciones</em>
-    <br>
+    
   </td>
   <td>
     <a href="report-options.md">
@@ -183,7 +184,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="report-options.md"><strong>Opciones de informes para usuarios</strong></a>
     </div>
     <em>Obtener información sobre cómo configurar las opciones de informes para los usuarios</em>
-    <br>
+    
   </td>
 </tr>  
 <tr>
@@ -195,7 +196,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="../sign-advanced-users/webform.md"><strong>Creando un formulario web</strong></a>
     </div>
     <em>Crea un documento que se pueda firmar electrónicamente directamente en tu sitio web</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -205,7 +206,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="../sign-advanced-users/modify-webform.md"><strong>Modificar un formulario web existente</strong></a>
     </div>
     <em>Obtenga información sobre cómo deshabilitar, editar y volver a habilitar un formulario web existente</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -215,7 +216,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="../sign-advanced-users/megasign.md"><strong>Enviar en bloque</strong></a>
     </div>
     <em>Recopila miles de firmas a la vez para cualquier documento</em>
-    <br>
+    
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
@@ -225,7 +226,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="building-a-custom-workflow.md"><strong>Crear un flujo de trabajo personalizado</strong></a>
     </div>
     <em>Aprende a crear y usar flujos de trabajo personalizados para acelerar el proceso de crear y enviar un acuerdo</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -237,7 +238,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="audit-reports.md"><strong>Informes de auditoría</strong></a>
     </div>
     <em>Aprende a acceder, utilizar y configurar informes de auditoría</em>
-    <br>
+    
     </td>
     <td>
       <a href="set-up-shared-events-and-alert.md">
@@ -247,7 +248,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
       <a href="set-up-shared-events-and-alert.md"><strong>Configurar notificaciones de eventos y alertas</strong></a>
       </div>
       <em>Configurar notificaciones de eventos y alertas para tu cuenta</em>
-      <br>
+      
     </td>
     <td>
       <a href="configure-modify-agreement.md">
@@ -257,7 +258,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
       <a href="configure-modify-agreement.md"><strong>Configurar y controlar Modificar acuerdo</strong></a>
       </div>
       <em>Obtener información sobre cómo configurar y administrar Modificar acuerdo</em>
-      <br>
+      
     </td>
     <td>
       <img alt="Separador" src="../assets/Whitespacer.png" />
@@ -279,7 +280,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="learn-about-global-settings.md"><strong>Configuración global</strong></a>
     </div>
     <em>Edita la configuración de productos de forma global para toda tu organización o para grupos específicos</em>
-    <br>
+    
   </td>
   <td>
     <a href="share-account-access.md">
@@ -289,7 +290,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="share-account-access.md"><strong>Acceso compartido a la cuenta</strong></a>
     </div>
     <em>Configurar el acceso de solo lectura a las transacciones en la cuenta de otro usuario</em>
-    <br>
+    
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -299,7 +300,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="advanced-account-sharing.md"><strong>Uso compartido avanzado de la cuenta</strong></a>
     </div>
     <em>Configurar el uso compartido de cuentas para permitir a los administradores y usuarios delegar sus permisos de envío, modificación y visualización</em>
-    <br>
+    
   </td>
   <td>
     <a href="bulk-download-tool.md">
@@ -309,7 +310,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="bulk-download-tool.md"><strong>Herramienta de descarga masiva</strong></a>
     </div>
     <em>Aprende a usar la herramienta de descarga masiva para descargar rápidamente todos tus acuerdos firmados</em>
-    <br>
+    
   </td> 
 </tr>
 <tr>
@@ -321,7 +322,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Etiquetado de texto de Acrobat Sign</strong></a>
     <div>
     <em>Crear campos de formulario de Acrobat Sign mediante el etiquetado de texto con Adobe Acrobat</em>
-    <br>
+    
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
@@ -331,7 +332,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="use-bio-pharma-settings.md"><strong>Usar configuración de biofarmacéutica</strong></a>
     </div>
     <em>Configurar opciones de biofarmacéutica que le permitan cumplir con los requisitos de la FDA 21 CFR Parte 11</em>
-    <br>
+    
   </td>
   <td>
     <a href="privacy.md">
@@ -341,7 +342,7 @@ Obtenga información sobre cómo configurar [reglas de asignación automática](
     <a href="privacy.md"><strong>Cómo configurar los administradores de privacidad</strong></a>
     </div>
     <em>Obtener información sobre cómo configurar y usar administradores de privacidad</em>
-    <br>
+    
   </td>
   <td>
     <img alt="Separador" src="../assets/Grayspacer.png" />
