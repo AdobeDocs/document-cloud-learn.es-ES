@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Tutoriales de Acrobat
 
 Adobe Acrobat, una solución de Adobe Document Cloud, ayuda a que las tareas no se detengan al convertir, editar, compartir y firmar PDF. Aquí puede encontrar una amplia gama de experiencias de aprendizaje diseñadas para poner al día rápidamente a los usuarios principiantes y avanzados en Adobe Acrobat.
+
+>[!NOTE]
+>
+>El acceso a las funciones depende de tu plan de Acrobat. Usa la [comparación de planes de Acrobat](https://www.adobe.com/es/acrobat/pricing.html) para identificar las funciones disponibles para ti. Algunas funciones se están implementando por fases y es posible que aún no estén disponibles para todos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
