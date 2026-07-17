@@ -26,7 +26,7 @@ ht-degree: 1%
 
 # Introducción a Introducción
 
-Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger o [editar tus archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarte los flujos de trabajo de PDF. Echa un vistazo a esta [lista de reproducción](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) revisada por expertos para empezar a usar Acrobat.
+Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger o [editar tus archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarte los flujos de trabajo de PDF. Echa un vistazo a esta [lista de reproducción](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users) revisada por expertos para empezar a usar Acrobat.
 
 ## Novedades
 
@@ -59,7 +59,7 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="¿Qué es Acrobat Studio?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="¿Qué es Acrobat Studio?"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="¿Qué es Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,19 +81,19 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="" Workspace basics"" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="&quot; Workspace basics&quot;" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="" Workspace basics"" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="&quot; Workspace basics&quot;" style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
             </div>
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="" Workspace basics"">"Conceptos básicos del área de trabajo"</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="" Workspace basics"">"Conceptos básicos del área de trabajo"</a>
                     </p>
                     <p class="is-size-6">Aprenda los conceptos básicos del espacio de trabajo de Acrobat</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -103,8 +103,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Trabajar con Microsoft 365" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft./media_1d6fb8502ae79fc181a3db2596fd73cdacb05eb00.webp?width=400&format=webp&optimize=medium" alt="Trabajar con Microsoft 365"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Trabajar con Microsoft 365" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft./media_1d6fb8502ae79fc181a3db2596fd73cdacb05eb00.webp?width=400&format=webp&optimize=medium" alt="Trabajar con Microsoft 365"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -112,11 +112,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" title="Trabajar con Microsoft 365">Trabajar con Microsoft 365</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" title="Trabajar con Microsoft 365">Trabajar con Microsoft 365</a>
                     </p>
                     <p class="is-size-6">Trabaja sin problemas con archivos de PDF, desde Microsoft 365</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver tutoriales</span>
                 </a>
             </div>
@@ -126,7 +126,7 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Trabaja en cualquier parte con Acrobat web" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Trabaja en cualquier parte con Acrobat web" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="Trabaja en cualquier parte con Acrobat web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -135,11 +135,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" title="Trabaja en cualquier parte con Acrobat web">Trabaja en cualquier parte con la web de Acrobat</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" title="Trabaja en cualquier parte con Acrobat web">Trabaja en cualquier parte con la web de Acrobat</a>
                     </p>
                     <p class="is-size-6">Aprende a trabajar desde cualquier parte</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -149,7 +149,7 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Productividad sobre la marcha" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Productividad sobre la marcha" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="Productividad sobre la marcha"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -158,11 +158,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" title="Productividad sobre la marcha">Productividad en cualquier parte</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" title="Productividad sobre la marcha">Productividad en cualquier parte</a>
                     </p>
                     <p class="is-size-6">Aprende a hacer más directamente desde tu tableta o teléfono móvil</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -179,8 +179,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Descubre información de PDF con AI Assistant" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Descubre información de PDF con AI Assistant"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Descubre información de PDF con AI Assistant" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Descubre información de PDF con AI Assistant"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,11 +188,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" title="Descubre información de PDF con el asistente de inteligencia artificial">Descubre información de PDF con el Asistente de IA</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" title="Descubre información de PDF con el asistente de inteligencia artificial">Descubre información de PDF con el Asistente de IA</a>
                     </p>
                     <p class="is-size-6">Obtén información de los archivos de PDF con AI Assistant</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -202,8 +202,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Aumenta la eficacia del equipo con Espacios PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Aumenta la eficacia del equipo con Espacios PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Aumenta la eficacia del equipo con Espacios PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Aumenta la eficacia del equipo con Espacios PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -211,11 +211,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" title="Aumenta la eficacia del equipo con Espacios PDF">Aumenta la eficacia del equipo con Espacios PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" title="Aumenta la eficacia del equipo con Espacios PDF">Aumenta la eficacia del equipo con Espacios PDF</a>
                     </p>
                     <p class="is-size-6">Aprende a convertir colecciones de archivos y sitios web en centros de conocimiento conversacional que se puedan compartir</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -232,8 +232,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" title="Crear un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium" alt="Crear un PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" title="Crear un PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium" alt="Crear un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,11 +241,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" title="Crear un PDF">Crear un PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" title="Crear un PDF">Crear un PDF</a>
                     </p>
                     <p class="is-size-6">Crear PDF a partir de todos los tipos de documentos</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -255,8 +255,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" title="Combinar archivos en un único PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium" alt="Combinar archivos en un único PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" title="Combinar archivos en un único PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium" alt="Combinar archivos en un único PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -264,11 +264,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" title="Combinar archivos en un único PDF">Combinar archivos en un solo PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" title="Combinar archivos en un único PDF">Combinar archivos en un solo PDF</a>
                     </p>
                     <p class="is-size-6">Combine a la perfección muchos tipos diferentes de archivos en un solo PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -278,8 +278,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" title="Organizar páginas" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium" alt="Organizar páginas"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" title="Organizar páginas" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium" alt="Organizar páginas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -287,11 +287,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" title="Organizar páginas">Organizar páginas</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" title="Organizar páginas">Organizar páginas</a>
                     </p>
                     <p class="is-size-6">Descubre cómo reorganizar las páginas justo como quieras</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -301,8 +301,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" title="Diseñar una página nueva" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium" alt="Diseñar una página nueva"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" title="Diseñar una página nueva" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium" alt="Diseñar una página nueva"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -310,11 +310,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" title="Diseñar una página nueva">Diseñar una nueva página</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" title="Diseñar una página nueva">Diseñar una nueva página</a>
                     </p>
                     <p class="is-size-6">Aprenda a crear una nueva página de aspecto profesional en el PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -324,8 +324,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" title="De papel a PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b026238a32eb56a79f2826f8c588a2f4d83c93e5.png?width=400&format=webply&optimize=medium" alt="De papel a PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" title="De papel a PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b026238a32eb56a79f2826f8c588a2f4d83c93e5.png?width=400&format=webply&optimize=medium" alt="De papel a PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,11 +333,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" title="De papel a PDF">Papel para el PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" title="De papel a PDF">Papel para el PDF</a>
                     </p>
                     <p class="is-size-6">Convertir digitalizaciones o imágenes en archivos de PDF editables y en los que se pueden realizar búsquedas</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer</span>
                 </a>
             </div>
@@ -354,8 +354,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" title="Edición de texto en un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium" alt="Edición de texto en un PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" title="Edición de texto en un PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium" alt="Edición de texto en un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,11 +363,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" title="Edición de texto en un PDF">Editar texto en un PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" title="Edición de texto en un PDF">Editar texto en un PDF</a>
                     </p>
                     <p class="is-size-6">Edita palabras, frases o incluso páginas enteras en tu PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -377,8 +377,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Edición de gráficos en un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Edición de gráficos en un PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Edición de gráficos en un PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Edición de gráficos en un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -386,11 +386,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" title="Edición de gráficos en un PDF">Editar gráficos en un PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" title="Edición de gráficos en un PDF">Editar gráficos en un PDF</a>
                     </p>
                     <p class="is-size-6">Aprenda a crear, editar y mejorar gráficos en el PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -400,8 +400,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Estilizar este PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Estilizar este PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Estilizar este PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Estilizar este PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -409,11 +409,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" title="Estilizar este PDF">Estilizar este PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" title="Estilizar este PDF">Estilizar este PDF</a>
                     </p>
                     <p class="is-size-6">Aprende a crear PDF con un aspecto profesional</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -423,8 +423,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" title="Ajustar diseño automáticamente" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium" alt="Ajustar diseño automáticamente"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" title="Ajustar diseño automáticamente" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium" alt="Ajustar diseño automáticamente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -432,11 +432,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" title="Ajustar diseño automáticamente">Ajustar diseño automáticamente</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" title="Ajustar diseño automáticamente">Ajustar diseño automáticamente</a>
                     </p>
                     <p class="is-size-6">Obtenga más información sobre el nuevo modo de edición que reorganiza el contenido</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -446,8 +446,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" title="Convertir PDF a diferentes formatos de archivo" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium" alt="Convertir PDF a diferentes formatos de archivo"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" title="Convertir PDF a diferentes formatos de archivo" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium" alt="Convertir PDF a diferentes formatos de archivo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -455,11 +455,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" title="Convertir PDF a diferentes formatos de archivo">Convertir PDF a diferentes formatos de archivo</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" title="Convertir PDF a diferentes formatos de archivo">Convertir PDF a diferentes formatos de archivo</a>
                     </p>
                     <p class="is-size-6">Convertir los archivos de PDF a otros formatos de archivo</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -476,8 +476,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" title="Colabora en tiempo real" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="Colabora en tiempo real"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" title="Colabora en tiempo real" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="Colabora en tiempo real"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -485,11 +485,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" title="Colabora en tiempo real">Colabora en tiempo real</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" title="Colabora en tiempo real">Colabora en tiempo real</a>
                     </p>
                     <p class="is-size-6">Impulsa tus proyectos colaborando en tiempo real</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -499,8 +499,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" title="Comentar en un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Comentar en un PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" title="Comentar en un PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Comentar en un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -508,11 +508,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" title="Comentar en un PDF">Comentar en un PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" title="Comentar en un PDF">Comentar en un PDF</a>
                     </p>
                     <p class="is-size-6">Aprenda a añadir comentarios en un PDF compartido utilizando un solo navegador web</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -529,8 +529,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" title="Crear formularios rellenables" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Crear formularios rellenables"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" title="Crear formularios rellenables" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Crear formularios rellenables"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -538,11 +538,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" title="Crear formularios rellenables">Crear formularios rellenables</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" title="Crear formularios rellenables">Crear formularios rellenables</a>
                     </p>
                     <p class="is-size-6">Convierte un documento escaneado en un formulario que se puede rellenar</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer</span>
                 </a>
             </div>
@@ -552,8 +552,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="Formulario de Fill &amp; Sign como PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Formulario de Fill &amp; Sign como PDF"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="Formulario de Fill &amp; Sign como PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Formulario de Fill &amp; Sign como PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -561,11 +561,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="Formulario de Fill &amp; Sign como PDF">Fill &amp; Sign es un formulario de PDF</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="Formulario de Fill &amp; Sign como PDF">Fill &amp; Sign es un formulario de PDF</a>
                     </p>
                     <p class="is-size-6">Aprenda a rellenar y firmar un formulario de PDF de forma rápida y sencilla</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -575,8 +575,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" title="Protect crea un archivo de PDF con una contraseña" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/media_1eefc008204c134c1afab5202c2bcc024d8896c1c.png?width=400&format=webply&optimize=medium" alt="Protect crea un archivo de PDF con una contraseña"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" title="Protect crea un archivo de PDF con una contraseña" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/media_1eefc008204c134c1afab5202c2bcc024d8896c1c.png?width=400&format=webply&optimize=medium" alt="Protect crea un archivo de PDF con una contraseña"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -584,11 +584,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" title="Protect crea un archivo de PDF con una contraseña">Protect crea un archivo de PDF con una contraseña</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" title="Protect crea un archivo de PDF con una contraseña">Protect crea un archivo de PDF con una contraseña</a>
                     </p>
                     <p class="is-size-6">Obtenga información sobre cómo agregar una contraseña a su PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -598,8 +598,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" title="Obtener firmas" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium" alt="Obtener firmas"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" title="Obtener firmas" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium" alt="Obtener firmas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -607,11 +607,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" title="Obtener firmas">Obtener firmas</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" title="Obtener firmas">Obtener firmas</a>
                     </p>
                     <p class="is-size-6">Descubre cómo recopilar firmas electrónicas legalmente vinculantes</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
@@ -621,8 +621,8 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" title="Realizar un seguimiento de documentos" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium" alt="Realizar un seguimiento de documentos"
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" title="Realizar un seguimiento de documentos" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium" alt="Realizar un seguimiento de documentos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -630,11 +630,11 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" title="Realizar un seguimiento de documentos">Realizar un seguimiento de los documentos</a>
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" title="Realizar un seguimiento de documentos">Realizar un seguimiento de los documentos</a>
                     </p>
                     <p class="is-size-6">Realiza el seguimiento y gestiona tus documentos de firma electrónica</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
