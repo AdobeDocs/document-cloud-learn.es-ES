@@ -151,7 +151,7 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Trabaja en cualquier parte con Acrobat web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Trabaja en cualquier parte con Acrobat web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443533?captions=spa&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Trabaja en cualquier parte con Acrobat web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,7 +174,7 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Productividad sobre la marcha" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Productividad sobre la marcha"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347145?captions=spa&quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Productividad sobre la marcha"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
