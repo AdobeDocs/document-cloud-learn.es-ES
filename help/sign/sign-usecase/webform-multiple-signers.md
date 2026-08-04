@@ -28,11 +28,11 @@ Descubre cómo se usa un [formulario web](../sign-advanced-users/webform.md) par
 
 [!BADGE Casos prácticos]
 
-* [Aplicación de pasantías para formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Aplicación de pasantías para formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=es)
 Descubre cómo se utilizan los formularios web para mejorar el acceso de los estudiantes a los formularios necesarios
-* [Crear una aplicación de prácticas de formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Crear una aplicación de prácticas de formularios web educativos](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=es)
 Aprende a crear un formulario web de prácticas
-* [Subvenciones y préstamos empresariales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Asistencia para el reempleo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Subvenciones y préstamos empresariales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=es)
+* [Asistencia para el reempleo](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=es)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
