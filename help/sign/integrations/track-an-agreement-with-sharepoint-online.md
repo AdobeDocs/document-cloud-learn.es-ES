@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprenda a realizar un seguimiento del progreso de un acuerdo directamente en Microsoft SharePoint. Después de enviar un documento para firmar, puedes realizar un seguimiento de su estado sin salir de SharePoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409583?captions=spa&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
