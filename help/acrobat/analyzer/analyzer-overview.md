@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 7e88f11d4e543c26bcb4039810f5f0c3b7888778
+source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 2%
@@ -56,7 +56,7 @@ Aprende a crear [colecciones](collections.md) manuales y vinculadas, a aplicar a
   </td>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="Auditoría del contrato de integración posterior de fusiones y adquisiciones" src="../assets/analyzer.png" />
+      <img alt="Auditoría del contrato de integración posterior de fusiones y adquisiciones" src="../assets/m-and-a.jpg" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>Auditoría del contrato de integración posterior de fusiones y adquisiciones</strong></a>
