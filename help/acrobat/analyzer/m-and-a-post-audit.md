@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Descubre la forma en la que Analyser en Acrobat Studio puede ayudar a las empresas a realizar una auditoría del contrato de posintegración de fusiones y adquisiciones en cuestión de minutos en lugar de semanas, mediante el uso de GenAI para extraer información crítica y ayudar a encontrar los contratos que conllevan el riesgo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496357?captions=spa&quality=12&learn=on&hidetitle=true)
