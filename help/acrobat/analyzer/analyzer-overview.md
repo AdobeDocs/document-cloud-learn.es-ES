@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Aprende a crear [colecciones](collections.md) manuales y vinculadas, a aplicar a
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="Trabajar con atributos" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>Trabajar con atributos</strong></a>
+    </div>
+    Aprenda a crear, probar y perfeccionar atributos con Analyzer en Acrobat Studio
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="Auditoría del contrato de integración posterior de fusiones y adquisiciones" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Aprende a crear [colecciones](collections.md) manuales y vinculadas, a aplicar a
     </div>
     Descubre cómo Analyser puede ayudar a las empresas a realizar una auditoría del contrato de posintegración de fusiones y adquisiciones en cuestión de minutos en lugar de semanas
     <br>
-  </td>
-  <td>
-      <img alt="Separador" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
