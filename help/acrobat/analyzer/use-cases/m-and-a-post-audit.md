@@ -1,13 +1,13 @@
 ---
 title: Auditoría de contratos de postintegración de fusiones y adquisiciones
-description: Descubre cómo Analyser puede ayudar a las empresas a realizar una auditoría del contrato de posintegración de fusiones y adquisiciones en cuestión de minutos en lugar de semanas
+description: Descubre cómo Analyser en Acrobat Studio puede ayudar a las empresas a realizar una auditoría del contrato de posintegración de fusiones y adquisiciones en cuestión de minutos en lugar de semanas
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

@@ -2,9 +2,9 @@
 user-guide-title: Tutorials de Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [Introducción](analyzer/get-started.md)
   + [Usar colecciones](analyzer/collections.md)
   + [Trabajar con atributos](analyzer/attributes.md)
-  + [Auditoría del contrato de integración posterior de fusiones y adquisiciones](analyzer/m-and-a-post-audit.md)
+  + Casos prácticos {#use-cases}
+    + [Información general](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [Auditoría del contrato de integración posterior de fusiones y adquisiciones](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Aceleración de la revisión de ingresos y auditorías en el sector financiero](analyzer/use-cases/accelerate-revenue.md)
+    + [Convertir el riesgo de privacidad de los datos en visibilidad y supervisión completas](analyzer/use-cases/data-privacy-risk.md)
   + [Seminarios web](https://experienceleague.adobe.com/en/docs/events/acrobat-analyser-webinars/overview){target=_blank}
 + Casos prácticos {#use-cases}
   + [Información general](use-cases/use-cases-overview.md)
