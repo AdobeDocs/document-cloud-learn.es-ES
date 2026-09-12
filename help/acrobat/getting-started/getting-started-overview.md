@@ -17,10 +17,10 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
+source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
 workflow-type: tm+mt
-source-wordcount: 2909
-ht-degree: 1%
+source-wordcount: 2884
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,10 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
 
 >[!BEGINTABS]
 
+>[!TAB Qué es Acrobat Studio?]
+
+Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con [Acrobat Studio](acrobat-studio.md).
+
 >[!TAB Papel para el PDF]
 
 Aprende a convertir [documentos impresos](scan-and-ocr.md) en archivos de PDF editables y en los que se pueden realizar búsquedas
@@ -39,10 +43,6 @@ Aprende a convertir [documentos impresos](scan-and-ocr.md) en archivos de PDF ed
 >[!TAB Aumenta la eficacia del equipo con Espacios PDF]
 
 Convierte colecciones de archivos y sitios web en [centros de conocimientos conversacionales que se pueden compartir](pdf-spaces-legal.md) con asistentes de inteligencia artificial personalizados.
-
->[!TAB Qué es Acrobat Studio?]
-
-Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con [Acrobat Studio](acrobat-studio.md).
 
 >[!TAB Descubre información de PDF con el Asistente de IA]
 

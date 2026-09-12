@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
+source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
 workflow-type: tm+mt
-source-wordcount: 467
+source-wordcount: 799
 ht-degree: 0%
 
 ---
@@ -31,17 +31,17 @@ Descubre cómo la IA puede transformar tus flujos de trabajo de PDF. Descubre la
 
 >[!BEGINTABS]
 
->[!TAB Aumenta la eficacia del equipo con Espacios PDF]
-
-Convierte colecciones de archivos y sitios web en [centros de conocimientos conversacionales que se pueden compartir](../getting-started/pdf-spaces-legal.md) con asistentes de inteligencia artificial personalizados.
-
 >[!TAB Qué es Acrobat Studio?]
 
 Aprende a crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con [Acrobat Studio](../getting-started/acrobat-studio.md).
 
->[!TAB Descubre información de PDF con el Asistente de IA]
+>[!TAB Analizador en Acrobat Studio]
 
-Aprende a [descubrir información del PDF](../getting-started/ai-assistant.md) en tu PDF.
+Descubre cómo [Analyzer en Acrobat Studio](../analyzer/analyzer-overview.md) ayuda a los usuarios empresariales a extraer información estructurada y auditable de decenas de miles de documentos no estructurados para automatizar los procesos empresariales centrados en los documentos.
+
+>[!TAB Aumenta la eficacia del equipo con Espacios PDF]
+
+Convierte colecciones de archivos y sitios web en [centros de conocimientos conversacionales que se pueden compartir](../getting-started/pdf-spaces-legal.md) con asistentes de inteligencia artificial personalizados.
 
 >[!ENDTABS]
 
@@ -49,6 +49,52 @@ Aprende a [descubrir información del PDF](../getting-started/ai-assistant.md) e
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="¿Qué es Acrobat Studio?" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="¿Qué es Acrobat Studio?"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" title="¿Qué es Acrobat Studio?">Qué es Acrobat Studio?</a>
+                    </p>
+                    <p class="is-size-6">Descubre cómo crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con Acrobat Studio</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver tutorial</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyzer in Acrobat Studio">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyser/analyser-overview" title="Analizador en Acrobat Studio" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/media_1659aa44f13bf62372a46a6a0eb7bc5839cfa59f0.webp?width=2000&format=webply&optimize=medium" alt="Analizador en Acrobat Studio"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyser/analyser-overview" target="_self" rel="referrer" title="Analizador en Acrobat Studio">Analizador en Acrobat Studio</a>
+                    </p>
+                    <p class="is-size-6">Descubre cómo Analyser en Acrobat Studio ayuda a los usuarios empresariales a extraer información estructurada y auditable de decenas de miles de documentos sin estructurar</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyser/analyser-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorar</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with AI Assistant">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -90,29 +136,6 @@ Aprende a [descubrir información del PDF](../getting-started/ai-assistant.md) e
                     <p class="is-size-6">Aprende a convertir colecciones de archivos y sitios web en centros de conocimiento conversacional que se puedan compartir</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver tutorial</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" title="¿Qué es Acrobat Studio?" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="¿Qué es Acrobat Studio?"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" title="¿Qué es Acrobat Studio?">Qué es Acrobat Studio?</a>
-                    </p>
-                    <p class="is-size-6">Descubre cómo crear contenido seguro para la marca, extraer información y agilizar trabajos complejos con Acrobat Studio</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver tutorial</span>
                 </a>
             </div>

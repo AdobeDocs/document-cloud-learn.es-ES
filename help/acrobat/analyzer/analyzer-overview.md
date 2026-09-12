@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
+source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,6 +31,10 @@ Aprende a crear [colecciones](collections.md) manuales y vinculadas, a aplicar a
 >[!TAB Trabajar con atributos]
 
 Aprenda a crear, probar y perfeccionar [atributos](attributes.md) con Analyzer en Acrobat Studio.
+
+>[!TAB Explora las funciones avanzadas]
+
+Aprende a [exportar datos extraídos, compartir una colección, comparar dos documentos y usar el Asistente de IA](advanced.md) para preguntas rápidas y ad hoc
 
 >[!ENDTABS]
 
@@ -69,6 +73,18 @@ Aprenda a crear, probar y perfeccionar [atributos](attributes.md) con Analyzer e
     <br>
   </td>
   <td>
+    <a href="advanced.md">
+      <img alt="Explora las funciones avanzadas" src="../assets/analyzer_advanced.png" />
+    </a>
+    <div>
+    <a href="advanced.md"><strong>Explora las funciones avanzadas</strong></a>
+    </div>
+    Aprenda a exportar datos extraídos, compartir una colección, comparar dos documentos y utilizar el Asistente de IA para preguntas rápidas y ad hoc
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="use-cases/use-case-overview.md">
       <img alt="Analizador en casos prácticos de Acrobat Studio" src="../assets/analyzer_usecases.png" />
     </a>
@@ -76,6 +92,21 @@ Aprenda a crear, probar y perfeccionar [atributos](attributes.md) con Analyzer e
     <a href="use-cases/use-case-overview.md"><strong>Casos prácticos de Analyser en Acrobat Studio</strong></a>
     </div>
     Explora casos prácticos del mundo real que muestran cómo las organizaciones pueden agilizar los procesos de revisión, descubrir información y convertir el contenido de los documentos en datos listos para su uso empresarial
+    <br>
+  </td>
+    <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
