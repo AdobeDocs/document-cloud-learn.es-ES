@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Descubre cómo Analyser en Acrobat Studio te ayuda a extraer datos estructurados y citados de grandes volúmenes de documentos. En lugar de leer cientos o miles de contratos, acuerdos con proveedores o documentos de cumplimiento de uno en uno.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503110?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503114?captions=spa&quality=12&learn=on&hidetitle=true)
