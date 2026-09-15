@@ -15,4 +15,4 @@ ht-degree: 0%
 
 El margen del proyecto no se pierde en el nivel de contrato principal. Se ha perdido un subcontrato a la vez, en órdenes de cambio que crecieron antes de que nadie fijara el precio de la recuperación, en RFI que envejecieron tranquilamente en reclamaciones de demora, y en protecciones contractuales que nunca llegaron a ser el papel del subcontrato. Para cuando aparece en un informe, el dinero ya se ha ido. Aprende a identificar los riesgos ocultos de erosión de márgenes en los acuerdos de subcontrato descubriendo pedidos de cambio incumplidos, solicitudes de información obsoletas y brechas de contratos antes de que afecten a la rentabilidad del proyecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503510?captions=spa&quality=12&learn=on&hidetitle=true)
