@@ -2,9 +2,9 @@
 user-guide-title: Tutorials de Acrobat
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: a8314b28169e684e8da204aa548b84b67e53c820
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '748'
 ht-degree: 6%
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 6%
     + [¿Qué es Acrobat Studio?](getting-started/acrobat-studio.md)
     + [Conceptos básicos del área de trabajo](getting-started/workspace-basics.md)
     + [Nueva experiencia de Acrobat](getting-started/new-experience.md)
-    + [Trabajar con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=es#microsoft)
+    + [Trabajar con  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Trabaja en cualquier parte con Acrobat web](getting-started/acrobatweb.md)
     + [Productividad sobre la marcha](getting-started/productivity.md)
     + [¿De dónde vienen los PDF?](getting-started/where-do-pdfs-come-from.md)
   + Trabaja de forma más inteligente con la IA {#ai}
     + [Descubre información de PDF con AI Assistant](getting-started/ai-assistant.md)
     + [Aumenta la eficacia del equipo con Espacios PDF](getting-started/pdf-spaces-legal.md)
+    + [Crear un podcast](getting-started/podcast.md)
   + Crear y organizar {#create}
     + [Crear un PDF](getting-started/create-pdf.md)
     + [Combinar archivos para crear un único PDF](getting-started/combine-to-pdf.md)
@@ -77,11 +78,11 @@ ht-degree: 6%
     + [Comandos y herramientas personalizados](advanced-tasks/custom.md)
 + Con tecnología de IA {#ai-powered}
   + [Información general](ai-powered/ai-overview.md)
-  + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
-  + [Descubre información de PDF con AI Assistant](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Edición de gráficos en un PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [Estilizar este PDF](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [¿Qué es Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
+  + [Descubre información de PDF con AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [Aumenta la eficacia del equipo con Espacios PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Edición de gráficos en un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [Estilizar este PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analizador en Acrobat Studio {#analyzer}
   + [Información general](analyzer/analyzer-overview.md)
   + [Introducción](analyzer/get-started.md)
@@ -174,5 +175,5 @@ ht-degree: 6%
   + [Importantes actualizaciones de productos de Acrobat DC para clientes ETLA](deploy/signentitlementchanges.md)
 + Móvil {#mobile}
   + [Información general](mobile/mobile-overview.md)
-  + [Productividad sobre la marcha](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [Productividad sobre la marcha](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [Digitalizar cualquier cosa al PDF](mobile/scan-mobile-app.md)
