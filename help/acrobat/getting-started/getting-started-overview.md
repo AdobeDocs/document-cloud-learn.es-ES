@@ -10,20 +10,23 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
+    internal-label: Insights
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: 2884
+source-wordcount: '2995'
 ht-degree: 0%
-
 ---
-
 # Introducción a Introducción
 
 Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crear un documento hasta proteger o [editar tus archivos de PDF](https://www.adobe.com/es/acrobat/online/pdf-editor.html){target="_blank"}, este contenido está diseñado para facilitarte los flujos de trabajo de PDF. Echa un vistazo a esta [lista de reproducción](https://experienceleague.adobe.com/es/playlists/acrobat-get-started-business-users) revisada por expertos para empezar a usar Acrobat.
@@ -31,6 +34,10 @@ Aprende a usar Adobe Acrobat con estos breves tutoriales paso a paso. Desde crea
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Crear un podcast]
+
+Aprende a crear [podcasts](podcast.md) generados por IA a partir de tus documentos y materiales de investigación en tu PDF.
 
 >[!TAB Qué es Acrobat Studio?]
 
@@ -43,10 +50,6 @@ Aprende a convertir [documentos impresos](scan-and-ocr.md) en archivos de PDF ed
 >[!TAB Aumenta la eficacia del equipo con Espacios PDF]
 
 Convierte colecciones de archivos y sitios web en [centros de conocimientos conversacionales que se pueden compartir](pdf-spaces-legal.md) con asistentes de inteligencia artificial personalizados.
-
->[!TAB Descubre información de PDF con el Asistente de IA]
-
-Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
 
 >[!ENDTABS]
 
@@ -240,6 +243,29 @@ Aprende a [descubrir información del PDF](ai-assistant.md) en tu PDF.
                     <p class="is-size-6">Aprende a convertir colecciones de archivos y sitios web en centros de conocimiento conversacional que se puedan compartir</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Crear un podcast" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Crear un podcast"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="Aumenta la eficacia del equipo con Espacios PDF">Crear un podcast</a>
+                    </p>
+                    <p class="is-size-6">Aprende a crear podcasts generados por IA a partir de tus documentos y materiales de investigación</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
                 </a>
             </div>
