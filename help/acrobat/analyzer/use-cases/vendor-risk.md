@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Descubre cómo Analyser en Acrobat Studio puede identificar de forma proactiva los riesgos para la seguridad de la información derivados de los contratos de los proveedores.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503856?captions=spa&quality=12&learn=on&hidetitle=true)

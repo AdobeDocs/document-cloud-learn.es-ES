@@ -16,4 +16,4 @@ ht-degree: 0%
 Identificar los problemas contractuales que pueden reducir la rentabilidad del proyecto. Descubre cómo los equipos de construcción y proyectos pueden encontrar pedidos de cambio incumplidos, RFI antiguos y brechas en las protecciones de subcontratos antes de que afecten a los márgenes con Analyser en Acrobat Studio.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503510?captions=spa&quality=12&learn=on&hidetitle=true)

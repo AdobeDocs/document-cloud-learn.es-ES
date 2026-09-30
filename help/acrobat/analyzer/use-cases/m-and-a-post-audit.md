@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Encuentra los riesgos del contrato después de una fusión o adquisición. Descubre cómo los equipos de M&amp;A pueden analizar grandes conjuntos de contratos para identificar obligaciones clave, términos y riesgos potenciales en cuestión de minutos en lugar de semanas con Analyser en Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496357?captions=spa&quality=12&learn=on&hidetitle=true)
