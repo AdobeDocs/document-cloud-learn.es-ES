@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Aprende a usar Analyser en Acrobat Studio para convertir documentos complejos en información clara. Estos breves tutoriales te ayudan a empezar, explorar las funciones avanzadas y ver casos prácticos del mundo real.
 
-[!BADGE Informativo]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE Informativo]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
 
 ## Novedades
 
