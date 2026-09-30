@@ -1,20 +1,18 @@
 ---
-title: Auditoría de contratos de postintegración de fusiones y adquisiciones
-description: Descubre cómo Analyser en Acrobat Studio puede ayudar a las empresas a realizar una auditoría del contrato de posintegración de fusiones y adquisiciones en cuestión de minutos en lugar de semanas
+title: 'F&A: auditar contratos después de una adquisición'
+description: Descubre cómo los equipos de fusiones y adquisiciones pueden analizar grandes conjuntos de contratos para identificar obligaciones clave, términos y riesgos potenciales en cuestión de minutos en lugar de semanas
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
-
 ---
 
+# M&amp;A: Auditar contratos después de una adquisición
 
-# Auditoría del contrato de integración posterior de fusiones y adquisiciones
+Encuentra los riesgos del contrato después de una fusión o adquisición. Descubre cómo los equipos de M&amp;A pueden analizar grandes conjuntos de contratos para identificar obligaciones clave, términos y riesgos potenciales en cuestión de minutos en lugar de semanas con Analyser en Acrobat Studio.
 
-Descubre la forma en la que Analyser en Acrobat Studio puede ayudar a las empresas a realizar una auditoría del contrato de posintegración de fusiones y adquisiciones en cuestión de minutos en lugar de semanas, mediante el uso de GenAI para extraer información crítica y ayudar a encontrar los contratos que conllevan el riesgo.
-
->[!VIDEO](https://video.tv.adobe.com/v/3496357?captions=spa&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)

@@ -1,18 +1,19 @@
 ---
-title: Gestión de subcontratos para la identificación de la detección de origen de margen de erosión
-description: Aprenda a detectar los signos de alerta temprana de pérdida de margen en los acuerdos con subcontratistas y a tomar medidas antes de que aumenten los costes
+title: Construcción - Buscar Riesgos de Margen en Subcontratos
+description: Descubre cómo los equipos de construcción y proyectos pueden encontrar pedidos de cambio incumplidos, RFI antiguos y brechas en las protecciones de subcontratos antes de que afecten a los márgenes
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22619
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '69'
 ht-degree: 0%
 ---
 
-# Gestión de subcontratos para la identificación de la detección de fuentes de margen erosionador
+# Construcción: Buscar riesgos de margen en subcontratos
 
-El margen del proyecto no se pierde en el nivel de contrato principal. Se ha perdido un subcontrato a la vez, en órdenes de cambio que crecieron antes de que nadie fijara el precio de la recuperación, en RFI que envejecieron tranquilamente en reclamaciones de demora, y en protecciones contractuales que nunca llegaron a ser el papel del subcontrato. Para cuando aparece en un informe, el dinero ya se ha ido. Aprende a identificar los riesgos ocultos de erosión de márgenes en los acuerdos de subcontrato descubriendo pedidos de cambio incumplidos, solicitudes de información obsoletas y brechas de contratos antes de que afecten a la rentabilidad del proyecto.
+Identificar los problemas contractuales que pueden reducir la rentabilidad del proyecto. Descubre cómo los equipos de construcción y proyectos pueden encontrar pedidos de cambio incumplidos, RFI antiguos y brechas en las protecciones de subcontratos antes de que afecten a los márgenes con Analyser en Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503510?captions=spa&quality=12&learn=on&hidetitle=true)
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
