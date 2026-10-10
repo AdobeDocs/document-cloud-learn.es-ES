@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Obtenga más información sobre los eventos compartidos y la configuración de alertas que puede configurar en Acrobat Sign. Las alertas son acciones que no tuvieron lugar en un determinado marco de tiempo, y los Eventos son acciones que se han producido.
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411205?captions=spa&quality=12&learn=on&hidetitle=true)
