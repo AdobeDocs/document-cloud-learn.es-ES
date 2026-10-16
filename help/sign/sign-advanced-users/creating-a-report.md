@@ -20,4 +20,4 @@ Aprenda a generar informes y a realizar un seguimiento del uso de las transaccio
 >
 >Los informes solo están disponibles para los planes de nivel Business y Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444685?captions=spa&quality=12&learn=on&hidetitle=true)

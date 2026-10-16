@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Aprenda a crear una plantilla de documento reutilizable con Document Builder para Salesforce. Las plantillas de documento reutilizables proporcionan velocidad y coherencia en las transacciones de firma, así como la capacidad de administrar los cambios y las revisiones de los documentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3414444?captions=spa&quality=12&learn=on&hidetitle=true)

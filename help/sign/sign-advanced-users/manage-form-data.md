@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Aprenda a consolidar datos de formulario de sus documentos para poder verlos y administrarlos en un informe o en una hoja de cálculo de Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443521?captions=spa&quality=12&learn=on&hidetitle=true)
