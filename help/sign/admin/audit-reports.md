@@ -10,11 +10,9 @@ source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Informes de auditoría
 
 Aprende a acceder, utilizar y configurar informes de auditoría para adaptarlos a las necesidades de tu organización. Cada documento de Acrobat Sign pasa por una serie de &quot;hitos&quot; de eventos que definen el progreso de una transacción. Estos hitos se documentan detalladamente en un informe de auditoría para cada transacción.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448548?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)

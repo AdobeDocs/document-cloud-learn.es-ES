@@ -13,9 +13,7 @@ source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 16%
-
 ---
-
 # Crear un botón personalizado en Acrobat Sign para [!DNL Salesforce]
 
 Obtenga más información sobre cómo crear un botón personalizado en un objeto estándar en Salesforce.com. En este ejemplo, se agrega un botón personalizado a **Contact** en [!DNL Salesforce]. Al hacer clic en el botón, se inicia el proceso de envío y se rellena la información de **Contact** directamente en el acuerdo.
