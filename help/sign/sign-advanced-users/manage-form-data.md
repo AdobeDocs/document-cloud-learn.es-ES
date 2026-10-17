@@ -10,11 +10,9 @@ source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
-
 ---
-
 # Administrar datos de formulario
 
 Aprenda a consolidar datos de formulario de sus documentos para poder verlos y administrarlos en un informe o en una hoja de cálculo de Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443521?quality=12&learn=on&hidetitle=true&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3443521?captions=spa&quality=12&learn=on&hidetitle=true)
