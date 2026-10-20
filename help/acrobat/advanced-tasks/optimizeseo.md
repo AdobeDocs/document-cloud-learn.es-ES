@@ -43,7 +43,7 @@ El contenido del PDF debe ser único y estar estructurado de la siguiente manera
 * Agregar una tabla de contenido con hipervínculos para documentos de más de 25 páginas
 * Ejecutar [reconocimiento de texto](https://experienceleague.adobe.com/es/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) en todos los documentos digitalizados
 * Crea PDF compatibles con dispositivos móviles
-Para comprobar la experiencia de visualización móvil de tu PDF, abre el archivo en la [aplicación móvil de Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) y activa el Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
+Para comprobar la experiencia de visualización móvil de tu PDF, abre el archivo en la [aplicación móvil de Acrobat Reader](https://www.adobe.com/es/acrobat/mobile/acrobat-reader.html) y activa el Liquid Mode. Incluya subtítulos adicionales si es necesario para mejorar la navegación.
 
   ![Captura de pantalla del Liquid Mode en la aplicación móvil de Acrobat Reader](../assets/optimizeseo1.png)
 

@@ -31,7 +31,7 @@ Integra Acrobat con las aplicaciones [!DNL Box], [!DNL Dropbox], [!DNL Google Dr
 
 ## Microsoft
 
-Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con archivos de PDF desde [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html). Echa un vistazo a esta [lista de reproducción](https://experienceleague.adobe.com/es/playlists/acrobat-integrate-microsoft-365) revisada por expertos en integraciones de Acrobat y Microsoft 365.
+Descubre cómo todos los miembros de tu equipo pueden trabajar sin problemas con archivos de PDF desde [Microsoft 365](https://www.adobe.com/es/documentcloud/integrations/microsoft-office-365.html). Echa un vistazo a esta [lista de reproducción](https://experienceleague.adobe.com/es/playlists/acrobat-integrate-microsoft-365) revisada por expertos en integraciones de Acrobat y Microsoft 365.
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -266,4 +266,4 @@ Obtenga información sobre lo fácil que es tener acceso a los archivos almacena
 
 ## Box
 
-Descubre cómo Acrobat y [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} hacen que sea más sencillo para todos los miembros de tu organización mantener el negocio en marcha.
+Descubre cómo Acrobat y [Box](https://www.adobe.com/es/documentcloud/integrations/box.html){target="_blank"} hacen que sea más sencillo para todos los miembros de tu organización mantener el negocio en marcha.
