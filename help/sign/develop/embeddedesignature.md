@@ -41,7 +41,7 @@ En la parte 1, aprenda a empezar con todo lo que necesita para las partes 2-4. V
 
 +++Ver detalles sobre cómo obtener credenciales de API
 
-* [Cuenta de desarrollador de Acrobat Sign](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Cuenta de desarrollador de Acrobat Sign](https://www.adobe.com/es/acrobat/business/developer-form.html)
 * [Código de inicio](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS Code (o editor de su elección)](https://code.visualstudio.com)
 * Python 3.x
