@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Aprende a recopilar de forma eficaz las firmas de todos tus empleados en acuerdos de teletrabajo, actualizaciones de políticas y mucho más. En primer lugar, cree una plantilla de documento reutilizable a la que se pueda acceder rápidamente desde la biblioteca de documentos. En segundo lugar, envíe la nueva plantilla de documento para que la firmen cientos de empleados a la vez mediante Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506374?captions=spa&quality=12&learn=on&hidetitle=true)
 
 Selecciona descargar o abrir una receta de PDF paso a paso para los acuerdos de teletrabajo.
 
