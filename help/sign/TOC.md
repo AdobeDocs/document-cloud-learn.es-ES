@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
+source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '706'
 ht-degree: 13%
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 13%
     + [Crear una plantilla reutilizable](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=es)
     + [Guía de selecciones necesarias con grupos de casillas](sign-beginner-tutorials/checkbox-groups.md)
     + [Cuándo utilizar Crear una copia](sign-beginner-tutorials/create-a-copy.md)
+    + [Editar documentos y plantillas antes de enviar](sign-beginner-tutorials/edit.md)
   + Firmar {#getting-started-signing}
     + [Firmar electrónicamente un documento](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Rellenar y firmar un documento](sign-beginner-tutorials/fill-and-sign.md)

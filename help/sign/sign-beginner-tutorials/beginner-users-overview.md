@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Introducción a la introducción
@@ -37,6 +37,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 
 >[!BEGINTABS]
 
+>[!TAB Editar documentos y plantillas antes de enviar]
+
+Aprende a [editar texto, imágenes y plantillas antes de enviar](edit.md) directamente en Acrobat Sign.
+
 >[!TAB Cuándo usar Crear una copia]
 
 Aprende a usar [Crear una copia](../sign-beginner-tutorials/create-a-copy.md) para duplicar cualquier acuerdo existente. Puedes ajustar lo que necesita cambiar y reenviarlo en cuestión de segundos. Sin reconstrucción desde cero.
@@ -44,14 +48,6 @@ Aprende a usar [Crear una copia](../sign-beginner-tutorials/create-a-copy.md) pa
 >[!TAB Modificar un documento después de enviarlo]
 
 Aprende a [modificar un documento](../sign-beginner-tutorials/manage-and-track.md) que ya se ha enviado para firmar.
-
->[!TAB Administrar y hacer un seguimiento de los acuerdos]
-
-Obtenga información sobre cómo [administrar acuerdos](../sign-beginner-tutorials/manage-and-track.md) enviados para firmar y realizar su seguimiento.
-
->[!TAB Firmar electrónicamente un documento]
-
-Descubre lo fácil que es [firmar](../sign-beginner-tutorials/electronically-sign-a-document.md) un documento que te han enviado con Acrobat Sign.
 
 >[!ENDTABS]
 
@@ -183,6 +179,33 @@ Descubre lo fácil que es [firmar](../sign-beginner-tutorials/electronically-sig
     Aprenda a utilizar Crear una copia para duplicar cualquier acuerdo existente
     <br>
     </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="edit.md">
+      <img alt="Editar documentos y plantillas antes de enviar" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>Editar documentos y plantillas antes de enviar</strong></a>
+    </div>
+    Aprende a editar texto, imágenes y plantillas antes de enviarlas
+    <br>
+    </td>
+     <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
