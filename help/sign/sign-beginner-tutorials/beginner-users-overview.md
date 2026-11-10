@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Introducción a la introducción
@@ -48,10 +48,6 @@ Aprende a usar [Crear una copia](../sign-beginner-tutorials/create-a-copy.md) pa
 >[!TAB Modificar un documento después de enviarlo]
 
 Aprende a [modificar un documento](../sign-beginner-tutorials/manage-and-track.md) que ya se ha enviado para firmar.
-
->[!TAB Administrar y hacer un seguimiento de los acuerdos]
-
-Obtenga información sobre cómo [administrar acuerdos](../sign-beginner-tutorials/manage-and-track.md) enviados para firmar y realizar su seguimiento.
 
 >[!ENDTABS]
 
@@ -183,6 +179,8 @@ Obtenga información sobre cómo [administrar acuerdos](../sign-beginner-tutoria
     Aprenda a utilizar Crear una copia para duplicar cualquier acuerdo existente
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="Editar documentos y plantillas antes de enviar" src="../assets/edit.png" />
