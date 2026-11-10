@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 # Editar documentos y plantillas antes de enviar
 
-Los cambios de última hora forman parte de todos los flujos de trabajo. En este tutorial, aprenderá a actualizar el contenido del documento, reemplazar imágenes y realizar correcciones de plantilla directamente en Acrobat Sign. Todas las limitaciones y detalles de las características están disponibles [aquí](https://helpx.adobe.com/sign/web/authoring/edit-agreement/new.html).
+Los cambios de última hora forman parte de todos los flujos de trabajo. En este tutorial, aprenderá a actualizar el contenido del documento, reemplazar imágenes y realizar correcciones de plantilla directamente en Acrobat Sign. Todas las limitaciones y detalles de las características están disponibles [aquí](https://helpx.adobe.com/es/sign/web/authoring/edit-agreement/new.html).
 
 >[!NOTE]
 >
->El administrador debe habilitar la edición de documentos. Encontrará más información [aquí](https://helpx.adobe.com/sign/web/settings-configuration/send-settings/edit-agreement.html).
+>El administrador debe habilitar la edición de documentos. Encontrará más información [aquí](https://helpx.adobe.com/es/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
