@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '607'
 ht-degree: 22%
 ---
 # Introducción a la introducción
@@ -36,6 +36,10 @@ Obtén información actualizada sobre cómo enviar y firmar documentos, así com
 ## Novedades
 
 >[!BEGINTABS]
+
+>[!TAB Editar documentos y plantillas antes de enviar]
+
+Aprende a [editar texto, imágenes y plantillas antes de enviar](edit.md) directamente en Acrobat Sign.
 
 >[!TAB Cuándo usar Crear una copia]
 
@@ -48,10 +52,6 @@ Aprende a [modificar un documento](../sign-beginner-tutorials/manage-and-track.m
 >[!TAB Administrar y hacer un seguimiento de los acuerdos]
 
 Obtenga información sobre cómo [administrar acuerdos](../sign-beginner-tutorials/manage-and-track.md) enviados para firmar y realizar su seguimiento.
-
->[!TAB Firmar electrónicamente un documento]
-
-Descubre lo fácil que es [firmar](../sign-beginner-tutorials/electronically-sign-a-document.md) un documento que te han enviado con Acrobat Sign.
 
 >[!ENDTABS]
 
@@ -183,6 +183,31 @@ Descubre lo fácil que es [firmar](../sign-beginner-tutorials/electronically-sig
     Aprenda a utilizar Crear una copia para duplicar cualquier acuerdo existente
     <br>
     </td>
+    <td>
+     <a href="edit.md">
+      <img alt="Editar documentos y plantillas antes de enviar" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>Editar documentos y plantillas antes de enviar</strong></a>
+    </div>
+    Aprende a editar texto, imágenes y plantillas antes de enviarlas
+    <br>
+    </td>
+     <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Separador" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
