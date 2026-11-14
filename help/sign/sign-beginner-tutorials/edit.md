@@ -17,4 +17,4 @@ Los cambios de última hora forman parte de todos los flujos de trabajo. En este
 >
 >El administrador debe habilitar la edición de documentos. Encontrará más información [aquí](https://helpx.adobe.com/es/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508110?captions=spa&quality=12&learn=on&hidetitle=true)
